@@ -2,7 +2,7 @@
 <abadia xml:lang="ca" xmlns="https://abadiamontserrat.cat/abadia">
 	<nom>Ap</nom>
 	<clau>
-		<name>Introducció</name>
+		<nom>Introducció</nom>
 		<clau>
 			<clau><h1>Apocalipsi</h1></clau>
 			<valor><h2><i>Introducció</i></h2></valor>
@@ -292,7 +292,7 @@
 			</abadia>
 		</valor>
 		<abadia>
-			<name>1</name>
+			<nom>1</nom>
 			<clau>
 				<clau><h1>Apocalipsi</h1></clau>
 				<valor><h2><i>Pròleg (1,1-8)</i></h2></valor>
@@ -1085,7 +1085,7 @@
 				</abadia>
 			</valor>
 			<abadia>
-				<name>2</name>
+				<nom>2</nom>
 				<clau>
 					<clau><h3>Carta a l'església d'Efes</h3></clau>
 					<valor><big>2</big></valor>
@@ -1907,7 +1907,7 @@
 					</abadia>
 				</valor>
 				<abadia>
-					<name>3</name>
+					<nom>3</nom>
 					<clau>
 						<clau><h3>Carta a l'església de Sardes</h3></clau>
 						<valor><big>3</big></valor>
@@ -2591,7 +2591,7 @@
 						</abadia>
 					</valor>
 					<abadia>
-						<name>4</name>
+						<nom>4</nom>
 						<clau>
 							<clau><h2><i>Els set segells (4,1-8,1)</i></h2></clau>
 							<valor></valor>
@@ -3001,7 +3001,7 @@
 							</abadia>
 						</valor>
 						<abadia>
-							<name>5</name>
+							<nom>5</nom>
 							<clau>
 								<clau></clau>
 								<valor><big>5</big></valor>
@@ -3423,7 +3423,7 @@
 								</abadia>
 							</valor>
 							<abadia>
-								<name>6</name>
+								<nom>6</nom>
 								<clau>
 									<clau><h3>Els quatre primers segells</h3></clau>
 									<valor><big>6</big></valor>
@@ -3989,7 +3989,7 @@
 									</abadia>
 								</valor>
 								<abadia>
-									<name>7</name>
+									<nom>7</nom>
 									<clau>
 										<clau><h3>Una multitud de salvats</h3></clau>
 										<valor><big>7</big></valor>
@@ -4463,7 +4463,7 @@
 										</abadia>
 									</valor>
 									<abadia>
-										<name>8</name>
+										<nom>8</nom>
 										<clau>
 											<clau><h3>El setè segell</h3></clau>
 											<valor><big>8</big></valor>
@@ -4865,7 +4865,7 @@
 											</abadia>
 										</valor>
 										<abadia>
-											<name>9</name>
+											<nom>9</nom>
 											<clau>
 												<clau><h3>La cinquena trompeta</h3></clau>
 												<valor><big>9</big></valor>
@@ -5385,7 +5385,7 @@
 												</abadia>
 											</valor>
 											<abadia>
-												<name>10</name>
+												<nom>10</nom>
 												<clau>
 													<clau><h3>El full profètic</h3></clau>
 													<valor><big>10</big></valor>
@@ -5703,7 +5703,7 @@
 													</abadia>
 												</valor>
 												<abadia>
-													<name>11</name>
+													<nom>11</nom>
 													<clau>
 														<clau><h3>Els dos testimonis</h3></clau>
 														<valor><big>11</big></valor>
@@ -6426,7 +6426,7 @@
 														</abadia>
 													</valor>
 													<abadia>
-														<name>12</name>
+														<nom>12</nom>
 														<clau>
 															<clau><h3>La dona i el drac</h3></clau>
 															<valor><big>12</big></valor>
@@ -7024,7 +7024,7 @@
 															</abadia>
 														</valor>
 														<abadia>
-															<name>13</name>
+															<nom>13</nom>
 															<clau>
 																<clau><h3>Les dues bèsties</h3></clau>
 																<valor><big>13</big></valor>
@@ -7586,7 +7586,7 @@
 																</abadia>
 															</valor>
 															<abadia>
-																<name>14</name>
+																<nom>14</nom>
 																<clau>
 																	<clau><h3>Litúrgia celestial: L'Anyell
 																	i el seu seguici</h3></clau>
@@ -8307,7 +8307,7 @@
 																	</abadia>
 																</valor>
 																<abadia>
-																	<name>15</name>
+																	<nom>15</nom>
 																	<clau>
 																		<clau><h3>Les darreres plagues.
 																		Càntic de triomf</h3></clau>
@@ -8623,7 +8623,7 @@
 																		</abadia>
 																	</valor>
 																	<abadia>
-																		<name>16</name>
+																		<nom>16</nom>
 																		<clau>
 																			<clau><h3>Les set copes</h3></clau>
 																			<valor><big>16</big></valor>
@@ -9267,7 +9267,7 @@
 																			</abadia>
 																		</valor>
 																		<abadia>
-																			<name>17</name>
+																			<nom>17</nom>
 																			<clau>
 																				<clau><h3>La gran prostituta</h3></clau>
 																				<valor><big>17</big></valor>
@@ -9777,7 +9777,7 @@
 																				</abadia>
 																			</valor>
 																			<abadia>
-																				<name>18</name>
+																				<nom>18</nom>
 																				<clau>
 																					<clau><h3>La caiguda de Babilònia</h3></clau>
 																					<valor><big>18</big></valor>
@@ -10455,7 +10455,7 @@
 																					</abadia>
 																				</valor>
 																				<abadia>
-																					<name>19</name>
+																					<nom>19</nom>
 																					<clau>
 																						<clau><h3>Litúrgia celestial: Les noces<br/>
 																						de l'Anyell</h3></clau>
@@ -11325,7 +11325,7 @@
 																						</abadia>
 																					</valor>
 																					<abadia>
-																						<name>20</name>
+																						<nom>20</nom>
 																						<clau>
 																							<clau><h3>El regne de mil anys</h3></clau>
 																							<valor><big>20</big></valor>
@@ -11891,7 +11891,7 @@
 																							</abadia>
 																						</valor>
 																						<abadia>
-																							<name>21</name>
+																							<nom>21</nom>
 																							<clau>
 																								<clau><h3>El cel nou i la terra nova</h3></clau>
 																								<valor><big>21</big></valor>
@@ -12785,7 +12785,7 @@
 																								</abadia>
 																							</valor>
 																							<abadia>
-																								<name>22</name>
+																								<nom>22</nom>
 																								<clau>
 																									<clau></clau>
 																									<valor><big>22</big></valor>
@@ -13508,7 +13508,7 @@
 		</abadia>
 	</clau>
 	<valor>
-		<name>Introducció</name>
+		<nom>Introducció</nom>
 		<clau>
 			<clau><h1>Apocalipsi</h1></clau>
 			<valor><h2><i>Introducció</i></h2></valor>
@@ -13798,7 +13798,7 @@
 			</abadia>
 		</valor>
 		<abadia>
-			<name>1</name>
+			<nom>1</nom>
 			<clau>
 				<clau><h1>Apocalipsi</h1></clau>
 				<valor><h2><i>Pròleg (1,1-8)</i></h2></valor>
@@ -14591,7 +14591,7 @@
 				</abadia>
 			</valor>
 			<abadia>
-				<name>2</name>
+				<nom>2</nom>
 				<clau>
 					<clau><h3>Carta a l'església d'Efes</h3></clau>
 					<valor><big>2</big></valor>
@@ -15413,7 +15413,7 @@
 					</abadia>
 				</valor>
 				<abadia>
-					<name>3</name>
+					<nom>3</nom>
 					<clau>
 						<clau><h3>Carta a l'església de Sardes</h3></clau>
 						<valor><big>3</big></valor>
@@ -16097,7 +16097,7 @@
 						</abadia>
 					</valor>
 					<abadia>
-						<name>4</name>
+						<nom>4</nom>
 						<clau>
 							<clau><h2><i>Els set segells (4,1-8,1)</i></h2></clau>
 							<valor></valor>
@@ -16507,7 +16507,7 @@
 							</abadia>
 						</valor>
 						<abadia>
-							<name>5</name>
+							<nom>5</nom>
 							<clau>
 								<clau></clau>
 								<valor><big>5</big></valor>
@@ -16929,7 +16929,7 @@
 								</abadia>
 							</valor>
 							<abadia>
-								<name>6</name>
+								<nom>6</nom>
 								<clau>
 									<clau><h3>Els quatre primers segells</h3></clau>
 									<valor><big>6</big></valor>
@@ -17495,7 +17495,7 @@
 									</abadia>
 								</valor>
 								<abadia>
-									<name>7</name>
+									<nom>7</nom>
 									<clau>
 										<clau><h3>Una multitud de salvats</h3></clau>
 										<valor><big>7</big></valor>
@@ -17969,7 +17969,7 @@
 										</abadia>
 									</valor>
 									<abadia>
-										<name>8</name>
+										<nom>8</nom>
 										<clau>
 											<clau><h3>El setè segell</h3></clau>
 											<valor><big>8</big></valor>
@@ -18371,7 +18371,7 @@
 											</abadia>
 										</valor>
 										<abadia>
-											<name>9</name>
+											<nom>9</nom>
 											<clau>
 												<clau><h3>La cinquena trompeta</h3></clau>
 												<valor><big>9</big></valor>
@@ -18891,7 +18891,7 @@
 												</abadia>
 											</valor>
 											<abadia>
-												<name>10</name>
+												<nom>10</nom>
 												<clau>
 													<clau><h3>El full profètic</h3></clau>
 													<valor><big>10</big></valor>
@@ -19209,7 +19209,7 @@
 													</abadia>
 												</valor>
 												<abadia>
-													<name>11</name>
+													<nom>11</nom>
 													<clau>
 														<clau><h3>Els dos testimonis</h3></clau>
 														<valor><big>11</big></valor>
@@ -19932,7 +19932,7 @@
 														</abadia>
 													</valor>
 													<abadia>
-														<name>12</name>
+														<nom>12</nom>
 														<clau>
 															<clau><h3>La dona i el drac</h3></clau>
 															<valor><big>12</big></valor>
@@ -20530,7 +20530,7 @@
 															</abadia>
 														</valor>
 														<abadia>
-															<name>13</name>
+															<nom>13</nom>
 															<clau>
 																<clau><h3>Les dues bèsties</h3></clau>
 																<valor><big>13</big></valor>
@@ -21092,7 +21092,7 @@
 																</abadia>
 															</valor>
 															<abadia>
-																<name>14</name>
+																<nom>14</nom>
 																<clau>
 																	<clau><h3>Litúrgia celestial: L'Anyell
 																	i el seu seguici</h3></clau>
@@ -21813,7 +21813,7 @@
 																	</abadia>
 																</valor>
 																<abadia>
-																	<name>15</name>
+																	<nom>15</nom>
 																	<clau>
 																		<clau><h3>Les darreres plagues.
 																		Càntic de triomf</h3></clau>
@@ -22129,7 +22129,7 @@
 																		</abadia>
 																	</valor>
 																	<abadia>
-																		<name>16</name>
+																		<nom>16</nom>
 																		<clau>
 																			<clau><h3>Les set copes</h3></clau>
 																			<valor><big>16</big></valor>
@@ -22773,7 +22773,7 @@
 																			</abadia>
 																		</valor>
 																		<abadia>
-																			<name>17</name>
+																			<nom>17</nom>
 																			<clau>
 																				<clau><h3>La gran prostituta</h3></clau>
 																				<valor><big>17</big></valor>
@@ -23283,7 +23283,7 @@
 																				</abadia>
 																			</valor>
 																			<abadia>
-																				<name>18</name>
+																				<nom>18</nom>
 																				<clau>
 																					<clau><h3>La caiguda de Babilònia</h3></clau>
 																					<valor><big>18</big></valor>
@@ -23961,7 +23961,7 @@
 																					</abadia>
 																				</valor>
 																				<abadia>
-																					<name>19</name>
+																					<nom>19</nom>
 																					<clau>
 																						<clau><h3>Litúrgia celestial: Les noces<br/>
 																						de l'Anyell</h3></clau>
@@ -24831,7 +24831,7 @@
 																						</abadia>
 																					</valor>
 																					<abadia>
-																						<name>20</name>
+																						<nom>20</nom>
 																						<clau>
 																							<clau><h3>El regne de mil anys</h3></clau>
 																							<valor><big>20</big></valor>
@@ -25397,7 +25397,7 @@
 																							</abadia>
 																						</valor>
 																						<abadia>
-																							<name>21</name>
+																							<nom>21</nom>
 																							<clau>
 																								<clau><h3>El cel nou i la terra nova</h3></clau>
 																								<valor><big>21</big></valor>
@@ -26291,7 +26291,7 @@
 																								</abadia>
 																							</valor>
 																							<abadia>
-																								<name>22</name>
+																								<nom>22</nom>
 																								<clau>
 																									<clau></clau>
 																									<valor><big>22</big></valor>
