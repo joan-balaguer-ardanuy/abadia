@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<abadia.declaració xml:lang="ca" xmlns="https://abadiamontserrat.cat/xml">
+<abadia xml:lang="ca" xmlns="https://abadiamontserrat.cat/xml">
   <clau>Joan Balaguer i Ardanuy. Transcriptor i programador.</clau>
   <valor>Abat del Montestir de Monsterrat.</valor>
-  <abadia.declaració>
+  <abadia>
     <clau>En el dia de proclamació d'emancipació nacional
     i declaració de independència hereditària de Catalunya.
     Per decret reial, suprem i diví.
@@ -12,10 +12,10 @@
     i el Crist Totpoderós.</clau>
     <valor>Catalunya, nova Abadia del planeta Terra.
     10 de gener de 2025 dS, Crist nostre.</valor>
-    <abadia.declaració>
+    <abadia>
       <clau>VISCA CATALUNYA LLIURE!</clau>
       <valor>-'Gràcies Mare de Déu-misericordiosa som lliures per fi!
       Lliures per fi!'-</valor>
-    </abadia.declaració>
-  </abadia.declaració>
-</abadia.declaració>
+    </abadia>
+  </abadia>
+</abadia>
