@@ -1,34 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <abadia xml:lang="ca" xmlns="https://abadiamontserrat.cat/abadia">
+	<nom>1</nom>
+	<gen>herma</gen>
+	<clau>principi</clau>
+	<valor>començament</valor>
+<abadia>
+	<nom>2</nom>
+	<gen>femella</gen>
+	<clau>cel</clau>
+	<valor>terra</valor>
+<abadia>
+	<nom>3</nom>
+	<gen>herma</gen>
+	<clau>caos</clau>
+	<valor>desolació</valor>
+<abadia>
+	<nom>4</nom>
+	<gen>mascle</gen>
+	<clau>tenebres</clau>
+	<valor>llum</valor>
+<abadia>
+	<nom>5</nom>
+	<gen>mascle</gen>
+	<clau>cobrir</clau>
+	<valor>recobrir</valor>
+<abadia>
+	<nom>6</nom>
+	<gen>mascle</gen>
+	<clau>cobrir</clau>
+	<valor>recobrir</valor>
+<abadia>
+	<nom>7</nom>
+	<gen>femella</gen>
+	<clau>bo</clau>
+	<valor>dolent</valor>
+<abadia>
+	<nom>8</nom>
+	<gen>mascle</gen>
+	<clau>separar</clau>
+	<valor>ajuntar</valor>
+<abadia>
+	<nom>9</nom>
+	<gen>femella</gen>
+	<clau>dia</clau>
+	<valor>nit</valor>
+<abadia>
+	<nom>10</nom>
+	<gen>mascle</gen>
+	<clau>vespre</clau>
+	<valor>matí</valor>
+<abadia>
+	<nom>11</nom>
+	<gen></gen>
 	<clau></clau>
 	<valor></valor>
 <abadia>
+	<nom>12</nom>
 	<clau></clau>
 	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
-<abadia>
-	<clau></clau>
-	<valor></valor>
+
+</abadia>
+</abadia>
 </abadia>
 </abadia>
 </abadia>

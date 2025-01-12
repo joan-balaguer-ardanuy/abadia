@@ -8,14 +8,19 @@
 	<clau>Eva</clau>
 	<valor>1</valor>
 <abadia>
-	<gen></gen>
-	<clau></clau>
-	<valor></valor>
+	<gen>mascle</gen>
+	<clau>hebreu</clau>
+	<valor>242</valor>
 <abadia>
-	<gen></gen>
-	<clau></clau>
-	<valor></valor>
+	<gen>femella</gen>
+	<clau>grec</clau>
+	<valor>242</valor>
+<abadia>
+	<gen>mascle</gen>
+	<clau>català</clau>
+	<valor>242</valor>
 
+</abadia>
 </abadia>
 </abadia>
 </abadia>
