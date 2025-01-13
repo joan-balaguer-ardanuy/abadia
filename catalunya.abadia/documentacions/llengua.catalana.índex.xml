@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <abadia xml:lang="ca" xmlns="https://abadiamontserrat.cat/abadia">
-	<gen>mascle</gen>
-	<clau>El Senyor dels Anells</clau>
+	<nom>Tk1</nom>
+	<clau>El hòbbit</clau>
 	<valor>John Ronald Reuel Tolkien</valor>
 <abadia>
-	<gen>femella</gen>
-	<clau></clau>
-	<valor></valor>
+	<nom>Tk2</nom>
+	<clau>El Senyor dels Anells</clau>
+	<valor>John Ronald Reuel Tolkien</valor>
 
 </abadia>
 </abadia>
