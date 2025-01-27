@@ -2,834 +2,104 @@
 <abadia xml:lang="ca" xmlns="https://abadiamontserrat.cat/abadia">
 	<nom>1</nom>
 	<gen>herma</gen>
-	<clau>principi</clau>
-	<valor>començament</valor>
+	<clau>Bíblia</clau>
+	<valor>Llei</valor>
 <abadia>
 	<nom>2</nom>
-	<gen>femella</gen>
-	<clau>crear</clau>
-	<valor>fer</valor>
+	<gen>herma</gen>
+	<clau>Gènesi</clau>
+	<valor>Autodeterminació</valor>
+<abadia>
+	<nom>2</nom>
+	<gen>herma</gen>
+	<clau>Gènesi</clau>
+	<valor>Autodeterminació</valor>
 <abadia>
 	<nom>3</nom>
 	<gen>femella</gen>
-	<clau>cel</clau>
-	<valor>terra</valor>
+	<clau>orígens</clau>
+	<valor>organitzacions</valor>
 <abadia>
 	<nom>4</nom>
 	<gen>herma</gen>
-	<clau>caos</clau>
-	<valor>desolació</valor>
+	<clau>creació</clau>
+	<valor>unió dels pobles</valor>
 <abadia>
 	<nom>5</nom>
-	<gen>mascle</gen>
-	<clau>tenebres</clau>
-	<valor>llum</valor>
+	<gen>herma</gen>
+	<clau>principi</clau>
+	<valor>origen</valor>
 <abadia>
 	<nom>6</nom>
-	<gen>mascle</gen>
-	<clau>cobrir</clau>
-	<valor>recobrir</valor>
+	<gen>herma</gen>
+	<clau>crear</clau>
+	<valor>declarar</valor>
 <abadia>
 	<nom>7</nom>
-	<gen>herma</gen>
-	<clau>superfície</clau>
-	<valor>àrea</valor>
+	<gen>femella</gen>
+	<clau>cel</clau>
+	<valor>organització mundial</valor>
 <abadia>
 	<nom>8</nom>
-	<gen>herma</gen>
-	<clau>oceà</clau>
-	<valor>aigües</valor>
+	<gen>femella</gen>
+	<clau>terra</clau>
+	<valor>Terra</valor>
 <abadia>
 	<nom>9</nom>
-	<gen>herma</gen>
-	<clau>dir</clau>
-	<valor>transmetre</valor>
+	<gen>femella</gen>
+	<clau>planar</clau>
+	<valor>pasturar</valor>
 <abadia>
 	<nom>10</nom>
-	<gen>herma</gen>
-	<clau>existir</clau>
-	<valor>ser</valor>
+	<gen>femella</gen>
+	<clau>aigües</clau>
+	<valor>corporacions</valor>
 <abadia>
 	<nom>11</nom>
-	<gen>herma</gen>
-	<clau>veure</clau>
-	<valor>escoltar</valor>
+	<gen>femella</gen>
+	<clau>dir</clau>
+	<valor>comunicar</valor>
 <abadia>
 	<nom>12</nom>
-	<gen>femella</gen>
-	<clau>bo</clau>
-	<valor>dolent</valor>
+	<gen>herma</gen>
+	<clau>tenebres</clau>
+	<valor>foscor</valor>
 <abadia>
 	<nom>13</nom>
-	<gen>mascle</gen>
-	<clau>separar</clau>
-	<valor>ajuntar</valor>
+	<gen>herma</gen>
+	<clau>donar</clau>
+	<valor>determinar</valor>
 <abadia>
 	<nom>14</nom>
-	<gen>femella</gen>
-	<clau>donar</clau>
-	<valor>posar</valor>
+	<gen>herma</gen>
+	<clau>vespre</clau>
+	<valor>posta</valor>
 <abadia>
 	<nom>15</nom>
 	<gen>herma</gen>
-	<clau>nom</clau>
-	<valor>paraula</valor>
+	<clau>matí</clau>
+	<valor>albada</valor>
 <abadia>
 	<nom>16</nom>
-	<gen>femella</gen>
-	<clau>dia</clau>
-	<valor>nit</valor>
+	<gen>herma</gen>
+	<clau>primer</clau>
+	<valor>principal</valor>
 <abadia>
 	<nom>17</nom>
-	<gen>mascle</gen>
-	<clau>vespre</clau>
-	<valor>matí</valor>
+	<gen>herma</gen>
+	<clau>primer</clau>
+	<valor>principal</valor>
 <abadia>
 	<nom>18</nom>
-	<gen>mascle</gen>
-	<clau>vespre</clau>
-	<valor>matí</valor>
+	<gen>herma</gen>
+	<clau>mitologia</clau>
+	<valor>història</valor>
 <abadia>
 	<nom>19</nom>
 	<gen>herma</gen>
-	<clau>primer</clau>
-	<valor>pare</valor>
-<abadia>
-	<nom>20</nom>
-	<gen>herma</gen>
-	<clau>un</clau>
-	<valor>pare</valor>
-<abadia>
-	<nom>21</nom>
-	<gen>herma</gen>
-	<clau>firmament</clau>
-	<valor>volta</valor>
-<abadia>
-	<nom>22</nom>
-	<gen>herma</gen>
-	<clau>enmig</clau>
-	<valor>entremig</valor>
-<abadia>
-	<nom>22</nom>
-	<gen>mascle</gen>
-	<clau>sota</clau>
-	<valor>sobre</valor>
-<abadia>
-	<nom>23</nom>
-	<gen>femella</gen>
-	<clau>aplegar</clau>
-	<valor>reunir</valor>
-<abadia>
-	<nom>24</nom>
-	<gen>femella</gen>
-	<clau>sol</clau>
-	<valor>únic</valor>
-<abadia>
-	<nom>25</nom>
-	<gen>mascle</gen>
-	<clau>indret</clau>
-	<valor>lloc</valor>
-<abadia>
-	<nom>26</nom>
-	<gen>femella</gen>
-	<clau>aparéixer</clau>
-	<valor>desaparéixer</valor>
-<abadia>
-	<nom>27</nom>
-	<gen>herma</gen>
-	<clau>continents</clau>
-	<valor>extensions</valor>
-<abadia>
-	<nom>28</nom>
-	<gen>herma</gen>
-	<clau>mar</clau>
-	<valor>aigües</valor>
-<abadia>
-	<nom>29</nom>
-	<gen>herma</gen>
-	<clau>això</clau>
-	<valor>esperit</valor>
-<abadia>
-	<nom>30</nom>
-	<gen>mascle</gen>
-	<clau>produir</clau>
-	<valor>reproduir</valor>
-<abadia>
-	<nom>31</nom>
-	<gen>herma</gen>
-	<clau>vegetació</clau>
-	<valor>herbes</valor>
-<abadia>
-	<nom>32</nom>
-	<gen>herma</gen>
-	<clau>fer</clau>
-	<valor>programar</valor>
-<abadia>
-	<nom>33</nom>
-	<gen>herma</gen>
-	<clau>herbes</clau>
-	<valor>vegetació</valor>
-<abadia>
-	<nom>34</nom>
-	<gen>herma</gen>
-	<clau>llavor</clau>
-	<valor>extensió</valor>
-<abadia>
-	<nom>35</nom>
-	<gen>herma</gen>
-	<clau>arbres</clau>
-	<valor>vegatació</valor>
-<abadia>
-	<nom>36</nom>
-	<gen>femella</gen>
-	<clau>tota</clau>
-	<valor>cap</valor>
-<abadia>
-	<nom>37</nom>
-	<gen>femella</gen>
-	<clau>mena</clau>
-	<valor>tipus</valor>
-<abadia>
-	<nom>38</nom>
-	<gen>herma</gen>
-	<clau>fruit</clau>
-	<valor>arrel</valor>
-<abadia>
-	<nom>39</nom>
-	<gen>herma</gen>
-	<clau>així</clau>
-	<valor>pare</valor>
-<abadia>
-	<nom>40</nom>
-	<gen>herma</gen>
-	<clau>així</clau>
-	<valor>pare</valor>
-<abadia>
-	<nom>41</nom>
-	<gen>mascle</gen>
-	<clau>llumeners</clau>
-	<valor>estrelles</valor>
-<abadia>
-	<nom>42</nom>
-	<gen>herma</gen>
-	<clau>assenyalar</clau>
-	<valor>indicar</valor>
-<abadia>
-	<nom>43</nom>
-	<gen>herma</gen>
-	<clau>festivitat</clau>
-	<valor>esdeveniment</valor>
-<abadia>
-	<nom>44</nom>
-	<gen>herma</gen>
-	<clau>any</clau>
-	<valor>genomapa</valor>
-<abadia>
-	<nom>45</nom>
-	<gen>femella</gen>
-	<clau>més</clau>
-	<valor>menys</valor>
-<abadia>
-	<nom>46</nom>
-	<gen>femella</gen>
-	<clau>petit</clau>
-	<valor>gran</valor>
-<abadia>
-	<nom>47</nom>
-	<gen>herma</gen>
-	<clau>governar</clau>
-	<valor>ordenar</valor>
-<abadia>
-	<nom>48</nom>
-	<gen>femella</gen>
-	<clau>també</clau>
-	<valor>tampoc</valor>
-<abadia>
-	<nom>49</nom>
-	<gen>femella</gen>
-	<clau>col·locar</clau>
-	<valor>posar</valor>
-<abadia>
-	<nom>50</nom>
-	<gen>femella</gen>
-	<clau>il·luminar</clau>
-	<valor>fulgurar</valor>
-<abadia>
-	<nom>51</nom>
-	<gen>herma</gen>
-	<clau>quart</clau>
-	<valor>fill</valor>
-<abadia>
-	<nom>52</nom>
-	<gen>herma</gen>
-	<clau>éssers</clau>
-	<valor>esperits</valor>
-<abadia>
-	<nom>52</nom>
-	<gen>herma</gen>
-	<clau>éssers</clau>
-	<valor>esperits</valor>
-<abadia>
-	<nom>52</nom>
-	<gen>herma</gen>
-	<clau>viu</clau>
-	<valor>recursiu</valor>
-<abadia>
-	<nom>53</nom>
-	<gen>mascle</gen>
-	<clau>moure</clau>
-	<valor>bellugar</valor>
-<abadia>
-	<nom>54</nom>
-	<gen>herma</gen>
-	<clau>animal</clau>
-	<valor>bèstia</valor>
-<abadia>
-	<nom>55</nom>
-	<gen>herma</gen>
-	<clau>alat</clau>
-	<valor>extensible</valor>
-<abadia>
-	<nom>56</nom>
-	<gen>femella</gen>
-	<clau>beneir</clau>
-	<valor>maleir</valor>
-<abadia>
-	<nom>57</nom>
-	<gen>femella</gen>
-	<clau>fecund</clau>
-	<valor>fèrtil</valor>
-<abadia>
-	<nom>58</nom>
-	<gen>femella</gen>
-	<clau>multiplicar</clau>
-	<valor>dividir</valor>
-<abadia>
-	<nom>59</nom>
-	<gen>mascle</gen>
-	<clau>cinquè</clau>
-	<valor>fill</valor>
-<abadia>
-	<nom>60</nom>
-	<gen>mascle</gen>
-	<clau>domèstic</clau>
-	<valor>ferèstec</valor>
-<abadia>
-	<nom>61</nom>
-	<gen>herma</gen>
-	<clau>cuc</clau>
-	<valor>entrada</valor>
-<abadia>
-	<nom>62</nom>
-	<gen>mascle</gen>
-	<clau>bestioles</clau>
-	<valor>criatures</valor>
-<abadia>
-	<nom>63</nom>
-	<gen>mascle</gen>
-	<clau>home</clau>
-	<valor>temps.gènesi.ADN</valor>
-<abadia>
-	<nom>64</nom>
-	<gen>femella</gen>
-	<clau>semblant</clau>
-	<valor>diferent</valor>
-<abadia>
-	<nom>65</nom>
-	<gen>herma</gen>
-	<clau>imatge</clau>
-	<valor>programació</valor>
-<abadia>
-	<nom>66</nom>
-	<gen>femella</gen>
-	<clau>nosaltres</clau>
-	<valor>vosaltres</valor>
-<abadia>
-	<nom>67</nom>
-	<gen>herma</gen>
-	<clau>sotmetre</clau>
-	<valor>dominar</valor>
-<abadia>
-	<nom>68</nom>
-	<gen>herma</gen>
-	<clau>peixos</clau>
-	<valor>entrades</valor>
-<abadia>
-	<nom>69</nom>
-	<gen>herma</gen>
-	<clau>ocells</clau>
-	<valor>java.util.Map.Entry</valor>
-<abadia>
-	<nom>70</nom>
-	<gen>herma</gen>
-	<clau>bestiar</clau>
-	<valor>programari</valor>
-<abadia>
-	<nom>71</nom>
-	<gen>femella</gen>
-	<clau>omplir</clau>
-	<valor>buidar</valor>
-<abadia>
-	<nom>72</nom>
-	<gen>herma</gen>
-	<clau>arrossegar</clau>
-	<valor>concórrer</valor>
-<abadia>
-	<nom>73</nom>
-	<gen>herma</gen>
-	<clau>mirar</clau>
-	<valor>escoltar</valor>
-<abadia>
-	<nom>74</nom>
-	<gen>mascle</gen>
-	<clau>aliment</clau>
-	<valor>nodriment</valor>
-<abadia>
-	<nom>75</nom>
-	<gen>herma</gen>
-	<clau>verd</clau>
-	<valor>fulgurant</valor>
-<abadia>
-	<nom>76</nom>
-	<gen>herma</gen>
-	<clau>capvespre</clau>
-	<valor>esdeveniment</valor>
-<abadia>
-	<nom>77</nom>
-	<gen>herma</gen>
-	<clau>mitologies</clau>
-	<valor>llegendes</valor>
-<abadia>
-	<nom>78</nom>
-	<gen>herma</gen>
-	<clau>poble</clau>
-	<valor>població</valor>
-<abadia>
-	<nom>79</nom>
-	<gen>mascle</gen>
-	<clau>veí</clau>
-	<valor>germà</valor>
-<abadia>
-	<nom>80</nom>
-	<gen>herma</gen>
-	<clau>creació</clau>
-	<valor>programació</valor>
-<abadia>
-	<nom>81</nom>
-	<gen>herma</gen>
-	<clau>descriure</clau>
-	<valor>transcriure</valor>
-<abadia>
-	<nom>82</nom>
-	<gen>mascle</gen>
-	<clau>com</clau>
-	<valor>semblant a</valor>
-<abadia>
-	<nom>83</nom>
-	<gen>mascle</gen>
-	<clau>paraula</clau>
-	<valor>mot</valor>
-<abadia>
-	<nom>84</nom>
-	<gen>mascle</gen>
-	<clau>paraula</clau>
-	<valor>mot</valor>
-<abadia>
-	<nom>85</nom>
-	<gen>herma</gen>
-	<clau>moment</clau>
-	<valor>ocasió</valor>
-<abadia>
-	<nom>86</nom>
-	<gen>herma</gen>
-	<clau>continuar</clau>
-	<valor>seguir</valor>
-<abadia>
-	<nom>87</nom>
-	<gen>femella</gen>
-	<clau>participar</clau>
-	<valor>assistir</valor>
-<abadia>
-	<nom>88</nom>
-	<gen>femella</gen>
-	<clau>intel·ligència</clau>
-	<valor>saviesa</valor>
-<abadia>
-	<nom>89</nom>
-	<gen>mascle</gen>
-	<clau>obra</clau>
-	<valor>treball</valor>
-<abadia>
-	<nom>90</nom>
-	<gen>femella</gen>
-	<clau>comparar</clau>
-	<valor>reproduir</valor>
-<abadia>
-	<nom>91</nom>
-	<gen>femella</gen>
-	<clau>text</clau>
-	<valor>codi</valor>
-<abadia>
-	<nom>92</nom>
-	<gen>femella</gen>
-	<clau>amb</clau>
-	<valor>sense</valor>
-<abadia>
-	<nom>93</nom>
-	<gen>femella</gen>
-	<clau>possible</clau>
-	<valor>probable</valor>
-<abadia>
-	<nom>94</nom>
-	<gen>herma</gen>
-	<clau>final</clau>
-	<valor>fill</valor>
-<abadia>
-	<nom>95</nom>
-	<gen>herma</gen>
-	<clau>frase</clau>
-	<valor>oració</valor>
-<abadia>
-	<nom>96</nom>
-	<gen>herma</gen>
-	<clau>esperit</clau>
-	<valor>ànima</valor>
-<abadia>
-	<nom>97</nom>
-	<gen>herma</gen>
 	<clau></clau>
 	<valor></valor>
-<abadia>
-	<nom>98</nom>
-	<gen>mascle</gen>
-	<clau>banda</clau>
-	<valor>extrem</valor>
-<abadia>
-	<nom>99</nom>
-	<gen>mascle</gen>
-	<clau>tradició</clau>
-	<valor>cultura</valor>
-<abadia>
-	<nom>100</nom>
-	<gen>mascle</gen>
-	<clau>Església</clau>
-	<valor>Monestir</valor>
-<abadia>
-	<nom>101</nom>
-	<gen>herma</gen>
-	<clau>acció</clau>
-	<valor>esdeveniment</valor>
-<abadia>
-	<nom>102</nom>
-	<gen>herma</gen>
-	<clau>sentit</clau>
-	<valor>direcció</valor>
-<abadia>
-	<nom>103</nom>
-	<gen>herma</gen>
-	<clau>terme</clau>
-	<valor>concepte</valor>
-<abadia>
-	<nom>104</nom>
-	<gen>femella</gen>
-	<clau>tenir</clau>
-	<valor>posseir</valor>
-<abadia>
-	<nom>105</nom>
-	<gen>femella</gen>
-	<clau>vent</clau>
-	<valor>corrent</valor>
-<abadia>
-	<nom>106</nom>
-	<gen>femella</gen>
-	<clau>llavors</clau>
-	<valor>doncs</valor>
-<abadia>
-	<nom>107</nom>
-	<gen>femella</gen>
-	<clau>entendre</clau>
-	<valor>heretar</valor>
-<abadia>
-	<nom>108</nom>
-	<gen>herma</gen>
-	<clau>forma</clau>
-	<valor>ordre</valor>
-<abadia>
-	<nom>109</nom>
-	<gen>herma</gen>
-	<clau>superlatiu</clau>
-	<valor>pare</valor>
-<abadia>
-	<nom>110</nom>
-	<gen>mascle</gen>
-	<clau>fort</clau>
-	<valor>feble</valor>
-<abadia>
-	<nom>111</nom>
-	<gen>mascle</gen>
-	<clau>huracà</clau>
-	<valor>execució</valor>
-<abadia>
-	<nom>112</nom>
-	<gen>mascle</gen>
-	<clau>molt</clau>
-	<valor>poc</valor>
-<abadia>
-	<nom>113</nom>
-	<gen>femella</gen>
-	<clau>necessitar</clau>
-	<valor>presecindir</valor>
-<abadia>
-	<nom>114</nom>
-	<gen>femella</gen>
-	<clau>direcció</clau>
-	<valor>orientació</valor>
-<abadia>
-	<nom>115</nom>
-	<gen>herma</gen>
-	<clau>ordenar</clau>
-	<valor>executar</valor>
-<abadia>
-	<nom>116</nom>
-	<gen>herma</gen>
-	<clau>distingir</clau>
-	<valor>discriminar</valor>
-<abadia>
-	<nom>117</nom>
-	<gen>herma</gen>
-	<clau>símbol</clau>
-	<valor>emblema</valor>
-<abadia>
-	<nom>118</nom>
-	<gen>femella</gen>
-	<clau>llevar</clau>
-	<valor>pondre</valor>
-<abadia>
-	<nom>119</nom>
-	<gen>herma</gen>
-	<clau>sol</clau>
-	<valor>cos</valor>
-<abadia>
-	<nom>120</nom>
-	<gen>herma</gen>
-	<clau>següent</clau>
-	<valor>fill</valor>
-<abadia>
-	<nom>121</nom>
-	<gen>herma</gen>
-	<clau>verset</clau>
-	<valor>extensió</valor>
-<abadia>
-	<nom>122</nom>
-	<gen>femella</gen>
-	<clau>sòlid</clau>
-	<valor>dens</valor>
-<abadia>
-	<nom>123</nom>
-	<gen>femella</gen>
-	<clau>renovar</clau>
-	<valor>innovar</valor>
-<abadia>
-	<nom>124</nom>
-	<gen>femella</gen>
-	<clau>temporades</clau>
-	<valor>estacions</valor>
-<abadia>
-	<nom>125</nom>
-	<gen>herma</gen>
-	<clau>regular</clau>
-	<valor>freqüent</valor>
-<abadia>
-	<nom>126</nom>
-	<gen>herma</gen>
-	<clau>calendari</clau>
-	<valor>programació</valor>
-<abadia>
-	<nom>127</nom>
-	<gen>herma</gen>
-	<clau>litúrgia</clau>
-	<valor>recurrència</valor>
-<abadia>
-	<nom>128</nom>
-	<gen>femella</gen>
-	<clau>planar</clau>
-	<valor>volar</valor>
-<abadia>
-	<nom>129</nom>
-	<gen>mascle</gen>
-	<clau>Behemot</clau>
-	<valor>Drac de Sant Jordi</valor>
-<abadia>
-	<nom>130</nom>
-	<gen>mascle</gen>
-	<clau>Leviatan</clau>
-	<valor>Monstre de Banyoles</valor>
-<abadia>
-	<nom>131</nom>
-	<gen>mascle</gen>
-	<clau>corregir</clau>
-	<valor>redreçar</valor>
-<abadia>
-	<nom>132</nom>
-	<gen>mascle</gen>
-	<clau>tot i</clau>
-	<valor>malgrat</valor>
-<abadia>
-	<nom>133</nom>
-	<gen>femella</gen>
-	<clau>sorprendre</clau>
-	<valor>estranyar</valor>
-<abadia>
-	<nom>134</nom>
-	<gen>herma</gen>
-	<clau>enumeració</clau>
-	<valor>nombre</valor>
-<abadia>
-	<nom>135</nom>
-	<gen>herma</gen>
-	<clau>ferèstec</clau>
-	<valor>salvatge</valor>
-<abadia>
-	<nom>136</nom>
-	<gen>femella</gen>
-	<clau>arreu de</clau>
-	<valor>per tot</valor>
-<abadia>
-	<nom>137</nom>
-	<gen>femella</gen>
-	<clau>només</clau>
-	<valor>tan sols</valor>
-<abadia>
-	<nom>138</nom>
-	<gen>herma</gen>
-	<clau>pau</clau>
-	<valor>tranquil·litat</valor>
-<abadia>
-	<nom>139</nom>
-	<gen>herma</gen>
-	<clau>paradísiaca</clau>
-	<valor>pacífica</valor>
 
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
-</abadia>
 </abadia>
 </abadia>
 </abadia>

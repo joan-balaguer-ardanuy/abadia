@@ -1,0 +1,5806 @@
+El protagonista d’El Tartuf o l’impostor es guanya la confiança d’un cap de família babau, Orgon, i se n’aprofita fins a l’extrem que està a punt de convertir-lo en cornut. Descobert, amenaça i coacciona tota la família, ja que legalment pot disposar dels béns i la llibertat d’Orgon, que tant l’afavorí. Tartuf representa la hipocresia i és, potser, la creació més aguda i complexa de la tipologia del dramaturg.
+
+
+
+
+
+Molière
+
+
+
+
+
+El Tartuf o l’impostor
+
+
+
+
+ePUB v1.0
+
+Puck 09.05.22
+
+
+
+
+
+Títol original: Le Tartuffe ou l’Imposteur
+
+Molière, 1664
+
+Traducció: Miquel Desclot, 2021
+
+Edició digital: Puck (v1.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+EL TARTUF
+
+o
+
+L’IMPOSTOR
+
+
+Comèdia
+
+Representada per primer cop
+
+el 12 de maig del 1664 al Palau de Versalles,
+
+i impresa per primer cop el 23 de març del 1669.
+
+
+
+
+
+PREFACI
+
+
+Vet aquí una comèdia que ha fet molta forrolla i ha estat perseguida molt de temps. La gent que hi surt han demostrat que tenen a França molt més poder que tots aquells que he fet sortir a escena fins ara. Els marquesos, les melindroses, els banyuts i els metges han sofert amb paciència que jo els representés, i han fet veure que es divertien com l’altra gent amb els retrats que en feia. Però els hipòcrites no han aguantat la broma; d’entrada es van esverar, i van trobar estrany que jo tingués la gosadia de reproduir-ne els fingiments i de voler denigrar una ocupació on figuren tanta gent de bé. Era un crim que no em podien perdonar, i s’han regirat tots contra la meva comèdia amb un furor esgarrifós. S’han guardat prou d’atacar-la pel costat que més els cou: són massa polítics per a tal cosa i saben massa de la vida per descobrir el fons de la pròpia ànima. Seguint el seu lloable costum, han embolcallat els seus interessos amb la causa de Déu; i El Tartuf, segons ells, és una peça que ofèn la pietat. És plena d’un cap a l’altre de coses abominables, i no conté res que no mereixi la foguera. Cada síl·laba és plena d’impietat; els gestos i tot són criminals; i la més lleu mirada, el més lleu cop de cap, el més lleu pas a dreta o a esquerra amaguen uns misteris que ells troben manera d’explicar en detriment meu. Tant se val que jo l’hagi sotmesa al criteri dels meus amics i a la censura de tothom, tant se valen les correccions que hi he pogut fer, el judici del rei i de la reina, que l’han vista, l’aprovació dels grans prínceps i dels senyors ministres, que l’han honorada públicament amb la seva presència, el testimoni de la bona gent, que l’han trobada profitosa, tot això no ha servit de res. Ells no es donen per vençuts; i cada dia del món, encara, m’engeguen un o altre fanàtic indiscret, que em crida injúries piadoses i em condemna caritativament.
+
+M’importaria ben poc tot el que poguessin dir, si no fos la mala art que tenen d’enemistar-me amb gent que respecto i d’atreure al seu bàndol autèntica gent de bé, aprofitant-se de la seva bona fe, que per l’ardor amb què senten els interessos del Cel són sensibles a les impressions que se’ls vulgui imposar. Vet aquí per què em veig obligat a defensar-me. És davant els veritables devots que vull justificar-me arreu sobre la conducta de la meva comèdia; i els conjuro, de tot cor, a no condemnar les coses abans de veure-les, a desfer-se de tota prevenció, i a no servir la passió d’aquells que els deshonoren amb els seus escarafalls.
+
+Qui es prengui la molèstia d’examinar de bona fe la meva comèdia veurà sens dubte que les meves intencions són innocents arreu, i que no pretén de cap manera fer burla de les coses que cal reverir; que l’he tractada amb totes les precaucions que em demanava la delicadesa de la matèria i que he posat tota l’art i tota la cura que m’han estat possibles per distingir clarament l’hipòcrita de l’autèntic devot. He dedicat per això dos actes sencers a preparar l’entrada del meu malvat. Ni per un moment aquest fa dubtar l’espectador; ja de bon començament se’l coneix pels trets que li dono; i, d’un cap a l’altre, no diu ni una paraula, ni fa cap acció, que no dibuixi davant l’espectador el caràcter d’un miserable, i que no faci resplendir el de l’autèntic home de bé que li oposo.
+
+Sé prou bé que, per respondre, aquests senyors proven d’insinuar que no escau al teatre parlar d’aquests temes; però jo els pregunto, amb la vènia, sobre què fonamenten aquesta bella màxima. És una proposició que només donen per suposició, sense que la puguin demostrar de cap manera. I, sens dubte, no seria difícil de fer-los veure que el teatre, entre els antics, va tenir origen en la religió i formava part dels seus misteris; i que els espanyols, els nostres veïns, no celebren gaires festes sense la participació del teatre, i que fins i tot entre nosaltres deu la naixença a l’obra d’una confraria a la qual pertany encara avui l’Hôtel de Bourgogne, que és un edifici que va ser cedit per representar-hi els misteris més importants de la nostra fe; i que es troben encara comèdies impreses en lletra gòtica, sota el nom d’un doctor de la Sorbona, i sense anar tan lluny, que en els nostres temps es representen peces sacres del senyor de Corneille, que han estat l’admiració de tot França.
+
+Si el fi de la comèdia és de corregir els vicis dels homes, no veig per quina raó n’hi ha d’haver de privilegiats. Aquest vici és, dins l’Estat, d’una conseqüència prou més perillosa que tots els altres; i ja hem vist que el teatre té una gran virtut per corregir. Els trets més bells d’una moral seriosa són sovint menys poderosos que els de la sàtira; i res no redreça millor la majoria dels homes que la pintura dels seus defectes. És un gran cop als vicis el fet d’exposar-los a la riota de tothom. Les amonestacions se suporten fàcilment, però no pas la befa. A la majoria ja els està bé passar per malvats, però no sentir-se ridículs.
+
+Em reprotxen d’haver posat expressions pietoses en boca del meu Impostor. I com podia estar-me’n, si volia representar bé el caràcter d’un hipòcrita? N’hi ha prou, em sembla, de fer saber els motius criminals que li fan dir les coses, i de suprimir-ne els termes consagrats que haurien causat ofensa en sentir-ne fer un mal ús. Però és que al quart acte exposa una moral perniciosa. Però aquesta moral és res que no hagi sentit tothom mil cops? Diu res de nou en la meva comèdia? I ¿hi ha cap perill que unes coses tan generalment detestades facin gens d’impressió en els ànims? O que jo les torni perilloses fent-les pujar a escena? O que obtinguin autoritat de la boca d’un malvat? No hi ha res de tot això. I doncs cal aprovar la comèdia del Tartuf o condemnar totes les altres comèdies.
+
+Doncs això és el que han emprès furiosament des de fa un temps, i mai no s’havia atacat amb tanta violència el teatre. No puc pas negar que hi va haver Pares de l’Església que van condemnar la comèdia; però tampoc no se’m pot negar que n’hi va haver uns quants que la van tractar més amablement. Així, doncs, l’autoritat sobre la qual es vol sostenir la censura queda destruïda per aquesta divergència; i tota la conseqüència que es pot extreure d’aquesta diversitat d’opinions en savis inspirats per les mateixes llums és que han considerat la comèdia de diferent manera, i que uns l’han considerada en la seva puresa, mentre que els altres l’han mirada en la seva corrupció, i l’han confosa amb tots aquests baixos espectacles que amb raó s’han qualificat d’espectacles de turpitud.
+
+I, en efecte, com que cal discórrer sobre les coses i no sobre les paraules, i com que la major part de les contrarietats provenen de la manca d’entesa i d’embolcallar en un mateix mot coses oposades, només cal llevar el vel de l’equívoc, i considerar el que és la comèdia en si mateixa, per veure si és condemnable. Ens adonarem sens dubte que, com que no és altra cosa que un poema enginyós que, a través de lliçons agradables, fustiga els defectes dels homes, no se la pot censurar sense injustícia; i, si volem escoltar sobre això el testimoni de l’antiguitat, ens dirà que els seus filòsofs més cèlebres han fet elogis de la comèdia, ells que feien professió d’una saviesa tan austera, i que clamaven tothora contra els vicis del seu segle; ens farà veure que Aristòtil va consagrar hores de vetlla al teatre, i es va prendre la pena de reduir en preceptes l’art de fer comèdies; ens farà saber que alguns dels seus homes més grans, i dels primers en dignitat, es van gloriar de compondre’n ells mateixos, i que n’hi va haver d’altres que no van desdenyar de recitar en públic les que havien compost, i que Grècia va fer esclatar la seva estima per aquesta art amb els premis gloriosos i amb els teatres superbs amb què la volgué honorar, i que a Roma, per fi, aquesta mateixa art va rebre també uns honors extraordinaris: no dic pas a la Roma disbauxada, sinó a la Roma disciplinada, sota la prudència dels cònsols, i al temps del vigor de la virtut romana.
+
+Admeto que hi ha hagut temps en què la comèdia s’ha corromput. I és que hi ha res al món que no es corrompi cada dia? No hi ha cap cosa tan innocent que els homes no hi puguin introduir el crim, ni cap art tan saludable que ells no en puguin capgirar les intencions, ni res de tan bo en si mateix que no puguin menar a mal ús. La medicina és una art útil, i tothom la respecta com una de les coses més excel·lents que tenim; i això no obstant hi ha hagut èpoques en què s’ha fet odiosa, i sovint se n’ha fet una art d’enverinar els homes. La filosofia és un present del Cel: se’ns ha donat per alçar el nostre enteniment a la coneixença d’un Déu per la contemplació de les meravelles de la Natura; i amb tot no es pot ignorar que sovint se l’ha desviada del seu objectiu, i que se l’ha obligada públicament a sostenir la impietat. Ni les coses més santes estan a cobert de la corrupció dels homes; i així veiem criminals que cada dia abusen de la pietat, i se’n serveixen malèvolament per als crims més grans. Però no per això deixem de fer les distincions que calen. No emboliquem en una falsa conseqüència la bondat de les coses que corrompem i la malícia dels corruptors. Sempre separem el mal ús de la intenció de l’art; i així com no prohibim la medicina pel fet d’haver estat expulsada de Roma, ni la filosofia pel fet d’haver estat condemnada públicament a Atenes, no hem pas de voler prohibir la comèdia pel fet d’haver estat censurada en certes èpoques. Aquesta censura va tenir les seves raons, que aquí ja no subsisteixen: es va cenyir a allò que va poder veure, i nosaltres no l’hem de treure dels límits que es va donar, ni estendre-la més enllà del que cal, i fer-li abraçar l’innocent amb el culpable. La comèdia que aquella va tenir intenció d’atacar no és de cap manera la comèdia que volem defensar. Ens hem de guardar de confondre aquella amb aquesta. Són dues persones de costums del tot oposats. No tenen cap relació l’una amb l’altra, sinó la semblança del nom; i seria una injustícia espantosa de condemnar Olímpia, que és dona de bé, perquè hi hagi hagut una Olímpia que era una disbauxada. Sentències semblants causarien sens dubte un gran desordre al món. No hi hauria res, així, que no fos condemnat. I, com que no apliquem pas aquest rigor a tantes coses de les quals s’abusa cada dia, cal fer la mateixa gràcia a la comèdia, i aprovar les peces de teatre on es veurà regnar la instrucció i l’honestedat.
+
+Sé que hi ha esperits d’una delicadesa que no pot suportar cap comèdia, que diuen que les més honestes són les més perilloses, i que les passions que s’hi pinten són més commovedores com més sobreïxen de virtut, i que les ànimes s’entendreixen amb aquesta mena de representacions. Jo no veig pas que sigui cap crim entendrir-se a la vista d’una passió honesta, i és un alt grau de virtut aquesta plena insensibilitat on volen elevar la nostra ànima. Dubto molt que una perfecció tan gran es trobi en les forces de la natura humana; i no sé si no és molt millor treballar per redreçar i moderar les passions dels homes que no pas voler-les arrabassar de soca-rel. Admeto que hi ha llocs millors per freqüentar que el teatre; i que, si hem de blasmar totes les coses que no tenen relació directa amb Déu i la nostra salvació, certament la comèdia n’és una, i no em sembla malament que sigui condemanda amb la resta. Però suposant, com és la veritat, que els exercicis de la pietat admeten intervals i que els homes tenen necessitat de diversions, sostinc que no se’n pot trobar cap que sigui més innocent que la comèdia. M’he estès massa. Acabem amb unes paraules d’un gran príncep sobre la comèdia del Tartuf.
+
+Vuit dies després que fos prohibida, es va representar davant la cort una obra titulada Scaramouche ermità; i el rei, en sortir, va dir al gran príncep de qui parlo: «M’agradaria saber per què la gent que s’escandalitza tant de la comèdia de Molière no diu res d’aquesta de Scaramouche»; a la qual cosa, el príncep va respondre: «La raó és que la comèdia de Scaramouche representa el cel i la religió, cosa que a aquells senyors els importa ben poc; però la de Molière els representa a ells mateixos; i això és el que no poden sofrir».
+
+
+
+
+
+PRIMERA SÚPLICA PRESENTADA AL REI
+
+sobre la comèdia del «Tartuf»
+
+
+Senyor,
+
+Com que el deure de la comèdia és de corregir els homes tot divertint-los, he cregut que, en el càrrec que ocupo, no podia fer res millor que atacar amb pintures ridícules els vicis del meu temps. I, com que la hipocresia és sens dubte un dels més freqüents, més incòmodes i més perillosos, vaig pensar, Senyor, que no feia un servei menor a tota la gent honesta del vostre regne si escrivia una comèdia que descrivís els hipòcrites, i exposés en públic, com cal, tots els escarafalls estudiats d’aquesta gent de bé a ultrança, totes les murrieries encobertes d’aquests moneders falsos de la devoció, que volen atrapar els homes amb un zel fingit i una caritat enganyosa.
+
+He fet aquesta comèdia, Senyor, amb tota la cura, o així ho crec, i totes les circumspeccions que podia exigir la delicadesa del tema; i, per conservar millor la consideració i el respecte que es deuen als devots veritables, n’he distingit tant com he pogut el caràcter que volia tractar. No hi he deixat cap equívoc, n’he eliminat tot allò que podia confondre el bé amb el mal, i no m’he servit en aquesta pintura sinó dels colors precisos i dels trets essencials que fan reconèixer d’entrada un hipòcrita autèntic i franc.
+
+A desgrat d’això, totes les meves precaucions han estat inútils. S’han aprofitat, Senyor, de la delicadesa de la vostra ànima sobre els temes de religió, i han sabut prendre-us per l’únic punt per on us podien prendre, és a dir pel respecte de les coses santes. Els tartufs, de sota mà, han tingut l’habilitat d’obtenir el favor de Vostra Majestat; i els originals a la fi han fet suprimir la còpia, per innocent que fos i per fidel que resultés.
+
+Encara que la supressió d’aquesta obra fos per a mi un cop sensible, la meva dissort es va veure amb tot amorosida per la manera com Vostra Majestat es va explicar sobre aquesta qüestió. I he cregut, Senyor, que em llevava tot motiu de queixa, havent tingut vós la bondat de declarar que no trobàveu res a reprotxar en aquesta comèdia que em prohibíeu de presentar en públic.
+
+Però, a pesar d’aquesta gloriosa declaració del rei més gran del món, i del més il·lustrat, a pesar també de l’aprovació del senyor legat pontifici, i de la majoria dels nostres prelats, tots els quals, en les lectures particulars que els he fet de la meva obra, s’han avingut amb els sentiments de Vostra Majestat; a pesar de tot això, dic, corre un llibre escrit pel rector de…, que contradiu rotundament tots aquells augustos testimonis. Per més que digui Vostra Majestat, i per més que en donin el seu parer el senyor legat i els senyors prelats, la meva comèdia, sense que l’hagin vista, és diabòlica, i diabòlic el meu cervell; jo soc un dimoni revestit de carn i disfressat d’home, un llibertí, un impiu digne d’un suplici exemplar. La foguera pública no seria prou per expiar la meva ofensa, això seria pagar-ne un preu massa barat; el zel caritatiu d’aquest bon home de bé no s’atura pas aquí: no vol que gaudeixi de la misericòrdia de Déu, vol que em condemni de totes passades, és una cosa definitiva.
+
+Aquest llibre, Senyor, ha estat presentat a Vostra Majestat; i, sens dubte, podeu judicar per vós mateix l’enuig que puc tenir de veure’m exposat cada dia als insults d’aquests senyors; i el perjudici que em causaran entre la gent unes calúmnies semblants, si són permeses; i quin interès haig de tenir a alliberar-me d’aquesta impostura i a fer veure al públic que la meva comèdia no és res d’allò que ells pretenen que sigui. No diré, Senyor, el que demanaria per a la meva reputació i per demostrar a tothom la innocència de la meva obra: els reis il·lustrats com vós no necessiten que ningú els indiqui el que desitgem; ells veuen, com Déu, el que ens cal, i saben més bé que nosaltres el que ens han d’atorgar. En tinc prou de deixar els meus interessos a les mans de Vostra Majestat, i jo n’espero, amb respecte, tot el que li plaurà de disposar sobre això.
+
+
+
+
+
+SEGONA SÚPLICA PRESENTADA AL REI
+
+al seu campament davant la ciutat de Lilla, a Flandes
+
+
+Senyor,
+
+És una cosa ben temerària que jo vingui a importunar un gran monarca enmig de les seves glorioses conquestes; però, en l’estat en què em trobo, ¿on puc trobar protecció, Senyor, sinó al lloc on la vinc a buscar? ¿I a qui puc recórrer, contra l’autoritat del poder que m’aclapara, sinó a la deu del poder i de l’autoritat, al just dispensador d’ordres absolutes, al jutge sobirà i al senyor de tota cosa?
+
+La meva comèdia, Senyor, no ha pogut gaudir aquí les bondats de Vostra Majestat. Ha estat en va que ara l’hagi presentada sota el títol de L’Impostor, i que hi hagi revestit el personatge amb l’aparença d’un home de món; en va que li hagi donat un barret petit, uns cabells abundosos, un coll ample, una espasa i randes per tot el vestit, en va que hagi suavitzat certs passatges i n’hagi suprimit amb tota cura tot allò que m’ha semblat que podia fornir l’ombra d’un pretext als cèlebres originals del retrat que volia pintar: tot això no ha servit de res. La càbala s’ha desvetllat a les simples conjectures que han pogut sentir de la cosa. Han trobat la manera de sorprendre aquells que, en tota altra matèria, fan solemne professió de no deixar-se sorprendre. Tot just sortir a la llum la meva comèdia, ja es va veure fustigada pel llamp d’un poder que ha d’imposar respecte; i tot el que he pogut fer en aquest destret per salvar-me de l’esclat d’aquesta tempesta ha estat dir que Vostra Majestat havia tingut la bondat d’autoritzar-me’n la representació, i que no havia cregut que calgués demanar aquesta autorització a ningú més, ja que no n’hi havia cap altra que me l’ha gués prohibida.
+
+No dubto gens, Senyor, que els individus que represento a la meva comèdia saben moure tots els ressorts prop de Vostra Majestat, i atreure al seu partit, com ja han fet, veritables persones de bé, que són més propenses a deixar-se enganyar perquè jutgen els altres com elles mateixes. Tenen l’art de pintar amb bells colors totes les seves intencions. Facin la cara que facin, no és pas l’interès de Déu el que els mou. Ho han demostrat prou amb les comèdies que han comportat que es representessin tants cops en públic, sense dir-ne ni mitja paraula. Aquelles només atacaven la pietat i la religió, cosa que els importa ben poc; però aquesta els ataca i els representa a ells mateixos, i això és el que no poden sofrir. No em poden perdonar que reveli les seves impostures a ulls de tothom; i, sens dubte, no deixaran de dir a Vostra Majestat que tothom s’ha escandalitzat amb la meva comèdia. Però la veritat pura, Senyor, és que allò que va escandilatzar tot París va ser el fet que fos prohibida, i que els més escrupolosos van trobar la representació profitosa, i que va fer molt estrany que persones d’una probitat tan reconeguda haguessin tingut una deferència tan gran amb gent que haurien de ser l’horror de tothom i són tan oposades a la pietat veritable de què fan professió.
+
+Espero amb respecte el veredicte que Vostra Majestat es digni pronunciar sobre la qüestió; però és cosa segura, Senyor, que no cal que jo pensi a fer més comèdies, si els tartufs se surten amb la seva, perquè llavors es creuran amb dret de perseguir-me més que mai, i voldran trobar peròs a les coses més innocents que puguin sortir de la meva ploma.
+
+Digni’s la vostra bondat, Senyor, donar-me una protecció contra la seva ràbia enverinada; i pugui jo, en tornar d’una campanya tan gloriosa, distreure Vostra Majestat de les fatigues de les seves conquestes, i donar-li plaers innocents després d’empreses tan nobles, i fer riure el monarca que fa tremolar tot Europa!
+
+
+
+
+
+TERCERA SÚPLICA PRESENTADA AL REI
+
+
+Senyor,
+
+Un metge molt honrat, de qui tinc l’honor de ser pacient, em promet —i s’hi vol comprometre davant notari— de fer-me viure trenta anys més, si li puc obtenir una gràcia de Vostra Majestat. Jo li he dit, sobre aquesta promesa, que no li demanava tant, i que ja estaria content d’ell si tan sols es comprometia a no matar-me. Aquesta gràcia, Senyor, és una canongia de la vostra capella de Vincennes, vacant per la mort de…
+
+¿Gosaré demanar aquesta nova gràcia a Vostra Majestat el mateix dia de la gran resurrecció de Tartuf, ressuscitat per la vostra bondat? Aquest primer favor m’ha reconciliat amb els devots; i aquest segon em reconciliaria amb els metges. Són per a mi, sens dubte, massa favors a la vegada; però potser no són tants per a Vostra Majestat; i espero, amb una mica d’esperança respectuosa, la resposta a la meva súplica.
+
+
+
+
+
+PERSONATGES
+
+
+SENYORA PERNELLE, mare d’Orgon
+
+ORGON, marit d’Elmira
+
+ELMIRA, muller d’Orgon
+
+DAMÍS, fill d’Orgon i fillastre d’Elmira
+
+MARIANA, filla d’Orgon, fillastra d’Elmira i enamorada de Valeri
+
+VALERI, enamorat de Mariana
+
+CLEANT, cunyat d’Orgon
+
+TARTUF, fals devot
+
+DORINA, dama de companyia de Mariana
+
+SENYOR LLEIAL, agutzil
+
+UN OFICIAL DE POLICIA
+
+LLORENÇ
+
+FLIPOTA, serventa de la senyora Pernelle
+
+L’escena és a París.
+
+
+
+
+
+ACTE I
+
+
+
+
+
+ESCENA 1
+
+
+Senyora Pernelle, Flipota, Elmira, Mariana, Dorina, Damís, Cleant
+
+SENYORA PERNELLE
+
+Anem, Flipota, anem, que jo aquí ja em fereixo.
+
+ELMIRA
+
+Aneu tan esverada que quasi no us segueixo.
+
+SENYORA PERNELLE
+
+No, no, quedeu-vos, nora, no cal que avanceu més:
+
+tots aquests compliments em resulten sobrers.
+
+ELMIRA
+
+És el degut respecte que el meu cor us professa;
+
+però, mare, com és que marxeu tan de pressa?
+
+SENYORA PERNELLE
+
+És que no puc sofrir aquest desmarxament
+
+i que ningú no em vulgui complaure ni un moment.
+
+Sí, me’n vaig de ca vostra francament disgustada:
+
+en tots els meus consells em sento contrariada,
+
+aquí no hi ha respecte, només sabeu cridar,
+
+i això és Can Seixanta, si em deixeu parlar clar.
+
+DORINA
+
+Si…
+
+SENYORA PERNELLE
+
+Amiga meva, com a dama de companyia
+
+sou massa llenguallarga, i impertinent i impia:
+
+sempre us fiqueu en tot i parleu més que set.
+
+DAMÍS
+
+Però…
+
+SENYORA PERNELLE
+
+Vós sou un ruc en tres lletres, fillet.
+
+Us ho diu la vostra àvia, que encara ho és per ara;
+
+ja he predit cent vegades al vostre pobre pare
+
+que seguíeu la traça d’un bergant insolent
+
+i que mai no sabríeu sinó dar-li turment.
+
+MARIANA
+
+Crec…
+
+SENYORA PERNELLE
+
+Déu meu, sa germana, passeu per dona dreta
+
+i sou ben enganyosa, amb l’aire de santeta;
+
+però l’aigua pitjor és l’aigua que no es mou,
+
+i el que jo hi veig a dins em fa enrere i em cou.
+
+ELMIRA
+
+Però, mare…
+
+SENYORA PERNELLE
+
+Sí, nora, no us desplagui el meu fible:
+
+el vostre procedir és del tot avorrible;
+
+hauríeu de donar-los bon exemple i lliçó,
+
+i sa difunta mare ho feia molt millor.
+
+Sou massa gastadora; i em provoca amarguesa
+
+que aneu així vestida, com si fóssiu princesa.
+
+Aquella que al marit vol plaure solament
+
+no necessita, nora, tant d’empolainament.
+
+CLEANT
+
+Però, senyora…
+
+SENYORA PERNELLE
+
+Ah, sí, germà de la subjecta,
+
+jo us aprecio molt i us estimo amb respecte;
+
+però, al lloc del meu fill, el seu marit cabal,
+
+de cor us pregaria de no tornar al casal.
+
+Prediqueu a tota hora uns principis de vida
+
+que tota ànima honesta blasmarà de seguida.
+
+Us parlo massa clar; però és el meu humor,
+
+i no em plau mossegar-me la llengua per temor.
+
+DAMÍS
+
+Aquest senyor Tartuf té una sort del diable…
+
+SENYORA PERNELLE
+
+És un home de bé de consell admirable
+
+i no puc suportar sinó amb el cor rabiós
+
+de veure’l acusat per un ximple com vós.
+
+DAMÍS
+
+Què? ¿Hauré de suportar que un crític menjaciris
+
+tingui aquí més poder que el tirà dels assiris?
+
+¿I que ara ja mai més no ens puguem divertir
+
+si aquest digne senyor no s’hi digna avenir?
+
+DORINA
+
+Si cal escoltar i creure tots els seus veredictes,
+
+no podem fer altra cosa que cometre delictes;
+
+perquè ho reprova tot, aquest crític bufat.
+
+SENYORA PERNELLE
+
+I tot el que reprova està ben reprovat.
+
+És al camí del Cel que ell pretén adreçar-vos,
+
+i el meu fill a estimar-lo hauria d’incitar-vos.
+
+DAMÍS
+
+No, àvia, aneu errada, no hi ha pare ni res
+
+que em pugui fer estimar un semblant feligrès:
+
+trairia el meu cor parlant d’altra manera;
+
+el seu comportament m’irrita i m’exaspera;
+
+preveig com anirà, i que amb aquest pollós
+
+ja no podré acabar-hi sinó com gat i gos.
+
+DORINA
+
+És de debò una cosa que tota m’horroritza
+
+veure que un foraster la casa ens tiranitza,
+
+un pobre espellifat que va arribar descalç,
+
+vestit amb uns parracs de poc més de sis rals,
+
+i que ara, oblidadís fins i tot de qui era,
+
+fa com si fos ell l’amo i en tot posa quimera.
+
+SENYORA PERNELLE
+
+Per la bossa de Judes! Tot seria millor
+
+si el món es governés pel seu piadós rigor.
+
+DORINA
+
+Només el té per sant la vostra fantasia:
+
+perquè el que fa, creieu-me, és pura hipocresia.
+
+SENYORA PERNELLE
+
+Aquesta llengua!
+
+DORINA Doncs, d’aquest i el seu criat,
+
+jo no me’n fiaria ni amb paper segellat.
+
+SENYORA PERNELLE
+
+Del que sigui el servent les mans me n’esbandeixo,
+
+però l’honra de l’amo us la ben garanteixo.
+
+Si no li voleu bé i hi esteu enrabiats
+
+és només perquè us canta a tots les veritats.
+
+És just contra el pecat que el seu cor se sulfura,
+
+i l’interès del Cel és l’únic que procura.
+
+DORINA
+
+D’acord, però llavors ¿per què, d’un temps ençà,
+
+no sofreix que ningú ens vingui a saludar?
+
+¿En què fereix el Cel una visita honesta
+
+perquè a crits embogits ens esguerri la festa?
+
+Voleu saber què en penso, d’aquest afer galdós?
+
+Crec que, de la senyora, Tartuf n’està gelós.
+
+SENYORA PERNELLE
+
+Calleu i pareu compte amb les paraules dites.
+
+Justament ell no és l’únic que us blasma les visites.
+
+Tot l’enrenou que porta aquesta gent que ve,
+
+els cotxes a la porta, aturats al carrer,
+
+i els lacais fent tabola sense cap avantatge,
+
+fan un pèssim efecte en tot el veïnatge.
+
+Vull creure que en el fons no hi passa res de mal,
+
+però fa murmurar, i això no és bon senyal.
+
+CLEANT
+
+Voleu privar que en parlin, benvolguda senyora?
+
+Ja seria una cosa del tot empipadora
+
+que per les xerrameques on ens claven pessics
+
+ens calgués renunciar als nostres bons amics.
+
+I encara que accedíssim a tan absurda cosa,
+
+la gent no callaria ni sota d’una llosa.
+
+Contra la maldiença no es coneix contenció.
+
+A les llengües idiotes no hi hem de fer atenció;
+
+esforcem-nos a viure amb tota la innocència
+
+i atorguem als xerraires una plena llicència.
+
+DORINA
+
+¿Són la veïna Dafne, i el seu pobre marit,
+
+els que ens retallen sempre, de dia com de nit?
+
+Aquells que amb la conducta provoquen més rialla
+
+són els primers que branden contra els altres la dalla;
+
+per cap cosa del món no perden l’ocasió,
+
+si una espurna endevinen de la menor passió,
+
+d’escampar-ne la nova amb tota l’alegria,
+
+afegint-hi el que vulgui la seva fantasia:
+
+pintant els fets dels altres amb inventats colors
+
+creuen justificar els seus com a millors,
+
+i amb la falsa esperança d’alguna equivalència,
+
+de les intrigues pròpies afirmar la innocència,
+
+o fer esclatar lluny d’ells alguns dels trets llançats
+
+per la censura pública que els cauen a manats.
+
+SENYORA PERNELLE
+
+Aquests raonaments són xerrameca vana.
+
+Oranta, ho sap tothom, du una vida cristiana:
+
+només pensa en el Cel; i sé de bona deu
+
+que condemna el brogit que a la casa admeteu.
+
+DORINA
+
+L’exemple és admirable, i aquesta dama és bona!
+
+És veritat que viu com una austera dona;
+
+però és l’edat la causa d’aquest zel tan ardent,
+
+que el cos ja no li admet comportar-se altrament.
+
+Mentre dels cors podia atreure els homenatges,
+
+prou que n’aprofitava a fons els avantatges;
+
+però en veure l’esclat de la carn apagar,
+
+al món, que l’abandona, ara vol renunciar,
+
+i amb un solemne vel d’altiva rigidesa
+
+dels seus encants gastats disfressa la feblesa.
+
+Aquests són els viratges de les belles d’abans:
+
+no poden suportar que els fugin els galants.
+
+En un tal abandó, una inquietud innata
+
+no els deixa altre recurs que l’estat de beata;
+
+i la severitat de la gent d’aquest cap
+
+censura tota cosa i no en perdona cap.
+
+Durament de tothom elles blasmen la vida,
+
+i no per caritat: per enveja podrida;
+
+que no poden sofrir que una altra culli els plers
+
+que ja fa temps que a elles l’edat els ha defès.
+
+SENYORA PERNELLE
+
+Són les novel·les roses el que més us agrada.
+
+A casa vostra, nora, em cal estar callada:
+
+ja teniu la senyora que fa petar el queixal.
+
+Però hi vull dir la meva, si un discurs més s’hi val:
+
+afirmo que el meu fill no ha pres millor guiatge
+
+que acollir a casa seva tan devot personatge;
+
+que el Cel, que tot ho veu, aquí dins l’ha enviat
+
+per tal de redreçar-vos l’esperit esgarriat;
+
+que per no condemnar-vos, d’ell n’hauríeu d’aprendre,
+
+perquè ell no reprèn res que no calgui reprendre.
+
+Les visites, els balls i les conversacions
+
+de l’esperit maligne són totes invencions.
+
+Allà no sentiu mai fervoroses paraules,
+
+sinó acudits ociosos, cançonetes i faules.
+
+Ben sovint el proïsme se n’endú bona part,
+
+que massa s’hi malparla del tercer com del quart.
+
+Les persones sensates estan esgarrifades
+
+amb la gran confusió de les vostres trobades:
+
+s’hi fan mil xerrameques sense com va o com ve,
+
+i com deia el mossèn el diumenge darrer,
+
+és ben bé una superba torre de Babilònia
+
+perquè a la babalà s’hi xerra en macedònia;
+
+i per tornar a la història que deia en el sermó…
+
+però té, ja se’n riu de nou, aquest senyor!
+
+Doncs aneu amb els ximples que us conviden a riure,
+
+jo ja callo… Adeu, nora: així no s’hi pot viure.
+
+El que és jo, a aquesta casa avui hi faig la creu,
+
+i farà bo si mai hi torno a posar el peu.
+
+(Donant un calbot a Flipota.)
+
+Vinga, tu, dormilega que ja comptes ovelles.
+
+Nom de Déu! Ja et faré redreçar les orelles.
+
+Au, som-hi, carallot!
+
+
+
+
+
+ESCENA 2
+
+
+Cleant, Dorina
+
+CLEANT No, no, no hi vull anar,
+
+que no tinc gens de ganes que em torni a escridassar,
+
+aquesta bona vella…
+
+DORINA Llàstima de coratge!
+
+Si ella us sentís tan sols parlar amb aquest llenguatge,
+
+us diria del cert que Déu us faci bo,
+
+però que el «vella» està del tot fora de to.
+
+CLEANT
+
+Com s’ha encès contra nostre com una posseïda!
+
+I d’aquest seu Tartuf, si n’està d’envanida!
+
+DORINA
+
+Oh, doncs això no és res, comparat amb el fill:
+
+si el veiéssiu, diríeu: «Ben bé, li falta un grill!».
+
+Les revoltes el feien prou digne d’homenatge,
+
+i per servir el seu príncep va mostrar un bon coratge;
+
+però ara s’ha tornat un beneit encantat,
+
+d’ençà que de Tartuf se’ns ha encaterinat;
+
+li diu germà, i l’estima i de cor hi consona
+
+més que amb la mare, els fills, la filla o bé la dona.
+
+i de tots els seus actes, el director prudent;
+
+el malcria i l’abraça, i no es comportaria
+
+amb una enamorada amb més manyagueria;
+
+a taula, al lloc d’honor el vol tenir assegut;
+
+i el fa feliç que endrapi com un lleó golut;
+
+i de tot li cedeix el tros més desitjable,
+
+i si rota li diu: «Quin so més saludable!».
+
+(És una serventa qui parla.)
+
+En fi, que n’està boig; és el seu gran heroi;
+
+i l’admira i per tot el cita ben cofoi;
+
+els seus actes més ínfims els tracta de miracles,
+
+i les frases que diu les considera oracles.
+
+L’altre li ha pres la mida i ho vol aprofitar,
+
+i amb mauleries múltiples el sap enlluernar;
+
+per la beateria li arrenca calerades
+
+i el dret de criticar-nos una i deu mil vegades.
+
+Fins i tot el babau que li fa de criat
+
+ens dispensa lliçons tot enfaristolat;
+
+ens ve a sermonejar amb uns ulls com taronges
+
+i ens confisca els perfums i les sedes més flonges.
+
+El traïdor l’altre dia ens va estripar amb les mans
+
+un mocador trobat en una Flor dels Sants,
+
+dient que barrejàvem, per un crim execrable,
+
+els fets de santedat amb aquells del diable.
+
+
+
+
+
+ESCENA 3
+
+
+Elmira, Mariana, Damís, Cleant, Dorina
+
+ELMIRA
+
+Heu tingut molta sort de no haver d’assistir
+
+al discurs que a la porta ens ha fet engolir.
+
+Però he vist el meu home, i ell no m’ha vist encara;
+
+vaig a dalt a esperar-lo i a fer-li bona cara.
+
+CLEANT
+
+Jo aquí l’esperaré per veure’l un moment,
+
+només vull desitjar-li un bon dia breument.
+
+DAMÍS
+
+Parleu-li del casori de la meva germana.
+
+Sospito que Tartuf ho veu de mala gana
+
+i manipula el pare perquè es vulgui desdir;
+
+i no desconeixeu com m’interessa a mi.
+
+Ma germana i Valeri cremen en dolç afecte,
+
+i jo amb la d’ell també mantinc semblant projecte;
+
+i si calgués…
+
+DORINA Ja arriba.
+
+
+
+
+
+ESCENA 4
+
+
+Orgon, Cleant, Dorina
+
+ORGON Ah! Bon dia, germà.
+
+CLEANT
+
+Ja me n’anava; em plau, però, veure-us tornar.
+
+Aquests dies, al camp, no hi ha gaire florida.
+
+ORGON
+
+Dorina… Cunyat meu, us atenc de seguida:
+
+permeteu, us ho prego, per guardar-me de mal,
+
+que m’informi una mica de l’estat del casal.
+
+Tot ha anat, aquests dies, de la millor manera?
+
+Què fa la gent de casa? La trobaré com era?
+
+DORINA
+
+La senyora va fer febreta abans-d’ahir,
+
+amb un fort mal de cap que la va adolorir.
+
+ORGON
+
+I Tartuf?
+
+DORINA Qui, Tartuf? Feliç com una abella,
+
+gros i gras, carafresc i amb la boca vermella.
+
+ORGON
+
+Pobre home!
+
+DORINA I en ser el vespre, a l’hora de sopar,
+
+el que tenia al plat ni menys ho va tocar,
+
+del mal que la punxava darrere la parpella!
+
+ORGON
+
+I Tartuf?
+
+DORINA Va sopar, tan tranquil, davant d’ella,
+
+i es va menjar amb devot fervor dues perdius
+
+i mig cuixot de xai amb salsa de nabius.
+
+ORGON
+
+Pobre home!
+
+DORINA I va passar la nit fins a l’albada
+
+sense aclucar parpella una sola vegada;
+
+els fogots li impedien poder dormisquejar,
+
+i per tenir-ne cura vam haver de vetllar.
+
+ORGON
+
+I Tartuf?
+
+DORINA Posseït d’una soneta nova,
+
+es va aixecar de taula i se’n va anar a l’alcova,
+
+i al llit, ben calentó, al punt es va arraulir,
+
+i va dormir tranquil fins l’endemà al matí.
+
+ORGON
+
+Pobre home!
+
+DORINA Finalment, parlant-li amb simpatia,
+
+la vam saber convèncer d’acceptar una sagnia,
+
+i ja va millorar en un tres i no res.
+
+ORGON
+
+I Tartuf?
+
+DORINA Es va alçar com si no tingués pes,
+
+i, protegint-se l’ànima de cap maror traïdora,
+
+per reparar la sang mancant a la senyora,
+
+en esmorzar es va beure quatre tragos de vi.
+
+ORGON
+
+Pobre home!
+
+DORINA Es troben bé tots dos, ja us ho puc dir;
+
+i ara vaig a anunciar corrents a la senyora
+
+l’interès que sentiu per la seva millora.
+
+
+
+
+
+ESCENA 5
+
+
+Orgon, Cleant
+
+CLEANT
+
+Al vostre nas, germà, la noia es riu de vós;
+
+i jo, sense intenció de posar-vos furiós,
+
+us diré francament que ho fa amb molt bon judici.
+
+En quin lloc de la terra s’ha vist semblant caprici?
+
+¿Pot un home tenir un encís tan preclar
+
+que per ell tota cosa us pugui fer oblidar?
+
+I que després d’haver-li reparat la misèria
+
+arribeu fins al punt…?
+
+ORGON Prou, prou d’aquesta dèria,
+
+que vós no coneixeu l’home de qui parleu.
+
+CLEANT
+
+És cert que no el conec, cunyat, com bé dieu;
+
+però just per saber de quin tirat seria…
+
+ORGON
+
+Germà, si el coneguéssiu, sé que us encantaria
+
+i que el vostre entusiasme ja no tindria fi.
+
+És un home… que… ha!… un home, un home, en fi.
+
+Qui en segueix les lliçons viu una pau profunda,
+
+i veu el món sencer com porqueria immunda.
+
+Sí, em transformo en un altre, quan ell em té corprès;
+
+m’ensenya a no tenir estimació per res,
+
+del meu món d’amistats l’ànima així em separa,
+
+i jo veuria morts fills, germà, dona i mare,
+
+i llavors no em sabria ni tan sols lamentar.
+
+CLEANT
+
+Uns sentiments molt nobles, ja ho crec que sí, germà!
+
+ORGON
+
+Si haguéssiu pogut veure com vam fer coneixença,
+
+us hauria inspirat la mateixa avinença.
+
+Cada dia a l’església venia, amb devoció,
+
+i se m’agenollava davant per fer oració.
+
+Atreia la mirada de la gent que el voltava
+
+per l’ardor amb què al Cel la pregària elevava;
+
+emetia sospirs amb arravatament
+
+i besava humilment la terra en tot moment;
+
+i a l’hora de sortir, ell més que jo corria
+
+i, en ser a la porta, l’aigua beneita m’oferia.
+
+Informat pel minyó, que en tot obrava igual,
+
+de la seva indigència i del seu natural,
+
+jo li dava diners i ell amb pura modèstia
+
+una part me’n volia tornar per la molèstia.
+
+«És massa», s’exclamava, «n’hi sobra la meitat;
+
+no soc mereixedor de la vostra pietat»;
+
+i quan jo refusava de voler-la reprendre,
+
+davant meu, amb els pobres se n’anava a desprendre.
+
+I, per fi, el Cel a casa me’l va fer recalar,
+
+i d’ençà de llavors tot hi ve a prosperar.
+
+Veig que a tots amonesta, i que inclús amb la dona
+
+mostra, per honor meu, una ànsia més que bona;
+
+m’adverteix si la tracten amb l’ull massa golós,
+
+i sis cops més que jo, ell se’n mostra gelós.
+
+No creuríeu fins on el seu zel es revela:
+
+s’acusa de pecar per una bagatel·la;
+
+una menuderia ja el fa escandalitzar;
+
+vet aquí que aquest dia inclús es va acusar
+
+d’haver pres una puça mentre estava en pregària,
+
+i d’haver-la esclafada amb ràbia sanguinària.
+
+CLEANT
+
+Punyeta! Esteu ben boig, germà, deixeu-m’ho dir.
+
+Amb tots aquests romanços, potser us burleu de mi?
+
+I doncs què preteneu, amb tot aquest muntatge…?
+
+ORGON
+
+Germà, el vostre discurs sona a llibertinatge:
+
+n’esteu, endins de l’ànima, un pèl emmetzinat
+
+i, com més de deu cops us he prou remarcat,
+
+acabarà per dur-vos pel camí d’un calvari.
+
+CLEANT
+
+És dels vostres semblants el discurs ordinari:
+
+ens volen cecs com ells, amb l’ull tapat de pa,
+
+i troben llibertí el fet de veure-hi clar,
+
+i que el que no venera les farses ensucrades
+
+no té fe ni respecte per les coses sagrades.
+
+Vinga, els vostres discursos no em fan gota de por:
+
+sé el que dic, i que el Cel em sap llegir millor,
+
+que no soc pas esclau de posturers cansosos.
+
+Hi ha tants falsos devots com falsos coratjosos;
+
+i com que no es veu pas que on els mena l’honor
+
+siguin els coratjosos els que fan més remor,
+
+els autèntics devots, que cal seguir en ventura,
+
+tampoc no són aquells que fan tanta postura.
+
+Així, doncs, què? Digueu: ¿vós no feu distinció
+
+entre la hipocresia i allò que és devoció?
+
+¿Vós els voleu tractar amb un semblant llenguatge,
+
+i retre a cara i màscara el mateix homenatge,
+
+igualar l’artifici amb la sinceritat,
+
+confondre l’aparença amb la realitat,
+
+avaluar el fantasma igual que la persona
+
+i la moneda falsa com la legal rodona?
+
+La major part dels homes són estranyament fets!
+
+Dins la justa natura mai no se’ls veu retrets;
+
+la raó té per ells uns confins massa tímids;
+
+i en tota circumstància n’ultrapassen els límits;
+
+i la més noble cosa sovint la fan malbé
+
+per voler-se excedir i anar al cap del carrer.
+
+Tot això, cunyat meu, sigui dit de passada.
+
+ORGON
+
+Ah, sí, vós sou un savi de gran anomenada;
+
+tot el saber del món en vós s’ha concentrat;
+
+sou l’únic saberut i l’únic il·lustrat,
+
+un oracle, un Cató en aquest segle nostre;
+
+i tots els altres homes, uns rucs, al costat vostre.
+
+CLEANT
+
+No soc pas, cunyat meu, un savi respectat,
+
+ni tampoc el saber en mi s’ha concentrat.
+
+Però és ben cert que sé, com a única ciència,
+
+entre el fals i l’autèntic trobar la diferència.
+
+I així com no sé veure un heroi més remot
+
+i digne de lloança que el perfecte devot,
+
+ni cap cosa a la terra més noble i més preciosa
+
+que un veritable zel d’ànima fervorosa,
+
+igualment no veig res que sigui més odiós
+
+que un defora pintat amb un zel especiós,
+
+que aquests grans xarlatans, devots de galeria
+
+que amb ganyota sacrílega, enganyosa i impia,
+
+impunement es burlen, rifant-se’n al seu grat,
+
+d’allò que els homes tenen de més sant i sagrat,
+
+aquests que, per una ànima a l’interès sotmesa,
+
+fan de la devoció ofici d’avidesa,
+
+i volen adquirir crèdit i dignitats
+
+amb falsos parpellejos i èxtasis afectats,
+
+aquests, us dic, que es veuen amb ardor no comuna
+
+pel caminal del cel empaitar la fortuna,
+
+que, ardents i suplicants, mendiquen en tot punt
+
+i, cortesans, prediquen el retir més profund,
+
+que saben ajustar el zel amb els seus vicis,
+
+són violents, venjatius, astuts, plens d’artificis,
+
+i per fer perdre algú tapen insolentment
+
+amb l’interès del Cel el seu ressentiment,
+
+i són en l’aspra còlera força més redubtables,
+
+perquè ens mouen la guerra amb armes venerables,
+
+i la seva passió, que els aplaudim de grat,
+
+ens vol assassinar amb un ferro sagrat.
+
+Aquest caràcter fals massa es veu aparèixer,
+
+però els devots de cor són fàcils de conèixer.
+
+El nostre temps, germà, ens en posa al davant
+
+més d’un que ens pot servir d’exemple edificant:
+
+penseu en Aristó, penseu en Periandre,
+
+Oronte i Alcidames, Polidor o Clitandre;
+
+no els ha estat aquest títol per ningú debatut;
+
+no són de cap manera fanfarrons de virtut;
+
+en aquests no hi trobeu el fast insuportable,
+
+la seva devoció és humana, és tractable;
+
+no censuren tothora els nostres fets i accions;
+
+troben excés d’orgull en semblants correccions;
+
+i així, mentre aquells altres amb furor agredeixen,
+
+ells pels seus propis actes els nostres corregeixen;
+
+l’aparença del mal no troba en ells suport,
+
+i a judicar bé els altres els empeny el seu cor.
+
+No els atreuen les càbales, ni molt menys les intrigues;
+
+volen honestament viure sense fatigues;
+
+amb qui ha pecat no gasten mai acarnissament;
+
+es guarden l’aversió pel pecat solament,
+
+i no volen emprendre amb ardor excessiva
+
+les comeses de Déu més que Ell no les abriva;
+
+aquí ho teniu, senyors, així ens cal actuar,
+
+aquí teniu l’exemple que ens hem de proposar.
+
+Val a dir que el vostre home no és pas així que alena:
+
+i cal molt bona fe per lloar-ne la mena;
+
+però una falsa llum el seny us fa obscurir.
+
+ORGON
+
+Estimat cunyat meu, ja us heu esbravat?
+
+CLEANT Sí.
+
+ORGON
+
+Si sou servit, senyor.
+
+(Se’n vol anar.)
+
+CLEANT Si us plau, no tingueu pressa.
+
+Parlant d’una altra cosa: ¿heu fet promesa expressa
+
+de fer gendre Valeri, segons que sento dir?
+
+ORGON
+
+Sí.
+
+CLEANT
+
+I ja teníeu data per un enllaç així.
+
+ORGON
+
+És cert.
+
+CLEANT I per què, doncs, n’heu ajornat la festa?
+
+ORGON
+
+No ho sé.
+
+CLEANT Potser teniu una altra idea llesta?
+
+ORGON
+
+Potser sí.
+
+CLEANT Traireu la vostra pròpia fe?
+
+ORGON
+
+Jo no dic pas això.
+
+CLEANT Doncs crec que no hi ha re
+
+que us pugui entrebancar de complir les promeses.
+
+ORGON
+
+Segons…
+
+CLEANT Per dir un sol mot calen tantes fineses?
+
+Valeri per això m’ha pregat de venir.
+
+ORGON
+
+Alabat sia Déu!
+
+CLEANT Però què li haig de dir?
+
+ORGON
+
+Allò que més us plagui.
+
+CLEANT Però és que és necessari
+
+saber els vostres designis. Quins són?
+
+ORGON De contestar-hi
+
+allò que el Cel voldrà.
+
+CLEANT Parlem amb precisió.
+
+Ho heu promès a Valeri: ho mantindreu o no?
+
+ORGON
+
+Adeu.
+
+CLEANT Aquest amor perilla prou i massa.
+
+Ja cal que l’adverteixi de tot això que passa.
+
+
+
+
+
+ACTE II
+
+
+
+
+
+ESCENA 1
+
+
+Orgon, Mariana
+
+ORGON
+
+Mariana.
+
+MARIANA Pare meu.
+
+ORGON Veniu, que tinc de què
+
+parlar-vos en secret.
+
+MARIANA I què busqueu?
+
+ORGON (Mirant un recambró contigu.) Saber
+
+si hi ha ningú a la vora que aquí ens pogués malprendre,
+
+perquè aquest raconet sembla fet per sorprendre.
+
+Doncs no, tot està en ordre. Mariana meva, en vós
+
+jo he conegut de sempre un cor molt obsequiós,
+
+i de sempre també vós m’heu estat molt cara.
+
+MARIANA
+
+I us agraeixo molt aquest amor de pare.
+
+ORGON
+
+Molt ben parlat, filleta; sempre el podeu guanyar
+
+si tan sols teniu cura de fer-me acontentar.
+
+MARIANA
+
+Per assolir tal glòria sempre em veureu disposta.
+
+ORGON
+
+Bé. Què us sembla Tartuf, el nostre estimat hoste?
+
+MARIANA
+
+A mi?
+
+ORGON Sí, a vós. Vejam, penseu què responeu.
+
+MARIANA
+
+Ai Senyor! Doncs em sembla tot allò que vulgueu.
+
+ORGON
+
+Això és parlar amb prudència. Així, digueu-me, filla,
+
+que en la seva persona un alt mèrit hi brilla,
+
+que us conquereix el cor, i que us fora agraït
+
+que per la meva tria fos el vostre marit.
+
+Eh?
+
+(Mariana recula amb sorpresa.)
+
+MARIANA Eh?
+
+ORGON Què hi ha?
+
+MARIANA Així…
+
+ORGON Què?
+
+MARIANA Que us he entès bé, pare?
+
+ORGON
+
+Com?
+
+MARIANA Justament això: ¿qui em voleu fer dir ara
+
+que em conquereix el cor, i que em fora agraït
+
+que per la vostra tria fos el meu bon marit?
+
+ORGON
+
+Tartuf.
+
+MARIANA No hi ha tal cosa, ho juro per ma vida.
+
+Per què em voleu fer dir una semblant mentida?
+
+ORGON
+
+Però jo vull que això sigui una veritat,
+
+i ja us ha de bastar que jo ho hagi triat.
+
+MARIANA
+
+Doncs què? Voleu…?
+
+ORGON Sí, filla, que pel casori vostre
+
+el bon amic Tartuf sigui família nostra.
+
+Serà el vostre marit, ho he decidit així;
+
+i com que sobre vós jo…
+
+
+
+
+
+ESCENA 2
+
+
+Dorina, Orgon, Mariana
+
+ORGON Doncs què hi feu, aquí?
+
+Quina curiositat heu de tenir tan forta
+
+per venir així a escoltar darrere de la porta!
+
+DORINA
+
+Realment, no sé pas si és un rumor sortit
+
+d’alguna conjectura, o un atzar fortuït,
+
+però d’aquest casori n’he sentit la notícia,
+
+i el que és jo l’he tractada com a pura immundícia.
+
+ORGON
+
+Doncs què? Tan increïble és això?
+
+DORINA Fins al punt
+
+que ni dels vostres llavis, senyor, me’n crec un punt.
+
+ORGON
+
+Sé com fer-vos-ho creure sense gaire oratòria.
+
+DORINA
+
+Sí, sí, conteu-nos ara una bonica història.
+
+ORGON
+
+Jo conto allò només que es veurà d’aquí a poc.
+
+DORINA
+
+Romanços!
+
+ORGON El que dic, filleta, no és cap joc.
+
+DORINA
+
+Au, vinga, no us cregueu això que us diu el pare:
+
+està de broma.
+
+ORGON Us dic…
+
+DORINA Per més que digueu ara
+
+no us creurem ni una mica.
+
+ORGON Doncs si em poso furiós…
+
+DORINA
+
+D’acord, doncs, us creiem! Però pitjor per vós.
+
+Què? ¿Com s’entén, senyor, que amb l’aire de prudència
+
+i amb aquesta barbassa d’esplèndida presència,
+
+sigueu ara tan boig de pretendre…?
+
+ORGON Escolteu,
+
+aquestes llibertats que a casa us permeteu
+
+no m’agraden ni gota; així us ho dic, amiga.
+
+DORINA
+
+No ens enfadem, si us plau, parlem sense fatiga.
+
+Us burleu de la gent, ordint aquest complot?
+
+La vostra filla no és partit per un devot:
+
+l’home té altres cabòries per pensar amb delectança.
+
+I què us aporta, a més, una semblant aliança?
+
+¿A què treu cap triar, vós que sou hisendat,
+
+un gendre pelacanyes?…
+
+ORGON Calleu! Que ser un pelat
+
+el fa més digne d’una veneració admirada.
+
+És, la seva misèria, una misèria honrada;
+
+per damunt les grandeses això l’ha d’elevar
+
+ja que de tots els béns s’ha deixat despullar
+
+per una descurança de les coses externes
+
+i una intensa atracció per les coses eternes.
+
+El meu ajut, però, li pot donar els mitjans
+
+per tornar-lo, alleujat, al bon estat d’abans.
+
+Que al seu país conserva molt bona anomenada;
+
+i és tot un gentilhome, doneu-li una mirada.
+
+DORINA
+
+Sí, és ell qui ho diu així; i aquesta vanitat,
+
+senyor, deixeu-m’ho dir, no casa amb la pietat.
+
+Qui d’una santa vida abraça la innocència
+
+no es vanta així del nom i de la procedència,
+
+i l’humil tarannà de tota devoció
+
+no aguanta bé els esclats d’una tal ambició.
+
+A què ve aquest orgull?… Ui, això us esborrona:
+
+deixem, doncs, la noblesa; parlem de la persona.
+
+¿Fareu posseïdor, sense gens de tropell,
+
+d’una noia com ella un homenet com ell?
+
+¿I no us caldria, doncs, pensar en les conveniències,
+
+i preveure del fet totes les conseqüències?
+
+Penseu que d’una noia n’arrisqueu la virtut
+
+si dins el matrimoni el seu gust hi és retut,
+
+que el designi de viure-hi com a honesta persona
+
+depèn dels dots de l’home que talment se li dona,
+
+i que aquells que indiquem posant un dit al front
+
+són els que fan les dones que siguin el que són.
+
+No és fàcil mantenir-se fidel i falaguera
+
+a certs marits pastats d’una certa manera;
+
+i qui dona la filla a qui ella no vol
+
+és reu al Cel d’aquells malfets que ella resol.
+
+Penseu a quins perills aquest designi us lliura.
+
+ORGON
+
+Vet aquí que ara aquesta vol ensenyar-me a viure!
+
+DORINA
+
+Faríeu bé d’aprendre de les meves lliçons.
+
+ORGON
+
+Deixem-nos, filla meva, de faules i cançons:
+
+jo sé el que us convé més, i soc el vostre pare.
+
+Us havia promès a Valeri, abans d’ara;
+
+però a més de saber que amb el joc és afí,
+
+tinc la sospita encara que és un xic llibertí:
+
+no veig que a les esglésies hi faci gaire vida.
+
+DORINA
+
+¿Voleu que hi vagi a l’hora per vós estatuïda,
+
+com aquell que no hi va sinó per ser notat?
+
+ORGON
+
+El parer sobre això, potser us l’he demanat?
+
+L’altre manté amb el Cel una amistat pregona,
+
+i això és una riquesa de cap altra segona.
+
+Aquest noble himeneu us omplirà de béns,
+
+de dolçors i plaers d’allò més esplendents.
+
+Viureu en comunió, en les ardors més netes,
+
+talment com dos infants, com dues tortoretes;
+
+en cap aspra disputa mai no us enredareu,
+
+i fareu d’aquest home tot allò que voldreu.
+
+DORINA
+
+Un banyut, en farà! Veieu qui us ho assegura.
+
+ORGON
+
+Déu! Quin parlar!
+
+DORINA Jo us dic que ja en té la figura,
+
+i que el seu ascendent sens dubte prevaldrà
+
+sobre l’alta virtut que la noia tindrà.
+
+ORGON
+
+No em torneu a interrompre, i estigueu-vos callada,
+
+i deixeu de ficar pertot la cullerada.
+
+DORINA
+
+Senyor, si hi dic la meva és pel vostre interès.
+
+(Continua interrompent-lo sempre que es gira a parlar amb la filla.)
+
+ORGON
+
+Hi preneu massa cura: calleu ja, m’heu entès?
+
+DORINA
+
+Si no us tingués afecte…
+
+ORGON No vull el vostre afecte.
+
+DORINA
+
+Jo us en tindré igualment, senyor, amb tot el respecte.
+
+ORGON
+
+Ah!
+
+DORINA El vostre honor m’importa, i no puc pas sofrir
+
+que a la pública burla us aneu a oferir.
+
+ORGON
+
+No callareu mai més?
+
+DORINA És un cas de consciència
+
+deixar-vos fer una aliança de tanta conseqüència.
+
+ORGON
+
+No callaràs, serpeta de verinós nyeu-nyeu…?
+
+DORINA
+
+Ah, tan devot que sou, i així us enfurismeu?
+
+ORGON
+
+Sí, la bilis em bull sentint tanta ximplesa,
+
+i que callis t’ordeno amb tota la fermesa.
+
+DORINA
+
+D’acord. Però, callant, no ho deixo de pensar.
+
+ORGON
+
+Pensa el que et vingui bé, però el que has de mirar
+
+és de no dir-me’n res, o… Prou.
+
+(Girant-se a la filla.)
+
+El que és jo, amb sàvia
+
+prudència ho he pensat, tot plegat.
+
+DORINA Quina ràbia,
+
+no poder-ne parlar!
+
+(Calla quan Orgon gira el cap.)
+
+ORGON Sense ser un figurí,
+
+Tartuf té una figura…
+
+DORINA Oi tant, i un morro fi!
+
+ORGON
+
+I fins si no tinguessis ni un bri de simpatia
+
+per tots els altres dons…
+
+(Se li gira de cara, i la mira plegat de braços.)
+
+DORINA Així la sentencia!
+
+Si jo fos al seu lloc, cap home certament
+
+no es casaria amb mi per força impunement;
+
+i li faria veure poc després de la festa
+
+que una dona té sempre una venjança llesta.
+
+ORGON
+
+Així, del que jo dic no en penses fer ni cas?
+
+DORINA
+
+I ara què rondineu? Amb vós no hi parlo pas.
+
+ORGON
+
+Doncs què és això que fas?
+
+DORINA Em parlo a mi mateixa.
+
+ORGON
+
+Molt bé. Per castigar tan descarada queixa,
+
+el que haig de fer és donar-li un revés de la mà.
+
+(Es posa en posició de pegar-li una cleca; i Dorina, a cada mirada seva, es manté dreta, sense parlar.)
+
+Filla, el que he decidit, ara ho heu d’aprovar…
+
+que el marit que us triava… sobre la meva firma…
+
+Que no tens res a dir-te?
+
+DORINA No, no tinc res a dir-me.
+
+ORGON
+
+Au, vinga, una paraula.
+
+DORINA Ara no em ve de grat.
+
+ORGON
+
+Perquè ja t’esperava.
+
+DORINA Quina imbecil·litat!
+
+ORGON
+
+Ara, filleta, us cal pagar-me amb obediència,
+
+mostrant per l’elegit completa deferència.
+
+DORINA (Sortint corrents.)
+
+Jo pla m’hi casaria, amb un de tan galdós!
+
+(Orgon li vol donar una bufa, però falla.)
+
+ORGON
+
+És una mala pesta, la que teniu amb vós,
+
+amb qui sense pecar jo no sabria estar-hi.
+
+No tinc per prosseguir l’assossec necessari:
+
+el seu parlar insolent em treia de fogó,
+
+i ara em cal prendre l’aire per trobar-me millor.
+
+
+
+
+
+ESCENA 3
+
+
+Dorina, Mariana
+
+DORINA
+
+Ara, si us plau, digueu-me: heu perdut, doncs, la parla?
+
+O també aquesta part seré jo a defensar-la?
+
+Suportar que us proposin un projecte insensat,
+
+sense que una paraula hi hàgiu contraposat!
+
+MARIANA
+
+Contra un pare absolut, digue’m què vols que hi faci.
+
+DORINA
+
+El que cal per guardar-vos d’un semblant desficaci.
+
+MARIANA
+
+Què?
+
+DORINA Doncs dir-li que un cor no estima per poders,
+
+que és per vós que us caseu, no pas per ell, ai ves,
+
+i que si sou aquella per qui l’afer s’instaura,
+
+és a vós, i no a ell, que el marit ha de plaure,
+
+i que si el seu Tartuf és tan encantador
+
+ja s’hi pot casar ell sense més dilació.
+
+MARIANA
+
+És cert que sobre nostre té tant poder, un pare,
+
+que no he tingut la força de dir-li res encara.
+
+DORINA
+
+Anem a pams. Valeri ha fet per vós el pas:
+
+per favor, l’estimeu, o no li fareu cas?
+
+MARIANA
+
+Quina gran injustícia amb el meu cor t’apunta,
+
+Dorina! Com pots fer-me una semblant pregunta?
+
+T’he obert el cor cent cops als meus delits d’amor
+
+i no saps com per ell s’encén la meva ardor?
+
+DORINA
+
+I jo ¿com sé que el cor ha parlat per la boca
+
+i que per tal amant el seu batre es desboca?
+
+MARIANA
+
+Em fas un tort, Dorina, si en pots així dubtar,
+
+que els sentiments més fondos no t’he volgut celar.
+
+DORINA
+
+Així, doncs, l’estimeu?
+
+MARIANA Sí, amb una ardor immensa.
+
+DORINA
+
+I ell us estima igual, d’acord amb l’aparença?
+
+MARIANA
+
+Així ho crec.
+
+DORINA ¿I tots dos us deliu igualment
+
+per veure-us ben casats, per fi?
+
+MARIANA Ben certament.
+
+DORINA
+
+I sobre l’altra unió ja teniu cap pensada?
+
+MARIANA
+
+Sí, llevar-me la vida si m’hi veig violentada.
+
+DORINA
+
+Molt bé: en aquest recurs no hi havia pensat;
+
+només us cal morir, i problema acabat;
+
+un remei fabulós, sens dubte. Com m’altera
+
+del tot sentir parlar d’una semblant manera!
+
+MARIANA
+
+Déu meu, Dorina meva, quin humor tan dolent!
+
+No et fan pena els disgustos que passa l’altra gent.
+
+DORINA
+
+No em fa pena ningú que digui estupideses
+
+i s’arronsi com vós davant les escomeses.
+
+MARIANA
+
+Què vols, si soc tan tímida que en sento feredat?
+
+DORINA
+
+Doncs l’amor exigeix a l’ànim fermetat.
+
+MARIANA
+
+I no en tenia prou pels ardors de Valeri?
+
+I ell no m’ha d’obtenir del paternal imperi?
+
+DORINA
+
+Però, si el vostre pare és un boig rematat
+
+que està del seu Tartuf completament cofat
+
+i ara manca a la unió abans emparaulada,
+
+la culpa al vostre amant podria ser imputada?
+
+MARIANA
+
+Però un refús rotund i un menyspreu evident
+
+no creus que trairien un cor massa roent?
+
+¿Haig de deixar per ell, radiant i tot com brilla,
+
+el pudor del meu sexe i el deure d’una filla?
+
+I vols els meus ardors manifestos arreu…?
+
+DORINA
+
+No, no, jo no vull res. Ja veig que vós voleu
+
+ser del senyor Tartuf, i en la meva confiança
+
+m’equivoco allunyant-vos d’una semblant aliança.
+
+Per què us discutiria un anhel tan frisós?
+
+El partit d’ell mateix és molt avantatjós.
+
+Senyor Tartuf! No és broma, això que se us proposa.
+
+Cert que el senyor Tartuf, si es mira bé la cosa,
+
+no es moca amb mitja màniga, que és un home trempat,
+
+i no és pas poca sort de ser-ne la meitat.
+
+Ja tothom a la terra amb la glòria el corona;
+
+és noble al seu país, ben fet de la persona;
+
+té l’orella vermella i el color ben florit:
+
+viureu ben satisfeta amb un semblant marit.
+
+MARIANA
+
+Déu meu!…
+
+DORINA Quina alegria a l’ànima tan bona,
+
+quan d’un marit tan fi us sentireu la dona!
+
+MARIANA
+
+Prou! Atura, si et plau, un discurs tan eixut,
+
+i contra aquest casori ofereix-me un ajut.
+
+No puc més, em rendeixo, faré el que calgui, ara.
+
+DORINA
+
+No, no, cal que una filla obeeixi el seu pare,
+
+encara que la casi amb un mico filós.
+
+Amb quin dret us queixeu? Sou ben sortosa, vós.
+
+Us durà amb diligència fins a la seva vila,
+
+on oncles i cosins us hi rebran en fila,
+
+i us fareu un plaer de poder-hi parlar;
+
+primer, amb les forces vives us faran aturar;
+
+per alta benvinguda, visitareu d’entrada
+
+la senyora batllessa, també la delegada,
+
+que en cadira plegable us sabran honorar.
+
+Allà, per Carnaval, hi podeu esperar
+
+ball amb la reial banda, vol dir dues musetes
+
+i el mico Fagotí i quatre marionetes,
+
+però si el vostre espòs…
+
+MARIANA Ai, ai, tu em vols matar!
+
+Ara aconsella’m bé i mira’m d’ajudar.
+
+DORINA
+
+Soc serventa.
+
+MARIANA Si et plau, no em neguis la fermança…
+
+DORINA
+
+Us mereixeu, en càstig, que es faci aquesta aliança.
+
+MARIANA
+
+Dorina!
+
+DORINA No.
+
+MARIANA Si et plau, si el que t’he confiat…
+
+DORINA
+
+Tartuf és el vostre home, i li fareu costat.
+
+MARIANA
+
+Tu saps molt bé que sempre te m’he obert, refiada:
+
+Fes-me…
+
+DORINA No, vós sereu del cert entartufada!
+
+MARIANA
+
+Bé, si la meva sort ni tan sols et commou,
+
+amb el meu desconhort deixa’m sola de nou:
+
+amb ell el cor tindrà la inexorable ajuda
+
+que convé al meu destret, com mai no l’ha tinguda.
+
+(Fa per anar-se’n.)
+
+DORINA
+
+Au, va, torneu aquí. La ràbia se m’ha fos.
+
+Cal, a desgrat de tot, tenir pietat de vós.
+
+MARIANA
+
+Mira, si tant m’exposen a aquest cruel martiri,
+
+fixa’t què et dic, Dorina, no t’estranyi que expiri.
+
+DORINA
+
+Deixeu de turmentar-vos. Ho anirem trampejant
+
+amb astúcia… Aquí ve Valeri, el vostre amant.
+
+
+
+
+
+ESCENA 4
+
+
+Valeri, Mariana, Dorina
+
+VALERI
+
+M’he assabentat, senyora, d’una notable nova
+
+que jo desconeixia i que sens dubte us prova.
+
+MARIANA
+
+Quina?
+
+VALERI Que us casareu amb Tartuf.
+
+MARIANA Sí, cal dir
+
+que el pare s’ha entestat a decidir-ho així.
+
+VALERI
+
+Però és que el vostre pare…
+
+MARIANA Ha canviat de pensada:
+
+la cosa tot just ara me l’ha manifestada.
+
+VALERI
+
+Així, seriosament?
+
+MARIANA Oi tant, seriosament.
+
+Està molt decidit amb aquest casament.
+
+VALERI
+
+I el vostre cor ¿per quin partit es manifesta,
+
+senyora?
+
+MARIANA No ho sé pas.
+
+VALERI Una resposta honesta.
+
+No ho sabeu, doncs?
+
+MARIANA No.
+
+VALERI No?
+
+MARIANA Què m’aconsellaríeu?
+
+VALERI
+
+Que el prengueu per marit, que molt hi guanyaríeu.
+
+MARIANA
+
+Això m’aconselleu?
+
+VALERI Sí.
+
+MARIANA Del cert?
+
+VALERI No en dubtéssiu.
+
+L’elecció és ben gloriosa: no la desestiméssiu.
+
+MARIANA
+
+Molt bé! Un consell, senyor, sens dubte benvingut.
+
+VALERI
+
+No us costarà seguir-lo, n’estic ben convençut.
+
+MARIANA
+
+No, no pas més que a vós donar-lo per millora.
+
+VALERI
+
+Jo us l’he donat només per complaure-us, senyora.
+
+MARIANA
+
+El que és jo, el seguiré just per fer-vos plaer.
+
+DORINA
+
+Aviam què en sortirà d’això, aneu a saber.
+
+VALERI
+
+Així és com estimeu? I doncs dèieu mentida
+
+llavors…?
+
+MARIANA Si us plau, deixem-ho, us prego per ma vida.
+
+Vós m’heu dit amb franquesa que em pertoca acceptar
+
+aquell que per marit m’han volgut presentar:
+
+i jo per mi us declaro que no penso mancar-hi,
+
+vist que vós me’n doneu consell tan salutari.
+
+VALERI
+
+No prengueu per excusa les meves intencions.
+
+Ja havíeu pres abans les vostres decisions;
+
+i us valeu d’un pretext banal com una faula
+
+per donar-vos raó de trencar la paraula.
+
+MARIANA
+
+És així, molt ben dit.
+
+VALERI Oi tant, i el vostre cor
+
+no ha sentit mai per mi un ardor gaire fort.
+
+MARIANA
+
+És clar, tal opinió us ha de ser permesa.
+
+VALERI
+
+Permesa, sí; però la meva ànima ofesa
+
+en un semblant designi potser us avançarà,
+
+i sé on lliurar el deler i on oferir la mà.
+
+MARIANA
+
+Ah, no en dubto ni mica; que les ardors que abranda
+
+el mèrit…
+
+VALERI Déu, deixem el mèrit a una banda:
+
+en tinc ben poc, sens dubte, i vós ho heu demostrat.
+
+Però espero que una altra em mostrarà bondat,
+
+i sé d’una bella ànima que, al meu retir oberta,
+
+consentirà a guarir una pèrdua tan certa.
+
+MARIANA
+
+La pèrdua no és pas gran; i d’aquest mudament
+
+us en consolareu d’allò més fàcilment.
+
+VALERI
+
+Prou hi faré el que pugui, fins a cantar victòria.
+
+Quan un cor ens oblida ens compromet la glòria;
+
+i llavors a oblidar-lo l’esforç cal invertir:
+
+i si no ens en sortim, almenys ho hem de fingir;
+
+i aquesta covardia mai de mai no es perdona,
+
+de mostrar amor a algú que alhora ens abandona.
+
+MARIANA
+
+Un sentiment, sens dubte, ben noble i elevat.
+
+VALERI
+
+Sens dubte, i per tothom haurà de ser aprovat.
+
+¿Voldríeu que per sempre, dins l’ànima nafrada,
+
+hi mantingués per vós la roent flamarada,
+
+i us veiés, als meus ulls, agafar una altra mà,
+
+sense dur a una altra el cor que heu volgut rebutjar?
+
+MARIANA
+
+Al contrari: el que és jo, no desitjo altra cosa;
+
+i fins voldria ja que fos cosa conclosa.
+
+VALERI
+
+Així, ho voldríeu?
+
+MARIANA Sí.
+
+VALERI Deixeu-me d’insultar,
+
+senyora, que en això us sabré acontentar.
+
+(Fa un pas per sortir, però torna enrere.)
+
+MARIANA
+
+Bé.
+
+VALERI Recordeu, però, que és la vostra persona
+
+qui a aquest esforç extrem m’empeny i m’esperona.
+
+MARIANA
+
+Sí.
+
+VALERI I que la decisió que el cap ha concebut
+
+no és sinó a exemple vostre.
+
+MARIANA A exemple meu, rebut.
+
+VALERI
+
+Bé, ja n’hi ha prou: sereu degudament servida.
+
+MARIANA
+
+Millor.
+
+VALERI No em veureu més la resta de la vida.
+
+MARIANA
+
+Meravellós.
+
+VALERI (Se’n va, i quan és a la porta es gira.)
+
+Eh?
+
+MARIANA Què?
+
+VALERI Que m’heu cridat, potser?
+
+MARIANA
+
+Jo? Ho heu somiat.
+
+VALERI D’acord! Me’n vaig, doncs, al carrer.
+
+Adeu, senyora.
+
+MARIANA Adeu, senyor.
+
+DORINA Doncs jo diria
+
+que perdeu el senderi, amb tanta ximpleria;
+
+i us he deixat fins ara discutir i barallar,
+
+per veure tot això on anava a parar.
+
+Alto, senyor Valeri!
+
+(L’agafa del braç, i ell fingeix una gran resistència.)
+
+VALERI Ara, què vols, Dorina?
+
+DORINA
+
+Veniu aquí.
+
+VALERI No, no, el despit em domina.
+
+I no em faràs desdir d’allò que ella ha escollit.
+
+DORINA
+
+Atureu-vos.
+
+VALERI No, dona. Això està decidit.
+
+DORINA
+
+Ah!
+
+MARIANA No suporta veure’m, ni la meva presència,
+
+val més que marxi ara amb tota diligència.
+
+DORINA (Deixa Valeri i corre cap a Mariana.)
+
+Ara l’altra! On aneu?
+
+MARIANA Deixa’m.
+
+DORINA Heu de venir.
+
+MARIANA
+
+No t’hi esforcis, Dorina; no em podràs retenir.
+
+VALERI
+
+Veig que la meva vista és per ella un suplici,
+
+val més que l’alliberi d’un cop d’aquest desfici.
+
+DORINA (Deixa Mariana i corre cap a Valeri.)
+
+Ja hi tornem! El diable us voldria, el golós!
+
+Deixeu tanta comèdia, veniu aquí tots dos.
+
+(Els acosta l’un a l’altre.)
+
+VALERI
+
+Quina en portes de cap?
+
+MARIANA Què pretens fer, Dorina?
+
+DORINA
+
+Ajudar el vostre amor i tallar la renyina.
+
+Sou boig d’embolicar-vos en semblant altercat?
+
+VALERI
+
+Però que no has sentit en quin to m’ha parlat?
+
+DORINA
+
+Sou boja de deixar-vos anar tan inflamada?
+
+MARIANA
+
+Però que no ho has vist, com he estat maltractada?
+
+DORINA
+
+Sou ben beneits tots dos. Ella no vol ser re
+
+si no pot ser per vós, us en puc donar fe.
+
+I ell us estima a vós i altra cosa no el crida
+
+que ser el vostre marit; en responc amb la vida.
+
+MARIANA
+
+Per què, doncs, oferir-me un consell terminant?
+
+VALERI
+
+Per què, doncs, demanar-me’n sobre un tema semblant?
+
+DORINA
+
+Sou ben bojos, tots dos. Vinga, les mans, per mostra!
+
+Au, vós.
+
+VALERI (Donant la mà a Dorina.)
+
+Per què la vols, la mà?
+
+DORINA Vinga, la vostra.
+
+MARIANA (Donant també la mà.)
+
+De què serveix, això?
+
+DORINA Déu meu! Apa, avanceu.
+
+Us estimeu tots dos molt més del que us penseu.
+
+VALERI
+
+Però, si us plau, no feu les coses com qui hi pena,
+
+i mireu-vos de cara sense odi de cap mena.
+
+(Mariana gira els ulls cap a Valeri i somriu una mica.)
+
+DORINA
+
+Els amants són tots bojos, sols o de dos en dos!
+
+VALERI
+
+Doncs, què? No tinc raó de queixar-me de vós?
+
+I per no dir mentida, ¿no heu estat ben dolenta
+
+de complaure-us a dir-me una cosa cruenta?
+
+MARIANA
+
+Però vós no sou l’home més tristament ingrat…?
+
+DORINA
+
+Per a una altra ocasió deixem aquest debat,
+
+i mirem d’evitar tan absurd matrimoni.
+
+MARIANA
+
+Digue’ns, doncs, quin ressort seria el més idoni.
+
+DORINA
+
+Reunim totes les armes, que ens en valdrem a fons.
+
+El pare està de broma, i això són tot cançons;
+
+vós per combatre aquesta extravagància immensa
+
+d’un dolç consentiment adopteu l’aparença
+
+a fi que en cas d’alarma us vingui més rodat
+
+donar allargues a aquest casament proposat.
+
+Que, si s’estira el temps, tot entrebanc s’obvia.
+
+Un dia fingireu alguna malaltia
+
+que arribarà de cop i voldrà ajornaments;
+
+un altre, fingireu uns presagis dolents:
+
+perquè heu topat un mort al bell mig de la ruta,
+
+o trencat un mirall, o somiat aigua bruta.
+
+El cas és que amb ningú, llevat d’aquest d’aquí,
+
+no us puguin enllaçar, si no hi dieu que sí.
+
+Però, per anar bé, serà millor, diria,
+
+que no us vegin plegats, ni de nit ni de dia.
+
+(A Valeri.)
+
+Au, aneu a buscar tots els amics de pes
+
+perquè us facin valer el que se us ha promès.
+
+Nosaltres al germà demanarem ajuda
+
+i farem que la sogra amb vós quedi avinguda.
+
+Adeu.
+
+VALERI (A Mariana.)
+
+Per més que hi fem com uns conspiradors,
+
+jo poso l’esperança tota sencera en vós.
+
+MARIANA (A Valeri.)
+
+Jo no us puc pas respondre dels capritxos d’un pare;
+
+però ja de Valeri ningú no me’n separa.
+
+VALERI
+
+Ah, com m’ompliu de joia! Tant com pugui gosar…
+
+DORINA
+
+Mai els enamorats no es cansen de xerrar!
+
+Aneu, us dic.
+
+VALERI (Fa un pas i torna enrere.)
+
+Encara…
+
+DORINA Au, prou de sarabanda!
+
+(Empenyent-los tots dos per les espatlles.)
+
+Vós sortiu per aquí; i vós, per l’altra banda.
+
+
+
+
+
+ACTE III
+
+
+
+
+
+ESCENA 1
+
+
+Damís, Dorina
+
+DAMÍS
+
+Que un llamp aquí mateix acabi els meus destins
+
+i a tot arreu em tinguin pel més vil dels mesquins,
+
+si hi ha poder o respecte al món que m’emmordassi
+
+i a la fi no cometi un sonat desficaci.
+
+DORINA
+
+Per favor, modereu aquest emportament;
+
+el pare n’ha parlat només, tot simplement.
+
+Ningú mai no executa tot allò que es proposa,
+
+i hi ha molt de camí del projecte a la cosa.
+
+DAMÍS
+
+Cal que d’aquest bufat en desarmi els complots
+
+i li digui a l’orella quatre mots ben devots.
+
+DORINA
+
+Calmeu-vos! Amb aquest, com amb el vostre pare,
+
+heu de deixar actuar l’art de la vostra mare.
+
+Sobre el seny de Tartuf té un crèdit efectiu;
+
+l’home es plega de grat a tot el que ella diu,
+
+i pot ben ser que tingui el cor tendre per ella.
+
+Déu vulgui que així sigui! Fora una meravella.
+
+En el vostre interès, ella l’ha fet cridar:
+
+sobre aquest casament el vol escorcollar,
+
+saber-ne els sentiments, i fer-li reconèixer
+
+els malaurats conflictes que faria aparèixer
+
+si guardés esperança en semblant decisió.
+
+No l’he vist, que ara resa, segons diu el minyó;
+
+però també m’ha dit que baixa de seguida.
+
+Marxeu, doncs, us ho prego, jo esmolaré l’oïda.
+
+DAMÍS
+
+En aquesta conversa, jo bé hi puc ser present.
+
+DORINA
+
+No. Cal que estiguin sols.
+
+DAMÍS Callaré en tot moment.
+
+DORINA
+
+Feu broma? Ja us sabem els rampells ordinaris,
+
+i és així com s’esguerren els afers necessaris.
+
+Sortiu.
+
+DAMÍS No, jo ho vull veure sense esclatar en furor.
+
+DORINA
+
+Que en sou, d’empipador! Ja ve. Feu-me el favor.
+
+
+
+
+
+ESCENA 2
+
+
+Tartuf, Llorenç, Dorina
+
+TARTUF (Adonant-se de Dorina.)
+
+Llorenç, guardeu-me junts cilici i deixuplina,
+
+i assegureu-vos sempre que el Cel us il·lumina.
+
+Si ve algú i em demana, vaig amb els presoners
+
+a repartir en almoina la resta de diners.
+
+DORINA
+
+Ah, quanta afectació i fanfarroneria!
+
+TARTUF
+
+Què voleu?
+
+DORINA Només dir-vos…
+
+TARTUF (Traient-se un mocador de la butxaca.)
+
+Ah, Jesús i Maria!
+
+Abans d’enraonar, preneu el mocador.
+
+DORINA
+
+Com?
+
+TARTUF Cobriu-vos el pit, que és massa torbador.
+
+Amb tals armes les ànimes són sovint malferides,
+
+i això és causa que els vinguin idees maleïdes.
+
+DORINA
+
+¿Sou tan sensible, doncs, a aquesta temptació,
+
+i la carn als sentits us fa tanta impressió?
+
+És ben cert que no sé quina calor us inflama,
+
+però el desig, a mi, tan rabent no em reclama,
+
+i us veuria tot nu dels peus fins a les dents
+
+i tot el vostre cos no em temptaria gens.
+
+TARTUF
+
+O poseu més modèstia en el vostre llenguatge
+
+o us deixaré plantada aquí al mig de l’estatge.
+
+DORINA
+
+Soc jo que us deixo en pau en un parell de bots,
+
+perquè el que és jo només us haig de dir dos mots.
+
+La senyora vindrà just en aquesta sala
+
+i us voldria parlar, si això no us atabala.
+
+TARTUF
+
+Serà un immens plaer!
+
+DORINA (Per a ella mateixa.)
+
+Mira com s’ha endolcit!
+
+Continuo pensant-ne tot allò que n’he dit.
+
+TARTUF
+
+Que vindrà de seguida?
+
+DORINA Ja la sento, diria.
+
+Sí, sí, és ella mateixa. Us deixo en companyia.
+
+
+
+
+
+ESCENA 3
+
+
+Elmira, Tartuf
+
+TARTUF
+
+Que sempre més el Cel, per la seva bondat,
+
+de l’ànima i del cos us doni sanitat,
+
+i us beneeixi els dies així com hi sospira
+
+el més humil d’aquells que el seu amor inspira.
+
+ELMIRA
+
+Us agraeixo molt un desig tan piadós.
+
+Però si ens asseiem serà menys fatigós.
+
+TARTUF
+
+Del mal que us afligia ja us sentiu alleujada?
+
+ELMIRA
+
+Certament; de seguida m’ha baixat la febrada.
+
+TARTUF
+
+Els meus precs no atresoren tot el mèrit que cal
+
+per haver-vos atret aquest diví regal;
+
+però no he demanat al Cel altra clemència
+
+que no cerqués aquesta vostra convalescència.
+
+ELMIRA
+
+El vostre zel per mi massa s’ha preocupat.
+
+TARTUF
+
+No es pot estimar massa la vostra sanitat.
+
+Donaria la meva per veure-us sempre sana.
+
+ELMIRA
+
+Això és exagerar la caritat cristiana,
+
+i és ben gran el meu deute per les bondats que em feu.
+
+TARTUF
+
+Faig de debò molt menys del que vós mereixeu.
+
+ELMIRA
+
+Us he volgut parlar en secret d’una cosa,
+
+i em plau aquí perquè ningú ens hi farà nosa.
+
+TARTUF
+
+N’estic ben encantat, i m’és ben agradós,
+
+senyora, de trobar-me per fi a soles amb vós:
+
+aquesta avinentesa sovint l’he demanada
+
+sense que el Cel fins ara me l’hagi dispensada.
+
+ELMIRA
+
+Jo només us demano un parlament cortès,
+
+on s’obri el vostre cor i no m’amagui res.
+
+TARTUF
+
+Jo no vull altra cosa, per gràcia extraordinària,
+
+que presentar-vos l’ànima en tota la fondària,
+
+i fer-vos jurament que els blasmes que he cridat
+
+per qui us visita, atret per la vostra beutat,
+
+no són pas envers vós per odi de cap mena
+
+sinó per un transport de zel que se m’emmena,
+
+i per un pur impuls…
+
+ELMIRA Sé que és bona raó
+
+i que us hi empeny només la meva salvació.
+
+TARTUF (Estrenyent-li la punta dels dits.)
+
+Sí, sens dubte, senyora, i és tal la meva ardència…
+
+ELMIRA
+
+Uf, m’estrenyeu molt fort!
+
+TARTUF Per massa vehemència.
+
+Que fer-vos altre mal no sabria pensar,
+
+i més aviat hauria…
+
+(Li posa la mà al genoll.)
+
+ELMIRA Què vol, aquesta mà?
+
+TARTUF
+
+Tocar el vostre vestit. La roba és primotera.
+
+ELMIRA
+
+Ah, si us plau, atureu-vos, soc molt pessigollera!
+
+(Recula la cadira, i Tartuf hi acosta la seva.)
+
+TARTUF
+
+Déu meu, aquest brodat és tan meravellós!
+
+El treball d’avui dia té un toc miraculós;
+
+no s’havia vist mai tan bella artesania.
+
+ELMIRA
+
+És cert. Però parlem d’allò que ara ens reunia.
+
+Diuen que el meu marit tot just s’ha retractat,
+
+i us vol donar la filla. Digueu-me, és veritat?
+
+TARTUF
+
+Sí, me n’ha dit dos mots; però, deixeu-me dir-ho,
+
+no és aquesta la joia per la qual jo sospiro;
+
+és en una altra banda que jo trobo l’encís
+
+que en tots els meus anhels em faria feliç.
+
+ELMIRA
+
+És perquè no estimeu les coses de la terra.
+
+TARTUF
+
+No és pas de pedra el cor que tinc aquí a l’esquerra.
+
+ELMIRA
+
+Crec que els vostres sospirs s’adrecen tots al Cel,
+
+i que res aquí baix no us desperta l’anhel.
+
+TARTUF
+
+L’amor amb què abracem les belleses eternes
+
+no ens ofega l’amor d’aquelles hodiernes;
+
+els sentits fàcilment ens queden enartats
+
+pels objectes perfectes pel Cel afaiçonats.
+
+Els seus encants reflexos llueixen en les belles;
+
+però a vós us reserva les més grans meravelles;
+
+al rostre us hi ha abocat tals menes de beutats
+
+que els ulls n’estan sorpresos, i els cors enarborats,
+
+i no us he pogut veure, perfecta criatura,
+
+sense en vós admirar l’autor de la natura,
+
+i d’un ardent amor sentir-me tot corprès,
+
+pel més bell dels retrats on ell mateix s’ha imprès.
+
+D’entrada em va fer por que aquesta ardor secreta
+
+no fos del vell maligne una audaç malifeta;
+
+i evitar els vostres ulls el cor cregué millor,
+
+creient-vos un obstacle per fer la salvació,
+
+però a la fi vaig veure, oh beutat tan amable,
+
+que aquesta gran passió pot no ser gens culpable,
+
+que la puc ajustar amb el pudor més fort,
+
+i és això el que m’ha fet abandonar-hi el cor.
+
+Ja sé que és, ho confesso, una audàcia ben plena,
+
+gosar d’aquest meu cor adreçar-vos l’ofrena;
+
+però ho espero tot de la vostra bondat
+
+i res dels vans esforços de la meva ansietat;
+
+en vós tinc el meu bé, i la meva esperança,
+
+de vós me’n ve la pena, o bé la benauraça,
+
+i a la fi podré ser, pel que decidireu,
+
+sortós si a vós us plau, dissortat si ho voleu.
+
+ELMIRA
+
+Una declaració ben galant i cortesa,
+
+però, si us soc sincera, m’ha causat gran sorpresa.
+
+A mi em sembla que hauríeu d’armar més bé aquest pit
+
+i raonar una mica sobre el que heu decidit.
+
+Un devot com sou vós, de fama tan honrosa…
+
+TARTUF
+
+Ah! No em fa pas menys home la devoció ardorosa;
+
+i quan un veu els vostres encisos resplendents,
+
+un cor es deixa prendre, i no raona gens.
+
+Sé que, venint de mi, el que he dit us astora,
+
+però no soc un àngel, després de tot, senyora;
+
+i si vós condemneu la meva confessió,
+
+penseu que el vostre encís és qui em fa pecador.
+
+Des que brillar en vaig veure l’esplendor més que humana,
+
+del meu fons interior ja vau ser sobirana;
+
+de les vostres mirades el dolcíssim esclat
+
+forçà la resistència del meu cor obstinat;
+
+tot ho arrasà, dejunis, llàgrimes i pregàries,
+
+i el voler em girà vers les vostres lluminàries.
+
+Els meus ulls i els sospirs ja mil cops us ho han dit,
+
+i per més bé explicar-me la veu ho ha repetit.
+
+Que si vós contempleu amb un ànim benigne
+
+les greus tribulacions del vostre esclau indigne,
+
+si les vostres bondats em volen consolar
+
+i fins al meu no res es dignen rebaixar,
+
+jo tindria per vós, oh suau meravella,
+
+una ardent devoció com cap altra tan bella.
+
+El vostre honor amb mi no arrisca cap destret
+
+i de mi no ha de témer trobar-se en pas estret.
+
+Els cortesans que tenen les dones encisades
+
+són brogidors en fets i fatus en xerrades,
+
+de tots els seus progressos se’n corren a vantar;
+
+i no obtenen favors que no hagin d’esbombar,
+
+i amb la llengua indiscreta, en qui tothom confia,
+
+deshonoren l’altar on el cor oficia.
+
+Però aquells com nosaltres cremen amb foc discret,
+
+i amb ells per sempre més està segur el secret:
+
+la cura amb què servem la bona anomenada
+
+respon de tota cosa amb la persona amada,
+
+i és en aquests que es troba, atorgat el favor,
+
+un amor sense escàndol i un plaer sense por.
+
+ELMIRA
+
+Us escolto parlar, i la vostra eloqüència
+
+en termes bastant forts s’explica amb transparència.
+
+¿I no us passa pel cap que jo tingui l’humor
+
+d’explicar al meu marit aquest galant fervor,
+
+i que l’advertiment d’una dèria tan forta
+
+no pugui trasbalsar l’amistat que ell us porta?
+
+TARTUF
+
+Jo sé que vós teniu massa benignitat
+
+i que em perdonareu tan gran temeritat,
+
+i que m’excusareu per la humana feblesa
+
+dels transports d’aquest cor que us fereix amb sorpresa,
+
+i considerareu que, en veure un aire tal,
+
+un home no és pas cec, i és fet de carn mortal.
+
+ELMIRA
+
+Alguna altra ho prendria de diferent manera;
+
+però jo prefereixo la discreció planera.
+
+Jo ja no diré res del tema al meu marit,
+
+i us demanaré en canvi un acte decidit:
+
+que empenyeu francament, sense cap filigrana,
+
+la unió del bon Valeri amb la nostra Mariana,
+
+i renuncieu de pla a aquest injust poder
+
+que vol amb el bé d’altri suplir el vostre deler,
+
+i…
+
+
+
+
+
+ESCENA 4
+
+
+Damís, Elmira, Tartuf
+
+DAMÍS (Sortint del recambró on s’havia retirat.)
+
+Ah, no, senyora, no: això cal esbombar-ho.
+
+Jo era aquí darrere, i he pogut escoltar-ho;
+
+i la bondat del Cel sembla haver-m’hi amagat
+
+per confondre l’orgull d’un traïdor malanat,
+
+per obrir-me el camí de prendre’m la venjança
+
+de tanta hipocresia i tanta cobejança,
+
+de desenganyar el pare, i mostrar-li el valor
+
+de l’ànim d’un pervers que us parla així d’amor.
+
+ELMIRA
+
+No, Damís: bastarà que cobri sensatesa
+
+i mereixi la gràcia que jo li tinc promesa.
+
+I com que ho he promès, no me’n facis desdir.
+
+Els grans escarafalls no lliguen gens amb mi.
+
+Una dona se’n riu, de semblants ximpleries,
+
+i no torba el marit amb tals menuderies.
+
+DAMÍS
+
+Deveu tenir raons, és clar, pel vostre fer,
+
+i jo per fer altrament tinc les meves també.
+
+Si ho passéssim per alt, el fet ens burlaria,
+
+i ell, amb l’orgull procaç de la beateria,
+
+massa cops ha vençut la meva irritació,
+
+i ha dut a casa nostra desordre i confusió.
+
+El bergant massa temps ha governat el pare,
+
+i ofegat els meus focs i els de Valeri encara.
+
+D’aquest mal esperit l’hem de desenganyar,
+
+i el Cel a aquest efecte em brinda un bon mitjà.
+
+De tan bona ocasió li soc deutor entranyable,
+
+i per no aprofitar-la, és massa favorable:
+
+talment mereixeria que me’n desposseís,
+
+si, tenint-la a les mans, llavors no me’n servís.
+
+ELMIRA
+
+Damís…
+
+DAMÍS No, no, si us plau, deixeu que en faci via.
+
+Ara mateix tinc l’ànima a vessar d’alegria;
+
+i els vostres mots en va em volen obligar
+
+a abandonar el plaer de poder-me’n venjar.
+
+Sense més dilació, vull enllestir la cosa;
+
+i vet aquí que arriba qui més fàcil m’ho posa.
+
+
+
+
+
+ESCENA 5
+
+
+Orgon, Damís, Tartuf, Elmira
+
+DAMÍS
+
+Pare, us entretindrem, ara que heu arribat,
+
+amb una nova fresca que us deixarà parat.
+
+Ja teniu recompensa per les vostres carícies,
+
+i el senyor a un preu ben alt us paga les primícies.
+
+El seu gran zel per vós s’acaba d’exposar:
+
+i que és, ni més ni menys, que us pretén deshonrar.
+
+Jo mateix l’he sorprès quan feia a la senyora
+
+la infamant confessió d’una ardor pecadora.
+
+Com que ella és d’humor dolç, i té un cor tan discret,
+
+tant sí com no volia guardar-se’n el secret;
+
+però jo no suporto una tal malvolença
+
+i trobo que amagar-la és fer-vos una ofensa.
+
+ELMIRA
+
+Sí, jo sostinc que mai per discursos tan vans
+
+no convé del marit entrebancar el descans,
+
+que no és d’això d’aquí que l’honor pot dependre,
+
+i que ens basta, a nosaltres, saber-nos-en defendre:
+
+són els meus sentiments; i no ho hauríeu dit,
+
+Damís, si el meu parer haguéssiu reverit.
+
+
+
+
+
+ESCENA 6
+
+
+Orgon, Damís, Tartuf
+
+ORGON
+
+Què acabo de sentir! Oh Cel, és doncs probable?
+
+TARTUF
+
+És cert, germà, jo soc un malvat, un culpable,
+
+un pobre pecador tot ple d’iniquitat,
+
+el més gran criminal que hagi mai alenat;
+
+tota la meva vida és plena de brutícies;
+
+no és res més que una pila de crims i d’immundícies;
+
+i veig prou clar que el Cel, per justa expiació,
+
+em vol mortificar en aquesta ocasió.
+
+De la culpa més gran que puguin imputar-me,
+
+m’empassaré l’orgull de voler defensar-me.
+
+Creieu això que us diuen, vulgueu-vos irritar,
+
+i com un criminal feu-me foragitar:
+
+tanta infàmia i vergonya carregar no podria
+
+que no m’hagués guanyat sofrir-ne en més quantia.
+
+ORGON (Al seu fill.)
+
+Ah, traïdor! ¿Goses, doncs, amb semblant falsedat
+
+de la seva virtut tacar la puritat?
+
+DAMÍS
+
+Què? ¿La dolçor fingida d’aquesta ànima maula
+
+us farà desmentir…?
+
+ORGON Bergant, ni una paraula!
+
+TARTUF
+
+Ah, deixeu-lo parlar: no l’acuseu a tort,
+
+que faríeu millor de creure el seu report.
+
+Per què en un cas així m’heu de ser favorable?
+
+Sabeu, després de tot, de què puc ser acusable?
+
+Us fieu, germà meu, de l’aspecte exterior?
+
+I només pel que es veu, em creieu vós millor?
+
+No: us deixeu enganyar per la pura aparença,
+
+que soc ben lluny de ser el que la gent es pensa;
+
+al món tothom em pren per un home de bé;
+
+però jo, en veritat, valc menys que un cuc terrer.
+
+(Adreçant-se a Damís.)
+
+Parleu, fill meu, tracteu-me d’home de mala vida,
+
+d’infame, de perdut, de lladre, d’homicida;
+
+baldeu-me amb noms encara més forts i detestats:
+
+jo no us contradiré, que els tinc prou ben guanyats;
+
+i agenollat en vull suportar la vergonya
+
+deguda a tots els crims d’un viure de carronya.
+
+ORGON (A Tartuf.)
+
+Ja n’hi ha ben prou, germà.
+
+(Al seu fill.)
+
+El teu cor no es rendeix,
+
+traïdor?
+
+DAMÍS Què? El seu parlar talment us sedueix…?
+
+ORGON
+
+Calla, bergant! Germà, alceu-vos, us ho prego!
+
+(Al seu fill.)
+
+Infame!
+
+DAMÍS Bé pot…
+
+ORGON Calla.
+
+DAMÍS Quina ràbia! Jo em nego…
+
+ORGON
+
+Una sola paraula, i et desllorigo el braç.
+
+TARTUF
+
+En nom de Déu, germà, no us esveréssiu pas.
+
+M’estimo més sofrir la condemna més dura
+
+que no pas que ell pateixi ni una esgratinyadura.
+
+ORGON (Al seu fill.)
+
+Ingrat!
+
+TARTUF Deixeu-lo en pau. Si cal, de genollons
+
+us n’invoco el perdó…
+
+ORGON (A Tartuf.) Us rieu dels afronts?
+
+(Al seu fill.)
+
+Mira si és bo, brivall!
+
+DAMÍS Doncs…
+
+ORGON P Prou!
+
+DAMÍS Jo…
+
+ORGON Prou de brega!
+
+Sé molt bé quin motiu a atacar-lo et doblega:
+
+tots plegats l’odieu; i prou veu el cervell
+
+dona, fills i servents girats en contra d’ell;
+
+sense gens de vergonya armeu tot el muntatge
+
+per fer fora de casa tan devot personatge.
+
+Però com més burxeu perquè marxi d’aquí,
+
+més jo m’esforçaré a fer-lo retenir;
+
+i ara m’afanyaré a donar-li la filla
+
+per confondre l’orgull que a tots us encotilla.
+
+DAMÍS
+
+La voleu obligar a acceptar-li la mà?
+
+ORGON
+
+Sí, traïdor, avui mateix, per fer-vos enrabiar.
+
+Ah, us desafio a tots, i així us forçaré a veure
+
+que aquí l’amo soc jo, i que doncs m’heu de creure.
+
+Et mano que et retractis, i que a l’instant, bacó,
+
+te li tiris als peus per demanar perdó.
+
+DAMÍS
+
+Qui, jo? D’aquest barrut, que amb tantes impostures…
+
+ORGON
+
+Ah, encara l’injuries, bandit, i no t’atures?
+
+(A Tartuf.)
+
+Un garrot, un garrot! No em vulgueu retenir.
+
+(Al seu fill.)
+
+Fora de casa meva, de pressa, lluny d’aquí!
+
+I no et passi pel cap de ja mai més tornar-hi.
+
+DAMÍS
+
+Sí, ja me’n vaig; però…
+
+ORGON Fora d’aquí, falsari.
+
+Et quedes, malanat, sense la successió,
+
+i et dono, a més, la meva més gran maledicció.
+
+
+
+
+
+ESCENA 7
+
+
+Orgon, Tartuf
+
+ORGON
+
+Mira que ofendre un sant així, amb tan mala boca!
+
+TARTUF
+
+Déu meu, si et plau, perdona-li el dolor que em provoca.
+
+(A Orgon.)
+
+Si poguéssiu saber amb quin disgust tan gran
+
+veig que amb el meu germà em calumnien tant…
+
+ORGON
+
+Déu meu!
+
+TARTUF La sola idea d’aquest ingrat judici
+
+fa patir a la meva ànima tan salvatge suplici…
+
+Ah, quina esgarrifança… Tant el cor n’ha sofert
+
+que no puc ni parlar, i en moriré del cert.
+
+ORGON (Corrent en llàgrimes cap a la porta per on ha foragitat el fill.)
+
+Bandit! Ja em penedeixo que aquesta mà apiadada
+
+no t’hagi repassat sencera l’espinada.
+
+Refeu-vos, bon germà, i no us enfurismeu.
+
+TARTUF
+
+Deixem-nos de disputes i l’enuig aparteu.
+
+Veig prou els maldecaps que porto a aquest estatge,
+
+i cal, germà, que en surti i emprengui ja el passatge.
+
+ORGON
+
+No, i ara! Esteu de broma?
+
+TARTUF Em detesten de ple
+
+i us omplen de sospita la meva bona fe.
+
+ORGON
+
+Què importa? Que trobeu que el meu cor en pren cura?
+
+TARTUF
+
+No ho deixaran estar, que això ja no s’atura;
+
+i els mateixos reports que ara vós rebutgeu
+
+pot ser que un altre dia de sobte els escolteu.
+
+ORGON
+
+No, no, això mai, germà.
+
+TARTUF Ai sí, germà, una esposa
+
+fàcilment al marit l’ànima li indisposa.
+
+ORGON
+
+No, no.
+
+TARTUF Doncs sí, deixeu-me, allunyant-me d’aquí,
+
+que els llevi tot motiu de combatre’m així.
+
+ORGON
+
+No, vós us quedareu: m’hi va, en això, la vida.
+
+TARTUF
+
+Caldrà que em mortifiqui, no hi veig altra sortida.
+
+Amb tot, si vós volguéssiu…
+
+ORGON Ai!
+
+TARTUF Doncs no en parlem més.
+
+Sé com cal procedir, tant ara com després.
+
+L’honor és delicat, i l’amistat m’impulsa
+
+a prevenir el recel i els motius de repulsa.
+
+Evitaré la vostra muller, i just em veureu…
+
+ORGON
+
+No, a desgrat de tothom vós la freqüentareu.
+
+Fer enrabiar el personal és el que més m’agrada,
+
+i vull que amb ella us vegin ara i cada vegada.
+
+I això no és tot encara: per fer-ho més rabiós,
+
+he pensat que no vull un altre hereu que vós,
+
+i des d’ara mateix, de la forma més neta,
+
+us faré dels meus béns la donació completa.
+
+Un bon i franc amic, que per gendre he triat,
+
+l’estimo més que fill, esposa i parentat.
+
+No acceptareu això que el meu seny us proposa?
+
+TARTUF
+
+Faci’s la voluntat del Cel en tota cosa.
+
+ORGON
+
+Pobre home! Anem, posem-ho de pressa per escrit,
+
+i que en pugui l’enveja rebentar de despit!
+
+
+
+
+
+ACTE IV
+
+
+
+
+
+ESCENA 1
+
+
+Cleant, Tartuf
+
+CLEANT
+
+Sí, creieu que tothom en parla, de la història,
+
+i l’enrenou que fa no acreix la vostra glòria;
+
+i ara em veniu, senyor, talment l’anell al dit,
+
+per dir-vos el que en penso en breus mots de seguit.
+
+No vull examinar el que la gent exposa;
+
+ho deixo estar, i prendré pel pitjor cap la cosa.
+
+Fantasiem que Damís no s’hagi comportat
+
+i doncs que sigui a tort que se us hagi acusat;
+
+¿no és cosa de cristià perdonar la mancança,
+
+i apagar dins el cor tot desig de venjança?
+
+¿I vós heu de permetre que, pel vostre altercat,
+
+de la casa del pare un fill sigui exiliat?
+
+Us repeteixo encara, amb tota la franquesa,
+
+que no hi ha xic ni gran que no hi vegi baixesa;
+
+i si em voleu fer cas, apagueu el foguer,
+
+i no porteu les coses fins al cap del carrer.
+
+Sacrifiqueu a Déu tota la vostra fúria,
+
+i feu que pare i fill es perdonin la injúria.
+
+TARTUF
+
+Ah, jo prou ho voldria, i amb cor conciliador:
+
+no li guardo, senyor, cap mena d’amargor;
+
+jo l’hi perdono tot, per res no el blasmaria,
+
+i amb tota la meva ànima de grat el serviria;
+
+però el voler del Cel no hi pot pas consentir,
+
+i si ell torna al casal, jo n’hauré de sortir.
+
+Després d’aquesta acció que ha fet tan oprobiosa,
+
+la nostra relació seria escandalosa:
+
+Déu sap el que d’entrada en podrien pensar!
+
+A política pura m’ho haurien d’imputar;
+
+i dirien pertot que, sentint-me culpable,
+
+pel meu acusador fingeixo un zel amable,
+
+que el meu cor li té por i el vol amanyagar
+
+per forçar-lo al silenci, obrant de sotamà.
+
+CLEANT
+
+Ens pagueu amb excuses d’allò més ben pintades,
+
+i les vostres raons són massa mal girades.
+
+Que l’interès del Cel us reclama, imperiós?
+
+Per castigar el culpable us necessita a vós?
+
+Deixeu al Cel la cura de les seves venjances;
+
+penseu en el perdó que atorga a les mancances,
+
+i deixeu de mirar els judicis humans,
+
+quan obeïu del Cel els dictats sobirans.
+
+Què? ¿La feble raó d’allò que puguin creure
+
+ha d’impedir la glòria de complir amb el sant deure?
+
+No, no: ajustem-nos sempre a allò que el Cel prescriu,
+
+i no ens travem el seny amb cap embull impiu.
+
+TARTUF
+
+Com ja us he dit abans, el meu cor el perdona,
+
+i això és seguir, senyor, les ordres que el Cel dona;
+
+però amb l’afront d’avui i el causat desgavell,
+
+el Cel ja no m’ordena que jo convisqui amb ell.
+
+CLEANT
+
+¿I que potser us ordena, senyor, parar l’orella
+
+a allò que un pur caprici a son pare aconsella,
+
+i acceptar el donatiu que se us ha fet d’uns béns,
+
+quan el dret us obliga a no pretendre’ls gens?
+
+TARTUF
+
+Cap d’aquells que em coneixen no tindrà la pensada
+
+que això sigui una argúcia d’ànima interessada.
+
+Tots els béns d’aquest món no em causen cap solaç,
+
+i el seu esclat equívoc no m’enlluerna pas;
+
+i si estic decidit a acceptar del bon pare
+
+aquesta donació que em feia just suara,
+
+és només, francament, perquè em fa por que abans
+
+aquests béns es malmetin en indevotes mans,
+
+i no es trobin amb qui, veient-se’n propietari,
+
+en faci un ús al món criminal i contrari,
+
+i no vulgui servir-se’n, com és designi meu,
+
+pel bé del seu proïsme i a la glòria de Déu.
+
+CLEANT
+
+Ah, senyor, no tingueu aquestes pors tan santes
+
+que a un legítim hereu poden causar complantes;
+
+deixeu, sense voler que us torbi a vós també,
+
+que ell al seu propi risc posseeixi el seu bé;
+
+i penseu que és millor que ell tot sol en mal usi
+
+que no que d’usurpar-l’hi llavors algú us acusi.
+
+A mi ja em meravella que sense confusió
+
+hàgiu sols acceptat semblant proposició;
+
+perquè ¿la devoció disposa cap sentència
+
+per despullar l’hereu legítim d’una herència?
+
+I si Déu ha posat al vostre cor submís
+
+un obstacle invencible per conviure amb Damís,
+
+¿no seria millor que, en acció delicada,
+
+emprenguéssiu d’aquí l’honrosa retirada,
+
+abans que comportar, contra tota raó,
+
+que per vós facin fora el fill de la mansió?
+
+Creieu-me que seria de la vostra honradesa,
+
+senyor…
+
+TARTUF Són dos de quatre, senyor, amb tota certesa:
+
+ara un deure piadós m’empeny al pis de dalt
+
+i excuseu-me si us deixo de manera informal.
+
+CLEANT
+
+Ah!
+
+
+
+
+
+ESCENA 2
+
+
+Elmira, Mariana, Dorina, Cleant
+
+DORINA Si us plau, ajudeu-nos, senyor, en la causa d’ella:
+
+que la seva bona ànima viu en mortal querella;
+
+i l’acord que el seu pare per avui ha conclòs
+
+la fa desesperar sense un punt de repòs.
+
+Ara ell vindrà. Ajuntem esforços, us diria,
+
+i mirem d’esguerrar, per força o arteria,
+
+l’absurda decisió que a tots ens té esverats.
+
+
+
+
+
+ESCENA 3
+
+
+Orgon, Elmira, Mariana, Cleant, Dorina
+
+ORGON
+
+Ah, em fa molta alegria trobar-vos tots plegats:
+
+(A Mariana.)
+
+Porto en aquest contracte el que us farà somriure,
+
+ja sabeu què vull dir, no us ho he pas de descriure.
+
+MARIANA (De genolls.)
+
+Ah, pare, en nom del Cel, que em coneix el dolor,
+
+i pel que més us mogui el cor de bon tutor,
+
+afluixeu una mica els drets de descendència,
+
+i vulgueu dispensar-me de semblant obediència;
+
+no em constrenyeu, si us plau, per aquest dret asprós,
+
+fins a planye’m al Cel d’allò que us dec a vós,
+
+i aquesta vida, ai las!, que m’heu així donada,
+
+no me la vulgueu fer, pare, desventurada.
+
+Si, contra l’esperança que m’he pogut formar,
+
+ara em prohibiu de ser de qui goso estimar,
+
+almenys, pel vostre cor, que als peus us requereixo,
+
+salveu-me del turment de ser de qui avorreixo,
+
+i no em vulgueu portar a desesperació
+
+usant amb mi la força de la vostra pressió.
+
+ORGON (Sentint-se entendrir.)
+
+Vinga, cor meu, coratge, res d’humana feblesa.
+
+MARIANA
+
+No em sap greu, de debò, que li mostreu tendresa;
+
+feu-la saber a tothom, doneu-li el vostre bé,
+
+i si això no fos prou, doneu-li el meu també:
+
+el meu cor hi consent, de grat us l’abandona;
+
+però no hi afegiu fins la meva persona,
+
+i deixeu que al convent, en les austeritats,
+
+esmerci els tristos dies que el Cel em té comptats.
+
+ORGON
+
+Vet aquí justament les que es fan religioses
+
+quan el pare els combat les flames amoroses!
+
+Au! Com més us repugni haver-lo d’acceptar,
+
+més ocasió tindreu llavors de meritar:
+
+castigueu els sentits amb aquest matrimoni,
+
+i no m’atabaleu amb més planys del dimoni.
+
+DORINA
+
+Però…
+
+ORGON Aneu a xerrar amb els vostres, només:
+
+us prohibeixo de dir ni una paraula més.
+
+CLEANT
+
+Si us sembla bé escoltar uns consells amigables…
+
+ORGON
+
+Germà, els vostres consells són sempre immillorables,
+
+de tan enraonats, i sempre en faig prou cas;
+
+però avui permeteu que no us en faci pas.
+
+ELMIRA (Al seu marit.)
+
+Havent vist el que he vist, jo ja no sé què dir-hi,
+
+i el vostre encegament provoca que us admiri:
+
+heu d’estar d’aquest home profundament cofat,
+
+per fer-vos desmentir el que avui ha passat.
+
+ORGON
+
+Moltes gràcies, senyora, jo em crec les aparences:
+
+pel bergant del meu fill us sé les complaences,
+
+i us ha fet cosa haver de desautoritzar
+
+el truc que a aquest pobre home ell li ha volgut jugar;
+
+massa tranquil·la estàveu perquè fóssiu creïble,
+
+que altrament l’emoció hauria estat visible.
+
+ELMIRA
+
+¿La simple confessió d’un amorós transport
+
+ha de dur el nostre honor a irritar-se tan fort?
+
+¿I hem de respondre sempre a tot el que el provoca
+
+amb la flama a l’esguard i la injúria a la boca?
+
+Doncs jo, de tals propostes me’n ric senzillament,
+
+i fer-hi escarafalls em repugna greument;
+
+prefereixo que amb calma ens mostrem assenyades,
+
+i no em plauen aquestes beguines esverades
+
+d’un honor eriçat de mil urpes i dents
+
+que al primer mot ja es llancen a esguerrar els pretendents:
+
+que el Cel em guardi sempre de semblant sensatesa!
+
+Jo vull una virtut que no gasti feresa,
+
+i crec que d’un refús la discreta fredor
+
+no té pas menys poder d’allunyar un seductor.
+
+ORGON
+
+Ja us entenc, no us penseu, però això no m’enganya.
+
+ELMIRA
+
+M’admira novament feblesa tan estranya.
+
+¿Què em diria la vostra greu incredulitat
+
+si us poguessin fer veure que us han dit veritat?
+
+ORGON
+
+Veure?
+
+ELMIRA Exacte.
+
+ORGON Romanços.
+
+ELMIRA ¿I si trobés manera
+
+de fer-vos-ho albirar sota una llum planera?
+
+ORGON
+
+Tot rondalles.
+
+ELMIRA Quin home! Però almenys responeu.
+
+Ja no us demano pas que per ara ens cregueu;
+
+suposem que en un lloc des d’on es pugui emprendre,
+
+clarament us ho féssim veure, sentir i comprendre.
+
+Què diríeu llavors del vostre home de bé?
+
+ORGON
+
+Doncs en tal cas diria… és clar, no res… ja ho sé,
+
+perquè això és impossible.
+
+ELMIRA L’engany massa temps dura,
+
+ja n’hi ha prou de titllar-me la boca d’impostura.
+
+Ara caldrà per gust, i sense ni un sol crit,
+
+que us faci testimoni de tot això que hem dit.
+
+ORGON
+
+D’acord: us prenc pel mot. Vull veure la destresa
+
+que hi poseu, i què feu per complir la promesa.
+
+ELMIRA
+
+Doncs feu-lo venir amb mi.
+
+DORINA Mireu que és astuciós
+
+i sorprendre’l serà potser dificultós.
+
+ELMIRA
+
+No: és fàcil enganyar-se amb allò que s’estima,
+
+i sempre l’amor propi a equivocar-se anima.
+
+(Parlant a Cleant i a Mariana.)
+
+Ara feu-lo baixar. I no torneu aquí.
+
+
+
+
+
+ESCENA 4
+
+
+Elmira, Orgon
+
+ELMIRA
+
+Ara, sota la taula, us heu d’amagar així.
+
+ORGON
+
+Com?
+
+ELMIRA Amagar-vos bé és un punt necessari.
+
+ORGON
+
+Per què sota la taula?
+
+ELMIRA Déu meu! Voleu entrar-hi?
+
+Jo tinc un pla pensat, i vós judicareu.
+
+Fiqueu-vos-hi, si us plau; llavors, quan hi sereu,
+
+mireu que no se us vegi i estigueu en silenci.
+
+ORGON
+
+Soc massa complaent, no és pas que això em convenci;
+
+però d’aquesta empresa, veurem si us en sortiu.
+
+ELMIRA
+
+No tindreu per queixar-vos, em sembla, cap motiu.
+
+(Al seu marit, sota la taula.)
+
+Haig de tocar un assumpte de mena un xic severa:
+
+no us escandalitzeu, si us plau, de cap manera.
+
+Digui el que pugui dir, tot m’ha de ser permès,
+
+que és només per convence-us, tal com us ho he promès.
+
+Amb amables tendreses, que la força m’hi encalça,
+
+faré caure la màscara a aquesta ànima falsa,
+
+li inflamaré, amatent, els desitjos ultrats,
+
+i li obriré la porta a fer temeritats.
+
+Com que és només per vós, per fer-lo descompondre
+
+el meu cor als seus focs fingirà de respondre,
+
+però jo ho deixaré quan vós us rendireu,
+
+i no anirà la cosa més lluny del que voldreu.
+
+Vós li haureu d’aturar l’ardor forassenyada,
+
+quan cregueu que la cosa està massa avançada,
+
+i salvar la muller, que no es vol exposar
+
+més enllà del que calgui per fer-vos veure-hi clar:
+
+és el vostre interès; i doncs el vostre deure,
+
+i… ja ve. Ara amagueu-vos, i no us deixéssiu veure.
+
+
+
+
+
+ESCENA 5
+
+
+Tartuf, Elmira, Orgon
+
+TARTUF
+
+M’han dit que en aquest lloc em volíeu parlar.
+
+ELMIRA
+
+Sí. Tinc alguns secrets que em convé revelar.
+
+Abans, però, tanqueu la porta amb rapidesa,
+
+i mireu bé pertot, que no vull cap sorpresa.
+
+Un altercat semblant a aquest de fa un moment
+
+no és el que ens cal aquí, ni molt remotament.
+
+No s’havia vist mai sorpresa tan temible;
+
+Damís m’ha alçat per vós una querella horrible,
+
+i heu pogut comprovar que he fet un gran esforç
+
+per trencar-li els propòsits i calmar-li els transports.
+
+El trasbals, és ben cert, m’ha deixat tan torbada
+
+que ni de desmentir-lo he tingut la pensada;
+
+però, gràcies a Déu, tot ha acabat millor
+
+i les coses estan en bona situació.
+
+L’afecte que aquí us tenen ha calmat el temperi
+
+i el meu marit no us creu inductor d’adulteri.
+
+Per esquivar els judicis de la gent maldient,
+
+vol que estiguem plegats en tot punt i moment;
+
+i és per això que puc, sense ser censurada,
+
+trobar-me tota sola amb vós aquí tancada,
+
+i obrir-vos ara a l’ample un cor bategador
+
+potser massa amatent a abraçar el vostre ardor.
+
+TARTUF
+
+Aquest discurs se’m fa difícil de comprendre,
+
+que fa poc no parlàveu amb un estil tan tendre.
+
+ELMIRA
+
+Si per aquell refús encara esteu ofès,
+
+en el cor d’una dona veig que no sou entès!
+
+I que ben poc sabeu el que en el fons dispensa
+
+quan amb tanta feblesa el veieu que es defensa!
+
+Sempre el nostre pudor combat en tals moments
+
+allò que pot donar-nos més tendres sentiments.
+
+Per raons que trobem en l’amor que ens domina
+
+també trobem per dir-lo una vergonya fina;
+
+ens defensem d’entrada; però el posat estret
+
+ja deixa veure prou que el nostre cor es ret,
+
+que al desig per honor la boca se’ns oposa,
+
+i que semblants refusos prometen tota cosa.
+
+Això sens dubte és fer-vos una greu confessió,
+
+i a la nostra modèstia donar poca ocasió;
+
+però un cop la paraula ja ha estat alliberada,
+
+creieu que a aturar el noi m’hauríeu vist llançada?
+
+¿Creieu, si us plau, que hauria amb tanta mansuetud
+
+escoltat aquest cor d’ardent sol·licitud?
+
+¿M’hauria pres la cosa tal com heu vist que feia,
+
+si l’alt oferiment d’aquest cor no m’atreia?
+
+I així, quan jo mateixa us he volgut forçar
+
+a refusar el casori acabat d’anunciar,
+
+¿tal determinació no us ha empès a comprendre
+
+que sentia per vós un interès ben tendre?
+
+¿I que m’enutjaria que l’enllaç que es resol
+
+forcés que compartís un cor que vull tot sol?
+
+TARTUF
+
+És sens dubte, senyora, una dolçor extremada
+
+sentir aquestes paraules d’una boca estimada:
+
+una mel que em fa córrer pel cos i l’esperit
+
+un goig tan delicat com mai no l’he sentit.
+
+Que la joia de plaure-us és la meva mesura
+
+i en els vostres desitjos té el meu cor la ventura;
+
+però aquest cor us prega aquí la llibertat
+
+de gosar un xic dubtar de tal felicitat.
+
+Jo puc creure aquests mots una honesta arteria
+
+per fer-me renunciar al llaç que s’anuncia;
+
+i si puc explicar-me ben lliurement amb vós,
+
+no em fiaré d’uns mots tan afalagadors,
+
+si algun d’aquests favors, pels quals guardo esperança,
+
+d’això que han pogut dir no em ve a donar fermança
+
+i a plantar-me dins l’ànima una fe sense fi
+
+en les dolces bondats que vós teniu amb mi.
+
+ELMIRA (Tossint per advertir el marit.)
+
+Doncs ¿què, voleu anar amb tanta rapidesa,
+
+i d’un cor tot de sobte esgotar la tendresa?
+
+Una es força a mostrar-vos el cor tot amorós;
+
+però això sembla, encara, que és massa poc per vós,
+
+i així, doncs, per donar-vos prova de benvolença,
+
+fins als últims favors cal dur la complaença?
+
+TARTUF
+
+Com menys un bé es mereix, menys es gosa esperar.
+
+Els dubtes amb discursos fan de mal dissipar.
+
+Un fàcilment somia una sort ben xiroia,
+
+i abans que no pas creure-hi en vol gaudir la joia.
+
+Jo, que de vós tan poc mereixo les bondats,
+
+dubto del goig guanyat amb les temeritats;
+
+i no creuré pas res, si vós abans, senyora,
+
+amb efusions reals no us mostreu fiadora.
+
+ELMIRA
+
+Déu meu, el vostre amor és un tirà ferreny,
+
+i amb un estrany neguit ve a contorbar-me el seny!
+
+Com pren damunt els cors furiosa senyoria,
+
+i amb quina gran violència abasta allò que tria!
+
+¿El vostre encalçament no es pot tan sols frenar,
+
+ni podeu concedir-me un temps per respirar?
+
+¿Trobeu bé mantenir postura tan severa
+
+i voler sense treva les coses que un espera,
+
+i abusar amb contumàcia i amb esforç tan penós,
+
+de la flaca que heu vist que us demostren per vós?
+
+TARTUF
+
+Si veieu amb bons ulls aquests meus homenatges,
+
+per què me’n refuseu segurs testimoniatges?
+
+ELMIRA
+
+Però ¿com accedir a això que vós voleu,
+
+sense fer ofensa al Cel, del qual sempre parleu?
+
+TARTUF
+
+Si només és el Cel qui al meu desig s’oposa,
+
+apartar un tal obstacle per mi és poqueta cosa,
+
+i això no cal que freni el vostre dolç ardor.
+
+ELMIRA
+
+Amb els càstigs del Cel, ens han fet tant terror!
+
+TARTUF
+
+Jo bé us puc dissipar aquestes pors risibles,
+
+que sé l’art d’esborrar els escrúpols possibles.
+
+El Cel prohibeix, és cert, alguns contentaments;
+
+(és un malvat qui parla)
+
+però hi podem tractar certs acomodaments;
+
+segons necessitat, existeix una ciència
+
+per relaxar els grillons de la nostra consciència,
+
+i de rectificar el mal de tota acció
+
+amb la mera puresa de la nostra intenció.
+
+En tals secrets, senyora, molt em plaurà instruir-vos;
+
+i no haureu de fer més que deixar conduir-vos.
+
+Satisfeu-me el desig, i no tingueu pas por:
+
+jo us responc de tot mal que sigui pagador.
+
+Tossiu molt fort, senyora.
+
+ELMIRA Sí, és una peripècia.
+
+TARTUF
+
+No us hi aniria bé un xic de regalèssia?
+
+ELMIRA
+
+És un mal refredat, com queda ben palès,
+
+i totes les essències del món no hi podran res.
+
+TARTUF
+
+Això és empipador.
+
+ELMIRA Més del que dir sabria.
+
+TARTUF
+
+Bé, doncs, el vostre escrúpol fàcilment es pal·lia:
+
+us puc assegurar un perfecte secret,
+
+el mal està en la gala que després n’hàgim fet;
+
+només l’escàndol públic fa que no se’ns dispensi,
+
+que és pecat perdonat el pecat en silenci.
+
+ELMIRA (Després de tornar a tossir.)
+
+M’adono, doncs, que cal resoldre’s a cedir,
+
+i que a atorgar-ho tot ja vulgui consentir,
+
+i que amb poc menys que això jo ja no puc pretendre
+
+que us sentiu satisfet i que ens puguem entendre.
+
+És sens dubte enutjós haver de tòrcer el braç,
+
+i és ben bé a desgrat meu que franquejo aquest pas;
+
+però si us obstineu a evitar que respiri,
+
+i ja no creieu res del que jo pugui dir-hi,
+
+i voleu una prova que us sigui convincent,
+
+és hora que acontenti aquest desig ardent.
+
+Si el meu consentiment comporta cap ofensa,
+
+pitjor per qui m’obliga per força a tal fallença;
+
+la culpa no podran carregar-me-la a mi.
+
+TARTUF
+
+Sí, tot va a càrrec meu; perquè la cosa en si…
+
+ELMIRA
+
+Obriu, si us plau, la porta, i mireu si ens espia
+
+el meu marit aquí des de la galeria.
+
+TARTUF
+
+Quina necessitat teniu de fer-ne cas?
+
+Entre nosaltres: l’home es deixa dur pel nas;
+
+de les nostres trobades ja se n’ha fet un deure,
+
+i jo l’he dut al punt de veure sense creure.
+
+ELMIRA
+
+No hi fa pas res: sortiu, us ho prego, un moment,
+
+i mireu allà a fora pertot exactament.
+
+
+
+
+
+ESCENA 6
+
+
+Orgon, Elmira
+
+ORGON (Sortint de sota la taula.)
+
+Aquest és, ho confesso, un home abominable.
+
+I no me’n sé avenir, tot plegat m’endiabla.
+
+ELMIRA
+
+Què, ja no podeu més? Doncs no us rigueu de mi.
+
+Torneu sota la taula: no és hora de sortir.
+
+Espereu-vos a veure les coses més segures,
+
+i no us fieu només de simples conjectures.
+
+ORGON
+
+Mai res de tan malvat no ha sortit de l’infern.
+
+ELMIRA
+
+Déu meu! Mai no heu de creure el primer indici extern.
+
+Deixeu-vos ben convèncer, abans de pronunciar-vos,
+
+i no us precipiteu, que podríeu errar-vos.
+
+(Fa posar el marit darrere seu.)
+
+
+
+
+
+ESCENA 7
+
+
+Tartuf, Elmira, Orgon
+
+TARTUF
+
+Tot conspira, senyora, pel meu contentament:
+
+he escodrinyat a fons aquest apartament;
+
+no s’hi troba ningú; i aquesta ànima ansia…
+
+ORGON (Aturant-lo.)
+
+Alto! Massa correu per l’amorosa via,
+
+i d’aquesta manera no us heu d’apassionar!
+
+Ai, ai, l’home de bé, que em volia afaitar!
+
+M’esposàveu la filla, i volíeu la dona!
+
+Si que a les temptacions el vostre cor s’abona!
+
+He dubtat llargament que això fos veritat,
+
+pensant sempre si a l’últim es veuria afirmat;
+
+però no cal esprémer fins al fons l’evidència:
+
+en tinc prou amb això, no em cal més experiència.
+
+ELMIRA (A Tartuf.)
+
+És contra el meu humor que he fet això d’aquí;
+
+però m’he vist forçada a tractar-vos així.
+
+TARTUF
+
+I ara! Creieu…?
+
+ORGON Au, vinga, si us plau, prou de sonsònia.
+
+Desallotgeu la casa, sense més cerimònia.
+
+TARTUF
+
+Volia…
+
+ORGON Prou discursos, que ens hi faríem mal:
+
+ara mateix, de pressa, heu de deixar el casal.
+
+TARTUF
+
+Sou vós qui el deixarà, vós que el creieu merèixer:
+
+el casal em pertany, i us ho faré conèixer,
+
+i us ben demostraré que en va recorrereu
+
+a aquests trucs miserables per poder-me fer reu,
+
+i que injuriar-me així no us guanya cap dretura,
+
+que sé prou com confondre i punyir la impostura,
+
+venjar el Cel que ofeneu, i fer-vos penedir
+
+a tots els que parleu d’obligar-me a sortir.
+
+
+
+
+
+ESCENA 8
+
+
+Elmira, Orgon
+
+ELMIRA
+
+Doncs què és aquest llenguatge? I això que significa?
+
+ORGON
+
+A fe que estic confós, i no ric gens ni mica.
+
+ELMIRA
+
+Com?
+
+ORGON Veig la meva culpa en tot això que ha dit.
+
+I aquesta donació ara m’estreny el pit.
+
+ELMIRA
+
+Una donació…?
+
+ORGON Sí, és una cosa feta,
+
+però hi ha una altra cosa encara que m’inquieta.
+
+ELMIRA
+
+I doncs?
+
+ORGON Ja ho sabreu tot. Però pugem a dalt
+
+a veure si l’arqueta és encara al casal.
+
+
+
+
+
+ACTE V
+
+
+
+
+
+ESCENA 1
+
+
+Orgon, Cleant
+
+CLEANT
+
+On aneu tan de pressa?
+
+ORGON Jo què sé!
+
+CLEANT Jo diria
+
+que ara cal comentar en bona companyia
+
+tot el que es pugui fer en aquest accident.
+
+ORGON
+
+El cas d’aquella arqueta m’inquieta enterament;
+
+més que les altres coses, aquesta em desespera.
+
+CLEANT
+
+Tan greu és el misteri que l’arqueta arrecera?
+
+ORGON
+
+Un dipòsit que Argàs, l’amic que planyo tant,
+
+va voler confiar-me, en el secret més gran:
+
+per això va escollir-me, abans de la fugida;
+
+i és un plec de papers, on els béns i la vida,
+
+segons que em confessava, hi té del tot lligats.
+
+CLEANT
+
+I per què en altres mans els heu abandonats?
+
+ORGON
+
+Doncs va ser, francament, per un cas de consciència:
+
+vaig anar al meu traïdor a fer-n’hi confidència;
+
+i el seu raonament em va saber enganyar
+
+per donar-li l’arqueta i fer-la custodiar,
+
+a fi que, per negar, si el cas s’investigava,
+
+tingués l’escapatòria de mentir sense trava,
+
+amb la meva consciència en plena llibertat
+
+per fer greus juraments contra la veritat.
+
+CLEANT
+
+Doncs teniu mala peça, si entenc bé l’evidència,
+
+i aquesta donació, i aquesta confidència,
+
+són, si deixeu parlar el meu enteniment,
+
+actuacions decidides massa lleugerament.
+
+Us poden dur molt lluny amb semblant equipatge;
+
+i, en el cas d’un que us porta tot aquest avantatge,
+
+collar-lo fort ha estat un risc desassenyat,
+
+i hauríeu fet més bé per un camí més grat.
+
+ORGON
+
+Que sota un bell semblant de devoció tan alta
+
+s’hi amagui un cor tan doble, una ànima malalta!
+
+I jo que l’acollia quan captava al carrer…
+
+s’ha acabat, renuncio a tota gent de bé:
+
+en tindré sempre més un horror espantable,
+
+i amb ells penso portar-me molt pitjor que un diable.
+
+CLEANT
+
+Ja us torneu a enfilar amb arravatament!
+
+No sabeu endolcir aquest temperament;
+
+a la dreta raó la vostra no es convida,
+
+i d’un extrem a l’altre us llanceu de seguida.
+
+Ja heu vist el vostre error, i ja heu reconegut
+
+que heu estat la joguina d’una falsa virtut;
+
+però per corregir-vos, ¿quina raó us demana
+
+de caure en una errada encara més bajana,
+
+i que amb el cor roí d’un pèrfid barater
+
+confongueu ara els cors de tota gent de bé?
+
+Així, perquè un bergant us enganyi amb audàcia
+
+sota el pompós esclat d’una austera fal·làcia,
+
+¿preteneu que tothom deu ser igualment pastat,
+
+i que avui ja no es troben devots de veritat?
+
+Deixeu als llibertins tan nècies descreences;
+
+destrieu la virtut del que en són aparences,
+
+i mai no us arrisqueu a un judici final,
+
+mireu de mantenir-vos al punt mitger, com cal:
+
+guardeu-vos, si pot ser, d’honorar la impostura,
+
+però al zel veritable no imposeu la censura;
+
+i si volguéssiu caure en una extremitat,
+
+valdrà més que pequeu d’aquest altre costat.
+
+
+
+
+
+ESCENA 2
+
+
+Damís, Orgon, Cleant
+
+DAMÍS
+
+Què, pare? És veritat que un bord us amenaça?
+
+¿I que tot benifet al seu record fracassa,
+
+i que el seu vil orgull, digne d’un foc furiós,
+
+de les vostres bondats se n’arma contra vós?
+
+ORGON
+
+Sí, fill, i del dolor me’n cremen fins les celles.
+
+DAMÍS
+
+Si m’ho deixeu a mi, li tallo les orelles:
+
+contra tanta insolència no ens podem arronsar;
+
+soc jo, d’una vegada, qui us n’ha d’alliberar,
+
+i per tancar l’assumpte, el batré a garrotades.
+
+CLEANT
+
+Així parlen els joves, amb boques inflamades.
+
+Modereu, us ho prego, aquests esclats extrems:
+
+que vivim sota un regne i ens trobem en un temps
+
+en què per la violència esguerrem les empreses.
+
+
+
+
+
+ESCENA 3
+
+
+Senyora Pernelle, Mariana, Elmira, Dorina, Damís, Orgon, Cleant
+
+SENYORA PERNELLE
+
+Què hi ha? Aquí m’assabento de terribles sorpreses.
+
+ORGON
+
+Sí, estranyes novetats que he vist amb aquests ulls,
+
+i ja veieu el preu que em paguen pels aculls.
+
+Amb compassió recullo un home en la misèria,
+
+com un germà l’estatjo a casa, en santa dèria;
+
+de favors cada dia el cobreixo fins dalt;
+
+li dono inclús la filla i tot el meu cabal;
+
+i el pèrfid, l’execrable, al mateix temps s’abona
+
+al tenebrós propòsit de corrompre’m la dona,
+
+i no content encara amb aquests vils malfets,
+
+em gosa amenaçar amb els meus benifets,
+
+i vol, per ensorrar-me, amb tots els avantatges
+
+cedits pels meus incauts favors i patronatges,
+
+privar-me dels meus béns, que jo li he transferit,
+
+i reduir-me al punt d’on jo l’he recollit.
+
+DORINA
+
+Ai, pobre home!
+
+SENYORA PERNELLE Fill meu, em costa molt de creure
+
+que hagi comès un acte tan negre contra el deure.
+
+ORGON
+
+Com?
+
+SENYORA PERNELLE
+
+Els homes de bé sempre són envejats.
+
+ORGON
+
+Mare, què voleu dir amb els vostres dictats?
+
+SENYORA PERNELLE
+
+Que a casa vostra es viu d’una estranya manera,
+
+i que ja sé la tírria que aquest home us genera.
+
+ORGON
+
+Què hi té a veure la tírria, amb això que us hem dit?
+
+SENYORA PERNELLE
+
+Us ho he dit cent vegades d’ençà que éreu petit:
+
+la virtut a la terra és sempre perseguida;
+
+mor l’envejós i encara l’enveja es manté amb vida.
+
+ORGON
+
+Però això què té a veure amb aquests fets passats?
+
+SENYORA PERNELLE
+
+Segur que ja us n’han dit cent mil barbaritats.
+
+ORGON
+
+Ja us he dit que ho he vist en tota l’aparença.
+
+SENYORA PERNELLE
+
+Dels llavis maldients la malícia és immensa.
+
+ORGON
+
+Mare, em faríeu perdre. Us dic i ara us redic
+
+que he vist amb els meus ulls aquest crim tan inic.
+
+SENYORA PERNELLE
+
+Les llengües sempre tenen prou verí per despendre,
+
+i aquí baix no hi ha res que se’n pugui defendre.
+
+ORGON
+
+Vet aquí una raó de sentit imprevist.
+
+Us dic que jo ho he vist, amb aquests ulls ho he vist,
+
+allò que en diuen «vist»: ¿us ho hauré de rebatre
+
+cent cops a les orelles, i cridar més que quatre?
+
+SENYORA PERNELLE
+
+Déu meu, massa sovint l’aparença ens distreu:
+
+no sempre és assenyat jutjar sobre el que es veu.
+
+ORGON
+
+M’enceneu!
+
+SENYORA PERNELLE
+
+La natura falsos dubtes excreta,
+
+i molt sovint el bé com a mal s’interpreta.
+
+ORGON
+
+¿Haig doncs d’interpretar com a caritatiu
+
+que em desitgi la dona?
+
+SENYORA PERNELLE Cal tenir un bon motiu
+
+per acusar la gent de la primera cosa,
+
+i hauríeu d’esperar que fos ben bé desclosa.
+
+ORGON
+
+Punyeta! La manera d’estar-ne ben segur?
+
+¿Havia d’esperar que, sota aquest ull nu,
+
+ell fes… Mare, em faríeu dir alguna animalada.
+
+SENYORA PERNELLE
+
+De pur fervor li veig l’ànima embolcallada;
+
+i jo de cap manera no em puc ficar al sentit
+
+que l’home hagi intentat les coses que s’han dit.
+
+ORGON
+
+Si no fóssiu ma mare, no sé pas què us diria:
+
+no sabeu tot això com caram m’enrabia!
+
+DORINA
+
+Aquí teniu les tornes d’aquest món cantellut:
+
+vós no volíeu creure, i ara no sou cregut.
+
+CLEANT
+
+Estem perdent el temps en bagatel·les pures,
+
+i caldria esmerçar-lo a prendre ja mesures.
+
+No ens podem adormir al risc d’aquest bergant.
+
+DAMÍS
+
+Què? La seva insolència arribaria a tant?
+
+ELMIRA
+
+Francament, jo no crec tal instància possible,
+
+la seva ingratitud fora massa visible.
+
+CLEANT
+
+Doncs no us en fieu gens: ja trobarà els ressorts
+
+per donar contra vós prou raó al seu esforç;
+
+i per molt menys que això, el greu pes d’una secta
+
+porta la bona gent al suplici directe.
+
+Deixeu-m’ho dir un cop més: armat amb el que té
+
+no l’hauríeu hagut de collar mai tan bé.
+
+ORGON
+
+Cert; però què hi farem? L’orgull d’aquest sapastre
+
+m’ha fet saltar la bilis fins a dur-me al desastre.
+
+CLEANT
+
+Voldria, de tot cor, que entre vosaltres dos
+
+restablíssiu la pau, per molt poquet que fos.
+
+ELMIRA
+
+Si hagués sabut que l’home tenia semblants armes
+
+ja no hauria donat ocasió a tals alarmes,
+
+i els meus…
+
+ORGON (A Dorina, veient arribar el senyor Lleial.)
+
+Què vol aquest? Aneu-ho a veure aviat.
+
+Si que estic perquè em vinguin a veure en tal estat!
+
+
+
+
+
+ESCENA 4
+
+
+Senyor Lleial, Senyora Pernelle, Orgon, Damís, Mariana, Dorina, Elmira, Cleant
+
+SENYOR LLEIAL
+
+Bon dia, germaneta; us ho prego, em plauria
+
+de parlar amb el senyor.
+
+DORINA Doncs està en companyia,
+
+i no sé si pot rebre ara mateix ningú.
+
+SENYOR LLEIAL
+
+Creieu que no he vingut aquí per ser importú.
+
+El que haig de dir-li em penso que no li ha de desplaure,
+
+que vinc per una cosa que només li pot plaure.
+
+DORINA
+
+Com us dieu?
+
+SENYOR LLEIAL Digueu-li només que vinc de part
+
+del bon senyor Tartuf, que no tingui reguard.
+
+DORINA
+
+Aquí fora hi ha un home, de conducta cortesa,
+
+que Tartuf us envia per alguna comesa
+
+que diu que us ha de plaure.
+
+CLEANT Heu d’anar a veure el què:
+
+qui deu ser aquest bon home, saber què pot voler.
+
+ORGON
+
+Qui sap si ve, potser, per fer alguna avinença:
+
+quins sentiments li hauria de mostrar en aparença?
+
+CLEANT
+
+Doncs el ressentiment l’hauríeu d’amagar;
+
+i si parla d’acord, prou us convé escoltar.
+
+SENYOR LLEIAL
+
+Salut, que Déu confongui qui us faci mal un dia,
+
+i us sigui favorable així com jo voldria!
+
+ORGON
+
+Aquest principi lliga amb el meu jutjament,
+
+i vaticina ja algun arranjament.
+
+SENYOR LLEIAL
+
+Tota la vostra casa m’ha estat sempre molt cara,
+
+i ja era servidor del vostre senyor pare.
+
+ORGON
+
+Senyor, sento vergonya i us demano perdó,
+
+que no sé el vostre nom ni em sou coneixedor.
+
+SENYOR LLEIAL
+
+Em dic Lleial, senyor, nadiu de Normandia,
+
+soc agutzil de vara, cosa que a algú enrabia.
+
+Tinc de fa quaranta anys, gràcies a Déu, l’honor
+
+d’exercir aquest bell càrrec amb remarcat fervor,
+
+i ara jo us vinc, senyor, amb la vostra acordança,
+
+a fer saber l’abast d’una certa ordenança…
+
+ORGON
+
+Així, doncs, sou aquí…?
+
+SENYOR LLEIAL Senyor, sense passió:
+
+just un requeriment, ni tan sols citació,
+
+una ordre de marxar de casa tots vosaltres,
+
+treure els mobles d’aquí, i deixar lloc a uns altres,
+
+sense més dilació, com a la llei escau…
+
+ORGON
+
+Jo, haig de sortir de casa?
+
+SENYOR LLEIAL Doncs sí, senyor, si us plau.
+
+La casa ara mateix, com sabeu per la resta,
+
+al bon senyor Tartuf pertany sense contesta.
+
+Dels vostres béns, des d’ara, ell n’és l’amo i senyor,
+
+en virtut d’un contracte del qual soc portador:
+
+i tot s’hi troba en regla, és ben inqüestionable.
+
+DAMÍS
+
+Tant desvergonyiment és del tot admirable.
+
+SENYOR LLEIAL
+
+Senyor, no soc aquí per tractar res amb vós;
+
+vinc pel senyor, assenyat, amable i respectuós,
+
+que d’un home de bé sap massa la condícia
+
+per voler-se oposar al dret de la justícia.
+
+ORGON
+
+Però…
+
+SENYOR LLEIAL
+
+Senyor, sé prou que ni per un milió
+
+consentiríeu mai alçar una rebel·lió,
+
+i que doncs permetreu, com a honrada persona,
+
+que executi les ordres que la justícia em dona.
+
+DAMÍS
+
+Perfectament podríeu, sobre aquest redingot,
+
+senyor agutzil de vara, atreure el meu garrot.
+
+SENYOR LLEIAL
+
+Feu que calli aquest noi o vulgueu retirar-lo,
+
+senyor. Em sabria greu haver de denunciar-lo,
+
+i fer-vos aparèixer al meu procés verbal.
+
+DORINA
+
+Aquest senyor Lleial sembla ben deslleial!
+
+SENYOR LLEIAL
+
+Pels ciutadans honrats sento delicadesa,
+
+i si he volgut, senyor, assumir tal comesa
+
+ha estat per obsequiar-vos i per fer-vos plaer,
+
+i evitar-vos així l’enutjós desplaer
+
+que us enviïn algú de mena més severa,
+
+que hauria procedit de menys dolça manera.
+
+ORGON
+
+¿Pot haver-hi, potser, designis més extrems
+
+que treure algú de casa?
+
+SENYOR LLEIAL Se us concedeix un temps,
+
+i fins demà mateix atorgo demorança,
+
+senyor, a l’execució de la nostra ordenança.
+
+Vindré tan solament a passar aquí la nit,
+
+amb deu homes dels meus, sense fer cap brogit.
+
+Una formalitat, si us plau, que això comporta
+
+és que em lliureu les claus, a la nit, de la porta.
+
+Tindré cura de no torbar-vos el descans
+
+i no permetré noses que siguin redundants.
+
+Però demà, al matí, deixeu el domicili
+
+i endugueu-vos d’aquí fins l’últim utensili:
+
+els meus homes vindran, que ja els he triat forts,
+
+a ajudar-vos en tot, i a fer els deguts transports.
+
+Em penso que no es pot obrar amb més deferència,
+
+i així com ara us tracto amb aquesta indulgència,
+
+us conjuro, senyor, a procedir igualment
+
+i a no posar al meu càrrec ni un sol impediment.
+
+ORGON
+
+Amb quin gust donaria, per rematar la festa,
+
+els cent millors lluïsos de la hisenda que em resta,
+
+per poder sobre aquest babau descarregar
+
+el cop de puny més fort que es pugui mai donar!
+
+CLEANT
+
+Calma, no ho espatllem.
+
+DAMÍS Amb audàcia tan rara,
+
+feina tinc a aguantar-me, que la mà se’m dispara.
+
+DORINA
+
+Amb aquest llamp d’esquena, creieu, senyor Lleial,
+
+que uns quants cops de garrot no us hi farien mal.
+
+SENYOR LLEIAL
+
+Podria castigar paraules tan infames,
+
+que també denuncio les noies i les dames.
+
+CLEANT
+
+Acabem-ho, senyor: ja n’hi ha prou, de parlar;
+
+doneu-nos el paper, i deixeu-nos estar.
+
+SENYOR LLEIAL
+
+A reveure. Que el Cel us tingui en alegria!
+
+ORGON
+
+I tant de bo us confongui, a tu i a qui t’envia!
+
+
+
+
+
+ESCENA 5
+
+
+Orgon, Cleant, Mariana, Elmira, senyora Pernelle, Dorina, Damís
+
+ORGON
+
+Així, doncs, ja ho veieu, mare, si tinc raó,
+
+i jutgeu vós mateixa per l’última actuació:
+
+la seva iniquitat sabeu per fi com era?
+
+SENYORA PERNELLE
+
+N’estic esgarrifada, i caic de la figuera!
+
+DORINA
+
+Us lamenteu a tort, i a tort el censureu,
+
+que el seu piadós propòsit s’ha confirmat arreu:
+
+en l’amor del proïsme el seu cor s’assaona;
+
+ell sap que els béns corrompen el seny de la persona,
+
+i, per caritat pura, l’home us vol retirar
+
+tot entrebanc que us privi de poder-vos salvar.
+
+ORGON
+
+Calleu! És el que cal cridar-vos cada dia.
+
+CLEANT
+
+Pensem, doncs, quin consell des d’ara us convindria.
+
+ELMIRA
+
+Heu de fer veure al món l’audàcia de l’ingrat.
+
+El procés destrueix el contracte pactat;
+
+i la seva vilesa sorgirà tan immensa
+
+que no se’n sortirà tan bé com tothom pensa.
+
+
+
+
+
+ESCENA 6
+
+
+Valeri, Orgon, Cleant, Elmira, Mariana, etc.
+
+VALERI
+
+Amb recança, senyor, us vinc ara a afligir;
+
+però un perill molt pròxim m’empeny a intervenir.
+
+Un amic, que m’és car per amistat ben tendra
+
+i que sap l’interès que en vós jo arribo a prendre,
+
+ha violat pel meu bé, en un fet delicat,
+
+el secret requerit en els afers d’Estat,
+
+i m’envia una nota que rectament llegida
+
+us forçarà al partit d’una rabent fugida.
+
+El bergant que tant temps us ha dut enganyat,
+
+davant el nostre Príncep, fa una hora, us ha acusat,
+
+i li ha dut, per fer encara l’acusació completa,
+
+d’un criminal d’estat una important arqueta,
+
+de la qual, amb menyspreu de tot deure contret,
+
+heu estat conservant el culpable secret.
+
+Desconec el detall del crim que se us raona,
+
+però ja corre l’ordre que us cerca la persona;
+
+i ell mateix, per vetllar que així es faci complir,
+
+amb l’oficial vindrà que us ha de detenir.
+
+CLEANT
+
+Ja té afermats els drets; i és per aquesta via
+
+que el traïdor es vol fer l’amo de la hisenda que ansia.
+
+ORGON
+
+L’home és, us ho confesso, un maligne animal!
+
+VALERI
+
+Qualsevol distracció us seria fatal.
+
+Ja tinc, per conduir-vos, la carrossa a la porta,
+
+amb mil lluïsos d’or trets de la caixa forta.
+
+No perdem més el temps: el tret és fulminant,
+
+i aquests atacs només s’esquiven escapant.
+
+A dur-vos en segur m’ofereixo amb la vida,
+
+i vull acompanyar-vos en tota la fugida.
+
+ORGON
+
+Ai, tot el que deuré als vostres dons extrems!
+
+Per saber-vos-en grat em caldran més bons temps;
+
+i ja demano al Cel que em sigui prou propici
+
+per reconèixer un dia el vostre benefici.
+
+Adeu: i no oblidéssiu, vosaltres…
+
+CLEANT No us torbeu.
+
+Germà, ens ocuparem de tot el que penseu.
+
+
+
+
+
+ESCENA ÚLTIMA
+
+
+Oficial, Tartuf, Valeri, Orgon, Elmira, Mariana, etc.
+
+TARTUF
+
+A poc a poc, senyor, no correu tan de pressa:
+
+no trobareu refugi en una amable adreça,
+
+que en nom del nostre Príncep aquí us fem presoner.
+
+ORGON
+
+Així, traïdor, em guardaves aquest tret pel darrer;
+
+és el cop, malanat, amb què tu em sentencies,
+
+i la pitjor perfídia mostres sense manies.
+
+TARTUF
+
+Els vostres improperis no em poden enfurir,
+
+que el Cel m’ha ensenyat prou que tot s’ha de sofrir.
+
+CLEANT
+
+Tanta moderació confesso que m’inflama.
+
+DAMÍS
+
+Ves amb quina insolència es val del Cel, l’infame!
+
+TARTUF
+
+Tot el vostre furor ja no em pot estovar,
+
+que no penso en res més que en el deure, i ja està.
+
+MARIANA
+
+En traureu molta glòria, de la present requesta,
+
+que per vós la comesa és francament honesta.
+
+TARTUF
+
+En efecte, un encàrrec només pot ser gloriós,
+
+si prové del poder que em mana venir a vós.
+
+ORGON
+
+Però ¿t’has recordat que el meu cor amigable,
+
+malagraït, et treia d’un estat miserable?
+
+TARTUF
+
+Sí, sé tota l’ajuda que amb el temps n’he rebut,
+
+però el voler del Príncep és un deure absolut.
+
+D’aquest deure sagrat la justa prevalença
+
+ofega en el meu cor tota reconeixença,
+
+i sacrificaria a aquests vincles tan vells
+
+amic, dona, parents, i a mi mateix amb ells.
+
+ELMIRA
+
+Impostor!
+
+DORINA Com en sap, amb traïdora manera,
+
+de fer-se un bell mantell del que tothom venera!
+
+CLEANT
+
+Però si és tan perfecte com ara declareu,
+
+aquest zel que us empeny i del qual us armeu,
+
+¿com és que us l’heu guardat fins al punt que us passava
+
+que assetjant-li la dona aquest home us trobava,
+
+i que no us decidiu a anar-lo a denunciar
+
+fins que l’honor l’obliga a fer-vos expulsar?
+
+I ja no cal parlar, perquè no us en desdeia,
+
+del do del seu cabal que poc abans us feia;
+
+però volent tractar-lo de culpable després,
+
+per què vau accedir a acceptar-ne res més?
+
+TARTUF (A l’oficial.)
+
+Deslliureu-me, senyor, de tanta escridassada,
+
+i compliu la vostra ordre, si us plau, d’una vegada.
+
+L’OFICIAL
+
+Sí, sens dubte triguem massa a fer-la complir;
+
+que els vostres mots m’inviten, per cert, a requerir.
+
+I per executar-la, seguiu-me de seguida
+
+a la presó on des d’ara fareu la vostra vida.
+
+TARTUF
+
+Qui? Jo, senyor?
+
+L’OFICIAL Sí, vós.
+
+TARTUF I per què, la presó?
+
+L’OFICIAL
+
+No és a vós a qui jo n’haig de donar raó.
+
+Recobreu-vos, senyor, d’una alarma tan dura.
+
+Que vivim sota un príncep que odia la impostura,
+
+que sap llegir en els cors, fent llum en les foscors,
+
+i que no és enganyat per l’art dels impostors.
+
+D’un fi discerniment la seva ànima armada
+
+llança damunt les coses una recta mirada;
+
+mai res no la sorprèn amb un fàcil accés,
+
+i la seva raó no cau en cap excés.
+
+Dona a la gent de bé una glòria sens mida,
+
+però mai amb ceguesa aquest zel no desbrida,
+
+i l’amor pels sincers no li lleva el rigor
+
+amb tot allò que els falsos provoquen en horror.
+
+Aquest no era pas fet per poder-lo sorprendre,
+
+que de paranys més fins ja s’ha sabut desprendre.
+
+Va penetrar d’entrada, amb viva claredat,
+
+els replecs del seu cor, tan plens de falsedat.
+
+Venint-vos a acusar, ell mateix es traïa,
+
+i l’equitat suprema, amb fina doctoria,
+
+ha descobert al Príncep un rufià malfamat,
+
+de qui amb un altre nom estava ja informat;
+
+i hi ha una rastellera de maleses notòries
+
+que omplirien volums i més volums d’històries.
+
+El monarca, en un mot, vers vós ha detestat
+
+la seva ingratitud i la deslleialtat.
+
+A les altres misèries hi ha afegit la darrera,
+
+i només m’ha enviat sotmès al seu darrere
+
+per veure fins on duia el seu atreviment
+
+i fer que us confessés tot el procediment.
+
+Sí, dels vostres papers, dels quals es creia l’amo,
+
+vol que en vós el despulli, alhora que l’infamo.
+
+Amb poder sobirà, trenca els requeriments
+
+del contracte que el feia hereu dels vostres béns,
+
+per mostrar que el seu cor sap, quan menys un hi pensa,
+
+a una bona actuació donar la recompensa,
+
+que mai, amb ell, el mèrit no es quedarà endarrer
+
+i que, més que del mal, es recorda del bé.
+
+DORINA
+
+El Cel sigui lloat!
+
+SENYORA PERNELLE Ara sí que respiro.
+
+ELMIRA
+
+Conclusió favorable!
+
+MARIANA Qui hauria gosat dir-ho?
+
+ORGON (A Tartuf.)
+
+Doncs té, ja ho veus, traïdor…
+
+CLEANT Germà, deixeu-ho estar,
+
+a les indignitats no us vulgueu rebaixar;
+
+deixeu al seu infecte destí aquest miserable,
+
+i no afegiu res més al greu que l’endiabla:
+
+desitgeu més aviat que el seu cor des d’aquí
+
+al si de la virtut torni un dia per fi,
+
+que corregeixi un viure de tan negra cobdícia
+
+i pugui del gran Príncep endolcir la justícia,
+
+i vós a tal bondat anireu decorós
+
+a agrair com escau un tracte tan curós.
+
+ORGON
+
+Sí, molt ben dit: anem a ell amb alegria
+
+a lloar les bondats que el seu cor ens envia.
+
+Després, havent complert aquest deure primer,
+
+els assumptes d’un altre ens caldrà satisfer,
+
+i amb un dolç compromís coronar en fi en Valeri
+
+la flama d’un amant sincer i de bell senderi.
+
+
+
+
+
+JEAN-BAPTISTE POQUELIN, més conegut com a MOLIÈRE (París, 15 de gener del 1622 - 17 de febrer del 1673), fou un dramaturg i actor francès.
+
+Considerat com el mestre de la Comédie Française, segueix sent l’autor amb més obres representades per aquesta institució. Inflexible amb la pedanteria dels falsos savis, les mentides dels metges ignorants i les pretensions dels rics burgesos, Molière estimava la joventut i la volia alliberar de tan absurdes càrregues i prejudicis.
+
+En les 30 comèdies que va escriure després del seu retorn a París mostra un coneixement pregon de les incongruències de la vida humana i de la societat francesa del seu temps. Hi és capaç de tractar temes seriosos, i àdhuc tràgics, sense renunciar a l’alegria i a l’exuberància de la comèdia. Va ser un mestre en el maneig dels diàlegs i en l’ús de l’argot.
+
+Molt lluny dels rigors de la devoció o de l’ascetisme, el seu paper de moralista tenia els límits que ell mateix es va imposar: «No sé si no és millor treballar per rectificar i per suavitzar les passions dels homes que voler suprimir-los completament», i el seu objectiu era sobretot «fer riure la gent honesta». D’aquesta manera, feia seva la divisa que usaven els comediants italians dels anys 1620 a França: Castigat ridendo mores (corregeix els costums pel riure).
+
+Les principals obres de Molière són: El metge ambulant (1645), La gelosia del compromès (1650), L’atabalat o els contratemps (1655), El despit amorós (1656), El doctor enamorat (1656), Les precioses ridícules (1659), Sganarelle o el cornut imaginari (1660), Don Garcia de Navarra o el príncep gelós (1661), L’escola dels marits (1661), L’escola de les mullers (1662), La crítica de l’«Escola de les dones» (1663), La gelosia del gran René (1663), La princesa d’Elida (1664), Tartuf o l’impostor (1664), El casament per força (1664), Don Joan o el festí de pedra (1665), L’amor metge (1665), El misantrop (1666), El metge per força (1666), Melicerta (1666), El sicilià o l’amor pintor (1667), Amfitrió (1668), Jordi Dandí o el marit confós (1668), L’avar (1668), El senyor de Pourceaugnac (1669), Els amants magnífics (1670), El burgès ennoblit (1670), Psyché (1671), Les trapelleries de Scapin (1671), La comtessa d’Escarbanyes (1671), Les dones sàvies (1672), El malalt imaginari (1673).
+
+
+
+
+

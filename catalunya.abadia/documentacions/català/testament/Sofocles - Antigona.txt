@@ -1,0 +1,1336 @@
+Creont, rei de Tebes, ha prohibit sepultar el cadàver de Polinices, que s’ha alçat en armes contra ell. Antígona, però, la germana de Polinices, el desobeeix. I el seu acte i les conseqüències terribles que comporta també són l’expressió del sacrifici personal a causa d’un convenciment que, en aquest cas, té la raó de ser en la pietat entre germans.
+
+Antígona, de Sòfocles, és segurament l’expressió literària antiga més sublim del conflicte humà entre els dictats de la consciència pròpia i les lleis establertes pels homes.
+
+
+
+
+
+Sòfocles
+
+
+
+
+
+Antígona
+
+
+Traducció, introducció i notes de Joan Castellanos
+
+Edició revisada per Joan Alberich
+
+
+
+ePUB v1.0
+
+BrunoAntony 04.10.22
+
+
+
+
+
+Títol original: Ἀντιγόνη
+
+Sòfocles, 442 aC
+
+Traducció: Joan Castellanos, 2012
+
+Revisió: Joan Alberich, 2022
+
+Edició digital: BrunoAntony (v1.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+Introducció
+
+
+
+
+
+Vida de Sòfocles
+
+
+
+
+La personalitat de Sòfocles
+
+Sòfocles s’ha considerat sempre un representant de l’Atenes gloriosa i un dels exemples més genuïns de l’home clàssic, posseïdor de l’harmonia i de la serenor que representen aquella època. Tanmateix, el període de fertilitat creadora de Sòfocles va des del 468 aC, amb la seva primera tragèdia, Triptòlem, fins a Èdip a Colonos, obra pòstuma estrenada el 401 aC, però escrita quatre o cinc anys abans. Abasta, per tant, des de les èpoques de màxim esplendor d’Atenes fins a l’època que segueix a la quasi trentena d’anys d’angoixa i crueltat que significaren aquells anys de la guerra del Peloponnès. Així, mentre en el teatre de Dionís d’Atenes es representava l’Antígona, encara ressonaven en les orelles dels espectadors els sorolls de les obres que es feren al cim del turó de l’Acròpolis: s’hi construïa el Partenó. Anys més tard, entre el tumult de batalles i enmig de planys pels morts de la guerra, les seves tragèdies, plenes d’harmonia i de serenor, s’alternaven amb les d’Eurípides, que reflectien dubtes, preguntes i malestar, producte de la guerra.
+
+Sòfocles (496/495-406/405 aC) no naixé, tanmateix, en la mateixa ciutat d’Atenes, sinó en un dem molt proper a la ciutat, en «la més bella contrada de la regió, la blanca Colonos, on el rossinyol s’estatja tot sovint i on refila melodioses tonades en les seves fondalades verdes, ocult enmig de l’heura fosca i l’arbreda fèrtil del déu, a recer del sol i del vent de tots els hiverns».[1]
+
+Nascut en una família benestant (el seu pare era fabricant d’armes), va rebre una educació molt acurada i ben aviat excel·lí en concursos gimnàstics i musicals. De caràcter naturalment sociable i obert, la seva educació el dugué també a relacionar-se amb tota mena de gent. Sabem que féu una gran amistat amb Heròdot, en honor del qual va escriure una oda, i amb qui l’unia una gran concomitància d’idees i una gran proximitat de sentiments i de creences.
+
+La seva fama de persona sociable és recollida fins i tot per Aristòfanes, el qual l’anomena «home afable»,[2] i la Vida anònima lloa també la seva simpatia, que el feia agradable als ulls de tothom qui el coneixia.[3]
+
+La seva personalitat i bon nom arribaven fins i tot més enllà del límits de la ciutat. Hom explica que «quan els espartans envaïren l’Àtica, després de la mort de Sòfocles, Dionís es va aparèixer en somnis al seu comandant i li ordenà d’honorar amb els ritus propis dels morts “la nova Sirena”. De seguida interpretà que es referia a Sòfocles i a la seva poesia, per tal com encara avui se sol comparar la fascinació de les seves obres en vers i en prosa amb la fascinació d’una Sirena».[4]
+
+Malgrat l’exemple que tenia dels seus companys de professió (Èsquil anà a Sicília i Eurípides a Macedònia), Sòfocles no es deixà seduir per l’aventura de terres foranes i romangué sempre en la seva estimada Atenes. Aquesta estimació el dugué a acceptar diversos càrrecs en el govern de la ciutat, sense tenir, però, ni ambició política ni vocació per a aquesta mena d’activitats. Ja en el 443-442 aC, fou tresorer de l’aliança aticodèlica (hel·lenotamias), i en el 440 aC fou estrateg, al costat de Pèricles, en recompensa, segons diuen, per l’èxit de la seva Antígona. És possible que en el 428 aC fos novament estrateg (fet, tanmateix, no acceptat per tots els biògrafs de Sòfocles). I fins i tot en les seves velleses, en el 413 aC, després del desastre sofert a Sicília, fou nomenat probul, un dels deu magistrats creats a Atenes per a estudiar i proposar les mesures adequades per a la salvació de l’Estat.
+
+
+
+L’activitat cívica de Sòfocles
+
+Malgrat el que hom pugui creure, per l’època en què va viure i per la relació que mantingué amb Pèricles, la seva participació en la política no fou fruit d’una coincidència d’idees amb el general atenès, sinó tan sols fruit del seu desig de servir la seva ciutat. Tanmateix, hom ha volgut veure, sense cap mena de base real, un retrat de Pèricles en els personatges de Creont (de l’Antígona) i d’Èdip (en l’Èdip Rei).
+
+Sòfocles tenia una idea molt clara d’allò que era per a ell la ciutat, i així ho expressa en l’Antígona: la polis és una comunitat de ciutadans, i no pas un territori propietat d’un home sol, i aquest fet ja implica necessàriament un règim democràtic i, doncs, l’obligació de tots els ciutadans a participar en el seu funcionament. Aquests eren els principis que guiaven Sòfocles, quan va acceptar tots aquells càrrecs polítics.
+
+Aquesta ciutat democràtica, segons ell, ha de tenir una gran disciplina, i alhora temor i respecte a les tradicions a les lleis divines, que no poden ser contradites per les lleis de la ciutat, i menys per les lleis que emanen del caprici d’un sol home, com s’esdevé en el cas de Creont. Podríem, doncs, afirmar que aquesta ciutat de Sòfocles era l’ideal d’un demòcrata moderat.
+
+Un altre aspecte important de la personalitat de Sòfocles és la seva pregona religiositat. En totes les seves tragèdies, igual que en la vida real, l’home es mou en dues esferes, la divina i la humana, i ha de tenir sempre present la influència de l’esfera divina que condiciona l’èxit o el fracàs de la seva actuació. Per això, a Antígona acaba afirmant que «no convé captenir-se amb impietat amb els déus, perquè els orgullosos paguen les seves paraules arrogants amb malastres infinits».
+
+D’alguna manera, Sòfocles s’enfronta amb els corrents de la sofística que començaven a estendre’s per Atenes i que preconitzaven que l’home era la mesura de totes les coses. Sòfocles, en canvi, en totes les seves tragèdies, deixa ben clar que el centre del món i la mesura de totes les coses és la divinitat, i que els déus es captenen constantment amb un poder absolut, i deixen els homes indefensos davant el seu poder. L’únic camí que resta a l’home és saber reconèixer la voluntat dels déus (per mitjà d’oracles, endevins, etc.), cosa certament difícil. Altrament, li fóra millor no haver nascut.
+
+Sòfocles, tanmateix, no vol sistematitzar ni crear cap teoria religiosa, perquè, des del punt de vista religiós, igual que des del punt de vista polític, Sòfocles no era un home teòric. Era, simplement, un home religiós.
+
+Sòfocles va tenir cinc fills. El seu fill gran, Iofont, es dedicà també a la dramatúrgia, i va arribar a competir amb èxit amb el seu pare. La tradició, tanmateix, no es trencà amb aquest fill, perquè també un nét seu, nascut d’un altre fill anomenat Aristió, es dedicà a la creació tràgica: es tracta de Sòfocles, dit el Jove, per diferenciar-lo.
+
+Sòfocles va morir a l’any 406-405 aC sense veure el desastre total d’Atenes en la guerra del Peloponnès, i poc després que la victòria a la batalla de les Arginuses donés als atenesos un bri d’esperança de superar els espartans en aquell conflicte bèl·lic.
+
+A la seva mort, els atenesos van dedicar un heròon a la seva memòria, i cada any li oferien un sacrifici, en record del bon nom que Sòfocles es va guanyar, no tan sols pels seus èxits teatrals, sinó també pel seu caràcter afable i pel seu capteniment exemplar com a ciutadà.
+
+
+
+
+
+L’obra de Sòfocles
+
+
+
+
+Sòfocles: escriptor i home de teatre
+
+En el teatre, en canvi, Sòfocles és un home teòric, a més de pràctic. I encara que, en principi, no va moure’s de l’àmbit de la poesia, la seva obra no es va limitar exclusivament a la creació tràgica, sinó que també va conrear altres camps poètics, com l’oda dedicada a Heròdot, o un peà compost amb la finalitat de donar la benvinguda al déu Asclepi, el culte del qual fou introduït a Atenes al llarg de l’any 420 aC, fet en què Sòfocles, sembla, jugà un paper molt important.
+
+Pel que fa a la seva creació tràgica, Sòfocles va mostrar-se extraordinàriament innovador. El seu coneixement de la tècnica teatral, apresa sens dubte en els anys en què va fer d’actor, li permeté d’aportar innovacions molt importants per al desenvolupament de l’acció tràgica i per a la seva modernització.
+
+Totes les seves teories dramàtiques i totes les seves innovacions foren presentades, i justificades, en el seu tractat Sobre el cor, que sabem que va escriure. Les innovacions van consistir, en primer lloc, en l’augment de coreutes, o membres del cor, de dotze a quinze; en l’augment del nombre d’actors, de dos a tres, i en l’ús de decorats pintats. Aquestes innovacions formals comportaven ensems innovacions molt més profundes, com el significat i funció del cor: mentre que en Èsquil el cor ocupa una part molt important en el desenvolupament de la tragèdia, en Eurípides el cor ha perdut gairebé tot el seu significat, i en els tràgics posteriors té un significat encara menys important, en Sòfocles el cor ocupa una posició intermèdia: gairebé pot ser considerat com un altre actor, tal com diu Aristòtil, sempre, però, subordinat als actors veritables, per facilitar-los l’acció, refrenar la seva còlera, incitar-los a actuar, etc.
+
+I al costat d’aquesta reducció del paper del cor, els actors assumeixen un paper més important i més ampli, amb la qual cosa l’acció dramàtica guanya també espai i agilitat, i fa que el tractament d’un tema no requereixi l’ús de les trilogies, ús prodigat per tots els autors de tragèdies fins a Èsquil, i abandonat definitivament per Sòfocles[5] i dramaturgs posteriors.
+
+La introducció del tercer actor no fou, tanmateix, una tasca gaire fàcil, sembla. En la mateixa Antígona podem comprovar que hi ha escenes en què, efectivament, hi ha tres actors i tots tres intervenen en l’acció, però poques vegades el diàleg és a tres bandes. I un bon exemple n’és l’episodi II (versos 376 al 581).
+
+A més de la tècnica tràgica que Sòfocles anà desenvolupant progressivament, hi ha també l’estil i la tècnica literària, aspectes que també va perfilar amb el temps, però que, ja en les primeres obres que coneixem, posseeix en graus de perfecció molt elevats. Així, podem parlar de la ironia tràgica, que trobem en nombroses ocasions en l’Antígona, i que és especialment important en tragèdies com Èdip Rei o Electra. La ironia tràgica és una ambigüitat semàntica per la qual part de la veritat resta desconeguda per al personatge que es troba a l’escena, però no per a l’espectador, que des de la seva posició privilegiada coneix tota la veritat, però no pot fer-ne partícip aquell personatge. Aquesta situació li produeix un estat d’angoixa que el fa participar més intensament en el conflicte tràgic.
+
+Un altre aspecte important, i molt evident en Antígona, és l’etopeia dels personatges, la descripció del seu caràcter per mitjà de la seva participació en el diàleg. És la tècnica que amb tanta saviesa desenvoluparà Lísias en els seus discursos judicials. Així, el guardià es presenta amb llargs circumloquis, temorós de parlar davant el seu rei Creont. La seva expressió és pròpia d’un personatge senzill, amb referències a dites populars i amb frases sentencioses. A més, tots els altres personatges són perfectament reflectits en la seva expressió, com l’obstinació de Creont, la fermesa d’Antígona, les pors d’Ismene, etc.
+
+No podem preterir tampoc la tècnica del contrast. Aquesta tècnica consisteix en el fet de presentar-nos un personatge que adés per la seva alegria, adés per la seva tristesa, presenta un contrast molt fort amb la situació que acabem de presenciar, o que presenciarem a continuació.
+
+
+
+L’obra dramàtica de Sòfocles
+
+Són ben coneguts els èxits teatrals obtinguts per Sòfocles, i també l’extraordinari acolliment amb què el públic atenès rebia les seves obres. Malauradament, només conservem set de les cent vint-i-tres tragèdies que, segons les fonts més fidedignes, Sòfocles havia escrit. En coneixem, a més, un drama satíric anomenat Els sàtirs rastrejadors.
+
+Les mateixes fonts parlen també dels premis que va aconseguir en els concursos tràgics. Sense que hi hagi unanimitat en el nombre de premis, ja que es parla de divuit a vint-i-quatre primers premis, les fonts asseguren que quan no assolia el primer premi no baixava mai més enllà del segon. El primer premi conegut l’obtingué el 468 aC, amb una trilogia que contenia la tragèdia Triptòlem.
+
+De les obres que conservem, la més antiga, per trets arcaics del llenguatge, per la seva mateixa composició i àdhuc pel barroquisme escenogràfic, és l’Aiant, o, amb la denominació llatinitzada, Àiax, que els historiadors situen entre el 455 i el 450 aC.
+
+Per ordre d’antiguitat, podem afirmar que l’Antígona és la segona tragèdia més antiga conservada. Ja hem esmentat anteriorment, en parlar de la seva vida, que gràcies a l’èxit d’aquesta tragèdia fou nomenat estrateg en les guerres de Samos. La data, doncs, pot ser la del 442 aC.
+
+El problema de la cronologia de les Traquínies sembla difícil de resoldre. No sols per l’estructura, sinó també pel caràcter díptic que presenta aquesta obra, el més prudent és atorgar-li una data relativament alta, i situar-la en el grup format per l’Aiant i l’Antígona.
+
+La data de l’Èdip Rei no és tampoc ben segura. Tanmateix, la pesta que va estendre’s per la ciutat d’Atenes l’any 430 aC, i d’altres dades fornides per la tradició recollida per gramàtics antics, fan que hom pugui datar aquesta obra amb força versemblança al voltant del 429 aC.
+
+També en l’Electra el problema cronològic sembla insoluble. La datació més concreta de l’obra d’Eurípides que porta el mateix nom ha permès que alguns filòlegs la datessin de manera molt diversa. Mentre que els uns la consideren posterior, d’altres pensen que podria ser considerada anterior, i fins i tot li han donat la data del 413 aC com a més probable.
+
+Sòfocles va presentar el Filoctetes el 409 aC. La tragèdia, una de les últimes, és considerada com a reforç de les seves tesis tradicionals, que defensaven el valor de la naturalesa davant la influència de l’educació que predicaven els sofistes.
+
+Finalment, la darrera tragèdia que ens ha arribat de Sòfocles, l’Èdip a Colonos, fou representada el 401 aC, a instàncies del seu nét, Sòfocles el Jove. És, doncs, una obra pòstuma.
+
+Aquest és el llegat que malauradament ens ha pervingut de Sòfocles, un llegat curt, però intens i profund, a través del qual no és difícil endevinar-hi un dels més grans dramaturgs de tots els temps.
+
+
+
+
+
+La tragèdia Antígona
+
+
+
+
+Antígona: La fi d’una nissaga maleïda
+
+Aquelles calamitats de la casa dels Labdàcides que semblaven eternes trobaven finalment el seu acabament amb la mort d’Antígona, «l’última romanalla de la nissaga reial», després que, tanmateix, hi arrossegués el seu estimat Hèmon i la reina Eurídice. Només la mort, doncs, podia contenir la força de Zeus, i només amb la mort d’Antígona, el casal dels Labdàcides aconseguiria la pau, però també la seva desaparició, arrossegat per aquella «ona marina que somou des del fons la platja negra i colpejada pels vents». Aquest és el tema que relaciona la tragèdia d’Antígona amb la tragèdia de Laios, de Iocasta, d’Èdip i dels seus altres fills, Etèocles i Polinices.
+
+Crec que en aquest punt és interessant fer un breu resum de la nissaga maleïda de la casa de Tebes.
+
+Antígona és filla d’Èdip i de Iocasta, i germana d’Ismene, Etèocles i Polinices. Hi ha una tradició antiga, procedent de l’Edipòdia, segons la qual el seu pare seria Èdip, però la seva mare Eurigania i no Iocasta, amb la qual cosa Èdip no s’hauria casat amb la seva mare. Ni Èsquil ni Sòfocles no segueixen, tanmateix, aquesta tradició.
+
+La seva família es remunta molt amunt, es remunta a Cadme, el fundador de Tebes. Molts anys després de la fundació de la ciutat, Cadme va marxar i va deixar el regne al seu fill Polidor, el qual, casat amb Nicteis, va tenir un fill, anomenat Làbdac (és el predecessor a qui fa referència l’Antígona, quan parla del casal dels Labdàcides). Làbdac va perdre el pare quan tenia tot just un any i es féu càrrec del poder el seu avi matern, Nicteu, el qual, en morir, en deixà la regència al seu germà Licos, fins que Làbdac es féu càrrec del poder. A la mort de Làbdac, Laios, el seu fill, era encara molt jove, i Licos tornà a ser-ne el regent. Licos estava casat amb Antíope, però va repudiar-la i es va tornar a casar amb Dirce, la qual va maltractar Antíope i la va fer presonera, perquè sospitava que encara mantenia relacions amb el seu marit. Antíope va aconseguir escapar-se i es va refugiar a les muntanyes del Citeró, on va donar a llum els seus fills, Amfíon i Zetos, els quals, per venjar la seva mare, van matar Licos i Dirce i es van apoderar del regne de Tebes. Quan tots dos moriren, Laios fou cridat perquè es fes càrrec del poder, i es va casar amb Iocasta, amb qui va tenir el seu fill Èdip, malgrat la prohibició dels déus. Hi ha altres versions que atribueixen a Laios altres esposes, per la qual cosa Èdip no seria fill de Iocasta i, doncs, no s’hauria casat amb la seva mare. Tanmateix, els tràgics i, en el nostre cas, Sòfocles, segueixen la tradició que fa de Iocasta mare i esposa d’Èdip. Quan Èdip i Iocasta descobreixen l’incest, ella se suïcida i Èdip es treu els ulls. Els seus fills el rebutgen i Èdip els maleeix vaticinant-los que es partirien el regne amb l’espasa i que es donarien mútua mort. Foragitat de Tebes, se’n va a Atenes acompanyat per Antígona, que li fa de pigall. Més endavant s’hi afegeix Ismene, que vol també compartir la sort del seu pare.
+
+En el repartiment del regne, Etèocles no vol cedir, al seu moment, el torn de govern que corresponia al seu germà Polinices, el qual va a cercar ajuda a Argos, d’on torna amb un exèrcit comandat per set cabdills, que ataquen, cada un d’ells, una de les set portes de la ciutat de Tebes. En una mateixa porta s’enfronten Etèocles i Polinices, i es donen mort mútuament. L’exèrcit argiu és derrotat i, a punta de dia, es retira ràpidament. Creont, com a familiar més proper al rei mort, es fa càrrec del regne i les primeres ordres que dóna fan referència als dos germans morts. I en aquest punt comença la tragèdia, l’argument de la qual és el següent: Etèocles i Polinices s’han matat l’un a l’altre en una de les portes de la ciutat de Tebes i l’exèrcit dels argius s’havia retirat derrotat. Creont, l’oncle i parent més proper dels difunts, esdevé rei de Tebes, i el primer edicte que fa conèixer és la prohibició d’enterrar Polinices, perquè havia lluitat en contra de la ciutat. Disposa que sigui exposat a la vergonya pública i deixat com a pastura de gossos i aus de presa. Antígona, la germana, decideix pel seu compte dur a terme l’enterrament prohibit, perquè, per a ella, primer són les lleis divines, que manen respectar i honorar els morts i enterrar els cadàvers, a fi de donar repòs a la seva ànima. Així ho proposa a Ismene, l’altra germana, la qual té por del que li pot passar si desobeeix el rei i refusà ajudar-la. Antígona, doncs, tota sola, escampa pols sobre el cadàver de Polinices i acompleix una triple libació sobre el cadàver. En aquest moment és feta presonera pels guardians que vigilaven Polinices i és conduïda a la presència del rei, el qual la condemna a ser enterrada viva en una tomba de pedra. Quan Hèmon, fill de Creont i promès d’Antígona, se n’assabenta, intercedeix per ella davant el seu pare, que no vol sentir cap paraula a favor de la condemnada. En canvi, quan l’endeví Tirèsias li pronostica malastres importants si realitza el sacrilegi d’enterrar una persona viva i de no donar sepultura a un mort, es fa enrere i va a corre-cuita a treure Antígona de la tomba, però quan hi arriba, la noia s’havia penjat amb un retall del seu vestit. Al costat del cadàver d’Antígona hi havia Hèmon, el qual, quan va veure el seu pare, s’hi va abraonar amb l’espasa a la mà. Creont, fent un salt enrere va esquivar el cop. Aleshores Hèmon, ple de despit, es va clavar l’espasa i va morir abraçat a Antígona. Quan Creont va tornar a palau, portant a pes de braços el cadàver del seu fill, s’assabentà que la seva esposa Eurídice, en saber la mort del seu fill, també s’havia matat. S’havien acomplert les profecies de Tirèsias.
+
+El tema principal de la tragèdia és, doncs, l’enfrontament d’Antígona i Creont. Antígona representa i defensa les normes divines i no escrites, però tradicionals i sempiternes, mentre que Creont defensa l’ordre humà, les lleis de la ciutat, que emanen del seu poder com a tirà. És l’enfrontament de l’ordre diví i de l’ordre humà, amb el pretext concret de l’enterrament de Polinices, que havia lluitat contra la seva ciutat per aconseguir esdevenir-ne rei, tal com havia estat pactat amb el seu germà Etèocles.
+
+Aquest tema no és nou, tanmateix, si bé Sòfocles és el primer que el tracta de manera directa i, en part, de manera original. I podem encara distingir-hi dos temes diferents: el tema pròpiament de l’enterrament i el tema del sacrifici d’Antígona, mentre que, com a teló de fons, hi ha la confrontació de les lleis no escrites, dels déus, i de les lleis humanes, del tirà, canviants com són també canviants els homes mortals.
+
+El tema de la sepultura dels morts a la ciutat de Tebes era ben conegut pels atenesos, tant si parlava d’èpoques prehistòriques o mítiques, com si parlava d’èpoques històriques. Així, en època històrica, era ben conegut que els tebans, després d’una victòria, imposaven als enemics vençuts unes condicions determinades per a permetre la sepultura dels seus soldats morts en la batalla. I en època mítica, els atenesos explicaven que, per a poder enterrar els cabdills caiguts en l’expedició contra Tebes, havia estat necessària la intervenció de Teseu, el rei d’Atenes. Es tractava, doncs, d’un tema que, en relació amb els tebans, no era ni nou ni desconegut per als espectadors atenesos.
+
+També en el mateix Sòfocles, el problema de la sepultura és tocat de ple en la segona part de la seva tragèdia Aiant. En aquesta ocasió, però, les raons i conflictes provenen de l’honor que convé tributar a un cavaller, a un heroi. És més un problema cavalleresc. En l’Antígona, en canvi, és presentat com a tema religiós i, en aquest aspecte, és un tractament original.
+
+La història dels Labdàcides té els seus orígens literaris en èpoques molt antigues. Les primeres fonts són els poemes èpics l’Edipòdia, que parla de l’Esfinx, del matrimoni incestuós d’Èdip i de la seva mort en la lluita contra els pobles minis, i la Tebaida, possiblement del segle VII aC, inicialment atribuïda a Homer per diversos autors antics. Fa especial referència a la maledicció que Èdip va adreçar als seus fills, quan, després que fou descobert l’incest, fou bandejat de Tebes, en el sentit que es partirien el regne amb l’espasa i es donarien mort mútuament.
+
+El precedent més proper de l’Antígona el trobem a Èsquil, que va escriure una trilogia sobre el tema tebà formada per les tragèdies següents: Laios, Èdip i Els set contra Tebes. A la trilogia s’ha d’afegir el drama satíric, anomenat l’Esfinx. De totes aquestes obres només ens queda la tragèdia Els set contra Tebes, que relata l’assalt dels set capitostos argius en contra de Tebes, amb la mort final dels dos germans, l’un a mans de l’altre. En els darrers versos de la tragèdia, l’herald proclama l’acord dels magistrats de Tebes, els probuls, que decideixen enterrar Etèocles, defensor de la ciutat, i prohibeixen, en canvi, enterrar Polinices i manen deixar-lo fora, «insepult, presa per als gossos».[6] Antígona, aleshores, exposa de manera clara la seva intenció d’oposar-se a aquest decret i el discuteix amb l’herald, el qual, malgrat amenaçar-la, no fa cap referència a possibles càstigs o sancions, si es portava a cap la transgressió. I les raons d’Antígona són purament humanitàries, per «les entranyes comunes que els han donat vida, d’una mare dissortada i d’un pare malaurat».[7]
+
+La tradició, doncs, fornia Sòfocles dels elements primordials per a la tragèdia, però no la hi donava feta, no li donava una expressió definitiva. Fou, doncs, el poeta, el dramaturg, qui completà la història de la tragèdia d’Antígona amb els elements dramàtics de la seva invenció.
+
+Sovint la crítica moderna s’ha escandalitzat per l’estructura d’aquesta tragèdia: hom ha parlat de tragèdia amb doble catàstrofe, de final incoherent, de tragèdia de Creont, etc., i la majoria de les històries de la literatura grega parlen de tragèdia díptica, amb dos protagonistes.
+
+És cert que no podem negar que, a la primera part de l’obra, el personatge d’Antígona hi és gairebé sempre present. A la segona, en canvi, desapareix al final de l’episodi IV, i ja no torna a sortir, si no és quan ens expliquen que l’han trobada penjada a la tomba on havia estat reclosa. És a dir, dos protagonistes i dues tragèdies en una de sola. A més de justificar aquest fet amb d’altres arguments, podem dir que la personalitat ben definida d’Antígona no necessita la seva presència física per continuar sent-ne la protagonista, perquè, malgrat que no hi és, la seva ombra hi és present fins al darrer vers de la tragèdia.
+
+No sabem com era el sacrifici d’Antígona en el mite anterior a Sòfocles, però sembla que ell ha configurat lliurement les parts referents a Creont, a Hèmon (amb el seu nuviatge amb Antígona) i a Eurídice. És a dir, gairebé tota la segona part de la tragèdia. És, efectivament, simptomàtic que el nuviatge d’Hèmon i Antígona no es faci present fins al vers 568, i encara per boca d’Ismene. És més, fins aleshores el tema de l’amor, que era present en boca d’Antígona, era l’amor filial, maternal o fraternal o, fins i tot, l’amor cristià «avant la lettre». En canvi, a partir d’aquest moment, el nuviatge, les noces frustrades i les obres d’Afrodita, en general, hi són presents com un tema important, com un lloc comú, en tota la segona part. Un altre element curiós és el personatge d’Ismene. Comença l’obra amb força, com a personatge. Sembla que hi hagi de jugar un paper important, si més no de contrast davant Antígona, i, en canvi, desapareix a la meitat de la tragèdia. Exactament després del vers 570 ja no hi té més paper, ni tampoc hi trobem cap més referència sobre ella. Sembla com si la segona part de l’obra, la part que podríem considerar més de creació original de Sòfocles i menys tradicional, hagi estat mal lligada amb la primera part, o almenys sembla que hi hagi deixat algun element inconnex.
+
+És difícil saber els motius que dugueren Sòfocles a configurar l’Antígona tal com ho féu, però, si coneixem la seva mentalitat, no és gens estrany que no acceptés un mite en què, ni que fos humanament i superficial, la injustícia hi triomfés. I així s’esdevindria si la història acabés amb el sacrifici i la mort d’Antígona, per molt exemplars que fossin. Calia, a més, que el dolent, l’injust, en aquest cas Creont, fos castigat, i que fos castigat exemplarment. El càstig que rebia Antígona era humà: només li robaven la vida terrenal, cosa que per a ella era una sort i no una desgràcia. El càstig de Creont, en canvi, era infligit pels déus i, per tant, més cruel i més punyent: perdre-ho tot i ser considerat un cadàver vivent.
+
+Tota la ideologia de Sòfocles es desenvolupa en principis coherents. Dèiem més amunt que la vida dels homes es mou en dues esferes: la divina i la humana. I la primera condiciona la segona: les lleis divines condicionen les lleis humanes. És potser una de les primeres advertències en defensa dels valors absoluts, oposats al relativisme i al laïcisme de la sofística. Sòfocles, d’alguna manera, s’anticipa a combatre teories que posteriorment esdevindran formulacions concretes.
+
+Tota interpretació de l’Antígona s’ha de fer des d’aquest punt de vista. Aleshores es resolen tots els problemes que hom pugui trobar-hi de manca d’unitat, o de manca de coherència que una lectura potser massa literal de la tragèdia podria provocar, perquè no penso que l’Antígona s’hagi d’analitzar exactament, o exclusiva, a través de la protagonista (Antígona) o dels protagonistes (Creont i Antígona), sinó d’allò que representen els dos personatges: les lleis no escrites, sempiternes, dels déus, en les quals s’ha de fonamentar qualsevol legislació humana, i les lleis humanes, que si són injustes, si presenten punts contradictoris amb les lleis divines, poden provocar un conflicte moral que pot desembocar en el càstig diví. La interpretació moral dels actes humans és molt propi de la sensibilitat de Sòfocles.
+
+
+
+La tragèdia Antígona i els seus personatges
+
+Crec que també és interessant fer una anàlisi breu dels personatges principals de la tragèdia i de la seva funció en el desenllaç del drama.
+
+El personatge més important i el que dóna nom a l’obra és Antígona, una heroïna típicament sofòclea. El seu caràcter posseeix valor, noblesa, sentit de l’honor, etc., tot allò que configura l’areté tradicional. Com tots els herois i heroïnes de Sòfocles, experimenta la solitud en la realització del seu acte heroic. I quan Ismene vol fer-se’n solidària, Antígona no l’accepta, perquè en el moment de realitzar l’acció tampoc no havia estat al seu costat. Antígona mostra una voluntat forta, inflexible i accepta volenterosament la mort. Els seus gemecs i planys davant el destí inflexible, que d’altra banda ella mateixa s’ha triat, no signifiquen en cap moment un penediment pel que ha fet: donen encara més valor al seu sacrifici, perquè són una prova del seu gran amor per la vida i, per tant, de la magnitud del seu sofriment. És més, sempre que parla de la seva acció, ho fa sempre amb paraules de satisfacció per la bellesa del seu acte. Creont demostra conèixer-la molt poc, quan ordena recloure-la al palau sota vigilància, perquè, segons diu, «fins i tot els més agosarats intenten fugir quan veuen que els ronda la mort».
+
+Un altre dramaturg presentaria Antígona com un personatge ple de dubtes, un personatge que analitza, enmig d’una dramàtica lluita interior, la decisió d’oposar-se a la voluntat del tirà. Sòfocles, en canvi, és un autor explícit. Els seus personatges tenen un caràcter decidit, fort, llançat, i la seva acció és directa. L’espectador coneix, ja des de bon començament, com es desenvoluparà l’acció dramàtica. Allò que la fa interessant és l’estudi del personatge, la manera com desenvolupa l’acció que ja de bell antuvi ha decidit. En tot cas, els dubtes, les indecisions, les pors tenen un nom, tenen la figura d’un personatge: Ismene, en el cas d’Antígona, i Crisòtemis, per posar un altre exemple, en el cas d’Electra.
+
+Antígona i Ismene: una figura tràgica i una figura normal. Ismene representa les pors, els dubtes, que podria tenir la seva germana, que tindria qualsevol persona que no tingués un caràcter heroic. La figura d’Ismene, en la creació literària, no sembla tenir altra missió que enlairar la figura d’Antígona, fer-la més gran.
+
+El personatge d’Ismene té també els seus precedents literaris i en tots ells sempre ha estat present en un segon terme, al darrere de la personalitat de la seva germana Antígona. Ja Èsquil,[8] o el poeta que posà l’afegitó final a Els set contra Tebes, ens fa avinent la presència de les dues germanes a l’escena, però, a l’hora de protestar per l’edicte dels probuls i de manifestar la decisió d’enterrar el germà, només se sent la veu d’Antígona. Ismene resta en silenci i en segon terme. En Sòfocles s’esdevé una cosa semblant: Antígona pren la iniciativa. Ismene, però, no resta en silenci: fa avinent la seva por, la seva impotència.
+
+Potser és injust empetitir la figura d’Ismene. Si resta petita és perquè té la figura grandiosa de la seva germana al seu costat. És, en canvi, una figura normal, un personatge just i, fins i tot, valent quan reconeix la injustícia que el tirà comet amb Polinices i, en un acte de valentia, accepta part de la culpa en què ha incorregut, segons Creont, la seva germana.
+
+Ara, cal convenir que és un personatge que, en la tragèdia d’Antígona, sembla mal acabat, poc elaborat, com comentàvem anteriorment. Ismene acaba el seu paper en l’episodi II. Les seves últimes paraules les pronuncia en el vers 570 i ningú ja no parla més d’ella. Ja no en sabem res més. A diferència dels altres personatges, Ismene queda en suspens, sense que ningú no ens expliqui quin fou el seu paper en els fets que posteriorment es desenvoluparen.
+
+L’aparició d’Hèmon, fill de Creont i promès d’Antígona, no s’esdevé fins a l’episodi III. Al final de l’episodi anterior Ismene en fa una evocació, com si el poeta, en veure que l’havia de fer sortir, s’afanyés a presentar-lo als espectadors i a recordar-los la seva existència i el seu nuviatge amb Antígona.
+
+Es tracta d’un jove tímid, delicat. Fins i tot sembla massa delicat i massa tímid per a una dona com Antígona. Per primer cop gosa oposar-se en contra del seu pare, perquè sap que tot el poble pensa igual que ell. El seu discurs és serè, fins i tot massa fred per a una persona enamorada que veu la seva promesa condemnada a mort. En la seva argumentació, no hi intervé l’amor que sent per Antígona. La discussió entre pare i fill segueix la línia dramàtica i no la lírica. Només quan se’n va, endut per la ira, i el cor inicia el seu cant a «l’Amor invicte en la lluita», sabem que ha estat l’amor qui li ha donat forces per a oposar-se al seu pare. Àdhuc acabarà atacant-lo, sense convicció, tanmateix, i matant-se amb la pròpia espasa davant la seva promesa, ja cadàver, i davant un pare que ell no gosa matar, malgrat la seva ràbia.
+
+I és que Hèmon s’ha trobat amb un pare que era més tirà que pare, que era un home orgullós, que només quan es veu perdut intenta rectificar, i ho fa massa tard.
+
+Creont, el rei, rei després de la mort dels dos germans, és un exemple evident de l’home que transgredeix la mesura, de l’home que cau en la hýbris, i és, doncs, castigat pels déus.
+
+Creont pot ser estudiat sota dos aspectes: sota l’aspecte d’home i sota l’aspecte de rei. Ell, però, considera més important la seva funció reial. Com a rei pensa que l’interès públic està per sobre de l’amistat, pensa que els enemics de la ciutat (i quan diu ciutat, vol dir, en realitat, ell mateix) són odiats pels déus. Creont té una idea arcaica de la ciutat, pensa que és purament un territori i no una comunitat de ciutadans i, per tant, no és estrany que pensi que la ciutat és del qui mana i ningú no pot dir-li què ha de fer o com ha de governar. El patriotisme, doncs, de què s’ufanava en un principi no és altra cosa que una simple tirania, ben definida quan demana obediència en les coses petites, en les coses justes i en les que no ho són.
+
+Com a home, ja hem assenyalat més amunt la seva consideració de la dona: és un ésser inferior i menyspreable. No pot imaginar-se de cap manera que una dona hagi estat capaç d’enfrontar-se a la seva decisió i d’enterrar el cadàver. I, encara, quan la té al davant, l’única cosa que el preocupa és saber si ha actuat en contra del seu poder, saber si coneixia o no l’edicte que prohibia l’acció que ella havia fet. Però no és només la dona qui queda mal parada, en l’opinió de Creont. També pensa que l’home és sotmès a la por i a la cobdícia i que un grapat de diners pot comprar qualsevol voluntat. I fins i tot quan parla amb el seu fill, mostra un evident menyspreu per la joventut.
+
+Si, tanmateix, hem de definir el caràcter de Creont, no el podem definir d’altra manera que com el d’una persona insegura. De primer, es presenta amb tota solemnitat, i exposa els principis que guiaran la seva actuació com a rei. Ben aviat, però, ja veu enemics ocults i conspiradors que comporten amb disgust les seves ordres; ben aviat ja pensa que hom vol fer-li la llei; també contradiu les seves ordres, i canvia la primera condemna de lapidació pública per la de mort per inanició en una tomba de pedra. Finalment, quan totes les seves decisions no han portat més que malastres, ja moralment vençut, accepta el seu fracàs i demana al cor que sigui el seu conseller.
+
+Un altre personatge de la tragèdia, un personatge poc important, però molt ben definit, és el guardià. És un exemple evident de l’etopeia dels personatges de Sòfocles. Amb poques paraules queda ben descrit i definit: un pobre home del poble, que, tot i que sent pietat per Antígona, amb el seu egoisme ingenu, amb la seva mesquina paüra per la vida, marca un evident contrast amb l’estil, ideals i generositat d’Antígona. El temor que produeix Creont el fa parlar amb grans circumloquis, com si cerqués la manera de fer endevinar el seu missatge i no haver-lo d’exposar clarament. El seu llenguatge és senzill i ple de proverbis i expressions populars.
+
+Finalment, farem una breu referència al cor de la tragèdia. Ja hem dit abans que en Sòfocles el cor té gairebé la funció d’un personatge. La seva importància en el desenvolupament de la tragèdia és, doncs, directa, adés amb els seus cants corals, adés amb la intervenció del corifeu. El cor de l’Antígona és format per quinze ciutadans nobles i ancians de la ciutat de Tebes: ha estat convocat per Creont a fi de fer-li avinent la seva decisió sobre els dos germans morts. El cor es mostra indecís davant el poder de Creont i en cap moment no gosa prestar suport obert a l’acció d’Antígona, encara que sembla evident que li fa costat, però tampoc no vol prestar el seu suport a l’acció de Creont, i es fa enrere quan aquest li demana que sigui custodi de les seves ordres. És només cap al final de la tragèdia quan el cor palesa la seva admiració per Antígona i la compara amb altres heroïnes que han assolit la sort dels semidéus.
+
+
+
+Desenvolupament d’Antígona
+
+El pròleg de la tragèdia servia per situar l’espectador en el punt concret del drama. Servia per presentar-ne els protagonistes, i, en el cas de l’Antígona, inicia també l’acció dramàtica. El pròleg de l’Antígona ens dóna l’espai real (històric) i dramàtic (escènic) de l’obra: se situa a Tebes, davant mateix del palau reial, de matinada, una vegada que s’han retirat, vençuts, els exèrcits argius. Els dos personatges que hi ha en l’escena es presenten: «cara Ismene, germana meva estimada», «no m’ha arribat cap notícia de les persones estimades, Antígona».
+
+Ensems amb Ismene, els espectadors s’assabenten de l’edicte de Creont, no publicat tanmateix oficialment, però ja conegut; també s’assabenten dels propòsits d’Antígona i són testimonis del xoc de caràcters d’Ismene i d’Antígona, xoc que ja anticipa l’enfrontament que hi haurà entre Antígona i Creont. L’espectador sap també, pel pròleg, que Creont s’hi presentarà per fer públic el seu decret.
+
+El diàleg entre Antígona i Ismene ens permet veure el món que cada una de les germanes s’ha fet. Per a Antígona, el món és dividit en amics i enemics dels amics. Ella no parla del mal que li poden fer a ella, sinó del mal que els enemics poden fer als amics. Ismene, en canvi, també té el món dividit en dues meitats: amics i enemics, però també en homes poderosos i criatures dèbils (les dones). El pes de les desgràcies familiars és també massa feixuc per a les dèbils espatlles d’Ismene i prefereix cedir davant els mals tan greus que ha sofert la família. Ella mateixa se sent dèbil i vol convèncer Antígona, però, amb tot, les últimes paraules d’Ismene, quan li confessa que malgrat tot sempre restarà estimada pels amics, palesen una gran admiració i una gran fidelitat per a la seva germana, com més endavant podrem veure.
+
+En aquest punt, hi entra el cor, i amb el seu cant s’inicia el pàrode. El seu cant és un himne al sol, a la llum del dia, primer testimoni de la victòria del drac de Tebes contra l’àguila dels argius. El cor, doncs, no sembla ni preocupat ni enfadat per l’acció de Polinices, el príncep tebà que conduí l’exèrcit dels argius en contra de la seva ciutat. Només en canta exultant la victòria, i amb el seu cant sorprèn i desconcerta l’espectador, que havia restat mut d’inquietud després del diàleg entre Antígona i Ismene i després del clima que s’havia creat. El cor tampoc no sembla preocupat per la sort del seu rei Etèocles, mort també en la batalla, ni sembla que conegui l’edicte que havia promulgat Creont. O tal volta espera, com sempre, que els problemes de la família dels Labdàcides se solucionaran i passaran, com sempre s’havia esdevingut en la llarga història de malastres abatuts sobre ella des dels seus inicis. Sembla, doncs, que el poble és sentimentalment allunyat de la casa reial.
+
+L’episodi I (versos 162-331) és format per dues escenes: la primera conté el discurs de Creont i un breu diàleg amb el corifeu. La segona escena, el discurs del guardià, el diàleg entre Creont i el guardià, la polèmica entre Creont i el cor i un nou diàleg entre Creont i el guardià.
+
+Creont hi fa la seva aparició de manera solemne. S’ha de presentar com a nou cabdill de Tebes, i ho fa amb una exposició programàtica o «discurs del tron». És un discurs ben confeccionat i creat sota la influència molt evident de la retòrica sofística: és compost de proemi (captatio benevolentiae), exposició, argumentació i conclusió.
+
+Creont comença el discurs amb un agraïment als déus, breu, tanmateix, perquè li interessen altres assumptes de l’Estat. No fa tampoc cap referència a la victòria que suara cantava el cor. Deixa ben clar que ell ha assumit el poder i exposa el seu programa, el seu pensament polític, per tal que tothom sàpiga com ha de captenir-se. I la seva primera disposició és ordenar l’enterrament d’Etèocles i prohibir el de Polinices. Les seves raons són només d’Estat, i les seves raons contrasten amb les que adés sentíem exposades per Antígona.
+
+La segona escena comença amb l’aparició del guardià, que li comunica, amb el seu llenguatge, grotesc i senzill, el conat d’enterrament de Polinices realitzat per un desconegut. El cor, que igual que Antígona pensa en l’obligació pietosa i moral d’enterrar els morts d’acord amb la llei divina, insinua la possibilitat que l’acció tingui l’aprovació dels déus. Aquesta insinuació irrita Creont, que pensa en maquinacions i conspiracions en contra del seu poder i amenaça el guardià amb la mort, si no descobreix el culpable de la transgressió de les seves ordres. I així l’acomiada.
+
+A l’estàsim I (versos 332-375), el cor entona un himne a la grandesa de l’home, creador de totes les arts i dominador de totes les forces de la naturalesa amb la força del seu esperit. És, tanmateix, una visió pessimista de la cultura, de la saviesa de l’home. Apunta inequívocament a l’ambient dels sofistes, que són els qui inicien l’especulació sobre els orígens de la societat i de la cultura, interessats com es mostren en l’home i en les seves institucions. L’home, però, no és la mesura de totes les coses, vol dir-los Sòfocles, en aquest passatge.
+
+L’episodi II (versos 376-581) inclou vuit versos que serveixen d’introducció. En aquests versos el corifeu presenta Antígona. L’episodi és format per tres escenes: la primera amb la intervenció del cor, Creont, guardià i Antígona; la segona amb la intervenció del cor, Creont i Antígona, i la tercera amb la intervenció de Creont, cor, Antígona i Ismene.
+
+En la primera escena, després del diàleg introductori del corifeu, hi ha primer la justificació del guardià, amb un estil molt semblant al de la seva primera presentació, i la descripció de la captura d’Antígona, en funció d’explicació, que, en d’altres circumstàncies, seria encomanada a un missatger. Els termes que fa servir el guardià són senzills i adequats al tipus de personatge que representa. El fragment, però, presenta diversos problemes interpretatius. Quan el guardià s’hi presenta per primer cop, ho fa per denunciar unes primeres cerimònies d’enterrament. Per què hi ha hagut, doncs, unes segones cerimònies? És difícil explicar-ho, si no és amb raons literàries. En primer lloc, sembla una excusa per trencar la tensió dramàtica, potser massa sostinguda, que hi hauria sense aquest moment de pausa. En segon lloc, sembla que per a la bona marxa de l’acció, Antígona havia de ser capturada en el moment de realitzar l’acció del sepeli, i, en tercer lloc, l’alentiment del joc dramàtic crea un grau d’inquietud en l’espectador, fet que li provoca un interès més gran en el desenvolupament del drama.
+
+L’escena segona d’aquest episodi, l’enfrontament de Creont i Antígona, representa el punt dialèctic culminant de la tragèdia: l’oposició de les lleis divines, defensades per Antígona, i de les lleis humanes, defensades per Creont. La preocupació per les lleis divines en oposició a les lleis humanes és un dels temes més meditats i treballats per Sòfocles, en aquesta i en d’altres tragèdies.[9] És també un dels temes que esdevindrà un referent important a l’hora de valorar la justícia de les lleis establertes per cada ciutat.
+
+En la tercera escena, Ismene és conduïda per dues esclaves davant Creont, que l’acusa de col·laborar amb Antígona en l’enterrament de Polinices. Ismene no sols no ho nega, sinó que es fa còmplice de la seva germana, a la qual no accepta la seva complicitat, i amb paraules poc amables, potser, però sinceres, agraeix el gest que finalment ha fet la seva germana.
+
+L’estàsim II (versos 582-625) recorda el pensament d’Èsquil: les calamitats s’arrosseguen de generació en generació i «cap generació no allibera la seva nissaga, sinó que algun déu la destrueix, i no té acabament». I, tanmateix, en Sòfocles cadascú és lliure d’escollir el seu destí; altrament, el mateix destí que recau sobre Antígona recauria també sobre Ismene, fruit del mateix ventre.
+
+L’episodi III (versos 626-780) conté dues escenes. En la primera intervenen el cor, Creont i Hèmon. En la segona, el cor i Creont.
+
+Hèmon es presenta davant el seu pare amb una gran humilitat i respecte, i amb docilitat, però la docilitat desapareixerà davant la inflexibilitat del seu pare. De seguida, hi trobem el parlament de Creont. És un discurs protrèptic, en el qual reclama l’obediència total del fill i dels súbdits, «en les coses petites, en les coses justes i en les que no ho són». El rei intenta convèncer el seu fill de la justícia de la condemna d’Antígona, igual que havia fet abans, en el primer episodi, amb els ancians de la ciutat. Hèmon en la seva resposta no empra el llenguatge del sentiment, sinó de la raó. S’adreça al seu pare amb veneració, però amb força i sense cedir en el seu raonament. Creont és, tanmateix, obstinat i l’amenaça de matar Antígona davant d’ell i Hèmon se’n va amb el cor adolorit.
+
+La segona escena de l’episodi comença a mostrar que la seguretat del rei comença ja a cedir: no fa cap comentari a les paraules del corifeu sobre la marxa irada del seu fill, allibera Ismene de la mort i canvia el càstig d’Antígona (no morir per lapidació pública, sinó d’inanició en un sepulcre de pedra).
+
+Després de la discussió entre Creont i el seu fill, el cor ens indica, amb el seu cant a l’Amor, que aquesta ha estat la força que ha mogut Hèmon. És el cant d’estàsim III (versos 781-800). Podríem trobar, tanmateix, altres interpretacions per situar aquest bellíssim cant dins el context de la tragèdia. Ben segur que no estaríem gaire equivocats si penséssim que aquest cant és el cant de l’himeneu que no tindrà mai Antígona en aquest món. Hi ha també qui hi ha volgut veure la substitució d’una escena de declaració d’amor entre Antígona i Hèmon, perquè no convé oblidar que allò que mou els personatges d’Antígona, d’Ismene, d’Hèmon i d’Eurídice, no és altra cosa que la força de l’amor, en qualsevol dels seus matisos.
+
+L’episodi IV (versos 883-943) està format per dues escenes. La primera és composta per dos grups d’estrofa antístrofa i un epode.
+
+Antígona és conduïda a la mort i es plany amb gran dolor per les seves noces mai no realitzades. Els vells de la ciutat, incapaços de comprendre el seu sacrifici, creuen que tot és a causa de la discussió mantinguda anteriorment amb Creont.
+
+Però encara que algú podria pensar que aquests planys de dolor no s’adiuen amb el caràcter fort i decidit d’Antígona, en cap moment no demostra recança per la seva acció ni es penedeix de res. En canvi, és natural que quan s’adona ja del final proper, escollit per ella mateixa, pensi en el bocí de vida que encara li quedava per viure. D’altra banda, el plany per un amic mort o per la pròpia vida que està a punt d’acabar-se és un tema comú en la poesia heroica grega. No altrament feien els aqueus a Troia plorant tota la nit la mort de Pàtrocle, amb Aquil·leu al capdavant.[10]
+
+En la segona escena, després del parlament cínic i groller de Creont, Antígona continua amb el seu plany, tot expressant l’esperança de felicitat en l’altra vida al costat dels seus éssers estimats. El contrast entre les paraules de Creont i l’amarg plany d’Antígona provocarien una pregona emoció en els espectadors.
+
+L’estàsim IV (versos 944-987) és un cant a diverses figures mitològiques que patiren situacions semblants a la que ara pateix Antígona. Però el que no és tan evident és la persona a qui va adreçat el cant: a Antígona o a Creont? Sembla que més aviat va adreçat a Creont, perquè, en primer lloc, és present a l’escena i escolta les paraules del cor, i els vells de Tebes no gosen adreçar-se al seu rei si no és amb paraules sibil·lines i sobreenteses. D’altra banda, els mites escauen més a Creont que a Antígona.
+
+Més amunt cantava un himne a l’home, al seu enginy i a la seva intel·ligència. Després cantava un altre himne a l’amor, vencedor en tot moment. Ara canta al Destí, que tot ho doma.
+
+I aquest cant al Destí no és res més que una clara advertència a Creont: si tots aquests personatges no s’han pogut sostreure al destí, malgrat el seu llinatge sovint relacionat amb alguna divinitat, tampoc ell no ho podrà fer. I així li ho explicarà Tirèsias en l’episodi següent.
+
+L’episodi V (versos 988-1114) és format per dues escenes: en la primera intervenen Creont, Tirèsias i el cor, i en la segona Creont i el cor.
+
+En la primera escena s’alternen els parlaments, de Tirèsias primer, amb el diàleg entre Creont i l’endeví. Tirèsias, en aquest cas, s’hi ha presentat per pròpia iniciativa, esglaiat per les profecies inintel·ligibles que sentia. Tirèsias és clar: Creont ha de rectificar la seva conducta.
+
+Creont torna a veure conjures i maquinacions en contra d’ell, com sempre que algú el contradiu. Però ara va més enllà en la seva neciesa: no sols insulta l’endeví, sinó que arriba al punt més alt de la seva sobergueria i insulta també Zeus, i es nega a enterrar el cos de Polinices «encara que les àguiles de Zeus el garfeixin i se l’enduguin per menjar-se’l davant el tron del déu».
+
+Després d’un tens diàleg entre tots dos, Tirèsias profetitza desgràcies innombrables per a Creont.
+
+La breu escena segona està formada per un diàleg entre Creont i el corifeu. Ambdós s’han quedat corglaçats davant les seves paraules, però Creont, a més, s’ha quedat abatut, atuït. Aquell orgull que mostrava ara ja ha desaparegut i ha de ser el corifeu qui el faci reaccionar, qui li digui el que ha de fer.
+
+En l’estàsim V (versos 1115-1154) el cor enceta un cant joiós, content com està pel canvi que ha experimentat Creont. El cant és ple d’alleujament i de joia. És, però, una alegria poc duradora; no és més que un recurs literari, el contrast, per fer més impressionant encara el desastre que s’abatrà sobre Creont.
+
+I en el darrer episodi, en l’èxode (versos 1155-1353), hi trobem la caiguda de Creont, la desfeta d’aquell home fins aleshores digne d’enveja. El seu orgull i la seva obstinació l’han conduït a la ruïna, l’han convertit en un «cadàver vivent».
+
+El tema de l’amor, cantat pel cor en l’estàsim III, ara pren un significat nou i dramàtic, davant l’espectacle dels cadàvers d’Hèmon i Antígona abraçats, perquè «és a la mansió de l’Hades on el míser ha aconseguit acomplir les noces».
+
+També l’orgull, l’obstinació i la desobediència a les lleis divines prenen un significat nou: «el seny és, en molt, la primera condició per a la felicitat. I no convé captenir-se amb impietat amb els déus, perquè els orgullosos paguen les seves paraules arrogants amb malastres infinits i només amb la vellesa aprenen a ésser assenyats». I ara és el corifeu qui s’adreça a Creont.
+
+
+
+
+
+Les altres Antígones
+
+
+El valor de la cultura grega rau precisament en la capacitat dels seus mites de ser adaptats a situacions diverses i a èpoques molt distants. Ja hem vist que l’anàlisi de l’Antígona no s’ha de fer excessivament limitada als seus protagonistes concrets, sinó a allò que signifiquen, als valors universals que representen, prescindint de la situació anecdòtica d’un relat determinat. És precisament gràcies a aquests valors que posseeixen els mites que poden ser adaptats en tots els temps per expressar sentiments i experiències noves.
+
+La lluita per la justícia, per una justícia que està per damunt d’unes lleis concretes, la lluita pels drets no escrits, no legislats, però inherents en la persona humana, tantes voltes conculcats sota pretextos embolcallats amb paraules tan grandiloqüents com buides, ha estat sempre una qüestió important en el progrés social i humà de la humanitat. I aquest és, com hem vist, el tema de l’Antígona. I per això ha estat, i és, una de les tragèdies gregues més valorades.
+
+Així, el tema de l’Antígona ha inspirat una reflexió sobre problemes socials i polítics esdevinguts en l’Europa dels darrers anys, i és també simptomàtic que tant B. Brecht com J. Anouilh hagin volgut tractar, a la llum d’aquest conflicte que tants anys enrere s’esdevingué a la Tebes de Beòcia, la situació que es vivia en l’Europa de la primera meitat del segle XX.
+
+L’Europa de la Segona Guerra Mundial, dividida en dos blocs, presentava una situació excessivament paral·lela a la de Tebes de Creont perquè Bertolt Brecht no aprofités l’avinentesa per confeccionar la seva Antígona, especialment referida a la lluita del poble soviètic en contra de l’Alemanya nazi.
+
+També Jean Anouilh va donar a conèixer la seva Antígona en les mateixes circumstàncies. La seva versió, però, és més ajustada, argumentalment almenys, a l’original de Sòfocles, fins al punt d’inserir-hi fragments gairebé traduïts de l’obra del dramaturg grec, com és la invocació a la tomba, llit nupcial de mort.[11] Els sentiments, en canvi, els mòbils dels personatges i la seva descripció física són fruit de la imaginació d’Anouilh, tant com els anacronismes que presenta, especialment en el vestuari, propi dels temps actuals (Creont va amb vestit sencer, els guardians amb gavardina, etc.).
+
+Per a nosaltres, tanmateix, després de la de Sòfocles, la més important és l’Antígona de Salvador Espriu. La seva realització, la seva inspiració, no és gaire allunyada de la de Bertolt Brecht, de la de Jean Anouilh o de la de Sòfocles. És més, després de l’Antígona d’Anouilh, el tímid Espriu dubta de presentar-la, perquè potser és de «justificació difícil després de Sòfocles, i potser del tot inoportú després d’Anouilh».[12]
+
+Espriu en va escriure dues versions. La primera és del 1939, en plena Guerra Civil espanyola. La segona, revisada pel mateix Espriu, és de l’any 1964. És certament inútil incidir en la inspiració concreta d’Espriu: la guerra civil, la divisió de la societat espanyola en dos bàndols, recordava de manera palesa la divisió de la Tebes d’Antígona i de Creont. Cap adaptació de cap altra tragèdia no podia ser evocada amb més propietat.[13]
+
+Per completar, no exhaurir, la llista de les versions de l’Antígona, podem fer esment encara de la versió del poeta mallorquí Guillem Colom, de 1935, en la qual Antígona presenta una mentalitat cristiana, i la de Josep Maria Muñoz Pujol, vencedora del premi Josep M. de Sagarra de Teatre el 1965, amb el títol Els corbs.[14] També cal esmentar l’Antígona de Jordi Coca, obra representada el 2003, en la qual la protagonista defensa una moral pròpia davant la llei de l’Estat i encarna el desafiament femení enfront del poder masculí i la preservació de l’humanisme al mig de l’horror de la guerra.
+
+JOAN CASTELLANOS
+
+
+
+
+
+Bibliografia
+
+
+Edicions, traduccions i comentaris
+
+BENAVENTE, M., Sófocles, Tragedias, Madrid, 1970. [Traducció.]
+
+DAIN, A., i P. MAZON, Sophocle I: Les Trachiniennes, Antigone, París, 1955. [Edició, traducció i notes.]
+
+ERRANDONEA, I., Sófocles. Tragedias. Antígona. Electra, Barcelona, 1965. [Edició, traducció i notes.]
+
+GIL, L., Antígona, Edipo Rey, Electra, Madrid, 1969. [Traducció.]
+
+JEBB, R. C., Antigone, Cambridge, 1902. [Edició.]
+
+—, The tragedies of Sophocles, Cambridge, 1904. [Edició i traducció.]
+
+LUCAS, J. M., Sófocles. Áyax, Las Traquinias, Antígona, Édipo Rey, Madrid, 1977. [Traducció.]
+
+PALLÍ, J., Sófocles. Teatro completo, Barcelona, 1973. [Traducció.]
+
+PEARSON, A. C., Sophoclis Fabulae, Oxford, 1924. [Edició.]
+
+RIBA, C., Sòfocles, Tragèdies. Les dones de Traquis, Antígona, vol. I, Barcelona, 1951. [Edició, traducció i notes.]
+
+—, Sòfocles. Tragèdies, Barcelona, 1977. [Traducció; edició a cura de C. Miralles.]
+
+TOVAR, A., Sòfocles, Antígona, Madrid, 1962. [Text anotat.]
+
+Estudis sobre l’obra dramàtica de Sòfocles i Antígona
+
+ADRADOS, F. R., Fiesta, comedia y tragedia, Barcelona, 1971.
+
+—, Del teatro griego al teatro de hoy, Madrid, 1999.
+
+ALSINA, J., Tragedia, religión y mito entre los griegos, Barcelona, 1971.
+
+BADIA, A., «Antígona» i «Fedra», de Salvador Espriu, Barcelona, 1985.
+
+ESPRIU, S., Antígona, Barcelona, 1993. [Edició crítica a cura de Carmina Jori i Carles Miralles.]
+
+GARCÍA GUAL, C., Historia, novela y tragedia, Madrid, 2006.
+
+GIL, L., Transmisión mítica, Barcelona, 1975.
+
+JAEGER, W., Paideia: los ideales de la cultura griega, Mèxic, 1962.
+
+KITTO, H. D. F., Greek tragedy, Londres, 1950.
+
+—, Form and Meaning in Drama, Londres, 1956.
+
+LASSO DE LA VEGA, J. S., Helenismo y literatura contemporánea, Madrid, 1967.
+
+—, De Sófocles a Brecht, Barcelona, 1970.
+
+LESKY, A., La tragedia griega, Barcelona, 1966.
+
+—, Historia de la literatura griega, Madrid, 1968.
+
+LIDA, M. R., Introducción al teatro de Sófocles, Buenos Aires, 1944.
+
+LLOYD-JONES, H., et al., Estudios sobre la tragedia griega, Madrid, 1966.
+
+LÓPEZ FÉREZ, J. A. (ed.), Historia de la literatura griega, Madrid, 1988.
+
+MADDALENA, A., Sofocle, Torí, 1963.
+
+MORETTI, J.-C., Théâtre et société dans la Grèce antique, París, 2001.
+
+PANDOLFI, V., Història del teatre, Barcelona, 1989.
+
+POPP, V., Edipo a la luz del folklore, Madrid, 1982.
+
+RACHET, G., La tragédie grecque, París, 1973.
+
+ROMILLY, J. DE, Précis de littérature Grecque, París, 1980.
+
+RONNET, G., Sophocle poéte tragique, París, 1969.
+
+SEGURA MUNGUÍA, S., El teatro en Grecia y Roma, Bilbao, 2001.
+
+VERNANT, J. P., Mito y pensamiento en la Grecia antigua, Barcelona, 1973.
+
+VÍLCHEZ, M., El engaño en el teatro griego, Barcelona, 1976.
+
+WALDOCK, A. J., Sophocles the dramatist, Cambridge, 1966.
+
+WOODARD, T., Sophocles, Nova Jersey, 1966.
+
+
+
+
+
+Antígona
+
+
+
+
+
+El text grec original és l’establert per Alphonse Dain, «Les Trachiniennes, Antigone», dins Sophocle, I, Association Guillaume Budé (Les Belles Lettres, París).
+
+
+
+
+
+Pròleg
+
+
+ANTÍGONA: Cara Ismene, germana meva estimada, ¿saps d’algun mal que vingui d’Èdip que Zeus no hagi acomplert encara en les nostres vides? No hi ha res de dolorós ni exempt de dissort, ni res de vergonyós ni d’infamant que jo no hagi vist en els teus mals ni en els meus. I ara, ¿què és aquest edicte de què parla tota la ciutat, aquest que acaba de promulgar el general? ¿En saps alguna cosa? ¿N’has sentit res? ¿Ignores, potser, els mals que els enemics projecten contra els nostres éssers estimats?
+
+ISMENE: No m’ha arribat cap notícia de les persones estimades, Antígona, ni plaent ni dolorosa, d’ençà que vam veure’ns privats dels dos germans, morts el mateix dia per mà mútua. Després que, aquesta mateixa nit, s’ha retirat l’exèrcit dels argius, no m’ha pervingut cap altra nova que em faci ni més feliç ni més dissortada.
+
+ANTÍGONA: N’estava segura i per això t’he fet venir a fora de les portes del palau, perquè només ho escoltis tu.
+
+ISMENE: ¿De què es tracta? És evident que portes de cap algun projecte.
+
+ANTÍGONA: Ben cert, car Creont ha atorgat honres fúnebres a un dels nostres germans, i ha deixat l’altre sense els honors de l’enterrament. Segons que diuen, ha considerat just d’actuar amb Etèocles d’acord amb la justícia i els costums, i li ha donat sepultura per tal que sigui rebut amb honors pels morts que habiten sota terra. Quant al cadàver de Polinices, caigut en una mort miserable, hom diu que els heralds han proclamat l’ordre que cap ciutadà no li doni sepultura ni el plori, sinó que resti sense planys, insepult, dolça presa per a les aus rapinyaires que cerquen el plaer de la menja. Tal edicte ha promulgat, diuen, el noble Creont per a tu i per a mi. Sí, també per a mi! I ell mateix vindrà a anunciar-ho aquí per als qui no n’estiguin ben assabentats. I no es pren l’afer per un no res, sinó que ha establert la mort per lapidació pública,[15] a l’acròpolis, per a qui realitzi algun d’aquests actes. Aquesta és la situació, i ben aviat podràs mostrar si ets ben nascuda o si, tot i ésser noble, et captens indignament.
+
+ISMENE: Si la situació és així, malaurada, ¿quina seria la meva aportació al desenllaç dels afers?
+
+ANTÍGONA: Decideix si vols afegir-te als meus esforços i a la meva causa.
+
+ISMENE: ¿Quin risc hem de córrer? ¿Fins on arriben els teus projectes?
+
+ANTÍGONA: Vull saber si t’afegiràs a les meves mans per donar descans al mort.
+
+ISMENE: Pretens donar-li sepultura, malgrat la prohibició feta a tota la ciutat?
+
+ANTÍGONA: És el meu germà, i el teu, encara que no et plagui. No vull, doncs, que ningú em blasmi per traïdora.
+
+ISMENE: Imprudent! ¿Tot i la prohibició de Creont?
+
+ANTÍGONA: Ell mai no podrà apartar-me dels meus.
+
+ISMENE: Ai, germana!, pensa en el nostre pare que va morir odiat i cobert d’infàmia, després de treure’s els ulls amb les seves pròpies mans, quan va descobrir per ell mateix la seva ignomínia. Pensa en la seva mare i esposa, quin doble nom!, la qual posà fi a la seva vida amb una corda ben trenada. Pensa també en els nostres dos germans, que, en un mateix dia, enfrontats l’un contra l’altre, els dissortats, van donar-se mútua mort amb les seves pròpies mans, enjovats a un destí comú. I ara pensa en nosaltres dues, que ens hem quedat soles: quina mort més terrible no sofrirem si, en contra de la llei, transgredim la decisió i l’autoritat del tirà. Pensa que la naturalesa ens ha fet dones i no ens és possible de lluitar contra els homes.[16] Altrament, ells són més forts i ens cal obeir aquestes ordres i d’altres de més penoses encara. Jo, per la meva banda, amb les meves súpliques demanaré la clemència dels qui viuen sota terra, constreta com em veig a comportar-me així, i obeiré els qui tenen el poder. Actuar més enllà de les pròpies forces no és cosa assenyada.
+
+ANTÍGONA: Ni t’ho demanaria i, ni que volguessis actuar, ja no podries participar-hi a grat meu. Tu fes el que et plagui, però jo li donaré sepultura. Em sembla bell morir per aquesta acció. Jauré amorosa al seu costat, al costat de l’ésser estimat, sagradament culpable de transgressió de la llei, perquè és més llarg el temps en què em cal ésser agradosa amb els habitants del món subterrani que no pas amb els d’aquí, perquè allà faré estada per sempre. Tu, però, si així et plau, menysprea les lleis que els déus estimen.
+
+ISMENE: Jo no les menyspreo, però la meva naturalesa és incapaç d’actuar en contra de la voluntat dels ciutadans.
+
+ANTÍGONA: Tu pots al·legar aquest pretext, però jo vaig a abocar terra per a la tomba del meu germà estimat.
+
+ISMENE: Ah, malaurada! Quina por que tinc per tu!
+
+ANTÍGONA: No t’anguniegis per mi i mira de redreçar el teu destí.
+
+ISMENE: Almenys, però, no revelis a ningú la teva acció, i guarda-la en secret. Jo també ho faré així.
+
+ANTÍGONA: Al contrari! Parla’n. Encara em seràs més odiosa si calles, si no divulgues pertot aquesta acció.
+
+ISMENE: Tens el cor ardent per coses que glacen la sang.
+
+ANTÍGONA: Però sé que complac aquells que em convé complaure més especialment.
+
+ISMENE: Això si t’és possible. Tens, tanmateix, afanys poc assolidors.
+
+ANTÍGONA: Doncs ho deixaré quan em manquin les forces.
+
+ISMENE: No convé, per principi, anar a la caça d’objectius impossibles.
+
+ANTÍGONA: Si continues parlant així, em seràs més odiosa i, endemés, et guanyaràs, amb tota justícia, l’odi del mort. Deixa, doncs, que jo i la meva neciesa ens exposem a aquest perill, perquè no patirem cap mal tan terrible que ens pugui emmenar a una mort deshonrosa.
+
+ISMENE: Endavant! Si aquesta és la teva decisió. Sàpigues, tanmateix, que tot i el teu embogiment, restes justament estimada per tots els teus amics.
+
+(Antígona surt per l’esquerra i Ismene entra al palau. El cor, format per quinze vells nobles de Tebes entra pel pàrode de la dreta.)
+
+
+
+
+
+Pàrode
+
+
+COR: Raig de sol, la llum més esplendorosa que ha aparegut a la Tebes de set portes![17] Oh, ull del dia daurat! Amb la teva aparició per sobre les aigües Dircees[18] has fet moure amb més ràpida brida l’exèrcit de blancs escuts vingut d’Argos, quan es trobava amb armes i bagatges en fuga precipitada.
+
+Polinices ens el va dur a la nostra terra portat per desavinences irreconciliables. I talment una àguila, proferint un esgarip penetrant, s’afuà sobre la terra desplegant les ales blanques com la neu, acompanyada d’un gran exèrcit amb cascs de crins de cavall.
+
+I posada al damunt de les nostres cases, badant el seu bec reblert de llances assassines, volava amenaçadora pel damunt de les boques de les nostres set portes. Va marxar, però, abans de sadollar la seva gorja amb la nostra sang i abans que el foc de les torxes resinoses d’Hefest prengués en els merlets que coronen la nostra fortalesa. Tal fou el brogit d’Ares que s’escampà pel seu voltant, feixuga càrrega per a qualsevol enemic del drac.[19]
+
+Zeus abomina pregonament la sobergueria que surt d’una boca insolent, i quan els veu avançar com una torrentada, orgullosos pel dring del seu or, amb el foc del seu llamp foragita el guerrer que dalt els merlets de la torre es disposa a llançar el crit de victòria.
+
+Va caure d’una empenta sobre el terra que va ressonar, aquell guerrer que, amb una torxa a la mà, en assalt embogit, bufava frenètic ràfegues de vents hostils. Però el seu destí fou altre que no pensava. A la resta també el fort Ares, propici a la ciutat, els concedia, a cadascú, un destí malastruc.
+
+Set capitostos emplaçats contra les set portes, set contra set, deixaren tots el seu bronze com a ofrena a Zeus que porta la victòria, excepte aquells dos dissortats, nascuts d’una mateixa mare i d’un mateix pare, els quals van aixecar les seves poderoses llances l’un contra l’altre i ambdós obtingueren part en una mort comuna. I la victòria que porta fama als homes va comparèixer per congratular-se amb Tebes abundosa en carros.[20] Deixem ja en oblit les guerres d’ara i apleguem-nos tots en els temples dels déus en cors nocturns, i que en sigui el capdavanter Bacos que somou la terra tebana.
+
+Però heus ací que s’acosta Creont, fill de Meneceu, recent estrenat cabdill per al nou ordre volgut pels déus. Algun projecte porta de cap, perquè ha convocat aquesta assemblea del Consell dels vells, amb un pregó general.
+
+(Surt Creont per la porta central del palau.)
+
+
+
+
+
+Episodi I
+
+
+CREONT: Ciutadans, després de commoure la ciutat amb fortes sotragades, els déus han redreçat de nou els afers amb mà ferma. Per missatgers us he fet venir a vosaltres, separadament de la resta dels ciutadans, perquè conec prou bé que palesàreu una adhesió incondicional, d’antuvi envers el tron i el poder de Laios. El mateix féreu quan Èdip dirigí la ciutat i, després que morí, conservàreu amb els seus fills els mateixos sentiments de lleialtat. Doncs bé, d’ençà que aquests van morir el mateix dia, víctimes d’un doble destí, colpejant i ferits ensems per pròpia mà assassina, jo posseeixo tots els poders i el tron, proper com sóc als morts per la sang. És, tanmateix, difícil conèixer l’ànima, els sentiments i les opinions de qualsevol home, abans que aquest no s’hagi manifestat en la pràctica del poder i de les lleis. El qui governa tota la ciutat i, tanmateix, no pren les decisions més encertades, sinó que per temor a qualsevol cosa manté la boca tancada, em sembla, ara igual que abans, que és un governant indigne. I qui pensa que un amic és un bé més important que la pròpia pàtria, aquest el tinc per un no res. I que en sigui testimoni Zeus, qui tot ho veu: jo no callaria mai si veia que la ruïna, i no la salvació, atenyia els ciutadans, ni tampoc podria posar la meva amistat en un enemic de la pàtria, perquè sé bé que ella és qui ens salva i només podem fer amics si fem amb ella una travessia segura. Amb aquests principis penso fer gran la ciutat. Ara mateix, d’acord amb aquest criteri, he adreçat als ciutadans un decret referent als fills d’Èdip: que Etèocles, que va morir tot defensant aquesta ciutat, que es va distingir sempre en la batalla, rebi sepultura i els ritus funeraris que corresponen als morts més il·lustres. Per al seu consanguini, en canvi, i em refereixo a Polinices, que en el seu retorn de l’exili va voler abrasar d’un cap a l’altre la terra pàtria i els seus déus, que va voler tastar la sang del seu germà i portar a la servitud els ciutadans, he decretat que ningú no li tributi els darrers honors i que ningú no el plori, sinó que resti insepult i que el seu cos sigui pastura d’ocells i gossos i una vergonya per a qui el vegi. Aquesta és la meva voluntat: mai els malvats no tindran honors majors que els homes honrats. En canvi, tothom qui sigui generós amb la ciutat, sigui mort o viu, obtindrà de mi els honors adequats.
+
+CORIFEU: Aquesta és la teva decisió, Creont, fill de Meneceu, amb l’enemic i amb l’amic de la ciutat. Sens dubte, t’és llegut d’aplicar qualsevol llei amb els morts i amb els qui encara som vius.
+
+CREONT: Doncs bé, vull que sigueu custodis de les meves ordres.
+
+CORIFEU: Encomana a una persona més jove el pes d’aquesta missió.
+
+CREONT: Ja hi ha vigilants disposats davant el cadàver.
+
+CORIFEU: ¿Quina, altra cosa, doncs, ens encomanes de fer?
+
+CREONT: No transigir amb ningú que desobeeixi aquesta ordre.
+
+CORIFEU: No hi ha ningú tan neci a qui plagui morir.
+
+CREONT: Ben cert, i aquesta és la paga. Tanmateix, l’esperança d’uns guanys porta sovint els homes a la pròpia perdició.[21]
+
+GUARDIÀ: Senyor, no diré que arribo sense alè per la rapidesa amb què he fet córrer els peus lleugers, perquè he fet moltes parades per reflexionar, fent un pas endavant i dos endarrere. I és que sovint el meu cor em parlava i em deia: «Malaurat, ¿per què hi vas, si, només arribar-hi, rebràs un càstig? Temerari, ¿què esperes? ¿Si Creont ho sap per algú altre, no en patiràs les conseqüències?». Rumiava tot això, i avançava amb pas feixuc, i així és com un camí curt es fa llarg. Finalment ha guanyat la decisió de presentar-me davant teu, i encara que no et digui cap cosa agradable, parlaré, tanmateix. Vinc, doncs, aferrat a l’esperança de no patir cap altre dany que el que el destí em té reservat.
+
+CREONT: ¿I quin és aquest afer que et produeix tal desànim?
+
+GUARDIÀ: D’antuvi vull fer-te unes precisions sobre mi mateix: ni jo he realitzat l’acció ni he vist qui n’ha estat l’autor, i no seria just que m’atenyés cap desgràcia.
+
+CREONT: Encertes just el blanc i envoltes la qüestió de grans precaucions. És evident que vols comunicar alguna novetat.
+
+GUARDIÀ: És que els fets enutjosos provoquen grans vacil·lacions.
+
+CREONT: Parla d’una vegada i, després, fuig d’aquí, i ben de pressa.
+
+GUARDIÀ: Ara mateix t’ho dic: algun desconegut acaba d’enterrar el cadàver i ha desaparegut després d’escampar per damunt del cos terra seca i després d’acomplir els ritus funeraris deguts.
+
+CREONT: ¿Què dius? ¿Quin home ha gosat fer tal acció?
+
+GUARDIÀ: No ho sé, perquè allà no s’hi veia ni senyal d’aixada ni terra remoguda per la magalla. La terra era dura i seca, sense ferir; tampoc no hi havia roderes de carro i res no provava que algú hi hagués treballat. Quan el primer vigilant del matí ens ho mostrà, a tots ens produí un esglai esgarrifós. El cos no es veia. I no és pas que fos enterrat, sinó que tenia al damunt una capa fina de pols, com feta per algú que volgués evitar una impuresa. No s’hi veia tampoc cap senyal de fera o de gos que se li hagués atansat per arrossegar-lo. Entre nosaltres les paraules ofensives s’accentuaven; els guardians ens acusàvem els uns als altres i hauríem acabat a cops sense que ningú hi fos present per a descompartir-nos. Cadascú era, per als altres, culpable; ningú, però, no n’era convicte i tothom al·legava no saber-ne res. Estàvem disposats a agafar ferros roents, a caminar sobre el foc i a jurar pels déus que ni ho havíem fet ni havíem estat còmplices de qui havia projectat l’acció ni de qui l’havia realitzada. Finalment, com que la nostra recerca no treia cap a res, un de nosaltres pren la paraula i ens fa a tots acotar el cap fins a terra de por, puix que ni podíem contradir-lo ni sabíem com ens podria anar bé si li fèiem cas. La proposta era que tu n’havies d’ésser sabedor i que no se t’havia d’amagar res. La proposta va prevaler i la sort em va atorgar a mi, pobre desgraciat, aquest regal. I aquí em teniu, a desgrat meu, i teu també, ja ho sé, perquè ningú no troba cap plaer amb un missatger de males notícies.
+
+CORIFEU: Rei, que aquest acte no sigui una acció volguda pels déus. Ara mateix em feia aquesta reflexió.
+
+CREONT: Prou! No m’omplis de còlera amb les teves paraules, que potser et trobaré també neci, a més de vell. Les teves paraules són intolerables, si afirmes que les divinitats mostren algun interès per aquest cadàver. ¿Que potser venien d’amagat a atorgar honres especials, com si es tractés d’un benefactor, a aquest que va presentar-se disposat a cremar els seus temples envoltats de columnes amb totes les seves ofrenes, i a portar la ruïna a la seva terra i a les seves lleis? O potser ara veus que els déus honoren els malvats? De cap manera. D’un temps ençà,[22] alguns ciutadans comporten amb disgust les meves ordres i murmuren contra mi. A la insabuda han alçat el cap i ja no tenen el seu coll lleialment submís al meu jou, com és el meu desig. Sé amb tota certesa que han estat els guardians qui ho han fet i aquells els hi induïren amb una bona paga. Mai no ha existit entre els homes cap invenció tan nefasta com els diners. Els diners destrueixen ciutats, treuen els homes de les cases; els diners ensinistren el seny dels homes honrats, l’esgarrien i el fan percaçar afers indignes. Han ensenyat els homes a ésser malfiats i a realitzar tota mena d’actes impietosos. Però els qui, per una paga, han realitzat aquesta acció ben aviat rebran el càstig pel que han fet. Però en tant que servo encara en el meu cor una pregona reverència per Zeus, sàpigues bé, i ho dic sota jurament, que si no trobeu i no em porteu davant els meus ulls l’autor d’aquest sepeli, la simple mort no us serà prou: abans, penjats vius,[23] aclarireu aquest crim. Així, en el futur, sabent d’on heu de treure el guany, l’anireu a capir allà, i entendreu bé que no convé mirar de treure profit de tot. Veuràs, doncs, que els guanys deshonestos perden més persones que no en salven.
+
+GUARDIÀ: ¿Em permetràs dir un mot o me’n vaig tal com he vingut?
+
+CREONT: ¿No saps que ara també m’enutgen les teves paraules?
+
+GUARDIÀ: ¿Et fan mal a l’orella o a l’ànima?
+
+CREONT: ¿I a què treu cap precisar la situació del meu dolor?
+
+GUARDIÀ: L’autor et fa mal a l’ànima, i jo, a l’orella.
+
+CREONT: Ai! És evident que ets d’un natural xerraire.
+
+GUARDIÀ: Però que mai no he fet aquesta acció!
+
+CREONT: I tant que sí! I a més et vas vendre l’ànima per diners.
+
+GUARDIÀ: Ai las! És terrible que qui jutja jutgi falsament.
+
+CREONT: Sí, fes-hi plasenteries, però si no me’n presenteu els autors, haureu de reconèixer que els guanys menyspreables porten malastrugança.
+
+(Creont entra a palau.)
+
+GUARDIÀ: Doncs tant de bo que siguin descoberts. Ara, si hom els heu o no, això la sort ho decidirà, però ben segur que no em veuràs mai més presentant-me al teu davant. Avui que em veig salvat, contra tota esperança i contra la meva pròpia convicció, en remercio pregonament als déus.
+
+(El guardià se’n va.)
+
+
+
+
+
+Estàsim I
+
+
+COR: Nombroses són les coses admirables, però cap no n’hi ha de més admirable que l’home. L’home solca el mar grisenc, enmig d’un temporal desfermat pel vent de migjorn, fent camí per un mar bramulador; és ell qui fatiga la deessa Terra, la deessa més augusta, incansable i indestructible, amb les arades que van amunt i avall, any rere any, llaurant la terra amb l’estirp cavallina.
+
+Amb paranys l’home astut captura la raça d’ocells lleugers i els animals salvatges i, amb xarxes ben trenades, captura també les espècies que viuen en el mar. Amb els seus ginys domina la fera salvatge que travessa les muntanyes i posa sota el jou que cenyeix el bescoll el cavall de crinera espessa i l’incansable toro ferotge.
+
+Va descobrir la paraula i el pensament, subtil com l’aire, i l’esperit que governa les ciutats; i, hàbil com és, va aprendre també a protegir-se de les inclemències de la vida al ras, de les gelades molestes i de la pluja perjudicial. I, en el futur, a res no s’aventurarà sense recursos. Tan sols de la mort no ha trobat fugida. En canvi, per a les malalties de més difícil remei ha imaginat solucions.
+
+Qui, tanmateix, posseeix una habilitat que va més enllà de l’esperança pot caminar adés cap al mal, adés cap al bé; el qui ajusta les lleis de la terra amb la justícia dels déus lligada amb juraments serà encimbellat en el punt més alt de la seva pàtria. En canvi, restarà sense pàtria el dia en què, per la seva audàcia, es contaminarà amb fets no justos. Que aquest no segui mai al meu costat en la meva llar ni jo no comparteixi mai les idees de qui actua així.
+
+
+
+
+
+Episodi II
+
+
+(Entra el guardià per l’esquerra portant Antígona:)
+
+CORIFEU: Esbalaïment em produeix aquest prodigi extraordinari. ¿Com puc negar, si la veig, que aquesta no sigui la jove Antígona? Oh, filla malaurada d’un malaurat pare, d’Èdip! ¿Què passa? ¿No et portaran pas per haver-te sorprès desobeint les lleis del rei en un acte insensat?
+
+GUARDIÀ: Heus ací l’autora del fet. L’hem agafada mentre enterrava el cadàver. Però, ¿on és Creont?
+
+CORIFEU: Ara mateix surt de palau, just a temps.
+
+CREONT: ¿Què passa? ¿Amb quin fet s’escau la meva arribada?
+
+GUARDIÀ: Senyor, en aquest món no hi ha res que pugui ésser negat amb jurament, perquè la reflexió desmenteix la primera decisió. Fins fa poc creia ben convençut que mai més no tornaria aquí: tan gran torbament em produí la pluja de les teves amenaces. Però com que una alegria llunyana i del tot inesperada no s’assembla en res a cap altre plaer, aquí em tens, infidel certament al meu jurament, portant-te aquesta noia capturada mentre agençava la tomba. I ara no hi ha intervingut la sort: aquesta descoberta ha estat només meva, no pas de ningú més. I, doncs, sobirà, agafa-la i, segons la teva voluntat, interroga-la i jutja-la. Pel que fa a mi, és just que em vegi lliure de qualsevol mal.
+
+CREONT: ¿D’on em portes aquesta noia i com l’has agafada?
+
+GUARDIÀ: Estava realitzant el sepeli del cadàver. Ara ja ho saps tot.
+
+CREONT: ¿T’adones d’això que dius? Són certes les teves paraules?
+
+GUARDIÀ: Jo mateix l’he vista mentre realitzava l’enterrament que tu havies interdit. ¿Parlo net i clar?
+
+CREONT: ¿I com fou que la vàreu veure i com és que fou agafada?
+
+GUARDIÀ: El fet s’esdevingué de la manera següent: quan vam arribar atemorits per les teves terribles amenaces, després de netejar el cadàver de la pols que el cobria i de deixar ben nu el cos que ja es descomponia, vam seure al cim del turó, a l’abric del vent, per evitar que ens arribés la fetor que desprenia. Cada un s’adreçava enèrgicament al company amb paraules injurioses, si per atzar descurava la seva tasca. Així transcorregué molt de temps, fins que l’esplendent esfera solar se situà al bell mig del cel i la seva calor ens abrasava. Aleshores, de sobte, va aixecar-se una tromba de pols, un flagell celeste, que va irrompre per tota la plana, malmetent el fullam de tota la vegetació, i s’estengué per tot el cel. Amb els ulls clucs ens protegíem del dany diví. Al cap de molta estona, quan s’apaivagà la tromba, aleshores veiem la noia que profereix un crit agut com d’ocell adolorit que veu el jaç buit del seu niu mancat de petits. Així ella, quan veu el cadàver tot nu, irromp en plors i gemecs i llança terribles imprecacions en contra dels qui ho havien fet. Tot seguit escampa amb les mans pols seca sobre el cadàver i amb una gerra de bronze ben forjat, de dalt estant, acompleix una triple libació. Nosaltres, tan aviat com la vam veure, ens hi vam abalançar sense pensar-nos-hi i la vam agafar sense que en cap moment donés mostres de temor, i la vam interrogar sobre l’acció d’abans i la d’ara. Ella no ens va negar res, cosa satisfactòria per a mi, però també lamentable, perquè és agradable evitar unes desgràcies, però és també lamentable causar sofriments a persones estimades. Per a mi, tanmateix, això no val tant com la meva salvació.
+
+CREONT (a Antígona): I tu, tu que acotes el cap a terra, ¿afirmes o negues haver realitzat aquests actes?
+
+ANTÍGONA: Afirmo haver-ho fet. Mai no ho negaré.
+
+CREONT (al guardià): Tu pots anar on vulguis, lliure de tota acusació. (A Antígona.) I tu, digues-me, amb brevetat, sense ambigüitats: ¿coneixies l’edicte que prohibia realitzar aquesta acció?
+
+ANTÍGONA: El coneixia. ¿Per què no l’havia de conèixer si era ben públic?
+
+CREONT: ¿I, tanmateix, has gosat transgredir les lleis?
+
+ANTÍGONA: Perquè no era Zeus qui me les dictava, ni mai la Justícia que té el seu estatge entre els déus subterranis no ha ordenat lleis semblants entre els homes. No creia tampoc que les teves lleis, les lleis d’un home mortal, fossin tan fortes que donessin la possibilitat de transgredir les lleis no escrites i imperibles dels déus, perquè aquestes tenen validesa no d’avui, ni d’ahir, sinó de sempre i ningú no sap des de quan existeixen. Jo no tenia la intenció de presentar-me a la justícia dels déus per transgredir-les, enduta per la por a les decisions de qualsevol home. Que havia de morir ja ho sabia, ¿per què no?, encara que tu no haguessis fet la proclama. I si moro abans de temps, jo penso que és un guany, i a qui, com jo, viu entre infortunis, ¿per què no li ha d’ésser un guany la mort? I que m’atenyi aquesta malastrugança no és per a mi gens dolorós. En canvi, si comportés que un fill de la meva pròpia mare mort restés insepult, això sí que m’entristiria. Les teves amenaces, en canvi, no em preocupen. I si ara et sembla una bogeria això que he fet, tal volta el boig és el jutge que em condemna per boja.
+
+CORIFEU: Palesa un natural obstinat, digna filla d’un pare obstinat. I no sap sotmetre’s davant les adversitats.
+
+CREONT: Sàpigues, tanmateix, que els temperaments massa forts es dobleguen més fàcilment, igual que el ferro forjat més ben trempat pel foc es trenca i es parteix molt sovint. Tothom sap també que els cavalls més salvatges són fàcilment domats amb un petit fre. Per això, doncs, no convé que palesi un capteniment fatu qui és esclau dels qui té a prop. Aquesta sabia prou bé que cometia un acte de sedició quan transgredia les lleis establertes. I després de fer-ho, encara comet una nova transgressió: s’ufana de la seva acció i, a més, s’hi rabeja. Ara l’home ja no sóc jo, sinó ella, si aquesta audàcia seva resta sense punició. Però encara que sigui filla de la meva germana i tingui amb mi lligams de sang més estrets que ningú més de la família, ni ella ni tampoc la seva germana no s’escaparan de la mort més terrible, perquè també a aquesta l’acuso de col·laborar en aquest sepeli. (Als esclaus.) Crideu-la. Adés l’he vista dins la casa tota plena de fúria i poc mestressa dels seus actes. L’ànim de qui maquina en la penombra actes en contra de la llei sol ésser sorprès abans de realitzar-los. (A Antígona.) Jo odio especialment aquell qui, després que ha estat sorprès en delicte, vol ennoblir la seva acció.
+
+ANTÍGONA: Ara ja m’has agafat. A més de matar-me, ¿què vols?
+
+CREONT: Res més. Et tinc a tu i ja ho tinc tot.
+
+ANTÍGONA: I, doncs, ¿què esperes? Perquè cap de les teves paraules no em són plaents, ni mai no m’ho poden ésser. I a tu tampoc no t’agraden els meus actes. I, certament, ¿amb què podria assolir una fama més notable que acomplint el sepeli del meu germà? Tots aquests afirmarien que aquest acte els ha complagut, si la por no els lligava la llengua. Però la tirania es complau en moltes situacions, però especialment en la possibilitat d’actuar i de manifestar-se amb impunitat.
+
+CREONT: De tots els cadmeus, només tu ho veus així.
+
+ANTÍGONA: També ho veuen aquests, però tenen la boca tancada de por que et tenen.
+
+CREONT: No t’avergonyeixes de pensar diferent d’aquests.
+
+ANTÍGONA: No és cap vergonya mostrar pietat envers els nascuts de les mateixes entranyes.
+
+CREONT: ¿I l’adversari mort, no t’era també germà?
+
+ANTÍGONA: Germà de la mateixa mare i del mateix pare.
+
+CREONT: ¿I com és que atorgues uns honors que per a aquell són una ignomínia?
+
+ANTÍGONA: Això no ho testimoniarà mai el mort.
+
+CREONT: Ho farà si atorgues al germà indigne els mateixos honors que a ell.
+
+ANTÍGONA: No és un esclau qui ha mort, sinó un germà.
+
+CREONT: Però que volia destruir aquesta terra. L’altre, en canvi, la defensava.
+
+ANTÍGONA: Hades, tanmateix, vol lleis iguals per a tothom.
+
+CREONT: Però el bo no pot tenir la mateixa sort que el dolent.
+
+ANTÍGONA: ¿Qui sap si allà a baix aquestes distincions són tan clares?
+
+CREONT: Ni després de mort, l’enemic no pot esdevenir amic.
+
+ANTÍGONA: Jo no estic feta per compartir l’odi,[24] sinó l’amor.
+
+CREONT: Si vols estimar, vés a estimar aquells de sota terra. Però mentre jo visqui, cap dona no em farà la llei.
+
+(Ismene surt de palau entre dues esclaves.)
+
+CORIFEU: Ja tenim aquí, davant les portes, Ismene, vessant llàgrimes fraternals. Damunt les celles un núvol enlletgeix el seu rostre envermellit i li humiteja les seves galtes gracioses.
+
+CREONT: Tu, que com un escurçó t’arrossegaves per la casa i em xuclaves la sang sense jo adonar-me’n; jo no sabia que alimentava un doble malastre i una doble insurrecció contra el meu tron; au! vinga! parla, i digues si tu també has participat en aquest sepeli, ¿o potser juraràs no saber-ne res?
+
+ISMENE: Ho he fet, si aquesta em deixa remar en la mateixa barca. Tinc part en la culpa i l’accepto.
+
+ANTÍGONA: La Justícia no t’ho permetrà, perquè ni ho has volgut ni jo t’hi he implicat.
+
+ISMENE: Però en els moments de la teva malaurança no m’avergonyeixo de navegar en la mar de les teves desgràcies.
+
+ANTÍGONA: Hades i els déus subterranis són coneixedors de l’autor de l’acció. I jo no estimo qui em demostra el seu amor només amb paraules.
+
+ISMENE: Almenys, germana, no em consideris indigna de morir al teu costat i de realitzar els ritus deguts al mort.
+
+ANTÍGONA: No vull que moris amb mi ni que t’atribueixis unes accions que no has fet. Amb la meva mort ja n’hi ha prou.
+
+ISMENE: ¿I quin interès tindrà per a mi la vida si hi faltes tu?
+
+ANTÍGONA: Pregunta-ho a Creont, tu que tant t’inquietes per ell.
+
+ISMENE: ¿Per què em mortifiques així, si tampoc no hi guanyes res?
+
+ANTÍGONA: Ho faig amb dolor, si em ric de tu.
+
+ISMENE: ¿I en què, doncs, podria ara ésser-te útil?
+
+ANTÍGONA: Salva’t. No m’enutja que evitis la mort!
+
+ISMENE: Ah, malaurada! ¿I veure’m apartada del teu destí?
+
+ANTÍGONA: Tu vas triar viure. Jo morir.
+
+ISMENE: Però no sense explicar-te les meves raons.
+
+ANTÍGONA: Al parer d’uns tu eres l’assenyada, al parer d’altres l’era jo.
+
+ISMENE: I, tanmateix, la nostra falta és la mateixa.
+
+ANTÍGONA: Tingues coratge! Tu ets viva. La meva ànima, en canvi, temps ha que és morta. Així puc ajudar els qui han mort.
+
+CREONT: Penso que, d’aquestes dues noies, una acaba de palesar el seu embogiment; l’altra, en canvi, l’ha palesat d’ençà del seu naixement.
+
+ISMENE: En la dissort, rei, no sempre es manté el seny rebut en néixer: canvia.
+
+CREONT: Et canvia a tu, que vas voler actuar nèciament al costat de necis.
+
+ISMENE: ¿I què em donarà plaer per viure, tota sola, sense aquesta?
+
+CREONT: No parlis d’aquesta: aquesta ja no existeix.
+
+ISMENE: ¿I mataràs la núvia del teu mateix fill?
+
+CREONT: Hi ha altres conreus on llaurar.
+
+ISMENE: Però no de la mateixa manera com havia estat convinguda la unió d’aquesta i aquell.
+
+CREONT: Em desplauen les dones malvades per als fills.
+
+ANTÍGONA: Hèmon estimat! Com t’ofèn el teu pare!
+
+CREONT: Ja m’heu enutjat prou, tu i el teu matrimoni.
+
+CORIFEU: ¿L’apartaràs, doncs, del teu propi fill?
+
+CREONT: Hades serà qui posarà fi a aquestes noces.
+
+CORIFEU: Segons que sembla, has decidit que ella mori.
+
+CREONT: Ben decidit, per a tu i per a mi. I ara, sense més dilacions, esclaus, endueu-vos-les dins. Cal que d’ara endavant, aquestes dones no siguin deixades en llibertat, per tal com, fins i tot els més agosarats, intenten fugir quan veuen que els ronda la mort.
+
+(Tots entren dins el palau.)
+
+
+
+
+
+Estàsim II
+
+
+COR: Feliços aquells que passen l’existència sense tastar la dissort, perquè als qui tenen la casa sacsejada pels déus no els manca cap malastre que no s’arrossegui fins a la seva més llunyana descendència. Igual que quan una ona marina, impel·lida pels vents adversos de Tràcia, corre per sobre les tenebres pregones del mar, somou des del fons la platja negra i, colpejada pels vents i l’escarpada riba, bramula sota les ones que la baten.
+
+Veig les antigues calamitats de la casa dels Labdàcides que cauen sobre les calamitats dels qui han mort i que cap generació no allibera la seva nissaga, sinó que algun déu la destrueix, i no té acabament. Ara, en les darreres arrels del casal d’Èdip, s’albirava una llum d’esperança, però de nou la segava la pols sangonosa dels déus subterranis, i els mots insensats i la fúria del cor.
+
+Quina transgressió dels homes podria, Zeus, contenir la teva força? Ni la son que tot hom domta no la pot aturar, ni els mesos incansables dels déus. Amb poder absolut, salvaguardat de la vellesa, regnes pel damunt del resplendor marmori de l’Olimp. Per a l’esdevenidor, immediat i més distant, igual que ja en el temps passat, tindrà validesa aquesta llei: res d’important no esdevé en la vida dels mortals a recés de les calamitats.
+
+L’esperança atzarosa és, doncs, un guany per a molts homes, però és també, per a molts, un parany construït amb anhels eixelebrats: penetra en l’home, que no sap res fins que apropa els seus passos al foc ardent. Amb saviesa algú ha manifestat aquesta dita: els déus emmenen al desastre l’ànima de qui pensa que la maldat és igual que la bondat i és molt breu el temps en què viu estalvi de calamitats.
+
+
+
+
+
+Episodi III
+
+
+(Creont surt del palau.)
+
+CORIFEU: Heus ací Hèmon, el darrer dels teus fills. ¿Potser ve amb el cor adolorit per la sort d’Antígona, la seva futura esposa, desconhortat per les noces fallides?
+
+CREONT: Ben aviat ho sabrem millor que els mateixos endevins. Fill meu, ¿tal volta véns furiós contra el teu pare, irritat per la clarícia del decret irrevocable contra la teva núvia? ¿O bé segueixo encara estimat per tu, faci el que faci?
+
+HÈMON: Pare, sóc fill teu i tu, amb els teus consells oportuns, guies dreturerament la meva vida. Jo els obeiré. Per a mi no hi ha cap boda que valgui més que el teu govern just.
+
+CREONT: Això, fill, convé que ho conservis en el teu cor: has de servar sempre fidelitat als bons consells del teu pare. Per això els homes desitgen engendrar fills dòcils en les seves cases, perquè puguin tornar mal per mal a l’enemic i perquè honorin els amics igual que ho fa el pare. En canvi, a qui engendra fills inútils, ¿quina altra cosa hom pot dir-li, sinó que ha creat només aflicció per a ell mateix i motiu de befa per als enemics? Mai, fill meu, no perdis el seny pel plaer d’una dona: sàpigues que les seves carantoines es tornen de gel quan, a casa, esdevé una mala esposa. ¿Quina malura més dolorosa pot haver-hi que la vilesa d’un ésser estimat? Refusa aquesta noia per indigna i deixa-la que cerqui espòs a l’Hades. Jo l’he agafada en delicte flagrant de rebel·lia, a ella sola de tota la ciutat, i no puc mancar a la meva paraula: l’he de matar. Ja pot invocar Zeus protector de la família! Si, doncs, governo la meva pròpia casa sense ordre, no altrament hauré de fer amb els qui no són de casa, perquè qui palesa un capteniment dreturer en la seva pròpia llar també sabrà captenir-se justament amb la ciutat. Qualsevol que, per supèrbia, conculqui les lleis o pretengui donar ordres als qui governen, no trobarà mai en mi cap paraula de lloança. Però aquell a qui la ciutat ha posat al capdavant ha d’ésser obeït en les coses petites, en les coses justes i en les que no ho són. Jo tinc tota la seguretat que un home sabria manar dreturerament si també es deixa manar amb docilitat, igual que aquell qui, en el tumult de la guerra, roman valent i coratjós al lloc on ha estat assignat. No hi ha mal pitjor que l’anarquia. L’anarquia destrueix les ciutats, provoca la ruïna de les cases i fa fugir l’exèrcit aliat. La disciplina, en canvi, estalvia gran nombre de vides dels vencedors. Cal, doncs, donar suport als qui manen i no permetre que les ordres siguin mai rebatudes per una dona. Si cal, és millor sucumbir a mans d’un home que ésser considerat inferior a una dona.
+
+CORIFEU: Si la vellesa no ens ha atordit, a nosaltres ens sembla que tot el que dius és prou assenyat.
+
+HÈMON: Pare, els déus han dotat els homes de seny, que és el bé més preat de tots. Que tu no parles tal com escau, ni podria ni sabria dir-ho. Tanmateix, pot esdevenir-se que a algú altre li ocorri alguna cosa també escaient. Bé, doncs, és natural que, en benefici teu, observi tot el que hom diu o fa o, potser, blasma. La teva presència produeix temor[25] a qualsevol ciutadà quan es tracta de raons que tu no escoltaries amb plaer. A mi, en canvi, m’és possible d’escoltar, en la foscor, els planys que la ciutat fa per aquesta noia, per a ells la més innocent de totes les dones, que es troba amb una mort ignominiosa per uns fets que mereixen la més gran lloança: no ha permès que un germà caigut en el combat restés insepult i que fos devorat pels gossos sanguinaris i per les aus rapinyaires. ¿No és, més aviat, digna d’obtenir una recompensa més valuosa que l’or? Aquest és l’obscur rumor que corre en silenci. Però, per a mi, pare, no hi ha tresor més valuós que la teva benaurança. ¿Quina joia més gran pot tenir un fill que la fama d’un pare puixant, o un pare que la dels fills? No t’obstinis a tenir una sola opinió irremovible: que només és correcte allò que tu dius, i no res més. Aquell, doncs, qui creu que és l’únic que pensa assenyadament o que té una llengua o una ànima com ningú, quan és posat a prova, tothom el troba buit. No és cap vergonya que un home, per savi que sigui, aprengui incessantment i que no mostri excessiva intransigència. Mira els arbres que hi ha en la llera dels rius torrencials: els que es dobleguen salven les seves branques, mentre que els que oposen resistència són arrancats de soca-rel. De la mateixa manera, el mariner que amb el cap de la vela de la nau ben tibat no afluixa davant de cap obstacle acaba navegant amb el buc de la nau capgirat. Apaivaga, doncs, la teva ira i muda el teu parer. Si malgrat la meva joventut tinc un cert judici, afirmo que no hi ha res més respectable que l’home que posseeix la ciència innata. Però si no és així, i la balança no sol inclinar-se cap aquest cantó, és just que aprenguem dels qui parlen amb seny.
+
+CORIFEU: Senyor, és natural que aprenguis d’ell si diu quelcom d’oportú, i tu també del teu pare, perquè el raonament ha estat correcte d’una banda i d’altra.
+
+CREONT: ¿Així que ara, a la meva edat, he d’aprendre a raonar d’un jovenet com aquest?
+
+HÈMON: Res que no sigui just. I si sóc jove, no és l’edat el que has de mirar, sinó els meus actes.
+
+CREONT: ¿I és un acte just honorar els avalotadors?
+
+HÈMON: Mai no aconsellaria respectar els malvats.
+
+CREONT: ¿I, doncs, aquesta no ha estat posseïda per aquesta follia?
+
+HÈMON: No ho creu pas així el poble sencer de Tebes.
+
+CREONT: ¿I la ciutat m’ha de dictar el que jo he de disposar?
+
+HÈMON: ¿T’adones que parles com si fossis un jovenet?
+
+CREONT: ¿He de governar la ciutat segons el meu criteri o segons el criteri d’altri?
+
+HÈMON: No hi ha ciutat que sigui cosa d’un home sol.
+
+CREONT: ¿La ciutat no és considerada del qui la governa?
+
+HÈMON: Series un bon governant d’un país desert.
+
+CREONT: Aquest, segons que sembla, s’ha posat al costat de la dona.
+
+HÈMON: Si tu ets una dona, perquè em preocupo per tu.
+
+CREONT: Pobre miserable! ¿Jutjant el teu pare?
+
+HÈMON: Perquè veig que no et captens amb justícia.
+
+CREONT: ¿Cometo un delicte si m’atinc a les meves funcions de governant?
+
+HÈMON: No t’hi atens quan trepitges els privilegis sagrats dels déus.
+
+CREONT: Tens un caràcter mesquí i sotmès als capricis d’una dona.
+
+HÈMON: Tanmateix, no em trobaràs mai sotmès a actes infames.
+
+CREONT: Totes les teves raons no fan més que defensar-la.
+
+HÈMON: I també a tu i a mi, i als déus subterranis.
+
+CREONT: El que és amb ella, mai no t’hi casaràs en vida.
+
+HÈMON: Ella pot morir, però, si mor, algú altre morirà també.
+
+CREONT: ¿Goses, doncs, atacar-me amb amenaces?
+
+HÈMON: ¿És una amenaça replicar a raons buides?
+
+CREONT: Amb plors posaràs seny, mancat com ets de prudència.
+
+HÈMON: Si no fossis el meu pare, diria que has perdut el seny.
+
+CREONT: Esclau d’una dona! No em facis perdre més temps amb la teva xerrameca.
+
+HÈMON: Tu vols parlar i no escoltar ningú.
+
+CREONT: ¿De veritat? Doncs, sàpigues, per l’Olimp!, que no et reportarà cap satisfacció ofendre’m amb els teus retrets. (A un esclau.) Porta’m aquí aquella odiosa, perquè mori en presència del seu mateix promès, davant els seus ulls.
+
+HÈMON: No! Davant meu no! No t’ho pensis pas! Ella no morirà davant meu i tu mai més no veuràs el meu rostre amb els teus ulls. Deixa’t endur per la ràbia al costat dels qui t’ho permetin.
+
+(Surt rabent de l’escena.)
+
+CORIFEU: Senyor, l’home ha marxat dominat per la ira. I el cor adolorit d’un jove és quelcom inquietant.
+
+CREONT: Que faci el que vulgui! Que se’n vagi pensant que és més que un home, però no podrà alliberar del seu destí aquestes dues noies.
+
+CORIFEU: ¿Penses matar-les totes dues?
+
+CREONT: No, la que no hagi tocat el cadàver, no. Tens tota la raó.
+
+CORIFEU: ¿I quina mena de mort has pensat per a ella?
+
+CREONT: La portaré a un indret on no hi hagi petja de cap mortal i la tancaré viva en una gruta excavada en una roca i li deixaré tan sols l’aliment just per evitar la contaminació, a fi que la ciutat sigui lliure de tot sollament. I allà si implora a Hades, l’únic déu que ella adora, potser s’alliberarà de la mort o, altrament, sabrà que és un esforç inútil mostrar tot el seu respecte pels afers d’Hades.
+
+(Creont entra a palau.)
+
+
+
+
+
+Estàsim III
+
+
+COR: Amor, invicte en la lluita, Amor que sotmets tot el que posseeixes, que fas nit en les galtes tendres de les donzelles i rondes per indrets de la mar enllà i per les clastes de terres feréstegues. Cap immortal no et pot defugir, ni tampoc cap dels homes efímers, i aquell que tu posseeixes embogeix.
+
+Tu arrossegues els justos vers comportaments injustos per a la seva destrucció. També tu has provocat aquesta baralla entre homes de la mateixa sang. I triomfa el desig radiant d’una núvia destinada al llit nupcial, fent costat a les grans lleis que regeixen el món, perquè, sense lluita, la deessa Afrodita fa el seu joc. Ara jo mateix em deixo portar fora de les lleis davant l’espectacle que he presenciat i ja no puc contenir el doll de les meves llàgrimes quan veig Antígona que ateny aquell sojorn de repòs destinat a tots.
+
+
+
+
+
+Episodi IV
+
+
+ANTÍGONA: Mireu-me, homes de la ciutat del meu pare, ara emprenc el darrer camí; per darrer cop veig la llum del sol. El demà ja no existeix: l’Hades, sojorn comú per a tots, se m’endu viva a la vorada de l’Aqueront,[26] sense l’acompliment del meu himeneu i sense sentir qui em canti els himnes en les meves noces. L’Aqueront serà el meu espòs.
+
+CORIFEU: Esplendorosa i coberta de lloances t’adreces, tanmateix, vers aquest camí dels morts. Ni t’han colpit les malalties que marceixen ni t’ha atès el cop mortal de l’espasa, i sola, de tots els mortals, viva encara, baixes tu mateixa a l’Hades.
+
+ANTÍGONA: Ja he sentit explicar la deplorable mort de l’estrangera frígia, filla de Tàntal,[27] als cims del Sípil, la qual sentí com la roca creixia i l’embolcallava talment les arrels arrapadisses de les heures, i mentre es corfon, segons el dir de la gent, ni la pluja ni la neu mai no l’abandonen i els seus ulls sempre plorosos amaren el rocam. També a mi un déu em fa un jaç semblant al d’ella.
+
+CORIFEU: Ella, però, era deessa i filla de déus, mentre que nosaltres som mortals i fills de mortals. És, tanmateix, una gran cosa, encara que moris, sentir cants de lloança per haver assolit, en vida primer i després, de morta, la mateixa sort que els semidéus.
+
+ANTÍGONA: Ai! Ai! Tothom es riu de mi. Pels déus familiars! ¿Per què no esperes que sigui morta i m’insultes encara en vida? Oh, ciutat! Oh, ciutadans opulents de la pàtria! Aigües Dircees i clos sagrat de Tebes abundosa en carros! Malgrat tot us prenc a tots vosaltres per testimonis: mireu per quines lleis me’n vaig, sense el plor dels qui m’estimen, a la meva reclusió sepulcral d’una tomba insòlita. Malaurada de mi! Ni formo part del nombre dels qui viuen ni dels qui han mort, ni convisc amb els vius ni amb els morts.
+
+CORIFEU: Excedint-te amb desmesura en la teva gosadia, filla meva, has topat amb el tron encimbellat de la Justícia. Algun mancament patern expies.
+
+ANTÍGONA: Encertes en la meva aflicció més punyent, el lament renovellat tres vegades del meu pare, i també de tot el nostre destí, el dels nobles Labdàcides. Ah! Noces funestes de la meva mare i matrimoni incestuós amb el meu pare! De tals pares he nascut, malaurada de mi! Amb ells vaig ara a conviure, maleïda, sense espòs. Pobre germà meu! Dissortades noces acomplires[28] i amb la teva mort, viva encara, m’has llevat la vida.
+
+CORIFEU: És un acte de pietat honorar els morts, però a qui posseeix el poder no li plau que aquest sigui mai conculcat, i la teva fogositat impulsiva t’ha dut a la perdició.
+
+ANTÍGONA: Sense planys, sense amics, sense càntics nupcials, dissortada de mi!, m’emmenen per uns viaranys que m’han ben agençat. Mai més no em serà permès, malaurada, de veure el resplendor sagrat d’aquesta flama i cap amic no es plany per la meva mort sense plors.
+
+(Creont surt del palau.)
+
+CREONT: ¿No sabeu que, davant la mort, ningú no podria deturar els planys i els plors, si hom ho permetés? Emporteu-vos-la immediatament i tanqueu-la dins la tomba amb el sostre de volta, tal com jo he disposat. Deixeu-la-hi tota sola per si decideix morir o viure dins la tomba sota aquesta mena de sostre. Nosaltres, doncs, som lliures de qualsevol sutzesa que ens vingui d’aquesta noia. Serà, doncs, apartada de la convivència amb el món d’aquí dalt.
+
+ANTÍGONA: Oh, tomba! Oh, cambra nupcial! Oh, estatge del sepulcre que per sempre més em tindrà reclosa! Per allà m’encamino vers els meus, la major part dels quals, ja morts, han estat acollits per Persèfone.[29] Jo en sóc la darrera i la més miserable que hi baixa, i ho faig abans de fruir del darrer bocí de vida que em pertocava. Tanmateix, en la meva marxa, nodreixo grans esperances d’arribar-hi amb l’amor del meu pare, amb l’afecte de la meva mare, i amb la teva estimació, germà estimat, perquè les meves mateixes mans us han rentat, us han preparat i han ofert les libacions rituals sobre les vostres tombes. I ara ja veus, Polinices, quin tracte rebo per enterrar el teu cos! Però, per als qui pensen assenyadament, t’he retut els honors que calia. Si, doncs, hagués estat mare d’uns fills, o si fos el meu espòs mort qui s’estigués corrompent, no hauria mai pres aquesta càrrega contra el parer dels ciutadans.[30] I quina llei empara les meves paraules? Doncs, si un marit mor, podria trobar-ne un altre, i si perdés un fill, en podria tenir un altre d’un altre home. Quan, però, el pare i la mare reposen tots dos a l’Hades, ja no és possible que neixi cap altre germà. Per aquesta llei jo t’he honorat, i per això, a parer de Creont, he estat culpable i insolent, germà estimat! I ara m’ha agafat amb el seu poder i se m’emporta fadrina, sense sentir els càntics nupcials i sense conèixer les esposalles ni el creixement dels fills, sinó que sola, dissortada de mi!, sense amics, me’n vaig, viva encara, a l’estatge dels morts. Quina llei dels déus he transgredit? ¿Per què he d’adreçar encara, malaurada de mi, la mirada envers els déus? ¿Quins aliats puc invocar? Jo que només m’he captingut pietosament, m’he guanyat retrets d’impietat. Si això sembla bé als déus, amb el sofriment reconeixeré els meus errors. Però si són els altres els qui erren, que els seus sofriments no siguin pitjors que els que cometen injustament amb mi.
+
+CORIFEU: Les ràfegues dels mateixos vents dominen encara la seva ànima.
+
+CREONT: Per això hi haurà represàlies per als triganers que se l’enduen.
+
+ANTÍGONA: Ai! Ai! Que properes a la mort m’arriben aquestes paraules!
+
+CREONT: No t’aconsello que et refiïs que els fets s’esdevinguin d’altra manera.
+
+ANTÍGONA: Oh, terra de Tebes, ciutat dels meus pares! Déus creadors del meu llinatge! Ja se m’emporten! No hi ha ajornament! Prínceps de Tebes, davant els vostres ulls teniu la darrera romanalla de la nissaga reial: quines angoixes m’escometen, i de part de quina gent!, per haver palesat sentiments de pietat!
+
+(Els esclaus s’emporten Antígona.)
+
+
+
+
+
+Estàsim IV
+
+
+COR: També Dànae[31] s’hagué de resignar a perdre la llum del sol a canvi d’unes estances protegides amb bronze: fou enjovada a recloure’s en una cambra sepulcral. I, tanmateix, era noble per la seva nissaga, oh filla!, filla!, i era custòdia del llinatge de Zeus, el fruit de la pluja d’or. El destí és, tanmateix, una força irreductible, i no pot ésser defugit ni per la riquesa ni per les armes ni per les muralles ni per les negres naus víctimes dels embats del mar.
+
+També fou subjugat l’irascible fill de Driant, rei dels edonis. Pel seu caràcter injuriós, Dionís el reclogué en una presó de pedra. Així s’extingeix el vigor de la seva follia i el seu temperament agressiu. Aleshores reconegué que, en la seva insensatesa, havia maltractat el déu amb la seva llengua injuriosa. Havia provat d’aturar les dones posseïdes pel déu i el foc de l’eve[32] i havia embogit les Muses que estimen el so de les flautes.
+
+Prop de les Cianees, en la mar doble, hi ha la riba espadada del Bòsfor i la costa Salmidessa dels tracis. Allà Ares, que viu a tocar de la ciutat, va veure la ferida maleïda amb què una esposa salvatge deixà cegues les conques dels ulls dels dos fills de Fineu,[33] que clamen venjança, i ho féu no pas amb l’ajuda d’una espasa, sinó amb les seves mans sangonoses i amb llançadores punxegudes.
+
+I els mísers es decandien tot plorant la seva mísera sort que els féu néixer de mare malmaridada. I, tanmateix, pels seus orígens més remots, entroncava amb els antics Erecteides[34] i, nascuda de Bòreas, fou criada en coves llunyanes enmig de torbonades paternes, lleugera com un corser, per entre els rocams, la filla dels déus. A ella també li foren hostils, filla meva, les Parques de vida llarga.
+
+
+
+
+
+Episodi V
+
+
+(Entra Tirèsias conduït per un noi.)
+
+TIRÈSIAS: Senyors de Tebes, aquí ens teniu fent camí plegats i veient-hi els dos amb els ulls d’un. Per als cecs aquesta és la manera de caminar: l’ajuda d’un guia.
+
+CREONT: ¿Què hi ha de nou, vell Tirèsias?
+
+TIRÈSIAS: Jo t’ho faré saber i tu obeeix l’endeví.
+
+CREONT: Fins ara no m’he apartat del teu consell.
+
+TIRÈSIAS: Per això guiaves amb encert la nau de la ciutat.
+
+CREONT: Puc testimoniar que he rebut una ajuda profitosa.
+
+TIRÈSIAS: Pensa, però, que ara camines pel fil de la navalla de la sort.
+
+CREONT: ¿Què vols dir? Com m’esgarrifen les teves paraules!
+
+TIRÈSIAS: Ho sabràs si escoltes els signes que he intuït amb el meu art. Quan seia, doncs, en el meu antic setial d’endeví, port on s’aixopluga tota mena d’aus profètiques, vaig sentir un so desconegut d’ocells que emetien esgarips amb un frenesí malastruc i inintel·ligible i vaig comprendre que s’occien entre ells, ferint-se amb urpades assassines: el seu batec d’ales era inequívoc. Esporuguit vaig fer proves amb sacrificis sobre altars amb foc encès, però el foc no eixia de les víctimes, sinó que el greix de les cuixes gotejava sobre el caliu, es consumia i tot ho omplia de fum i esquitxos. La bilis es dispersava per l’aire i els ossos de les cuixes, tot regalimant, perdien el greix que les cobria. Tots aquests presagis fallits de cerimònies inintel·ligibles, els he sabut per aquest noi: ell és el meu guia, com jo ho sóc per a d’altres. I és per culpa de la teva decisió, si la ciutat està malalta. Tots els nostres altars i focs de sacrificis estan infestats de bocins de la carn que les aus i els gossos han arrancat del malaurat cadàver del fill d’Èdip. I els déus ja no accepten de nosaltres les pregàries que els fem amb sacrificis ni el foc de les cuixes de les víctimes ni cap ocell no emet esgarips entenedors, saciats com són amb el greix de la sang del guerrer mort. Pensa-hi, fill meu. L’error és un fet freqüent en els homes. Però l’home que ha comès un error deixa d’ésser un insensat i un dissortat, quan, després d’ensopegar amb el mal, hi posa remei i no mostra un capteniment inflexible. L’arrogància, en canvi, és creditora de l’estultícia. Sigues indulgent amb el mort i no vulguis batre qui ja està batut. Quina força mostres si mates de nou el qui ja és mort? Penso en el teu bé i per això et parlo raonablement. És agradable escoltar una persona que parla amb seny, si les seves paraules reporten un guany.
+
+CREONT: Vell, igual que els arquers al fitó, tots apunteu els vostres dards a la meva persona. Ni a les intrigues dels endevins no puc sostreure’m! Per culpa d’aquesta mena de gent temps ha que sóc venut i tractat com una mercaderia! Traieu-ne, doncs, profit, compreu tot l’àmber de Sardes,[35] si voleu, i l’or de l’Índia, però aquest cadàver no l’enterrareu. Encara que les àguiles de Zeus el garfeixin i se l’enduguin per menjar-se’l davant el tron del déu, ni tan sols aleshores, per por d’una sutzura, no permetré la seva inhumació, perquè no és a l’abast dels homes sollar els déus, ho sé prou bé! I els homes més hàbils, vell Tirèsias, tenen les caigudes més humiliants, quan, per lucre, defensen amb belles paraules afers vergonyosos.
+
+TIRÈSIAS: Ai! Algun home sap i s’adona…
+
+CREONT: ¿De què? ¿De quina vulgaritat parles?
+
+TIRÈSIAS: ¿Fins a quin punt la prudència és el millor dels béns?
+
+CREONT: Igual que la manca de seny és, així ho crec, el pitjor dels mals.
+
+TIRÈSIAS: I, tanmateix, tu tens el cor ple d’aquesta xacra.
+
+CREONT: No vull replicar grollerament un endeví.
+
+TIRÈSIAS: Però ho fas quan dius que menteixo amb els meus oracles.
+
+CREONT: Tota la raça d’endevins és cobdiciosa.
+
+TIRÈSIAS: I la dels tirans és mesquina.
+
+CREONT: ¿Ja saps que el que dius ho dius al teu cabdill?
+
+TIRÈSIAS: Ja ho sé: però és gràcies a mi que tu has salvat la ciutat.
+
+CREONT: Ets un endeví expert, però et complaus en la maldat.
+
+TIRÈSIAS: M’obligaràs a revelar fets que guardava en el silenci del meu cor.
+
+CREONT: Fes-ho, però només si no ho reveles per uns guanys.
+
+TIRÈSIAS: D’ara endavant, pel que fa a tu, espero fer-ho així.
+
+CREONT: Però sàpigues bé que no compraràs la meva voluntat.
+
+TIRÈSIAS: Sàpigues també tu que no es completaran gaires curses lleugeres del sol abans que, per uns morts, no paguis amb un mort eixit de les teves pròpies entranyes: pels morts que has llançat d’aquí dalt cap a baix, per haver donat, en contra de tota honra, un sepulcre com a habitacle d’una vida i per retenir aquí un cadàver que pertany als déus subterranis, un cadàver privat dels seus drets, insepult i sense honres fúnebres. Tot això ni et pertany a tu ni als déus superiors i, en canvi, tu actues en contra d’ells. Per això les Erínies de l’Hades i dels déus, que destrueixen i, tard o d’hora, puneixen, et sotgen per enxampar-te en els teus mateixos mals. I ara raona si uns guanys em fan parlar així. D’aquí a poc temps, doncs, hi haurà gemecs entre homes i dones del teu casal. L’odi fa trontollar totes les ciutats, els cadàvers de les quals no tenen altres tombes que la fam dels gossos, de les feres o de qualsevol au rapinyaire portadors de la seva fetor sacrílega als altars de la ciutat. Aquests són els dards infal·libles que, ofès per tu, et disparo, com un arquer, directes al cor. No podràs defugir-ne la cremor. (Al seu pigall.) Noi, porta’m a casa. Que aquest desfogui el seu enuig en els més joves i aprengui a mantenir la llengua més assossegada i a tenir la seva voluntat més ferma del que ara demostra.
+
+CORIFEU: Senyor, l’home ha marxat i ens ha deixat unes profecies esfereïdores i d’ençà que he baratat els cabells negres per cabells blancs, sabem que mai no ha fet a la ciutat cap predicció fallida.
+
+CREONT: També jo ho sé i el trasbals domina el meu esperit. És terrible transigir, però també ho és resistir i topar amb la desgràcia.
+
+CORIFEU: Cal tenir seny, Creont, fill de Meneceu.
+
+CREONT: ¿Què he de fer, doncs? Digues-m’ho i t’obeiré.
+
+CORIFEU: Vés i allibera la noia del seu estatge subterrani, i construeix una tomba per al mort que has deixat exposat.
+
+CREONT: ¿Això és el que m’aconselles tu? ¿Creus que he de cedir?
+
+CORIFEU: I al més aviat possible, senyor, perquè les calamitats dels déus atrapen ben aviat amb els seus peus ràpids els qui actuen amb injustícia.
+
+CREONT: Ai! Ho faig a contracor, però renuncio tanmateix a la meva decisió. No és fàcil lluitar contra la necessitat.
+
+CORIFEU: Vés-hi i fes-ho personalment. No ho confiïs a ningú més.
+
+CREONT: Així mateix me n’hi vaig. I vosaltres, servidors, aneu, aneu, tant els presents com els absents, agafeu destrals amb les vostres mans i correu cap aquell lloc que es veu d’aquí estant. I jo, ja que he canviat de parer, jo que l’he tancada, jo mateix l’alliberaré. Em fa por que el millor per a l’home no sigui respectar les lleis establertes fins al darrer dia de la seva vida.
+
+
+
+
+
+Estàsim V
+
+
+COR: Déu reverit sota mil invocacions, glòria d’una núvia de Cadmos i nissaga de Zeus que retruny sordament, que vetlles per la gloriosa Itàlia i regnes en les valls comunes a tothom de la Deo[36] eleusina, oh, Bacos!, que sojornes a Tebes, residència de les bacants, prop de les ribes humides de l’Ismenos i en els indrets de la sembra del drac ferotge.[37]
+
+El fum brillant de les torxes i la font Castàlia t’han vist per sobre la roca de doble cim, per on corren les nimfes Corícies[38] filles de Bacos. I les crestes cobertes d’heura de les cimes de Nisa[39] i els seus tossals curulls de vinyes verdes t’envien, enmig dels crits immortals de l’eve, a visitar els carrers de Tebes.
+
+Tu te l’estimes més que cap altra ciutat, igual que estimes també la teva mare fulminada per un llamp.[40] I ara, quan la ciutat sencera és enjovada per una cruel malura, vine amb un pas purificador per sobre els rostos del Parnàs o per sobre l’estret gemegós.[41]
+
+Guia del cor d’astres espurnejants de foc, vigilant dels clamors de la nit, fill, plançó de Zeus, fes la teva aparició, oh, senyor!, enmig de les teves devotes Tíades, que amb frenètiques danses et canten tota la nit, Iacos Dispensador.[42]
+
+
+
+
+
+Èxode
+
+
+MISSATGER: Veïns del casal de Cadme i d’Amfíon, no hi ha existència humana a la qual mai jo pugui atorgar lloances o fer retrets, mentre dura. La sort redreça i la sort ensorra incessantment l’home feliç i el dissortat i no hi ha endeví per a la situació dels homes. Creont era digne d’enveja, al meu parer, perquè havia salvat dels enemics la terra cadmea i la dirigia amb poder absolut, florent per una nissaga noble de fills. I ara ho ha perdut tot. I quan l’home ha de renunciar a allò que li fa plaer, no penso ja que aquest visqui, sinó que el considero un cadàver vivent. Omple’t de riquesa la casa, si vols, i viu amb la sumptuositat dels tirans, però si hi manca la satisfacció, per tota la resta jo no en donaria ni l’ombra del fum a canvi del plaer.
+
+CORIFEU: ¿Quina aflicció nova per als reis ens véns a portar?
+
+MISSATGER: Són morts i els responsables de la mort són els qui han sobreviscut.
+
+CORIFEU: ¿Però qui és l’assassí? ¿Qui és la víctima? Parla.
+
+MISSATGER: Hèmon és mort. Ha estat ferit per la seva mà.
+
+CORIFEU: ¿Per la del seu pare o per la seva pròpia?
+
+MISSATGER: Ha estat la seva pròpia mà, enfellonit amb el seu pare per la mort que aquest havia comès.
+
+CORIFEU: Oh, endeví! Amb quina exactitud has acomplert la teva paraula!
+
+MISSATGER: Ja que els fets són aquests, cal pensar en la resta.
+
+(Surt Eurídice del palau.)
+
+CORIFEU: Ara justament veig Eurídice, la malaurada esposa de Creont, que ara surt de palau, qui sap si perquè ha sentit parlar del seu fill o per casualitat.
+
+EURÍDICE: Ciutadans, he sentit les vostres paraules quan era a prop de la sortida, en disposar-me a realitzar les meves pregàries a la deessa Atena. Casualment feia córrer el forrellat de la porta per obrir-la, quan ateny a la meva orella un rumor de desgràcies familiars i, esfereïda, defalleixo a mans de les meves serventes i perdo els sentits. Però, digueu-me quina era aquesta notícia. Sabré escoltar-la: no sóc inexperta en desgràcies.
+
+MISSATGER: Jo que hi era present, senyora, t’ho explicaré i no preteriré cap detall que sigui ver. ¿Per què ablanir-te els fets si, al cap i a la fi, serem assenyalats com a mentiders? La veritat sempre és millor. Jo seguia com a servidor el teu espòs cap al fons de la plana, on jeia encara el cos abandonat de Polinices, mig esbocinat pels gossos. Després de suplicar a la deessa protectora dels camins[43] i al déu Plutó de retenir benèvols la seva còlera, vam rentar el cos amb aigua purificadora, vam cremar les seves restes amb branques tallades de fresc i amuntegant terra de la pàtria li bastírem una tomba elevada. Després ens encaminàrem vers la gruta de pedra de la noia, cambra nupcial de mort. De lluny estant algú sent grans crits de pregones lamentacions al voltant d’aquella mena de cambra nupcial, sepulcre privat d’honres fúnebres, i ve a informar-ne el rei Creont. I com més s’hi acosta Creont, més gran és la confusió de crits entendridors que l’envolten, i, proferint un lament, llança un crit que a tots ens trenca el cor: «Malaurat de mi! ¿Potser sóc endeví? ¿Aquest és potser el camí més funest de tots els que he recorregut? La veu del meu fill m’arriba com un afalagament. Vinga, servidors, acosteu-vos de pressa a la tomba, passeu per un esvoranc de la pedra del túmul cap a la porta d’entrada i mireu bé si és la veu d’Hèmon la que sento o és que els déus són pèrfids amb mi». Per mandat del nostre rei, abatut pel desànim, vam anar a mirar i la vam veure, a ella, penjada del coll amb un dogal fet amb roba de lli del seu vel i, a ell, abraçat a la seva cintura, tot plorant per la pèrdua de la núvia, ara ja en el món subterrani, pel capteniment del seu pare i per les seves noces malaguanyades. Quan Creont el veu, fent un crit espantós, es precipita cap dins i entre gemecs crida: «Malaurat! ¿Què has fet? ¿Quina pensada se t’ha acudit? ¿En quin malastre t’has deixat destruir? Surt, fill meu, t’ho prego, t’ho suplico!». Però el fill, mirant-lo amb ulls ferotges, li escup a la cara i sense contestar-li treu l’espasa de doble tall. El pare, d’un salt, l’esquiva i ell falla el cop. Aleshores, el malaurat, irritat amb ell mateix, tal com estava, estira els braços i s’enfonsa mitja espasa al costat i s’abraça a la noia amb els braços defallits, però conscient encara. I entre esbufecs deixa anar un fil de bava sangonosa per les seves galtes esblaimades. Un cadàver jeu sobre l’altre cadàver i és a la mansió de l’Hades on el míser ha aconseguit acomplir les noces, tot fent veure a tothom que la insensatesa és el mal més greu que ateny l’home.
+
+(Eurídice se’n va sense dir res.)
+
+CORIFEU: ¿Què en pensarem, d’això? La reina ha marxat sense dir res, ni de bo ni de dolent.
+
+MISSATGER: També jo estic confós. Tinc l’esperança, però, que després de saber l’infortuni del seu fill no deuria creure escaient d’omplir la ciutat de gemecs, sinó que, en la intimitat de la llar, imposarà a les serventes un dol privat. No està tan mancada de seny per a cometre un desencert.
+
+CORIFEU: No ho sé, però em sembla que massa silenci provoca tanta ansietat com els crits excessius.
+
+MISSATGER: Entrem, doncs, a palau i sabrem si, en les profunditats del seu cor irritat, no amaga algun sentiment reprimit, perquè, com tu dius molt bé, massa silenci provoca angoixa.
+
+(Entren a palau i surt a escena Creont amb els servidors. Porta el cadàver d’Hèmon en braços.)
+
+CORIFEU: Heus ací el rei. Porta a plec de braç una mostra evident, si ens és permès de dir-ho, no pas de la follia d’altri, sinó dels propis errors.
+
+CREONT: Ai! Errors cruels d’un seny forassenyat portadors de mort! Oh! vosaltres que contempleu homeiers i víctimes d’una mateixa sang! Ai!, malaurats decrets, els meus! Ah, fill meu! Tan jove i colpit per una mort prematura! Ai! Ai! Has mort, ens has deixat, i per la meva neciesa, no pas per la teva.
+
+CORIFEU: Ai!, que tard sembla que has vist el que és just!
+
+CREONT: Ai! Finalment ho he après, míser de mi! Un déu ha descarregat sobre el meu cap un pes enorme, m’ha sacsejat per camins ferotges, ai!, capgirant i esmicolant la meva alegria. Ai! Ai! Que feixugues que són les afliccions dels mortals!
+
+MISSATGER DE PALAU: Senyor, quantes que en tens i quantes que n’acabes de guanyar! Una la tens als teus braços, però d’altres a casa teva; entra i em sembla que tot seguit veuràs noves desgràcies.
+
+CREONT: ¿Hi ha encara alguna desgràcia pitjor que aquesta?
+
+MISSATGER DE PALAU: Ha mort la teva esposa, ara en tot mare d’aquest mort. La malaurada s’acaba de matar ara mateix.
+
+CREONT: Oh, port insaciable de l’Hades! ¿Per què, per què vols destruir-me? Tu, que m’has portat la notícia d’aquests nous infortunis, ¿què volen dir aquestes paraules? ¿Tornes a matar un que ja és mort? ¿Què dius, noi? ¿De quina mort parles? Ai! Ai! ¿La mort violenta de la meva esposa s’afegeix a la del meu fill?
+
+(Per la porta oberta de palau hom pot veure el cadàver d’Eurídice.)
+
+MISSATGER DE PALAU: Tu mateix la pots veure, perquè el seu cos ja no és dins el palau.
+
+CREONT: Ai las! Malaurat de mi! Ja veig la meva nova calamitat. Quina, quina sort m’espera encara? Encara tinc als meus braços el meu fill i, dissortat, ja veig un altre cadàver. Ai! Ai! Pobre mare. Ai!, pobre fill!
+
+MISSATGER DE PALAU: Prop de l’altar, ferida per una espasa ben esmolada, clou els seus ulls en la foscor, després de queixar-se amargament primer per la mort de Megareu i el seu gloriós destí,[44] després per la mort d’aquest altre fill i, finalment, després d’imprecar desgràcies contra tu, l’assassí dels seus fills.
+
+CREONT: Ai! Ai! Estic trasbalsat per la por. Per què ningú no m’abat d’un cop frontal d’espasa ben esmolada? Sóc un malaurat, ai!, ai!, i estic afonat en un destí malastruc.
+
+MISSATGER DE PALAU: Ha estat ella, en morir, qui t’ha acusat com a responsable d’aquesta mort d’ara i de la d’abans.
+
+CREONT: Però, ¿de quina manera s’ha donat mort?
+
+MISSATGER DE PALAU: S’ha ferit amb la seva pròpia mà en el fetge, tan aviat com s’assabentà de la mort lamentable del seu fill.
+
+CREONT: Ah! Malaurat de mi! Mai no recaurà sobre ningú més que sobre meu la culpa d’aquests mals. Jo he estat, jo, qui t’ha matat, míser de mi, jo he estat, aquesta és la veritat. Ah!, servidors, traieu-me ben de pressa del davant. Jo no sóc més que un no res.
+
+CORIFEU: És assenyat això que demanes, si en les desgràcies pot haver-hi alguna cosa assenyada, perquè com més breus són els mals que tenim davant millor.
+
+CREONT: Que vingui, que vingui, que aparegui la millor de les morts portant-me el meu darrer dia, el meu final. Que vingui, que vingui i que jo no vegi mai més cap altre dia.
+
+CORIFEU: Això és cosa del futur. Ara convé ocupar-nos del que tenim al davant. D’allò, ja se’n preocuparan els qui ho han de fer.
+
+CREONT: El que jo vull, però, és el que he demanat.
+
+CORIFEU: No demanis res ara. Quan el destí colpeix, cap mortal no pot defugir el malastre.
+
+CREONT: Feu fora aquest home insensat, que, sense voler-ho, t’ha matat a tu, oh fill!, a tu i a aquesta, míser de mi! No sé on, no sé a qui dels dos puc mirar: tot el que tinc a les meves mans es destrueix i sobre el meu cap s’ha abatut un destí massa feixuc de portar.
+
+CORIFEU: El seny és, en molt, la primera condició per a la felicitat. I no convé captenir-se amb impietat amb els déus, perquè els orgullosos paguen les seves paraules arrogants amb malastres infinits i només amb la vellesa aprenen a ésser assenyats.
+
+
+
+
+
+SÒFOCLES (en grec antic: Σοφοκλῆς; Colonos, 496 aC - Atenes, 406 aC) fou un dels tres grans dramaturgs tràgics de l’antiga Grècia, juntament amb Èsquil i Eurípides. La seva existència va coincidir amb el període d’esplendor d’Atenes. Entre els seus amics, figuraven l’historiador Heròdot i l’estadista Pèricles. De les 123 tragèdies que se li atribueixen, només se n’han conservat 7 de senceres: Àiax (445 aC), Antígona (442 aC), Les dones de Traquis (441 aC), Èdip Rei (429 aC), Electra (415 aC), Filoctetes (409 aC) i Èdip a Colonos (405 aC).
+
+
+
+
+
+Notes
+
+
+[1] Sòfocles, Èdip a Colonos 668-678. (N. del T.) [Torna]
+
+
+
+[2] Aristòfanes, Les granotes 82, l’anomena εὔκολος. (N. del T.) [Torna]
+
+
+
+[3] Vida 7. (N. del T.) [Torna]
+
+
+
+[4] Pausànias XXI 1. (N. del T.) [Torna]
+
+
+
+[5] Encara que sembla que en un principi en va escriure alguna. (N. del T.) [Torna]
+
+
+
+[6] Els set contra Tebes 1014. (N. del T.) [Torna]
+
+
+
+[7] Els set contra Tebes 1031-1032. (N. del T.) [Torna]
+
+
+
+[8] Els set contra Tebes 861-862. (N. del T.) [Torna]
+
+
+
+[9] Àiax 1130, Èdip Rei 861, etc. (N. del T.) [Torna]
+
+
+
+[10] Ilíada XVIII 314 i s. (N. del T.) [Torna]
+
+
+
+[11] Antígona 891. (N. del T.) [Torna]
+
+
+
+[12] S. Espriu, Prefaci de 1947, Barcelona (1979), p. 69. (N. del T.) [Torna]
+
+
+
+[13] No escau ara fer una anàlisi de l’obra d’Espriu, però sí que és convenient fer una referència a l’estudi A. Badia, «Antígona» i «Fedra» de Salvador Espriu, Barcelona (1985), i a S. Espriu, Antígona (edició crítica de Carmina Jori i Carles Miralles), Barcelona (1993). (N. del T.) [Torna]
+
+
+
+[14] A. Badia, op. cit., p. 35-36. (N. del T.) [Torna]
+
+
+
+[15] Creont imposa un càstig exemplar: lapidació pública a l’acròpolis i no fora la ciutat, com altrament era costum (vegeu Heròdot IX 5). Tanmateix, a l’hora d’imposar efectivament el càstig, Creont oblida el decret i fa recloure Antígona, la culpable, en un sepulcre, perquè mori d’inanició (vegeu versos 773-776). (N. del T.) [Torna]
+
+
+
+[16] Crisòtemis, germana d’Electra, personatge paral·lel a Ismene, fa també unes reflexions semblants (vegeu Sòfocles, Electra 997). (N. del T.) [Torna]
+
+
+
+[17] Epítet de la ciutat de Tebes, que ja es troba en Homer (Ilíada IV 406 i Odissea XI 263). (N. del T.) [Torna]
+
+
+
+[18] Les aigües de la font Dirce corrien per ponent de la ciutat de Tebes, mentre que el riu Ismenos es trobava a llevant. (N. del T.) [Torna]
+
+
+
+[19] El combat entre l’àguila i la serp és un tema comú ja des d’Homer. L’àguila és l’exèrcit argiu i la serp, l’exèrcit tebà, aquí drac, en clara referència als orígens tebans de les dents del drac sembrades per Cadme. (N. del T.) [Torna]
+
+
+
+[20] Aquest epítet, referit a la ciutat de Tebes, el trobem també en Píndar, que l’anomenava, entre d’altres, «la dels carros d’or», «que estima els carros». Ja Homer parla dels cadmeus, dels tebans, com a «agullonadors de poltres» (Ilíada IV 391). (N. del T.) [Torna]
+
+
+
+[21] Creont té l’opinió que els homes es deixen portar sempre per l’afany de diners i que això és l’única cosa que els mou (vegeu la «Introducció» i Antígona 221-222, 294, 295-303, 312-314, 326, 1033-1039, 1055, 1061). (N. del T.) [Torna]
+
+
+
+[22] En realitat Creont havia assolit el poder des de feia poques hores. (N. del T.) [Torna]
+
+
+
+[23] S’entén que seran penjats per les mans a fi de fuetejar-los fins que confessin el crim (vegeu Sòfocles, Aiant 108-110). Aquest era el tracte que, en certs llocs, rebien els esclaus que havien matat el seu amo (vegeu Plató, Lleis 872 b). (N. del T.) [Torna]
+
+
+
+[24] Per aquestes paraules especialment, i per d’altres també, com les del vers 521, diversos filòlegs, entre ells M. R. Lida, hi han volgut veure uns pensaments «quasi» cristians referents a la justícia divina i a l’amor. (N. del T.) [Torna]
+
+
+
+[25] Aquest és el temor que fa que el guardià parli amb tants circumloquis i mostri una veritable por davant Creont. (N. del T.) [Torna]
+
+
+
+[26] Riu dels inferns que havien de creuar les ànimes dels morts. Designa sovint els mateixos inferns. (N. del T.) [Torna]
+
+
+
+[27] Es tracta de Níobe, casada amb Amfíon, que arribà a regnar a Tebes. Níobe, que va tenir set fills i set filles, es creia superior a Leto, que només n’havia tingut dos, Apol·lo i Àrtemis, per la qual cosa aquests mataren els fills de Níobe que anà a refugiar-se al Sípil, muntanyes de l’Àsia Menor, al costat del seu pare. Allà Zeus la transformà en una roca, però Níobe, malgrat això, continuava plorant per la mort dels seus fills. (N. del T.) [Torna]
+
+
+
+[28] Polinices, després que Etèocles no li cedís el tron per regnar a Tebes, anà a Argos, on es casà amb Argia, filla d’Adrast rei d’Argos, a fi d’aconseguir la seva ajuda per lluitar contra el seu germà Etèocles. (N. del T.) [Torna]
+
+
+
+[29] Deessa dels inferns i esposa d’Hades. (N. del T.) [Torna]
+
+
+
+[30] El model de Sòfocles, en aquest passatge, és Heròdot (III 119). L’historiador explica que l’esposa d’Intafernes prefereix salvar el seu germà abans que els seus fills o el seu espòs, per unes raons semblants a les que exposa Sòfocles en aquest text. (N. del T.) [Torna]
+
+
+
+[31] Dànae, filla d’Acrisi, fou reclosa en una cambra subterrània de bronze, quan el seu pare s’assabentà que el fill que tindria el mataria. Zeus, però, entrà a la cambra en forma de pluja d’or i Dànae concebé el seu fill Perseu. (N. del T.) [Torna]
+
+
+
+[32] El crit ritual de les bacants, en grec, era euoí, que adaptem en català amb la grafia `eve´, a partir de la forma llatina euoe, com cal fer en tots els cultismes grecollatins. (N. del T.) [Torna]
+
+
+
+[33] Fineu s’havia casat amb Cleòpatra, filla de Bòreas, amb qui havia tingut dos fills. Temps més tard, Fineu va repudiar la seva esposa i es casà amb Idea, filla de Dàrdan, la qual va treure els ulls dels dos fills que aquell havia tingut amb Cleòpatra. (N. del T.) [Torna]
+
+
+
+[34] Descendents d’Erecteu, heroi atenès relacionat amb el naixement de la ciutat d’Atenes. (N. del T.) [Torna]
+
+
+
+[35] Sardes de Lídia era una ciutat famosa gràcies al rei Cresos, que havia assolit una riquesa extraordinària. (N. del T.) [Torna]
+
+
+
+[36] Sobrenom de Demèter. (N. del T.) [Torna]
+
+
+
+[37] Quan Cadme estava a punt de fundar la ciutat de Tebes, un drac atacà diversos companys seus i els devorà. Cadme matà el drac i, seguint els consells d’Atena, sembrà les dents de l’animal, de les quals naixeren homes armats, avantpassats de famílies nobles tebanes. (N. del T.) [Torna]
+
+
+
+[38] És a dir, les nimfes que viuen a la gruta Corícia, a les muntanyes del Parnàs, anomenada aquí «roca de doble cim». La font Castàlia és una font sagrada de Delfos. (N. del T.) [Torna]
+
+
+
+[39] Indret llegendari on se situava la infància de Dionís. Sòfocles el situa a Eubea, mentre que d’altres el situen en llocs ben diferents. (N. del T.) [Torna]
+
+
+
+[40] Sèmele, mare de Dionís, volgué veure Zeus, pare del seu fill, amb tot el seu esplendor, i morí fulminada pels seus llamps. (N. del T.) [Torna]
+
+
+
+[41] Vol dir que vingui ja sigui de Ponent (per sobre el Parnàs), ja sigui de Llevant (creuant l’Eurip, estret entre l’illa d’Eubea i el continent). (N. del T.) [Torna]
+
+
+
+[42] Iacos és, per a Sófocles, un altre nom de Dionís. Les Tíades són nimfes seguidores de Dionís. El seu nom significa «delirants». (N. del T.) [Torna]
+
+
+
+[43] És la deessa Hècate, que recorria camins, cruïlles ï tombes. És considerada també deessa protectora dels morts. (N. del T.) [Torna]
+
+
+
+[44] Fill de Creont (vegeu Èsquil, Set contra Tebes 474). Segons la llegenda, quan l’exèrcit dels argius s’acostava a Tebes, Tirèsias va profetitzar que per salvar la ciutat calia sacrificar el fill de Creont. Contra la voluntat del seu pare, Megareu es tirà des de dalt de les muralles i es matà. (N. del T.) [Torna]
+
+
+
+
+

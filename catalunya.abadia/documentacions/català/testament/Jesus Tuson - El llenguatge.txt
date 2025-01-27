@@ -1,0 +1,842 @@
+El llenguatge és una introducció breu i no gens tècnica al fenomen impressionant de la comunicació humana. La transmissió de les informacions, l’estructura del llenguatge, la diversitat lingüística del món, per què canvien les llengües, quina relació hi ha entre llengües i cultures i, finalment, com neix i com evoluciona l’escriptura, són els temes centrals d’aquesta obra que s’articula a l’entorn del fet que ens distingueix i ens constitueix com a éssers humans.
+
+
+
+
+
+Jesús Tuson
+
+
+
+
+
+El llenguatge
+
+
+
+
+ePUB v2.0
+
+Sibelius 07.02.15
+
+
+
+
+
+Títol original: El llenguatge
+
+Jesús Tuson, 1994
+
+Edició digital: Sibelius (v1.0)
+
+Segona edició: EpubCat (v2.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+PRESENTACIÓ
+
+
+El llenguatge és un manual breu que, des de bon principi i de forma deliberada, ha estat concebut com un primer graó: la passa inicial en un camí, de llargada indefinida, pels paisatges que configuren el coneixement de la parla humana.
+
+La comprensió del llenguatge, de la seva estructura i de les seves potencialitats, és un procés de reflexió que qualsevol de nosaltres ha d’iniciar en algun moment de la trajectòria del coneixement; perquè la consideració del llenguatge és, tal vegada, la investigació més pertinent que es pot fer sobre l’entrellat profund dels éssers humans.
+
+Però l’abast de la nostra facultat lingüística és tan immens que aquesta cursa pot descabdellar-se sense límits, de forma que el lector interessat a iniciar-ne el camí té assegurada per avançat la continuïtat de manera permanent i, en primer lloc (si així ho vol), de la mà d’algunes de les obres que s’inclouen —i es comenten— en la Bibliografia.
+
+Com que es tracta d’una obra d’iniciació, els coneixements especialitzats que inclou aquest llibre han estat reduïts al mínim necessari, i sempre s’ha tingut especial cura a no pressuposar que el lector pugui estar familiaritzat amb obres de més volada i amb nocions de tipus tècnic. És per aquesta raó que qualsevol element de la terminologia específica s’introdueix amb la definició corresponent i amb els exemples necessaris que ajudin a facilitar-ne la comprensió.
+
+Cal advertir, a més, que aquesta obra no ha estat projectada com una introducció a la Lingüística (ciència del llenguatge), sino mes aviat com una presentació informal d’algunes característiques essencials del llenguatge mateix. No és, doncs, una exposició de les teories i de les tècniques de descripció que permeten fer afirmacions rellevants sobre els trets universals i particulars de les llengües humanes i de la facultat que els dóna suport.
+
+El llibre és, més aviat, una introducció general i volgudament lleugera, i s’hi ha posat l’èmfasi en aspectes culturals que poden ser del domini comú, amb la voluntat de fornir els elements bàsics, plurals i interdisciplinaris que ens facin comprendre, en un primer nivell i pel que fa al llenguatge, com som els parlants, quina és l’estructura de les llengües, com canvien, quines lleis són a la base dels comportaments comunicatius, quins problemes poden afectar la parla, com són les comunitats lingüístiques i com es cohesionen mitjançant una llengua… Tot de qüestions que ens poden fer entendre, al capdavall, fins a quin punt la humanitat, els grups humans i els individus estem marcats, de manera pregona, pel llenguatge.
+
+
+
+
+
+1. LA COMUNICACIÓ
+
+
+
+
+
+1.1. Els factors de la comunicació
+
+
+La comunicació és un procés mitjançant el qual algun tipus de missatge, que conté informació, és traslladat des d’una font a un destí. Aquest procés, però, no és tan senzill com sembla suggerir el mot «trasllat», i més si l’apliquem a un moble, al transport de mercaderies o a una empresa que canvia d’instal·lacions. En el cas de la comunicació, cal tenir present diversos elements, cadascun dels quals és absolutament necessari si la transmissió d’informació ha de ser del tot reeixida.
+
+En primer lloc, la matèria potencialment comunicable és un esdeveniment, bé exterior a un organisme, bé interior: un fet observable, un estat físic o anímic, un pensament. Aquesta primera matèria començarà a formar part d’un acte de comunicació si s’activa un dels pols bàsics de tot aquest proces: l’emissor, que prendrà la iniciativa de convertir l’esdeveniment en matèria d’informació. L’emissor, en aquest cas, haurà de transformar els fets en un missatge físicament perceptible (una successió de sons, de gestos, senyals lluminosos, vibracions, etc.) que pugui viatjar cap a l’altre pol bàsic: el receptor. El missatge, doncs, unirà l’emissor i el receptor, i ho farà a través d’un canal o via de transmissió. Aquest canal pot ser l’espai per als missatges visuals, l’aire pels sonors, etc., i serà freqüent de trobar-hi canals interposats que actuïn com a traductors (les instal·lacions telefòniques, per exemple, que ho fan en un doble sentit: convertint la veu en impulsos elèctrics o electromagnètics, i viceversa). Ara bé, si el procés ha de ser reeixit, ens falta encara un altre element: l’emissor ha de codificar el missatge en el tipus de clau que sigui conegut pel receptor. Una conversa entre dos interlocutors és, doncs, possible perquè cadascun d’ells posseeix la mateixa clau lingüística, i l’esdeveniment que l’emissor codifica és descodificat de forma adequada pel receptor.
+
+Aquests sis factors són del tot imprescindibles: cal alguna cosa que comunicar (un esdeveniment); en segon lloc, els organismes emissor i receptor han d’estar vinculats pel canal; finalment, el missatge s’haurà d’ajustar a un codi que sigui conegut per tots dos. En cas contrari, el receptor copsarà la intenció comunicativa de l’emissor, però serà incapaç de descodificar el missatge.
+
+Mirem-nos-ho per la part de les absències: si no es produeix cap esdeveniment, ni extern ni intern (cosa ben difícil), no hi haurà matèria per a cap acte comunicatiu. Tàmpoc tindrem trasllat d’informació, òbviament, si l’emissor potencial no emet o no pot emetre. Ara bé, en el cas que ho faci, però sol enmig del desert, la comunicació no s’establirà pas, per manca del pol receptor. D’altra banda, si el canal no permet el pas del missatge (sigui per excés d’interferències, sigui perquè s’ha tallat la via de contacte), la informació no arribarà al seu destí, o arribarà distorsionada. Finalment, si l’emissor codifica, posem per cas, en una llengua que el receptor desconeix, el lligam comunicatiu tampoc podrà establir-se, almenys amb plenitud.
+
+Sintetitzem ara tots els elements del procés en la figura 1:
+
+
+
+Es pot dir que aquest és l’esquema mínim del procés i que pot descriure, per exemple, la comunicació verbal directa, com ara una ordre. Un esquema com aquest és el representatiu de la comunicació unidireccional, que és la més habitual en els actuals mitjans d’informació (en són excepcions, però, les cartes aI director, les trucades telefòniques a les emissores de radio i, en menor escala, a la televisió).
+
+El diàleg, en canvi, implica l’alternança en els papers, de forma que, qui de primer és receptor, adoptarà tot seguit la posició d’emissor:
+
+E → R
+
+R ← E
+
+E → R
+
+etcètera
+
+
+
+El diàleg, doncs, és un exemple clar de comunicació bidireccional i permet la retroalimentació (feedback) constant; es a dir una mena de contrastació que fa possible comprovar la bona marxa de la conversa i enriquir-se amb les aportacions d’altri (en un sentit més tècnic, la retroalimentació, en acústica, és la tornada a un amplificador d’una part d’allò que n’ha sortit).
+
+
+
+
+
+1.2. Els tipus de senyals
+
+
+Acabem de veure com un missatge travessava el buit entre l’emissor i el receptor i, doncs, com s’establia un lligam comunicatiu entre dos organismes independents. Ara cal parlar de l’element o elements que conformen el missatge; això és, del senyal o dels senyals que circulen entre els pols de la comunicació.
+
+Un senyal és un objecte físic que pot ser percebut per mitjà d’algun dels sentits. Però un senyal és un objecte una mica especial perquè no té les característiques pròpies dels objectes ordinaris: un llibre és un llibre, una muntanya és una muntanya i unes tisores són unes tisores; això és, són objectes per ells mateixos. Els senyals, en canvi, són elements informatius i és per aquesta causa que han de ser transcendits: el seu destí és de ser mitjancers que ens porten més enllà de la seva pròpia existència. Percebre’ls, doncs, és l’etapa provisional d’un camí que porta, definitivament, a la comprensió dels significats que hi són associats.
+
+Ara bé, per a un intèrpret, qualsevol objecte del món pot ser un senyal, com ho pot ser també per a una col·lectivitat si així ha estat establert culturalment: un arbre, un riu i una muntanya poden esdevenir simbòlics i prendre, per exemple, el significat del sagrat; un llibre pot desvetllar la idea de cultura; unes tisores, de perill; una façana, de mal gust, i així en tot de casos. De fet, sembla que no hi ha límits pel que fa a la reconversió simbòlica dels objectes.
+
+Però cal restringir una mica el concepte de senyal per fer-lo més específic i operatiu, sense oblidar, no obstant, que és possible una interpretació més àmplia. Un senyal és tot aquell artefacte dissenyat per transmetre informació a un eventual receptor que és membre d’una comunitat d’intèrprets. D’aquesta forma, la definició inclou dos ingredients d’importància fonamental: d’un costat, la idea de fabricació (es fa un objecte amb la intenció que sigui, precisament, un senyal); de l’altre, l’aspecte social de la comunicació. Des d’aquesta perspectiva, són senyals (i funcionen com a tals) unes ulleres que cap persona no gosaria portar i que ens indiquen un establiment d’òptica; el color verd d’un semàfor que ens diu que podem passar (probablement mai ningú no s’ha aturat davant del verd i n’ha copsat la brillantor); els estendards i banderes que ens remeten a institucions i països; els bitllets de banc que anuncien uns valors més enllà d’ells mateixos (i és per això que, amb bitllets, podem comprar tot de coses). Com es pot comprovar, els quatre objectes esmentats «indiquen», «diuen», «remeten», «anuncien»…, i és per això que són senyals.
+
+Els senyals han estat matèria de diferents classificacions, la més coneguda de les quals la devem al filòsof americà Charles Sanders Peirce (1839-1914) que va establir tres tipus bàsics de senyals. En primer lloc, els indicis o símptomes, com ara la febre (que ens parla d’un procés patològic, infecciós o bé tòxic), les arrugues i els solcs d’una cara (que ens indiquen l’edat d’una persona), les petjades en la sorra (que ens informen del pas d’algú), el fum, els tolls d’aigua, unes deixalles en la clariana d’un bosc… Tot això són indicis per a un intèrpret eventual, i funcionen com a tals perquè hi podem copsar la relació que hi ha entre l’objecte que veiem i allò que l’ha fet possible: el fum ens remet al foc; els tolls, a la pluja; les deixalles, a uns excursionistes poc sensibles amb la natura, i així en d’altres casos. Els indicis doncs ens transmeten informació perquè establim la relació d’un efecte (l’indici) amb la seva causa. És aquesta relació causa-efecte allò que fa que els indicis bàsics puguin ser interpretats per qualsevol humà, independentment de la cultura a la qual pertany; en canvi, n’hi ha d’altres que només són significatius per a unes persones que han estat especialment ensinistrades per copsar determinats efectes: l’agulla que marca la zona vermella a l’indicador de temperatura de l’aigua serà informativa per a l’automobilista; un cert tremolor i una rigidesa muscular seran interpretats per un metge com a indicis (o símptomes) de la malaltia de Parkinson, etc. Podem, doncs, considerar que bona part de les capacitacions pofessionals (l’aprenentatge d’un ofici, les carreres universitàries, etc.) no són res més que l’adquisició d’hàbits especials per a la interpretació d’indicis especials.
+
+En segon lloc hi ha les icones o imatges, directament concebudes com a representació d’una altra cosa i que, en els processos comunicatius, hi funcionen gràcies a la semblança. Pertanyen a aquesta categoria tot un munt de senyals com, per exemple, els pictogrames dels esports olímpics, les fletxes de direcció, els indicadors de les gasolineres, els dibuixos que identifiquen els lavabos per a homes i per a dones, la música descriptiva (en què, posem per cas, s’imiten els sorolls d’una tempesta), la cigarreta barrada com a icona que vol indicar la prohibició de fumar, etc. Un cas especial, típic de les llengües naturals, és el de les onomatopeies amb què s’al·ludeix a elements productors de so: el tic-tac per al rellotge, el bub-bub per al gos, el quiquiriquic, el cucut… i moltes d’altres usades especialment en els còmics. Cal dir que la potència informativa de les icones és sovint ambigua perquè el seu valor com a signes depèn de la semblança i aquesta pot ser més o menys fidel. Amb tot, les icones són molt útils si el que es pretén és donar indicacions ràpides que es puguin percebre d’un cop d’ull.
+
+Finalment, Peirce va establir una tercera classe de senyals anomenats símbols o signes arbitraris, la característica fonamental dels quals és la pura convencionalitat: ni són el fruit d’un procés natural, com els indicis, ni mantenen cap relació de semblança amb l’objecte que designen. Els símbols són purament convencionals i cal un pacte, bé explícit, bé tàcit, perque siguin portadors d’informació. És el cas del senyal de direcció prohibida, dels símbols de la química (H2O, NaCl) de la lògica (∃, ∧), dels nombres (1, 2, 3…) i de la majoria de les paraules en les llengües del món, cosa que es demostra ben fàcilment: fill en català, son en anglès, mwuana en swahili… El fet que no hi hagi semblances de forma entre aquestes paraules vol dir que ni els fills reals, ni la noció de fill demanen per força una sequència fònica adequada: qualsevol d’aquestes (i totes les altres, ‘ibn en àrab, Tochter en alemany[1], seme en euskera…) són del tot vàlides perquè hi funciona a la perfecció el pacte de la comunitat lingüística que les fa servir. Aquests senyals arbitraris, els símbols, són especialment útils, i més si són la consequència d’un pacte explícit; és per això que les ciències poden gaudir d’un grau altíssim de precisió.
+
+
+
+
+
+1.3. Els senyals lingüístics
+
+
+La comunicació humana més característíca es basa en l’ús del llenguatge. El llenguatge humà és fet de senyals arbitraris (símbols) produïts vocalment i rebuts per la via auditiva (l’escriptura hi té un paper secundari, con veurem més endavant). Aquests senyals són, en la majoria dels casos, d’una gran potència i ens permeten la parla desplaçada; és a dir, al·ludir no només a les coses presents, sinó també a les absents; als esdeveniments passats i als que esperem que es produiran en el futur; a les coses reals i també a les que hom pot imaginar. Totes les llengües del món disposen d’unitats (més o menys, «paraules») que es poden combinar per formar oracions i textos, seguint les regles pròpies de cada sistema lingüístic. Les unitats són, grosso modo, símbols de coses i d’accions i tenen una peculiaritat interessant: són molt generals. Així, la paraula arbre indica o designa qualsevol dels vegetals llenyosos que tenen un tronc que es ramifica, i això val per a tots els arbres que han existit, que existeixen o que existiran. En aquest sentit, l’abast de les paraules no s’exhaureix mai. De la mateixa forma, la paraula albada val, ha valgut i valdrà per designar tots els instants inicials de qualsevol dia, i el verb tancar per a totes les accions consistents a obstruir o fermar un objecte que estava obert.
+
+Aquesta condició general de les paraules fa que les llengües siguin molt còmodes: els objectes del món són innombrables I els esdeveniments infinits. En canvi, un nombre limitat de mots (noms i verbs especialment) ens permeten de parlar-ne sense límits dignes de consideració, i més si tenim en compte les possibilitats combinatòries dels senyals. Podem dir La casa és bonica, però també La casa de dues plantes és bonica i, més encara, La casa de dues plantes sobre el turó és bonica, La casa de dues plantes pintada de blau és bonica, La casa de dues plantes sobre el turó és la més bonica de totes… Gràcies, doncs, a la seva dimensió combinatòria, les llengües ens permeten tant l’expressió precisa i individualitzadora, com la manifestació de la nostra subjectivitat: en l’ús d’una llengua s’hi pot reflectir cada parlant (i això és el que fan alguns poetes, en els límits de l’autoexpressió, gràcies al llenguatge).
+
+D’altra banda, el caràcter oral de les llengües presenta un seguit d’avantatges davant d’altres sistemes de comunicació com ara els visuals. La veu es pot percebre en la foscor i, per tant, els senyals lingüístics funcionen dia i nit. A més, com que el so s’escampa de forma radial, no cal que el receptor mantingui una posició frontal respecte de l’emissor (com en el cas de la comunicació visual). Un altre avantatge és que al llarg del dia tenim la boca més aviat poc ocupada, cosa que no ens passa amb les mans. Finalment, el so pot arribar relativament lluny, fins i tot travessant alguns objectes. Tots aquests factors fan que l’opció verbal sigui la més rendible per a la comunicació en condicions generals, i són sense dubte la causa que moltes especies animals (i entre aquestes la humana) hagin triat la via vocal-auditiva per transmetre informació.
+
+
+
+
+
+1.4. Els orígens del llenguatge
+
+
+La preocupació per esbrinar com va començar la gran aventura de la parla és una història vella i, en bona mesura, desacreditada perquè no hi ha cap oportunitat d’accedir als moments originals d’aquest esdeveniment. Les notícies més antigues que en tenim són de fa uns cinc mil anys i, a més, filtrades per l’escriptura: les peces de fang de Mesopotàmia, amb incisions cuneiformes, amb què es portava el registre de l’activitat comercial.
+
+Tanmateix, pel que fa a la vida de les llengües, cinc mil anys són no-res, i és ben segur que els escrivans de Mesopotàmia posseïen una llengua (el sumeri) tan evolucionada com les actuals (la llengua o llengües dels primers indoeuropeus són, molt probablement, més antigues que el sumeri i tothom està d’acord a considerar-la plenament desenvolupada). A més, cal tenir en compte que les pintures d’Altamira i de Les Caus (Lascaux), del paleolític superior, tenen al voltant de 20.000 anys d’antiguitat, i de ben segur que els artistes de les coves (els Cro-Magnon) eren parlants de ple dret. I si anem més endarrere en la línia del temps, sabem que els humans van començar a soterrar els morts fa uns cent mil anys; que van controlar el foc fa, aproximadament, mig milió d’anys; que les talles primeres d’instruments es remunten a dos milions d’anys… Cal pensar, doncs, en un augment molt lent no només de les habilitats i troballes, sinó paral·lelament de la capacitat cerebral i de la complexitat comunicativa. És per això que es impossible d’establir la data de naixement del llenguatge, però de ben segur que el posseïen els que controlaven el foc. I es clar que no hi tenim accés.
+
+És raonable, però, de pensar que els crits, acompanyats de gesticulacions, són a l’origen del llenguatge. Tal vegada tot va començar (però això és pura aventura imaginativa) amb articulacions vocals de caire expressiu i amb la imitació dels sorolls provinents de la natura; articulacions que progressivament es van especialitzar fins al punt que es van deslligar dels objectes presents i van permetre la parla desplaçada. Romandrà, però, en el misteri l’acte a través del qual uns humans van començar a fer servir símbols per designar els objectes que no emetien cap soroll (les pedres, els astres, les herbes…) i, més encara, les nocions abstractes (la bondat, la solidesa, l’amistat…) i els noms que designen col·lectius i conjunts (la família, el ramat, la natura…)
+
+Allò, però, que sembla prou clar es que l’evolució de la facultat lingüística i l’engrandiment i enriquiment del cervell són fets indestriables: es fa difícil de concebre uns humans del tot intel·ligents, però muts que, de cop, van començar a fer ús del llenguatge i, en l’altre extrem, també són inconcebibles uns humans garlaires mancats d’intel·ligència. La intel·ligència i el llenguatge són, doncs, dos aspectes d’una mateixa realitat: la que marca les fites a partir de les quals apareix en l’univers una nova espècie.
+
+
+
+
+
+1.5. Comunicació animal i llenguatge humà
+
+
+Alguna vegada s’ha dit que els simis (ximpanzés, goril·les, orangutans…) poden parlar, però que no ho fan, no sigui que els humans els posin a treballar. També s’ha dit sovint que la distancia entre el comportament comunicatiu dels animals i el llenguatge humà només es deguda a diferencies quantitatives o de grau i no pas a un tall qualitatiu. La veritat, però, és que aquestes diferències són tan grans (i no només en aparença) que la discussió quantitatiu-qualitatiu esta gairebé fora de lloc. A més, un cop d’ull a les característiques comunicatives dels simis més avançats fa sospitar de seguida que l’expressió llenguatge animal (expressió que s’ha evitat volgudament en el títol d’aquest apartat) no és sinó una designació analògica, probablement amarada d’antropocentrisme.
+
+Resta al marge de qualsevol dubte el fet que hi ha comunicació animal: des de la que opera mitjançant senyals químics, a la que es manifesta amb gestos i crits ben diversificats que, en alguns casos, són fins i tot el fruit d’un aprenentatge i no només de condicions innates. En general, però, la comunicació animal es caracteritza pel predomini gairebé absolut dels factors genètics: els gats miolen, els gossos borden i els primats com el rhesus grunyen, tant si creixen amb els progenitors com si ho fan lluny de qualsevol membre de la seva espècie. D’altra banda, els crits diferenciats hi són molt limitats i, gairebé sempre, lligats a les circumstancies de l’entorn (perill, rebuig…) i als desitjos (alimentació, sexualitat, jocs…)
+
+Alguns investigadors de la conducta animal (els Premack i els Gardner, entre els més coneguts) van emprendre fa uns decennis l’aventura d’ensinistrar ximpanzés per veure fins a quin punt podien arribar a assolir pautes de comportament lingüístic pròpies dels humans. Però com que l’aparell vocal d’aquests simis no té les característiques que fan possible la nostra riquesa articulatòria, els investigadors van recórrer a dos procediments de comunicació extraverbal: els gestos de l’AMESLAN (American Sign Language), l’ús de targetes amb dibuixos al·lusius a objectes, accions i colors, i també peces de plàstic de formes diverses. La ximpanzé Washoe, sota el guiatge del matrimoni Gardner, va arribar a aprendre en quatre anys (entre 1966 i 1970) una mica més de cent signes: unir els palmells de les mans per designar «llibre», creuar els braços per dir «nadó», etc. Pel seu costat, la ximpanzé Sara, ensinistrada pel matrimoni Premack, va haver d’aprendre a triar figures diferents per demanar els objectes: un triangle volia dir «poma», un quadrat, «plàtan», etc. Fins i tot Sara va fer combinacions amb les figures dels noms i les que corresponien a accions («Sara + agafar + poma»), la qual cosa volia dir que s’expressava amb una sintaxi rudimentària.
+
+No obstant això, aquests experiments el que molt probablement demostren és la gran capacitat imitativa del ximpanzés i no la seva disposició a aprendre unes llengües que són fora l’abast de les seves possibilitats innates. Cal tenir en compte, a més, el treball feixuc dels ensinistradors, les coaccions pròpies de l’aprenentatge i el fet que aquests animals es trobaven en captivitat. Pel seu compte, i en presencia dels humans, mai no haurien fet ni una sola passa per demanar, amb gestos humans, els elements bàsics de la seva subsistència.
+
+El llenguatge que ens és propietat única i inalienable, té un seguit de característiques que el situen ben lluny de les pautes típiques de la comunicació animal. En primer lloc, la immensa majoria dels senyals lingüístics són, com ja s’ha dit, arbitraris: no provenen de les coses de forma natural, i això ens permet de parlar d’entitats abstractes que només tenen existència en la mentalitat col·lectiva (la fidelitat, l’astúcia, la bondat…). Res com això no es troba en la comunicació animal, ni que sigui en les espècies més desenvolupades.
+
+En segon lloc, en totes les llengües humanes és un fet comú la parla desplaçada, la qual cosa fa possible el record, la persistència de la nostra historia com a individus, i també com a membres d’una comunitat: els pobles tenen una historia que és gràcies a aquesta propietat de les llengües, sense la qual, d’altra banda, no existiria el dipòsit monumental dels coneixements acumulats generació rera generació. Al capdavall, la parla desplaçada evita que cada nou grup d’humans hagi de començar pel seu compte l’aventura de conquerir una posició en el mon: gràcies al llenguatge rebem l’herència del nostre passat.
+
+En tercer lloc, les llengües estan configurades per dos nivells: el de les unitats del so (o fonemes) i el de les unitats del sentit (o morfemes). Les primeres són molt poques, però les seves combinacions ens permeten obtenir un nombre elevadíssim de les segones.
+
+A més, les unitats bàsiques del sentit també es poden combinar, i es d’aquesta forma que les oracions i els textos són, literalment, incomptables. D’això se’n diu la productivitat o creativitat que ens allunya molt i molt de l’expressió fixa, predeterminada per l’instint, típica de la major part del comportament comunicatiu dels animals.
+
+Finalment, les llengües humanes gaudeixen d’una propietat sorprenent: també serveixen per parlar d’elles mateixes. Fent us d’una llengua podem demanar aclariments sobre el significat d’una paraula que no hem entès i, fins i tot, com ara en aquest llibre, podem usar el llenguatge per reflexionar sobre el mateix llenguatge. Aquesta característica es anomenada dimensió metalingüística del llenguatge.
+
+Així doncs, l’arbitrarietat, la parla desplaçada, la duplicitat de nivells, la productivitat i l’ús metalingüístic són cinc propietats (i més si les prenem com a conjunt) que no es manifesten en cap altre sistema comunicatiu. El llenguatge humà i, més en concret, cadascuna de les llengües del mon, es diferencia clarament de la resta dels comportaments amb que es pot transmetre informació. És per això que podem dir, de manera ben legitima, que homo sapiens és sinònim d’homo loquens, d’ésser parlant que fa servir un sistema riquissim sense analogia en el mon animal; un sistema que ens permet la intercomunicació i que és la trama mateixa del nostre discurs intrapersonal.
+
+
+
+
+
+2. EL LLENGUATGE
+
+
+
+
+
+2.1. Una definició essencial
+
+
+Al capítol anterior hem vist algunes de les característiques del llenguatge humà i, molt especialment, les que el diferenciaven de forma clara de la comunicació animal. També hem vist que la via triada per transmetre els missatges tenia un origen vocal i un destí auditiu. Cal insistir en aquesta dimensió oral del llenguatge perquè molt sovint la facultat lingüística és associada, almenys en els seus productes més «elevats», com ara la poesia, la filosofia i les ciències, amb el fet de l’escriptura, fins al punt que algunes llengües no escrites són considerades com a «primitives»; és a dir, parles poc evolucionades.
+
+Les llengües són, primer de tot en el temps i en importància, mecanismes orals, i l’abundància actual de la producció escrita mai no hauria d’enterbolir aquesta condició essencial de les llengües. Una llengua parlada pot subsistir perfectament sense el doblatge de l’escriptura, i així s’ha esdevingut al llarg de molts i molts miI·lennis. En canvi, és inimaginable un text escrit (a menys que sigui el fruit d’una operació de laboratori per a una llengua inventada) sense el suport de la parla, ja actual i viva, ja extingida (els casos del llatí i del grec clàssic). Per dir-ho d’una forma potser sorprenent, els actuals parlants de llengües romàniques som els hereus directes dels analfabets llatins, i no pas de Tàcit, Ciceró i Virgili. L’escriptura com a possessió generalitzada és un fet molt recent en la història de la humanitat, produït arran de la revolució industrial i de la implantació progressiva de l’ensenyament obligatori a partir del segle XIX (amb tot, es calcula que com a mínim una quarta part de la població mundial és encara analfabeta). És clar, però, que tenim mostres d’escriptura de fa uns cinc mil anys, com ja s’ha dit; tanmateix, en els temps antics els escrivans eren pocs i gent d’ofici: la immensa majoria de la població ni tan sols sabia signar els documents, i és per això que hi feien creus i d’altres senyals d’identificació.
+
+El llenguatge és, doncs, la facultat oral de comunicació pròpia dels éssers humans amb què es poden transmetre els esdeveniments, interns i externs, mitjançant un sistema de senyals convencionals organitzat en dos nivells: el del so i el del sentit. Aquest sistema té una considerable capacitat combinatòria (sotmesa a regles) que fa possible la creativitat sense límits. En aquest sentit, sovint s’ha observat que així com no sembla que hi hagi límits pel que fa a les construccions del pensament, tampoc el llenguatge es pot veure limitat, perquè llenguatge i pensament són del tot interdependents i solidaris.
+
+D’altra banda, cal explicar allò del caràcter sistemàtic del llenguatge. Un sistema o organisme és un conjunt d’elements, cadascun dels quals es defineix per relació als altres elements del mateix sistema; és a dir, que no tenen existència absoluta o independent. Per exemple, les unitats del parentiu formen un sistema perquè fill o filla són inconcebibles sense referència a pare i mare, i viceversa (i el mateix s’esdevé amb nét i néta pel que fa a avi i àvia, i viceversa).
+
+Els elements del llenguatge i, més en concret, d’una llengua, tot sovint mantenen relacions sistemàtiques: els mots alt, bo i gran són impensables sense les referències respectives de baix, dolent i petit; l’entonació interrogativa ens dóna informació pel contrast amb l’afirmativa; dins d’una oració, la posició del subjecte davant del verb té sentit perquè la posició d’objecte es troba després del verb; una forma verbal com saltaràs és entesa perquè, d’una banda, es relaciona amb saltareu i, doncs, és singular, i d’altra banda està en relació amb saltaré i saltarà i, doncs, és segona persona. El cas, però, més clar d’organització sistemàtica és el d’allò que hom anomena, precisament, sistema fonològic: una unitat com la p de pes funciona perquè aquesta posició podria haver estat ocupada per b (bes), i així en tot de casos.
+
+Si ara concretem una mica més i baixem des del llenguatge com a facultat, o possessió comuna de la humanitat, a les llengües en què aquesta facultat es manifesta, caldrà dir que una llengua és, primer de tot, la construcció que cada parlant fa en si mateix a partir de les dades amb què es troba en el seu entorn o comunitat de parla. La lingüística moderna ha establert amb solidesa una hipòtesi versemblant pel que fa a l’adquisició de les llengües: els humans venim al món amb tot de condicions genètiques, entre les quals cal suposar, també, les que ens predisposen a adquirir la llengua de la nostra comunitat lingüística. Una llengua és un mecanisme d’una complexitat enorme i és sorprenent com arribem a ser-ne els mestres en pocs anys i sense cap ensinistrament explícit: n’hi ha prou amb la simple exposició a les dades de la parla. És per això que de vegades s’ha dit que nosaltres no aprenem la llengua que ens pertoca, sinó que l’adquisició és, senzillament, un fet que es produeix en nosaltres de forma ben natural.
+
+Ara bé, aquest procés (que és el procés de maduració d’una facultat) no és només individual, perquè és obvi que, dins d’una llengua, és possible la comunicació. Cal pensar, doncs, que els altres membres de la nostra comunitat lingüística han fet operacions d’adquisició semblants: han descobert, si fa no fa, les mateixes regles del joc lingüístic, i és per això que una llengua té la doble dimensió de la troballa individual (i la psicologia hi té coses à dir) i de la conquesta col·lectiva (i és la sociolingüística que se n’ocupa).
+
+
+
+
+
+2.2. El nivell del so
+
+
+En parlar del so per referència a la comunicació lingüística és important el concepte d’articulació: una pedra no és articulada; en canvi, un dit sí que ho és. De manera paral·lela, els crits i la tos tenen la condició de sons no articulats, mentre que per produir la paraula llibre, o qualsevol altra, cal realitzar tot un seguit de moviments ordenats (contactes labials, dentals, alveolars, palatals, etc.) amb que donem forma al so. És un procediment extraordinàriament econòmic, perquè tot aquest conjunt d’articulacions permet que la veu surti clarament diferenciada en cada cas.
+
+FIGURA 2. Els punts d’articulació, segons Eugenio Martínez Celdrán, Fonética. Barcelona, Teide, 3.ª edic. 1989, p. 81.
+
+
+
+La veu humana és el resultat que s’obté quan l’aire procedent dels pulmons troba tancades les cordes vocals (uns plecs membranosos situats a la laringe) i en sortir les fa vibrar. Un símil molt aproximat el tenim amb el globus inflat (el pulmons plens d’aire) que agafem pel coll (les cordes vocals) i, tot estirant-lo horitzontalment, surt l’aire fent-ne vibrar les parets amb un efecte sonor semblant al del petarrelleig labial. Si les cordes vocals són més fines i tenen un grau de tensió més gran hi haurà més vibracions per segon i, doncs, els sons que en resulten seran més aguts; en canvi, si les cordes són més gruixudes i el grau de tensió és menor, tindrem menys vibracions per segon i els sons seran més greus. D’això se’n diu el to de la veu (més agut o més greu) que, en gran mesura, identifica qui parla (home, dona, nen, vell…)
+
+Tot seguit, l’aire, ja convertit en veu, troba en el seu camí les zones mucoses de les cavitats supralaringals (la faringe, les fosses nasals, la boca) on les vibracions originals produiran tot un munt de reaccions per simpatia, responsables del timbre, que donen qualitats encara més diferenciades a les veus humanes. És a partir d’aquest punt que cal començar a parlar, en concret, del fenomen de l’articulació: en primer lloc, l’úvula o campaneta podrà romandre abaixada i en aquest cas l’aire prendrà el camí de les fosses nasals (cosa que dona lloc als sons corresponents); si, però, l’úvula ha pujat i barra l’accés a aquest espai nasal, l’aire sortirà per la cavitat bucal, donant lloc als sons orals. I és en la boca on es produirà tot un conjunt de modificacions de l’espai (o articulacions) que contribuiran a la configuració definitiva del so.
+
+En el cas de cadascuna de les vocals no es crea cap obstacle o obstrucció a la sortida de la veu, però l’espai de la boca variarà en cada cas i, doncs, es creen condicions de ressonància diferents: es per això que percebem clarament els diversos timbres vocàlics en el cas de be i bé, o de pam i pom. En conseqüència, són les petites variacions produïdes per la posició de la llengua (ara avançada i alta —la i—, ara central i baixa —la a—, ara endarrerida i alta —la u—, etc.) les que donen lloc a les diferents qualitats, o timbres, dels sons vocàlics.
+
+La producció de les consonants, en canvi, implica algun tipus de contacte (o d’aproximació, segons els casos) entre els òrgans de fonació, i les articulacions poden ser bé contínues, com en el cas de la lateral (cal), be interruptes, com s’esdevé amb les oclusives (per), be fricatives (on es deixa un pas molt estret a l’aire que surt -essa). A aquest conjunt de característiques del contacte hom l’anomena mode d’articulació.
+
+D’altra banda, els òrgans amb que s’estableix el contacte (o l’aproximació) poden ser llavi contra llavi (bé, pa), llavi inferior amb les dents superiors (fam), àpex de la llengua amb la part posterior de les dents superiors (dit, tip), àpex de la llengua amb els alvèols (so, no) dors de la llengua amb el paladar dur (any), arrel de la llengua amb el tel del paladar (gana), etc. D’això se’n diu el punt d’articulació. Cal dir que, com es pot comprovar, el contacte (o aproximacions) entre els òrgans es fa per la via més senzilla: en les llengües del món no hi ha articulacions com la que es produiria si toquéssim el tel del paladar amb l’àpex de la llengua, o bé situant l’arrel de la llengua en els alvèols.
+
+Una altra característica a tenir en compte és que algunes consonants tenen doble versió; és a dir, que poden ser bé sonores, bé sordes. En el primer cas es troben implicades les cordes vocals amb les seves vibracions (casa, gemec); en el segon, les cordes no hi intervenen (bossa, ximple).
+
+A la vista de tot aquest conjunt de característiques, cada so es pot definir amb precisió: per exemple, la s de casa es un so fricatiu o aproximant, apico-alveolar i sonor; la b de bossa és un so interrupte o oclusiu, bilabial i sonor, i així en els altres casos fent referència sempre al mode d’articulació, al punt de contacte i a la intervenció (o no intervenció) de les cordes vocals.
+
+A més, en les llengües del món trobem articulacions especials del so que són menys corrents com, per exemple, la vibrant en català i en castellà (raïm i rato, respectivament) on l’àpex de la llengua dona diversos cops en els alvèols; les articulacions glotals de, posem per cas, l’àrab (hal, «tal vegada») que es produeixen en la glotis; els clicks com els de les llengües khoisan, de Namíbia, en que l’aire és succionat i que sonen aproximadament així: com un petó, els bilabials; com el txec-txec de reprovació, el alveolars, etc. (Junyent (1986) p. 42).
+
+No tot, però, s’acaba aquí, perquè l’univers del so és el camp de les diferències sense límit i els parlants no arribem a aquests extrems. De fet, els graus d’una vocal són infinits, com també ho són els punts d’una línia. És el cas que, en la pronuncia d’una a, i dins dels límits perceptius de la a (i no de la e oberta, ni de la o oberta, que serien, a un costat i a l’altre, les vocals veïnes) la llengua té unes possibilitats posicionals infinites. Amb tot, els oïents no perceben un so a meitat de camí entre, per exemple, una a i una o oberta, sinó que o bé es decanten per una, o bé per l’altra: sac o sòc. És aquesta dimensió perceptiva allò que discrimina clarament els sons, allò que ens permet parlar dels fonemes, o elements bàsics de l’estructura sonora de les llengües. Els fonemes són les unitats mínimes del sistema lingüístic i els podem considerar com les entitats que ens fan percebre el contrast dels significats, cosa que es pot provar mitjançant la commutació d’aquestes unitats en el que s’anomenen parells mínims: pes/bes, pot/pol, cas/vas…
+
+Les llengües del món s’organitzen, en el seu nivell més elemental, sobre la base de ben pocs fonemes: en general, no menys de vint i no més de quaranta. És per això que les llengües humanes han estat considerades com a mecanismes admirables regits pel principi d’economia, que funcionen gràcies a un sistema combinatori de diversos nivells, de manera que, a partir de molt poques unitats, es pot arribar a bastir l’edifici de la comunicació més perfecta i de major abast que, ara com ara, es pot concebre.
+
+
+
+
+
+2.3. Els nivells del sentit
+
+
+Les unitats del nivell fònic són els elements bàsics de la parla humana, però per elles mateixes no fan sentit: cal que es combinin de forma preestablerta, seguint les regles de cada llengua. És clar que tla o lta no poden funcionar en català, però sí atl o alt (la primera com a part, encara sense sentit, dels mots atlas, atlàntic i atleta, la segona com a paraula plena). I comencem ara, en el nivell del sentit, el camí de les acumulacions progressives.
+
+En un primer graó tenim els morfemes, o unitats bàsiques de l’àmbit de la significació. Elements com alt («d’una determinada dimensió vertical»), -s («plural»), -a («femení»), re- («tornar a fer o a ésser»), -er («agent» o «que té a veure amb») o des- («invertir un procés») son portadors de significació, cosa que es pot comprovar molt fàcilment: el nostre interlocutor no reaccionarà de la mateixa forma davant Fes la maleta que davant Desfés la maleta; se sentirà diversament informat si sent És una granja o És un granger; copsarà significacions diferents en els casos de gat, gata i gats. Aquestes unitats poden ser del tot independents, com ahir, mai, dir, veure, Llobregat, o be formes que només poden funcionar en concurrència amb d’altres formes: pre- només podrà aparèixer acompanyat de dir, destinar i d’altres.
+
+Ens trobem, una vegada més, davant d’un fet sorprenent: hi ha tota una sèrie de morfemes, coneguts amb el nom d’afixos, la majoria dels quals son extraordinàriament productius. Com acabem de veure, pre- és un element que ha d’anar lligat amb dir o destinar, però també pot associar-se amb moltes altres paraules: predeterminar, predilecció, predisposició, predominar, prefixar, preveure… I el cas és el mateix amb re-: reacció, reanimar, rebaixar, rebobinar, rebrotar, recaure… Per la seva banda, -er apareix en un veritable munt de paraules, com ara barber, carboner, conseller, forner, fuster, granger, tapisser… Aquestes possibilitats combinatòries son molt interessants des del punt de vista de l’economia lingüística. És com si, enlloc de tenir vuitanta-un vestits diferents, tinguéssim tres camises, tres jaquetes, tres pantalons i tres abrics: amb aquests dotze objectes podríem fer exactament vuitanta-una combinacions. El cas però, més sorprenent és el de l’arranjament de les formes verbals. Una paraula com saltaves pot analitzar-se en quatre components: salt- («llançar-se en l’aire…»), -a- («primera conjugació»), -ve- («temps passat…») i -s («segona persona, singular»). Doncs bé, deixant de banda la segona, que només té valor com a classificador gramatical, les altres tres es poden trobar en molts altres llocs, especialment la tercera (cantaves, robaves, pensaves…) i la quarta (venies, fruïes, paties…).
+
+Les possibilitats combinatòries creixen encara més si pugem un altre graó en el nivell del sentit i ens trobem amb els sintagmes: construccions fetes amb morfemes, que presenten un cert grau de cohesió i que son els elements constitutius de les oracions. Els sintagmes, a mig camí entre els morfemes i les oracions, son estructures generalment complexes preparades per ocupar unes determinades posicions sintàctiques, com ara la de subjecte de l’oració (un sintagma nominal), la de predicat (un sintagma verbal), la de complement de lloc (un sintagma adverbial), etc. Amb aquestes construccions s’eixamplen encara més les possibilitats combinatòries perquè, per exemple, un petit grup de determinatius (el, la, aquest, alguns…), un cert nombre de noms (cotxe, casa, llibre, noia, caixa…) i uns quants adjectius (petit-a, verd-a, llampant, atrotinat-da, animosa…) ens poden permetre tot d’arranjaments diversos: el cotxe petit, el cotxe verd…; la casa petita, la casa atrotinada…; aquest llibre petit, aquest llibre verd; alguns cotxes llampants, aquest cotxe verd… No son, però, possibles totes les combinacions sintagmàtiques: ni és vàlid la cotxe llampants, ni tampoc el cotxe animós, i això vol dir que les llengües tenen les seves regles de joc o, dit d’altra manera, que les construccions lingüístiques estan sotmeses a regles, tot i que, com acabem de veure, les possibilitats d’arranjament son molt generoses.
+
+Seguint més amunt en el camí del sentit cal parlar ara de les oracions: estructures predicatives fetes de sintagmes que tenen, com a mínim, una organització binària en què freqüentment una part expressa l’agent i l’altra l’acció (El granger / treballa), o bé s’esmenta un objecte i es diu com es troba (El cotxe / no funciona). Les oracions poden arribar a graus de complexitat considerable i son les construccions bàsiques de la comunicació humana, les estructures centrals amb què es produeix la transmissió dels significats. Més encara, les paraules aïllades son tot sovint ambigües, o bé de significat poc específic, i és dins de les oracions (i també dels sintagmes) que arriben a tenir un sentit precís. Per exemple, el mot ronda val de manera diferent en aquests tres casos: Aquesta ronda la pago jo, Passarem pel camí de ronda, Els guardies han fet la ronda a les tres de la matinada. I passa el mateix amb escala, banc, coma, fila, quadre, article i molts més: Puja l’escala, El vaixell farà escala a Tarragona, Calcula amb cura l’escala del mapa; El malalt es troba en coma, En aquest escrit, hi falta una coma; El quadre de Miró és magnífic, Feu un quadre deplorable, La fila està torta, Quina fila que fas!
+
+D’una forma o d’altra, totes les llengües del món tenen estructures oracionals, sigui amb l’ordre que ens es més familiar (Subjecte-Verb-Objecte: SVO), sigui amb d’altres arranjaments (en turc, SOV, en hebreu VSO); ara amb marques de concordança entre dos o més dels elements oracionals, cosa que permet canvis de l’ordre, ara sense marques, i amb posicions fixades que marquen les relacions. Fins i tot en algunes llengües dites polisintètiques existeix el que s’anomena «paraula-oració» (en la llengua chinook d’Oregon, iniáludam vol dir He vingut per donar-li-ho a ella). Sigui com sigui, en totes les llengües del món és possible dir que algú ha fet alguna cosa a algun altre, i que ho ha fet ara o abans, amb amabilitat o sense, amb aquesta o aquella intenció. Hi ha, doncs, elements universals en totes les parles humanes que són els ingredients bàsics de les estructures oracionals.
+
+Finalment, aquestes estructures es poden combinar per constituir textos: complexos supraoracionals regits també per normes combinatòries. Una expressió com Ho he fet fa una estona només te sentit si és la resposta, posem per cas, a Has guardat la maleta?, on ho és un element anafòric (o de referència buida) que aquí equival al sintagma guardar la maleta. De manera semblant, No en tinc serà la reposta a Tens paper? o bé a Tens cases llogades a directius alemanys?, etc., on la forma en fa referència al sintagma corresponent de la pregunta prèvia (paper, cases llogades a directius alemanys, etc.). Així doncs, pregunta i resposta, lligades pels elements anafòrics, són estructures textuals. Com ho són també d’altres construccions com les dues següents: a) Un home va sortir de casa seva; l’home es va aturar al quiosc de la plaça i va comprar el diari; b) L’home va sortir de casa seva; un home es va aturar al quiosc de la plaça i va comprar el diari. Les regles a que es sotmesa la producció de textos ens diuen que en a) tenim un sol home, mentre que en b) en tenim dos. És per això que, si ens volem referir a una mateixa persona, caldrà començar primer per l’indefinit un i seguir desprès pel definit el. Tot això ens fa veure que les llengües són espais de possibilitats infinites, però que es imprescindible d’ajustarse a les normes o regles de cada llengua, que són les que fan possible tant la combinació entre morfemes, com les construccions oracionals i textuals.
+
+
+
+
+
+2.4. L’ús de les llengües
+
+
+Les llengües són, doncs, mecanismes molt potents amb una estructura combinatòria complexa; però es clar que els sistemes lingüístics no són objectes de decoració destinats a ser admirats i estudiats: més aviat, i en primera instància, les llengües tenen el destí de ser usades en la vida de cada dia, es poden fer servir de formes diferents i és divers allò que les llengües fan per a cada parlant com a membre d’una comunitat.
+
+Amb una llengua ens relacionem amb el mon i el transformem en intel·ligible, reduint la multiplicitat dels objectes a classes o grups d’objectes: la classe de les «cadires», de les «persones», dels «llibres», dels «rius». Fins i tot amb les llengues creem objectes mentals: l’«honestedat», el «seny», la «perplexitat» o la «solidesa», conceptes que de ben segur no tindrien cap possibilitat de vida si no tinguéssim paraules per donar-los, amb el nom, l’existència, perquè es tracta d’entitats abstractes que, com es evident, no es troben en el món real.
+
+Però no només podem parlar de les coses, descriure-les i crear-les mentalment. Amb les llengües podem, a més, fer coses. Si algú diu: Inauguro aquest Congrés, i és la persona encarregada institucionalment de fer-ho, és clar que el congrés ha quedat inaugurat; també si un qualsevol ens diu: Us prometo que vindré demà, òbviament acaba d’executar una promesa. Hi ha tota una sèrie de verbs (dels quals es diu que tenen «força il·locutiva») que fan allò que diuen, a condició que siguin proferits per la persona adequada: prohibir, nomenar, baptitzar, aprovar, condemnar… I d’altres que son el patrimoni de qualsevol parlant: negar, afirmar, declarar…
+
+Més encara, en molts casos és possible, com deia Leonard Bloomfield, que algú experimenti una necessitat i, per satisfer-la, no faci res més que una actuació lingüística adreçada a una altra persona: aquesta, copsada per una ordre o per un suggeriment, farà les passes reals perquè la primera obtingui allò que desitjava. Fins i tot, en casos límit, hi haurà qui tindrà com a funció quasi exclusiva la de fer servir la llengua per provocar les accions alienes: compri, vengui, faci, porti, calli… Tot això vol dir que no només hi ha paraules que fan allò que diuen sinó que hi ha paraules que obliguen els altres a fer allò que diu algú. I no cal que les expressions tinguin la forma d’una ordre com Anem-nos-en!; tot sovint n’hi haurà prou amb Saps quina hora és?, o bé, S’està fent fosc. En aquest últim cas, i tenint en compte la situació apropiada, és clar que no es volen donar informacions sobre l’estat del dia, sinó que es vol manifestar indirectament el desig de sortir d’un lloc.
+
+Així doncs, l’ús d’una llengua va sovint més enllà de la dimensió referencial, de l’al·lusió al mon i als seus estats: en fer servir una llengua manifestem opinions i situacions personals i tractem de provocar reaccions en qui ens escolta: comprensió, benvolença, accions en benefici propi o dels altres, tal vegada irritació o actuacions en perjudici d’un tercer.
+
+Un cas especialment interessant des del punt de vista de l’ús del llenguatge és el recurs a la ironia. La ironia ha estat estudiada com a figura retòrica que consisteix a dir alguna cosa, però amb la intenció que hom entengui exactament el contrari d’allò que diuen literalment les paraules i, doncs, és un cas del que alguns anomenen «prevaricació lingüística». Si una persona qualsevol arriba tard a una reunió podem afirmar: D’això se’n diu puntualitat suïssa, i és clar que tothom entendrà que reaccionem davant la informalitat del nouvingut. Ara bé, si anem pel carrer i trobem a terra aquest mateix missatge escrit en un paper, res no ens orientarà sobre una possible intenció irònica de l’emissor. Això vol dir que la ironia només pot desvetllar-se en el lloc apropiat i ens mostra fins a quin punt l’ús del llenguatge va lligat a la situació concreta de la parla: bona part dels enunciats lingüístics (fins i tot dels que son potencialment ambigus) son interpretats correctament gràcies a l’espai en què funciona la comunicació i per referència als locutors, als seus coneixements, actituds i creences. És per això que les converses (i més si els que hi participen es coneixen molt) son sovint plenes d’el·lipsis, sobreentesos i silencis de complicitat, de forma que arribaran a ser incomprensibles per una persona del tot aliena al grup.
+
+Fa un moment s’ha parlat de la «prevaricació lingüística», aplicada als usos irònics. Aquesta designació, però, només és estrictament adequada per retolar l’ús mentider i, sobretot, quan els poders totalitaris manipulen el llenguatge i canvien el lligam entre formes i significats amb la intenció d’amagar accions injustificables. Aquest trasbals del sentit hauria de rebre el nom, més exacte, d’«impostura lingüística». Tanmateix, en l’ús del llenguatge el que es fa palès de forma més habitual és tot un conjunt de normes de cooperació i d’ajustament entre els participants (torns de paraules, formules de tractament, expressions d’assentiment i de rebuig, petició d’aclariments, usos formals o informals) que ens permeten fins i tot parlar de l’estructura i regles de la conversa com d’un joc sotmès a lleis preestablertes, conegudes pels que hi prenen part.
+
+
+
+
+
+3. LES LLENGUES
+
+
+
+
+
+3.1. La diversitat lingüística
+
+
+Encara avui, en que el món sencer està gairebé apamat, es fa difícil de saber quantes llengües hi ha al nostre planeta. I això es degut a causes diverses: a la tendència de les administracions estatals a sobrevalorar les llengües oficials, també a la inclinació paral·lela d’alguns estudiosos que són propensos a no reconèixer més llengües que les que han donat fruits literaris en èpoques antigues i, finalment, a la dificultat intrínseca en el moment de distingir entre llengua i dialecte.
+
+Els càlculs més prudents ens parlen de tres mil llengües i els més generosos de cinc o sis mil, tot i que la xifra que apareix amb més persistència ens dona al voltant de quatre mil llengües. Si tenim en compte que el total dels habitants de la terra es de cinc mil milions, això fa, en termes absoluts, una llengua per a cada 1.250.000 humans, cosa que, evidentment, no es correspon amb la realitat. De fet, hi ha llengües amb centenars de milions de parlants, com ara el xinès (amb dialectes molt i molt diferenciats, però unificada en l’escriptura) amb prop de 1.000 milions de parlants, l’anglès amb uns 350, l’espanyol uns 260, l’hindi amb 200 i el rus, el bengalí i l’àrab amb 150 milions aproximadament, cadascun. En l’extrem oposat tenim tot de llengües (la immensa majoria) que són parlades per un conjunt comparativament petit de persones que, freqüentment, o be han estat sotmeses a colonitzacions genocides, o be han estat gairebé assimilades per la llengua de l’estat. És el cas de moltes llengües ameríndies com el sioux, amb 20.000 parlants; el cherokee, amb 10.000; el fox, amb 500; el chinook i el tuana, totes dues a Washington, amb 30 i 10 parlants respectivament, etc. Moltes d’aquestes llengües es troben en perill imminent d’extinció (i probablement algunes deixaran de viure quan s’acabi la generació dels vells), com va desaparèixer el dàlmata, llengua romànica, l’últim parlant del qual, Antonio Udina, va morir l’any 1898. Exactament cent anys desprès també ha mort la llengua ona, a la Terra del Foc, en morir l’única parlant que encara la mantenia viva.
+
+Si ara tornem a fer un càlcul i dividim el nombre de llengües (4.000) pel nombre d’estats que hi ha al mon —aproximadament 180— tenim una mitjana de 22 llengües per estat. Però, un altre cop, aquesta mitjana és absoluta: en els extrems, hi tenim el cas de Portugal, amb una sola llengua, i el de l’Índia, on es calcula que n’hi ha prop de cinc-centes. De fet, casos com el primer són gairebé excepcionals: el més normal en el panorama lingüístic del món és l’existència de diverses llengües dins de cada estat, cosa que s’explica bàsicament per la mateixa organització estatal, que tot sovint no té res a veure amb les nacions o pobles històrics. Un cas molt clar es el d’Àfrica, algunes zones de la qual han estat delimitades pels pobles colonitzadors de forma totalment artificial, fins i tot amb línies geomètriques. En aquestes situacions, qualsevol opinió sobre els problemes lingüístics d’aquests estats haurà de ser endossada com a retret als qui hi han imposat estructures estatals sense la més petita consideració vers les realitats dels pobles i dels parlants.
+
+Cal tenir en compte, doncs, que una cosa són les fronteres dels estats i una altra les de les llengües. Es diu que fa un parell de segles es podia anar de París a Roma sense apreciar-hi canvis sobtats de llengua, cosa que no passava si el viatger es dirigia des de París a Berlín. El panorama lingüístic del món presenta, doncs, continuïtats i discontinuïtats, en general al marge dels talls establerts per raons polítiques. Però és un fet que aquests talls existeixen, i això modifica (i fins i tot trasbalsa) el mapa lingüístic del món, almenys en dos sentits: d’una banda, hi ha la superposició de llengües (l’anglès, el francès, el portuguès i l’espanyol a l’Àfrica); d’altra, els sistemes educatius estatals i els mitjans de comunicació, que promouen normalment com a model la parla de la capital de l’estat, contribueixen a esborrar les varietats dialectals, amb la qual cosa s’estableixen encara més diferencies a banda i banda de les fronteres i es perd la continuïtat lingüística original.
+
+FIGURA 3. La continuïtat romànica a Europa occidental i l’illot romanès. (Adaptat de Coloma Lleal. La formación de las lenguas románicas peninsulares. Barcelona, Barcanova, 1990, p. 47).
+
+
+
+La gran diversitat lingüística del món fa que alguns es plantegin si no serà excessiu el nombre de llengües, i fins i tot si convindria que tots els humans coneguessin una de sola com a auxiliar universal, a més de la pròpia. En aquesta línia són conegudes temptatives com l’esperanto, el volapuk i d’altres llengües «artificials», és a dir, que no són apreses com les anomenades «maternes» o «naturals». La tria d’una segona llengua (artificial o natural) és una qüestió polèmica, perquè tot sovint s’hi immisceixen factors de domini geopolític. Sigui com sigui, l’èxit en l’aprenentatge d’una segona llengua depèn de si aquest és la conseqüència d’una imposició, o bé és el fruit d’una elecció voluntària, ara per raons de conveniència (comercial, científica…), ara per l’interès en eixamplar el propi món de relacions. Quant al nombre de llengües, són les que són, i l’evidència d’aquest fet i, sobretot, que cada llengua sigui la pròpia d’una comunitat, treu tot sentit a qualsevol tipus de planificació que volgués reduir el panorama lingüístic del món. En concret, pretendre que cada estat tingui només una llengua voldria dir que s’hauria d’eliminar la immensa majoria de les llengües del món.
+
+
+
+
+
+3.2. Les famílies de llengües
+
+
+El conjunt de les llengües de la terra no té, ni de bon tros, la forma d’una llista inordenada o d’un catàleg alfabètic. Ja des d’antic, les llengües han estat agrupades formant famílies, atenent a les semblances formals, i fins i tot s’han dissenyat «arbres genealògics» per mostrar les relacions de parentiu entre les llengües: d’això se’n diu classificació genètica. Amb aquest símil familiar es pot dir que el català, el castellà, el francès, l’italià, etc., són llengües «germanes», perquè totes quatre tenen com a «mare» la llatina. Per la seva banda, l’alemany i el neerlandès («germanes» entre elles) derivarien d’una «mare» germànica que no tenim testimoniada per l’escriptura. Aquesta «mare» seria la «tia» de les llengües romàniques i, doncs, l’alemany i el neerlandès en serien les «cosines», perquè llatí i germànic provenen d’una «mare» comuna: la parla o parles indoeuropees. En un arbre genealògic molt simplificat tot quedaria com a la figura 4 (on, a més, s’expressa una obvietat: que el català, el castellà i el francès s’assemblen més entre elles que no pas el català i l’anglès):
+
+
+
+L’evidència d’aquestes relacions prové d’un fet empíric: entre el mot xinès shu i l’equivalent català llibre no hi ha semblances de cap tipus; en canvi, entre llibre, libro i livre (del català, castellà i francès, respectivament) si que n’hi ha, i això també passa amb molts altres elements del vocabulari (especialment amb noms com pare, mare… i amb els numerals). Si, a més, es troben semblances també en l’estructura morfològica i en la forma d’organitzar les oracions, llavors l’evidència del parentiu es veu reforçada encara més.
+
+Però no totes les famílies lingüístiques s’han pogut establir amb la precisió amb que s’ha dissenyat la gran família indoeuropea És per això que amb prou feines es poden trobar arbres genealògics coincidents per a les llengües d’Àfrica o d’Amèrica i, en bona part, això es degut al fet que no disposem de testimonis antics; ben diferent és el cas en l’àmbit indoeuropeu on hi ha textos escrits de fa mil anys, dos mil i encara més, cosa que permet de remuntar-se a un temps en que es poden apreciar molt més bé les semblances.
+
+En general, es parla d’unes 20-30 grans famílies com, per exemple, l’altaica (amb llengües com el turc, el mongol, el manxú…), l’afroasiàtica (arameu, àrab, copte, hebreu…), la nigero-kordofanesa (wòlof, ioruba, swahili…), la sino-tibetana (xinès, tibetà, birmà…), l’ameríndia (chinook, menòmini, nahuatl, aimara, comantxe…), etc. (Junyent, 1989: pp. 111-141). El conjunt de les llengües de cada família, com hem vist a la figura 4 amb una part petita de l’indoeuropeu, es ramifica en tot de branques per justificar en l’esquema arbori els diferents graus d’apropament entre les llengües: el tronc amerindi, posem per cas, ha estat diversificat en sis branques, cadascuna de les quals es també ramificada en molts casos. Així, la llengua comantxe pertany al grup uto-asteca (on hi ha també l’asteca i l’hopi, entre d’altres), grup que s’inclou sota la branca de l’amerindi central que, al seu torn, es una ramificació de la gran família ameríndia (Junyent, 1989: pp. 137-140), com veiem a la figura 5:
+
+FIGURA 5
+
+
+
+Tanmateix, no totes les llengües del món es poden enquadrar dins del marc d’una família nombrosa, com les que acabem de veure. Un cas típic és el de l’esquimal (de la família esquimo-aleuta) que té molt poques llengües en el seu entorn genealògic: inuit, iupik i aleuta. El cas límit, però, es el de les llengües aïllades a les quals no s’ha pogut trobar encara un parentiu: l’euskera n’és una, i també el japonès, tot i que alguns el consideren proper al coreà. El fet que siguin avui llengües aïllades no vol dir que ho hagin estat sempre: el més probable es que les llengües germanes hagin desaparegut sense deixar cap testimoni; també pot ser que els investigadors encara no hagin trobat els materials que puguin permetre la descoberta d’un possible parentiu.
+
+
+
+
+
+3.3 Els tipus de llengües
+
+
+La agrupació o classificació que acabem de veure, d’orientació genealògica, no és l’única manera d’establir relacions entre llengües: hi ha també la possibilitat de considerar semblances entre dues o més, encara que aquestes no estiguin històricament emparentades. En aquest cas, hom parla de classificació tipològica, i això vol dir que algunes llengües, potser molt allunyades i de famílies diferents, fan palesa una organització similar, almenys pel que fa a una part de les seves estructures.
+
+És ja tradicional una classificació tipològica basada en el grau de síntesi o d’anàlisi de la paraula: hi ha, doncs, llengües sintètiques i llengües analítiques. Si ho volem il·lustrar amb uns primers exemples, la forma saltà és constituïda per dos elements: salt- i -à. Aquest segon morfema és extraordinàriament sintètic perquè, sense cap possibilitat de segmentació (o anàlisi), inclou diverses informacions: persona (tercera): nombre (singular), temps (passat) i aspecte (perfet). En canvi, una paraula com reproduïble està més aviat de la banda analítica, perquè es pot segmentar (analitzar), de manera que cada morfema té un sol significat: re- + produ(ï)- + -ble (en ordre invers, «que es pot» + «fer» + «una altra vegada»). Finalment, paraules com tiralínies o trencaclosques són pràcticament analítiques, de forma que poden ser fins i tot interpretades per una persona que les sent per primera vegada.
+
+Les classificacions més conegudes estableixen tres tipus lingüístics atenent a l’estructura de la paraula. D’una banda, hi ha les llengües anomenades flexives (també dites «fusionals»), en què el grau de síntesi és elevat: és el cas del llatí, on una forma como dominum, en la seva desinència -um, expressa les idees de «singular», «masculí» i «cas objecte» o acusatiu. Són també llengües flexives, a més del llatí, l’àrab, el sànscrit, el grec i, en menor mesura, les llengües romàniques.
+
+En un segon nivell, hi ha les llengües aglutinants en què les paraules són formades per morfemes que es poden segmentar i als que s’hi pot atribuir un significat diferenciat: en turc, llengua que sovint és presentada com a típicament aglutinant, un mot com çabuk vol dir «ràpid» i un altre com çaçabuk vol dir «molt ràpid». Un cas especial, dins d’aquest grup, el trobem en les anomenades llengües polisintètiques. En aquestes, hi ha paraules-oració com en chinook (llengua del riu Colúmbia) on una forma com acimlúda vol dir Ell t’ho donarà, i s’analitza d’aquesta manera: a («futur»), c («ell»), i («allò»), m («tu»), l (l’element anterior -m- és el beneficiari), u («allunyar-se i de c», d («donar»), i a («futur»)). És, si fa no fa, com en el cas de reproduïble, però amb la particularitat que aquesta paraula chinook funciona com una oració. Són llengües aglutinants, a més de les dues esmentades, l’euskera, l’esquimal, el yana (al nord de Califòrnia), etc. Les llengües romàniques i les germàniques tenen un capítol aglutinant considerable que és conegut amb el nom de «derivació».
+
+Finalment, hi ha les llengües aïllants, en què cada paraula és independent i, a més, té forma fixa o invariable; és a dir, cada mot és un morfema i viceversa, amb la qual cosa ens trobem davant del grau màxim d’anàlisi. En aquestes llengües, doncs, les oracions estan constituïdes per elements lèxics plens i perfectament identificables (i serà l’ordre de col·locació d’uns respecte dels altres allò que assenyalarà les relacions gramaticals). La llengua xinesa és citada amb freqüència com un cas molt representatiu de llengua aïllant: una oració com Ella no t’estima gaire té la forma ta bu tai xihuan ni («ella», «no», «gaire», «estimar» i «tu», respectivament). Són també llengües d’aquest tipus el vietnamita, el birmà, el tibetà, etc. Pel que fa a llengües com les romàniques, hi ha casos d’aïllament en tot un seguit de compostos com els que hem vist més amunt (tiralínies, trencaclosques, etc.). En anglès també hi ha moltes construccions aïllants: teapot (tetera), seaflower (anèmona), tramway (tramvía), etc.
+
+Cal tenir present, però, que aquests tres grans tipus no es corresponen al cent per cent amb llengües reals. És cert que el xinès i el vietnamita són llengües predominantment aïllants (analítiques) i que, pel seu cantó, el llatí i l’àrab es troben prop de l’extrem flexiu (sintètiques); però no hi ha tipus purs; com a molt hi ha decantaments, més o menys forts, cap a la banda analítica o cap a la banda sintètica. De fet, ja hem vist al final de cada grup com en les llengües romàniques es donaven exemples de tots tres tipus.
+
+Les classificacions tipològiques, presentades aquí des de la dimensió morfològica (o de l’organització de la paraula) també es poden bastir des d’altres nivells lingüístics i, en concret, atenent a l’estructura oracional. Per exemple, hi ha tot de llengües que segueixen l’ordre Subjecte-Verb-Objecte (SVO), com el català, l’àrab modern i el finès; d’altres, en canvi, tenen l’ordre SOV (japonès, turc, coreà); finalment, també trobem la seqüència VSO (tagalo, galès). També des del punt de vista fonètic es parla de llengües tonals, de les que fan servir clicks, etc. Tant aquesta varietat d’organització com les diferències en les estructures de les paraules no impedeixen, però, que les llengües siguin mútuament traduïbles: és un fet evident en el món actual que els textos científics i tècnics són perfectament possibles en llengües estructuralment tan diferents com l’angles i el japonès.
+
+Els estudis tipològics poden arribar a donar informacions interessants sobre la facultat del llenguatge, en la mesura en què es tracti d’esbrinar quins són els elements universals o indispensables en totes les llengües humanes (sistemes pronominals, estructures nucli-complement, expressions predicatives, etc.). En canvi, les classificacions genètiques ens poden il·lustrar sobre alguns aspectes de la història dels pobles que són al nostre abast només gràcies a les llengües: per exemple, se sap que els primitius indoeuropeus cultivaven la terra i molien algun tipus de cereal perquè en llatí existeix el verb molere, en gòtic malan i en eslau antic mlēti (i aquestes coincidències no són degudes al préstec). Cosa que, a més, queda reforçada si tenim en compte que també hi ha les paraules yugam (sànscrit), zygón (grec), iūgum (llatí), juk (gòtic) i iga (eslau antic), totes per designar el jou o instrument que serveix per junyir dos animals.
+
+
+
+
+
+3.4. Llengua i dialecte
+
+
+A la secció 2.1 s’ha dit que una llengua és la construcció que fa cada parlant en ell mateix, però també és el producte d’una comunitat, i és aquest segon vessant el que, per regla general, es posa de relleu quan es parla de la llengua anglesa, de la catalana, de la xinesa, etc., com a possessió d’una col·lectivitat. És per això que hi ha la tendència a donar una entitat quasi física a cadascuna de les llengües del món com si fossin objectes reals que es poden tocar i regirar. Tanmateix, una llengua es una pura abstracció perquè el que de debò existeix és aquesta persona que diu això i allò i aquella altra que hi afegeix això i allò. No es poden, però, defugir uns fets: que uns parlants A i B s’entenen, mentre que un parlant A i un altre de Z no s’entenen pas.
+
+Més encara: és possible que es doni una curiosa cadena de comprensió, de forma que A entengui B i C amb facilitat, però que tingui alguns problemes amb D. Per la seva banda, el parlant B es comunica normalment amb A, C i D, però ja no tant amb E, i així successivament. Aquestes consideracions posen sobre la taula una noció fonamental a l’hora de parlar sobre llengua i dialecte: la noció d’intel·ligibilitat mútua que, com ja es pot veure, es qüestió de graus; es per això que es fa molt difícil determinar quins i quants són els dialectes d’una llengua i, encara més, si dues formes de parla pertanyen a dos dialectes de la mateixa llengua, o be a dues llengües diferents. Si ara ho concretem una mica, i prescindint del fet que hi ha una llengua oficial que s’ensenya obligatòriament a l’escola i que predomina en els mitjans de comunicació, un parlant de Pont de Suert (català) es pot entendre amb un altre de Benasc (benasqués); aquest, amb un de Biescas (aragonès); el de Biescas, amb un d’Alagón (castellà); aquest, amb un de Grado (asturià); aquest, finalment, amb un parlant de Meira (gallec). Tot això, amb alguns reajustaments lingüístics. El que ja no és tan clar és que el primer es pugui comunicar amb el darrer, parlant cadascun en la seva llengua, si no és desprès d’un procés d’ajustament lingüístic molt més fort. Aquesta continuïtat no es dona en d’altres casos: tot sovint hi ha separacions ben netes com en el cas de Nancy (francès) i Estrasburg (alemany), totes dues dins de França, separades per una frontera lingüística molt clara.
+
+Les varietats geogràfiques i històriques que hom pot trobar dins d’una llengua s’anomenen dialectes i tenen una característica essencial: són realitzacions col·lectives i sistemàtiques de la mateixa llengua; d’una llengua que, com a tal, no es posseïda per cap persona (perquè, com hem dit, la llengua és un concepte abstracte). Des d’aquest punt de vista, es pot afirmar que els dialectes A i B pertanyen a la llengua X perquè s’hi poden observar grans coincidències en la fonètica, la morfologia, el lèxic i l’organització sintàctica; tot i que, òbviament, es copsen unes diferències que són les que permeten parlar de dialectes diversos (dialecte A, dialecte B, ambdós de la llengua X). Aquestes diferències són percebudes no només pels especialistes (els dialectòlegs), sinó també pels propis parlants que troben, en una situació donada, que un nouvingut, amb el qual es poden entendre, no pertany a la seva àrea lingüística. De vegades, però, les diferències són molt fortes: es el cas dels dialectes mandarí i cantonès, tots dos de la llengua xinesa, que són mútuament tan inintel·ligibles com, posem per cas, l’anglès i l’alemany. No obstant això, aquesta realitat diversificada del xinès queda amagada pel fet que l’escriptura n’és la mateixa.
+
+Cal, també, considerar el cas contrari: el de dos dialectes d’una sola llengua, però separats per una frontera i amb dues escriptures diferents que amaguen, ara, la unitat lingüística. És la situació del serbo-croata, parlat ara a la república de Servia, de religió ortodoxa, i escrit amb l’alfabet ciríl·lic, ara a la república de Croàcia, de religió catòlica, i escrit amb l’alfabet llatí; però totes dues parles són variants dialectals de la mateixa llengua.
+
+Els especialistes marquen les diferencies dialectals en mapes mitjançant línies isoglosses amb que es delimita l’abast dels diversos fenòmens lingüístics (fonètics, morfològics i lèxics). Així, per exemple, la distinció catalana de o àtona en o i u (canto: kanto / kantu) quedaria establerta gràficament d’aquesta forma en un petit sector de l’Atlas Lingüístic del Domini Català (ALDC):
+
+
+
+La línia isoglossa separa, doncs, les localitats de Cambrils (67) i La Torre de Fontaubella (106), al sud, i va pujant cap al nord separant La Febró (65) i Margalef de Montsant (103), etc.
+
+Pel que fa a les diferencies lèxiques, el mateix Atlas marca l’ús alternatiu de mirall i espill d’aquesta manera:
+
+
+
+Ara, la línia deixa al nord Cambrils (67) i queda al sud L’Ametlla de Mar (112). L’establiment d’isoglosses pot arribar a ser molt complex si es volen tenir en compte diversos fenòmens fonètics alhora; es per això que normalment en un mapa trobarem «feixos» de línies, tot sovint no coincidents.
+
+Finalment, pel que fa a la variació dialectal cal dir que es del tot científica una valoració que volgués establir rangs entre els dialectes: no n’hi ha uns de més bons que d’altres, com tampoc es pot dir que hi hagi llengües bones i llengües dolentes. Un altre cop ens trobem amb realitats lingüístiques que no admeten aquesta mena d’opinions subjectives: un dialecte, doncs, no és res més que una varietat al costat d’altres varietats, sense cap preeminència. Però tot sovint un dialecte es converteix en «llengua estàndard» (de fet, «dialecte estàndard»), bé perquè el seu territori acull l’aparell administratiu de l’estat (París), bé perquè és allà on hi ha les institucions acadèmiques prestigioses (Cambridge, Oxford); és d’aquesta forma que una de les varietats arriba a ser considerada més culta i prestigiosa: això, però, per motius del tot aliens a la seva estructura.
+
+
+
+
+
+3.5. Llengua i registre
+
+
+Les llengües no tan sols tenen varietats geogràfiques; també es caracteritzen per estar dotades de registres diferents o modalitats d’ús: hom parla d’una forma si l’han encarregat d’inaugurar el curs acadèmic en una institució universitària i de manera molt diversa si es troba amb uns amics en el bar del barri. Els registres, doncs, són les adaptacions de la llengua a les circumstàncies de la situació comunicativa, tenint en compte les persones a les quals ens dirigim i el tema de que es parla. Aquests tres factors (situació, destinatari i tema) són els elements que regulen les diferencies entre una ponència sobre química inorgànica davant d’una assemblea d’experts en la matèria i la conversa privada de dos pagesos sobre la marxa de la collita. Entre aquests dos extrems hi ha tot de situacions intermèdies, però com a punts de referència oposats podem parlar de dos registres o estils de parla: l’ús formal (solemne) i l’ús informal (col·loquial).
+
+En algunes llengües aquests dos extrems poden arribar a trobar-se molt allunyats: és el cas de l’àrab que fa servir la llengua de l’Alcorà per als usos formals: una llengua que s’ha d’aprendre a les escoles perquè esta força distanciada de les varietats de l’àrab parlat. En casos no tan extremats és també l’escola (i els mitjans de comunicació) l’instrument que difon el registre formal, i és per aquest camí que la parla col·loquial pot arribar a ser titllada, injustificadament, d’inculta o vulgar, precisament perquè és contraposada als usos sancionats favorablement des de l’escola i d’altres institucions acadèmiques.
+
+En teoria, una llengua pot estar mancada de varietats dialectals si, per exemple, es circumscriu a un territori molt i molt petit; però sembla difícil de concebre’n una sense registres, sense diferències amb què es marqui el discurs d’una celebració o ritus com a diferent del que es més propi de la comunicació quotidiana, o amb què es pugui distingir el tracte entre persones, ara conegudes, ara estranyes. Les llengües, doncs, permeten (i fins i tot demanen) una gamma variada d’estils de parla, i és per això que tenen poc sentit les polèmiques a l’entorn dels usos cultes i populars com a modalitats mútuament excloents: el que es important és d’encertar el registre apropiat en les circumstàncies apropiades.
+
+Una qüestió que afecta profundament la variació (tant la dialectal com la dels estils) és la conveniència d’una norma lingüística estàndard (que sol situar-se més aviat del costat del registre formal). Aquesta es una modalitat funcional, especialment útil si la llengua està molt diversificada i se sent la necessitat de mantenir obert l’espai de comunicació, d’una banda, i de fornir d’un instrument prestigiós els discursos científics, filosòfics, artístics, comercials, etc., de l’altra. La tria d’una norma d’aquest tipus es pot fer bé sobre la base d’algun dels dialectes (convertit, com ja s’ha dit en «dialecte estàndard»), bé amb una operació integradora que reculli algunes de les formules més reeixides de tot el domini lingüístic. Històricament, però, és la primera la solució que s’ha donat amb més freqüència, cosa que deixa la resta dels territoris en una situació més aviat desfavorable a causa dels prejudicis territorials i lingüístics. Sigui quin sigui el procediment triat per a la constitució d’un estàndard, aquest, en ser promogut pels grans mitjans de comunicació, podrà arribar, fins i tot, a esborrar algunes diferències dialectals, cosa que s’evitarà donant-hi cabuda a veus i formes de tot el domini lingüístic, amb la qual cosa es guanyarà en intercomprensió sense que els parlants es vegin obligats a renunciar al seu dialecte, és a dir, als petits senyals d’identitat lingüística.
+
+
+
+
+
+4. L’EVOLUCIÓ DE LES LLENGÜES
+
+
+
+
+
+4.1. Les llengües canvien
+
+
+Es un fet observat ja des de l’antiguitat que les llengües no són entitats estàtiques. Plató, al seu diàleg Cràtil, deia que els poetes i la gent del carrer havien modificat el grec fins al punt que aquest s’havia alterat greument i s’havia perdut la relació immediata entre les paraules i les coses. I molts anys desprès, a començaments del segle XIV, Dante afirmava que les llengües canviaven a poc a poc, i que si els antics habitants de la ciutat de Pavia ressuscitessin parlarien una llengua diferent de la que llavors s’hi parlava. No va ser, però, fins al segle XIX que l’observació del canvi lingüístic es va fonamentar sobre la base d’un estudi realment seriós.
+
+Totes les llengües estan sotmeses al desplaçament, com si anessin a la deriva enmig del temps. El símil nàutic, tanmateix, no és ben bé exacte perquè, com veurem, hi funcionen regles o direccions del canvi que caldrà considerar. Sigui com sigui, les llengües canvien fins al punt que poden «morir», be deixant «descendència» (el llatí va «engendrar» tot de llengües), be sense deixar-ne (el dàlmata i l’ona, com ja sabem; l’íber a la Península Iberia; l’etrusc a la Península Itàlica, el frigi als Balcans, i moltíssimes més). Aquesta metàfora del naixement, vida i mort de les llengües va ser àmpliament emprada al segle XIX com a conseqüència de les teories de l’evolució biològica, i fins i tot alguns estudiosos van comparar les llengües amb els organismes vius, sotmesos també a condicions temporals. Però aquesta assimilació no és res més que una altra metàfora, tot i que, és cert, les llengües que avui es parlen al món són el resultat d’un llarg procés evolutiu: és per això que, remuntant el temps, es parla de l’anglès medieval, de l’anglès antic i, més enrera, del proto-germànic; o bé del llatí clàssic i, abans, del llatí arcaic.
+
+El canvi lingüístic no sempre és observable en el lapse temporal d’una generació (més endavant, però, ens referirem al lèxic), i és per això que els textos escrits de fa segles ens ajuden a copsar l’evolució de les llengües. Un cas ben il·lustratiu el tenim a l’Appendix Probi, una llista feta al monestir italià de Bobbio, en que es corregien paraules llatines considerades impròpies i que data del segle VII (tot i que l’original sembla que es remunta al Baix Imperi Romà, potser al segle IV). Algunes de les correccions són aquestes:
+
+vetulus non veclus («vell»)
+
+formica non furmica («formiga»)
+
+vinea non vinia («vinya»)
+
+oculus non oclus («ull»)
+
+
+
+Altres casos semblants són els de les anomenades «glosses» (traduccions de paraules i expressions llatines a les d’una llengua romànica, fetes perquè les de la primera ja no s’entenien) i també la inclusió sobre la marxa de mots d’una llengua viva en documents redactats en llatí. Un cop d’ull als escrits antics, i més si al costat en tenim la versió modernitzada, ens demostra això que ja sabem: que les llengües evolucionen.
+
+El que no se sap ben be, però, es per que canvien les llengües, i es per això que Saussure va dir, ja a començaments del segle XX, que «la investigació de les causes del canvi es un dels problemes més difícils de la lingüística». Avui està del tot descartada, com a causa del canvi, una suposada influència de factors racials i climàtics, i també està força desacreditat el funcionament de la «llei del mínim esforç», perquè arreu es troben exemples contraris: en llatí es deia audiveram allà on diem jo havia sentit (o oït), que és una mica més llarg. A més, la «llei del mínim esforç» (o de l’«escurçament»), aplicada sense restriccions, hauria pogut deixar els humans sense parla. Més aviat caldrà prendre en consideració d’altres factors, externs a les llengües i també interns, que donin una resposta encara provisional a l’enigma sobre les causes del canvi lingüístic.
+
+
+
+
+
+4.2. Les causes externes del canvi lingüístic
+
+
+Una llengua pot ser entesa com un sistema d’expressió i de comunicació que, en certa mesura, s’autoregula, o s’equilibra de forma interna, més o menys com ho fan alguns organismes. Però és clar, també, que una llengua està exposada a les circumstancies de l’entorn i que aquest pot modificar-la: el cas més clar és l’exigència de paraules noves que hauran de designar les realitats i els objectes que constantment apareixen en l’espai lingüístic. Entre les circumstàncies de l’entorn, la més important com a causa de possibles canvis lingüístics és la presència d’una altra llengua, sigui en el mateix territori, sigui en un territori veí. El contacte de llengües és, doncs, un dels factors cabdals entre els que poden portar a la modificació d’una llengua qualsevol.
+
+Un cas clar de contacte (i també de conflicte) és el que es dona entre dues llengües, una de les quals arriba a substituir completament l’altra, desprès d’un període més o menys llarg de presència en un mateix territori. En aquest cas, és del tot versemblant que la llengua substituïda deixi algunes empremtes en la llengua que sobreviu, perquè els parlants de la primera hauran adoptat la segona sobre la base dels seus propis hàbits lingüístics. Això ho veiem cada dia quan algú aprèn una llengua estrangera: un parlant català tindrà la tendència a pronunciar estop allà on els anglesos fan stop. És, doncs, del tot probable que els parlants pre-romans de la Península Ibèrica fessin servir un llatí amarat d’iberismes, basquismes o celtismes, segons cada cas, cosa que molt probablement va determinar l’aparició de les llengües romàniques diferenciades (un altre factor a tenir en compte és que el llatí que va arribar als nous territoris era ja, sense dubte, un llatí dialectalment i socialment diversificat d’entrada). De la mateixa forma, alguns pobles germànics, en deixar la seva llengua i posar-se a parlar llatí, van introduir-hi tot d’elements germànics (i, en part, és per això que el francès és com és). El conjunt de les empremtes que la llengua extingida deixa en la sobrevivent és conegut amb el nom de substrat (i també s’anomena així la mateixa llengua a la qual pertanyien). Com a exemples, restringits ara al vocabulari, s’atribueixen al substrat ibèric paraules com bruixa, conill, gerd i d’altres; al substrat cèltic, banya, camisa, llauna i algunes més.
+
+Molt freqüentment, però, el contacte de dues llengües no es resol amb la substitució d’una d’aquestes: de vegades, una llengua pot pressionar sobre una altra durant un cert temps i deixar de fer-ho més endavant, bé perquè el poble que la parla ha estat rebutjat, bé perquè canvien les àrees d’influència política, econòmica i cultural, o bé perquè aquest poble adopta, finalment, la llengua del territori. En qualsevol d’aquests tres casos, i més si el contacte ha estat llarg, la llengua que pervisqui haurà manllevat elements de l’altra: aquests elements (i la llengua a la qual pertanyen) es designada amb el nom de superestrat. De la presència àrab, per exemple, tenim elements lèxics com alcova, almirall, arròs, genet, magatzem, rajola, safrà, sèquia i moltíssims més. En general, aquestes empremtes en el vocabulari tenen relació amb les activitats més característiques del poble que llavors feia acte de presència: es per això que aquestes paraules d’origen àrab es refereixen a la milícia, a la construcció i, sobretot, a l’agricultura. En temps més recents, els canvis del lèxic deguts al superestrat tenen el seu origen en la pressió de la llengua anglesa, molt especialment en terrenys com l’esport, les finances, l’electrònica i d’altres.
+
+El «manlleu» de paraules (terme que, com s’ha dit de vegades, es poc afortunat perquè aquestes més aviat fan «irrupció» més o menys violenta) no acostuma a canviar substancialment l’estructura de la llengua, sobretot si hi funcionen els mecanismes d’assimilació: per exemple, un mot angles com football ha esdevingut futbol, amb canvis vocàlics i accentual i, doncs, s’ha adaptat als patrons fònics de la llengua receptora. El problema, però, es planteja quan aquestes intromissions (conegudes també amb el nom de «barbarismes») són només un aspecte, el més visible, de tota una altra sèrie de canvis en els nivells fònic, morfològic i sintàctic. Si aquest és el cas, una llengua pot entrar en una dinàmica d’hibridació i, o bé desapareixerà amb el temps deixant, com ja s’ha vist, un substrat en l’altra, o bé restarà profundament alterada.
+
+
+
+
+
+4.3. Les causes socio-culturals del canvi lingüístic
+
+
+Amb pressions externes o sense, alguns canvis lèxics venen condicionats per la necessària relació que hi ha entre una llengua i el seu entorn. Aquests canvis afecten, molt especialment, les comunitats de parlants que es troben en espais oberts a la innovació tecnològica, econòmica i cultural; espais en que les activitats tradicionals són escombrades, sovint de forma dramàtica per a la generació dels més vells.
+
+La desaparició de paraules que designen objectes que deixen de ser útils en l’àmbit lingüístic (o bé en alguna de les seves zones) és avui un fenomen prou general. Aquests mots esdevenen arcaismes (o són a punt d’esdevenir-ne) com, per exemple, candela, camàlic, xavo, animeta i tartana i només són coneguts (i molt poc usats) per la gent gran. Si a això hi afegim el desplaçament de la població cap a les grans ciutats, tenim que tot de mots que abans eren del domini comú (per exemple termes agrícoles) són ara realment especialitzats i queden restringits a l’àmbit de les persones que es dediquen a les feines del camp: accions com besllaurar, rostollar, espigolar i eines com llegona, llegó, arpiot i moltes més. D’altra banda, la pèrdua d’alguns punts de referència culturals fa que tot d’expressions siguin ara inintel·ligibles perquè ja no són motivades i, doncs, corren el perill de desaparèixer: S’ha venut per un plat de llentilles (de referència bíblica). No m’expliquis un sopar de duro (en temps antics era un preu exorbitant) i És un artista proteic (per al·lusió al deu grec que canviava de forma quan volia) són exemples d’expressions que cada vegada tenen menys presencia en l’ús de la llengua.
+
+No tot, però, són pèrdues perquè els nous objectes i conceptes demanen termes nous, i també les activitats i professions que contínuament revolucionen la vida de certes comunitats. Aquests termes són coneguts amb el nom de neologismes (o paraules noves) i es poden crear i introduir de moltes formes. N’és una la via del manlleu, ja comentada (marketing, squash, spaghetti, pòster… encara no adaptats a la llengua). Pel que fa a bona part dels tecnicismes, el procediment més normal es apel·lar al grec i al llatí, cosa que fan constantment la medicina, la física, la química i d’altres ciències en els seus vocabularis especialitzats (cardiograma, sulfonal, baròmetre, hidroclorat…). En molts casos, els neologismes són de tipus híbrid: part de la nova paraula és d’una llengua clàssica i l’altra és d’ús comú (retroalimentació, intravenós, infravalorat, etc.). També és molt freqüent avui la formació de neologismes pel procediment de l’acronímia, prenent les lletres inicials d’un conjunt de paraules i formant-ne les sigles com, ara, TGV, UNESCO, RENFE, etc. Aquest sistema, però, pot crear alguns problemes, perquè la sèrie resultant només de vegades podrà ser assimilada per la llengua i, doncs, pronunciada com un mot (RENFE); tanmateix, tot sovint les sigles seran impossibles d’articular (TGV); en aquest darrer cas es tria el procediment d’emetre els noms de cada lletra (te, ge, ve, amb tres accents), cosa que no s’adiu amb les característiques prosòdiques de la llengua (amb el temps, però, arribarà a ser tegevé).
+
+Entre les causes socials del canvi lèxic hi juga tambe un paper destacat l’argot: una modalitat d’ús en principi restringida a determinats sectors (estudiants, soldats, delinqüents…) però que pot escampar-se i introduir-se dins l’àmbit comú de la llengua. Aquesta darrera situació obliga a la renovació constant de l’argot perquè la funció d’aquest és precisament la diferenciació: els joves no volen parlar com els adults (ni vestir-se com ells, ni anar als mateixos llocs d’esbarjo). I pel que fa a l’argot de la delinqüència, a més de la funció diferenciadora hi ha la d’ocultació, i tan bon punt això no s’assoleix, caldrà trobar noves paraules que siguin incomprensibles pels qui no pertanyen al cercle.
+
+La vinculació de les paraules amb les coses es també la causa d’unes pèrdues i d’uns guanys coneguts amb el nom de tabú. Aquesta paraula prové de la llengua tonga, parlada en les Illes dels Amics, a la Polinèsia, on significa «sagrat» o «inaccessible» i que ara podem traduir per «prohibició». És coneguda la prohibició d’esmentar directament el nom del deu en algunes cultures, cosa que obliga a emprar-hi circumloquis («el que es gran») i mots paral·lels. Els tabús més freqüents tenen relació amb les activitats sexuals i amb les defecatòries i són a l’origen d’unes paraules i girs substitutoris que s’anomenen «eufemismes» i que produeixen una renovació constant del vocabulari: en el moment en que el mot s’ha «contaminat» per l’associació amb les activitats que designa, caldrà trobar-ne un altre que no sigui percebut negativament.
+
+Finalment, un altre factor socio-cultural del canvi el trobem en la normalització lingüística, tant si es referida a una llengua que no té problemes (castellà, francès…), però que ha de ser actualitzada, com si s’aplica sobre una llengua greument interferida per una altra (català, noruec…). En aquest darrer cas (i seguim cenyint-nos al lèxic), caldrà substituir tot de barbarismes per paraules autòctones o per construccions noves a partir del vocabulari genuí i també, quan sembli oportú, assimilar les paraules forànies a les estructures fonològiques i morfològiques pròpies (accions que, no cal dir-ho, són del domini dels especialistes en la llengua). En aquests processos de normalització s’haurà de fer una tasca especialment feixuga en el camp dels vocabularis tècnics i en el tractament dels cultismes de tota mena. Els resultats d’un procés de normalització hauran de ser assumits per l’Administració, pels grans mitjans de comunicació i per les institucions acadèmiques de tots els nivells (i recolzats per les autoritats polítiques) perquè arribin a ser adoptats pel conjunt de la comunitat de parlants com a variant o registre estàndard.
+
+
+
+
+
+4.4. Les causes internes del canvi lingüístic
+
+
+No tots els canvis són com els que hem vist fins ara: també n’hi ha d’altres que cal atribuir-los, en primera instància, a una dinàmica interna de les llengües, i són aquests els que encara avui són més difícils d’explicar. Edward Sapir (1921, pp. 146-154) va discutir el cas de who / whom en anglès, en expressions com Who did you see? («Qui vas veure?»), considerada inadmissible des del punt de vista formal, però d’ús majoritari, per comptes de la forma «correcta» Whom did you see? I deia: «Si which, what i that tinguessin formes objectives paral·leles a whom, la posició d’aquest últim seria més segura». Aquest exemple és un cas d’assimetria estructural: d’una forma (whom) aïllada del sistema, i és per això que la seva situació sembla molt feble. Es pot suposar, doncs, que en les llengües (si les considerem com a sistemes) hi hauria tendències cap a un cert equilibri o simetria, però seria molt arriscat parlar de tendències generals i implacables perquè constantment trobem elements aïllats amb un grau de salut considerable: el cas més clar és el dels verbs irregulars com anar (vaig, vas, va, anem, aneu, van i no pas ano, anes, ana, anem, aneu, anen com els regulars de la primera conjugació: canto, cantes, canta, cantem, canteu, canten).
+
+Amb tot, des de fa més d’un segle s’ha estudiat un factor de canvi conegut amb el nom d’analogia, o proporció. Els nens (i també força adults) diuen coneixo allà on toca dir conec i això ho fan per analogia amb creixo i d’altres de semblants. També la forma verbal hi han (Hi han moltes cases noves) es pot explicar com un cas d’atracció, per la concordança que cal establir en una oració entre nom i verb. Un exemple d’analogia molt estudiat és el dels dies de la setmana: els mots dilluns i dimecres (dies lunae i dies mercurii, respectivament, en llatí) tenen s final, però això no és degut al seu origen, sinó a una simetria o analogia amb dimarts (dies martis), dijous (dies iovis) i divendres (dies veneris) que sí que en tenen. Ferdinand de Saussure ho explicava amb el cas de la parella llatina honor / honorem: en un principi, les formes eren honos / honosem; però aquesta segona esdevingué honorem (en llatí va ser sistemàtic el pas de s intervocàlica a r) i la primera va canviar per la influència de la segona, amb la qual cosa, també, es va establir la simetria amb d’altres parelles com ara orator / oratorem.
+
+No tot, però, s’explica amb el recurs a l’analogia. En angles antic hi havia tot de paraules en que s’hi pronunciava una e llarga, el testimoni de la qual encara es troba en l’escriptura (geese («oques»), teeth («dents»), green («verd»), feet («peus»), meet («trobar»), keep («guardar») i moltes altres); però es va produir un canvi i avui es pronuncien amb una i llarga, sense que se’n sapiguen les causes. Això sí, aquest exemple mostra que no es tracta de canvis aïllats que afecten només una paraula; ben al contrari, els canvis fonètics que es produeixen per raons probablement internes són regulars i generals i afecten, doncs, tota la sèrie implicada. Si, per exemple, el català admetés de cop una sèrie de mots anglesos que comencen per s seguida d’una altra consonant (smile, stop, spoon…) el més normal seria que fossin precedits d’una e neutra en tots els elements d’aquesta sèrie. Paradoxalment, això ens indica que, molt probablement, els canvis generals de tipus intern poden tenir causes externes.
+
+L’espai lingüístic de la Romania ens ofereix un fenomen també molt estudiat: el del manteniment i el canvi de les consonants sordes oclusives intervocàliques. En llatí existien paraules com petra, vita, rota, totes tres amb una t entre dues vocals. Doncs bé: en italià aquests mots són pietra, vita i ruota i en romanès, piatra, viata i roata[2]; es a dir, aquestes dues llengües han conservat la t llatina. Però a la Romania occidental aquesta t ha esdevingut d: en català, pedra, vida, roda; en castellà, piedra, vida, rueda; en gallec, pedra, vida, roda. Si els sons (i grups de sons) afectats pel canvi arriben a ser-ne molts i, a més, impliquen series amplies del vocabulari, llavors les llengües afectades poden diferenciar-se extraordinàriament i s’allunyaran de la llengua original. El canvi fonètic es, doncs, l’element essencial en la transformació de les llengües. Per exemple, les paraules ull i ojo (catalana i castellana, respectivament) semblen del tot diferents. Però totes dues provenen del mot llatí oculus com ho demostren les series següents:
+
+llatí català castellà
+
+OCULU ull ojo
+
+CUNICULU conill conejo
+
+NAVACULA navalla navaja
+
+AURICULA orella oreja
+
+FENUCULU fonoll hinojo
+
+etc.
+
+
+
+Pel que fa als canvis del nivell del significat, també trobem modificacions i desplaçaments, el més important dels quals és el pas del sentit recte al figurat. En llatí, sembla que la paraula testa feia referència originalment a un objecte més aviat rodó, de matèria dura i buit de dins, potser un recipient. Aquest mot (que també designava el crani) és a la base de la paraula catalana test i de la castellana tiesto, però també de la francesa tête («cap»). Això vol dir que, en llatí, testa tenia molt probablement dos sentits: un de recte i un altre de figurat. L’esllavissament del significat és omnipresent i, més en concret, és habitual la designació de realitats inanimades mitjançant paraules que, en sentit recte, només es podrien dir d’éssers animats: és per això que es parla del peu d’una muntanya, de la maneta d’una maquina i de l’ull de l’escala. Recentment hom diu que hi ha edificis intel·ligents (i també míssils), amb la qual cosa la intel·ligència, facultat humana d’entendre o de comprendre, pot arribar a significar només «capacitat, prèviament programada, de prendre decisions davant de les circumstàncies».
+
+Les possibilitats del desplaçament semàntic permeten fins i tot la conservació de paraules que ja no tenen un referent en la realitat: la paraula esclau no es pot fer servir literalment (almenys en determinats àmbits), però no presenta cap problema una expressió com En Pere és un esclau de la feina, on es fa palès un sentit diferent de A Roma hi havia molts esclaus. També es produeix canvi semàntic quan un terme especialitzat esdevé del domini públic: la paraula fenomen es un cultisme provinent del grec i tenia el significat restringit d’«allò que es pot percebre sensorialment»; però aviat va prendre el sentit del que es «sorprenent o poc comú» i per aquest camí ha passat a ser aplicat, per exemple en l’ambit esportiu, a persones de qualitat excel·lent. Tanmateix, els desplaçaments del significat també funcionen en sentit contrari, és a dir, produint una restricció: en llatí, el mot ponere tenia el sentit general de «col·locar», que es el que es conserva en el castellà poner; però en català pondre només es fa servir en el cas del Sol i dels ous dels ocells. Un exemple del tot semblant, però ara amb restricció en totes dues llengües, és el del llatí collocare («situar»): en català colgar amb el sentit d’«enterrar» (i també de «ficar-se al llit») i en castellà colgar amb el sentit de «penjar» (cal, però, plantejar-se si les paraules llatines ponere i collocare eren polivalents en l’ús popular i, doncs, si es podien emprar, ja llavors, ara en sentit general, ara restringit).
+
+
+
+
+
+4.5 L’estudi del canvi lingüístic
+
+
+L’estudi general del canvi lingüístic, fet sobre bases progressivament solides, va començar en les primeres dècades del segle XIX, i un dels investigadors pioners va ser l’alemany Jakob Grimm, coautor amb el seu germà Wilhelm dels Contes d’infants i de la llar i de les Llegendes alemanyes (aquestes dues tasques com a lingüista i folklorista no són res més que les dues facetes d’un mateix interès, típic del Romanticisme: l’estudi i la recuperació del passat). Grimm va poder comprovar tota una sèrie de relacions regulars entre la llengua grega, la gòtica i l’antic alemany, pel que feia als canvis fonètics i les va ordenar en una taula de correspondències. Aquestes mostraven, per exemple, que a la P (oclusiva, bilabial i sorda) del grec li corresponia una F (fricativa, labiodental i sorda) en gòtic i una B, de vegades amb la grafia V (oclusiva, bilabial i sonora) en antic alemany. A més, aquestes diferencies eren sistemàtiques (llevat d’uns casos excepcionals que anys endavant es van poder explicar apel·lant a factors accentuals). Algunes de les correspondències són aquestes:
+
+grec gòtic antic alemany
+
+podos fotus vuoz «peu»
+
+pater fadrs vatar «pare»
+
+huper ufar ubar «sobre»
+
+
+
+Per tant, es va establir amb solidesa que no es tractava de paraules diferents, sinó de la mateixa en l’origen, però sotmesa a canvis regulars del tipus que hem vist amb oculus (ull i ojo). És clar que entre el mot grec podos i l’antic alemany vuoz hi ha gran diversitat; però cal tenir present una altra de les correspondències de Grimm, també generalitzades: D → T → Z. Això volia dir que paraules aparentment dissemblants podien ser considerades com a provinents d’una mateixa font (l’indoeuropeu en aquest cas) aplicant-hi la taula de Grimm (amb les modificacions posteriors).
+
+Aquest descobriment va revolucionar els estudis històrics i és a la base mateixa de les investigacions que van permetre la constitució ramificada de l’arbre indoeuropeu. A més, a la vista dels textos antics escrits en sànscrit, irànic, grec, llatí, gòtic, antic alemany, llengües celtes i, més recentment, l’hitita, entre d’altres, van sovintejar els treballs de reconstrucció lingüística de la llengua indoeuropea comuna. Així, per exemple, davant formes com matar (sànscrit), meter (grec), mater (llatí), muoter (antic alemany), etc., es podia establir una forma original com *mater, on l’asterisc indicava que aquesta era reconstruïda (i no testimoniada, com les altres, per l’escriptura). De manera semblant, els exemples del mot jou que vam veure a la secció 3.3 permeten la reconstrucció de yugom, i així en tot de casos.
+
+El treball i la metodologia creats per a l’estudi de l’indoeuropeu es va aplicar aviat a d’altres camps, i fins i tot va permetre la reconstrucció d’algunes paraules llatines no documentades, a partir de les formes en les llengües romàniques. En llatí, per exemple, no esta documentat el mot corresponent a genoll (català), xoello (gallec) i ginocchio (italià), i es per això que hom suposa l’existència de *genuculu en llatí vulgar com a explicació única d’aquestes coincidències formals (els mots romànics no poden provenir de genu, que és la forma documentada). A més, paraules com parler (francès), parlar (català) i parlare (italià) no es poden connectar directament amb parabolare (llatí vulgar), sinó amb una forma intermèdia reconstruïda com *paraulare; és el mateix cas amb jo (català), yo (castellà) i io (italià) que ens remeten a *eo com a estat de transició entre ego i les formes romàniques.
+
+El treball comparatiu és la gran realització de la lingüística del segle XIX i els seus fruits, amb avanços actuals molt importants pel que fa a la formulació de les regles del canvi, perduren en els nostres dies. A més, els mateixos hereus de la tradició historicista, entre ells Saussure i Sapir, a banda i banda de l’Atlàntic, van ser els iniciadors d’un gir de gran transcendència en posar les primeres pedres de la lingüística moderna.
+
+
+
+
+
+5. LES LLENGÜES I LES CULTURES
+
+
+
+
+
+5.1. Llengua i diferència
+
+
+Les afirmacions sobre la unitat essencial de l’espècie i del llenguatge humans són del tot compatibles amb la constatació objectiva de la diversitat entre els pobles: hi ha diferencies pel que fa a costums i tradicions, sistemes d’organització social, actituds respecte a l’entorn, i també varietat, com ja hem vist al capítol tercer, en l’aspecte lingüístic. Però aquest darrer factor ha estat considerat tan important que fins i tot alguns pensadors romàntics el van fer responsable (o almenys concomitant) de la resta de les diferencies: Humboldt, per exemple, va afirmar que la diversitat lingüística era paral·lela a la cultural i, en temps més recents, alguns antropòlegs i lingüistes han suggerit que les llengües són a la base d’unes determinades orientacions perceptives que ens fan veure el món ara d’un color, ara d’un altre, segons sigui l’estructura particular de cada llengua.
+
+Cal, però, oblidar definitivament algunes idees del tot desacreditades, irrellevants i sense el més petit suport científic en què s’atribuïa a factors racials, climàtics i culturals alguna mena de responsabilitat quant a la diversitat lingüística. Pel que fa al primer factor, només cal obrir els ulls per adonar-se que una mateixa llengua, sigui l’anglès, el portuguès o el castellà, és parlada com a materna per persones de races diferents, i també hem de tenir present el cas contrari: una mateixa raça parla tot de llengües, moltes de les quals es troben ben allunyades des dels punts de vista genètic i tipològic. A més, l’experiència diària ha demostrat de forma irrebatible que qualsevol nounat, independentment de la seva adscripció racial, pot aprendre com a llengua materna i sense cap entrebanc, qualsevol de les que hi ha al món, i que ho fa en el mateix lapse temporal i amb el mateix grau de competència.
+
+Quant al factor climàtic i la seva possible influència en la forma de les llengües, en temps passats hom pensava que als països nòrdics els corresponien llengües més aviat «fredes», aptes per a la ciència, mentre que les terres del sud posseïen llengües «càlides», adequades per a l’oratòria i el teatre. Fins i tot es va afirmar que les primeres eren fonèticament «fosques» i les segones «clares». Totes aquestes fantasies cauen per terra amb una comprovació ben senzilla en el camp de les articulacions fonètiques més obertes: l’anglès, llengua «fosca» del nord, té entre catorze i setze vocals (diftongs inclosos), segons els dialectes; mentre que l’àrab, llengua «clara» del sud, només en té tres.
+
+En tercer lloc, la influència del factor cultural sobre les llengües sembla que només afecta una part del lèxic i, especialment, les locucions populars, com veurem més endavant, i no pas els nivells estructurals (fonològic, morfològic, sintàctic) que són el moll de l’os de la llengua. Els interessos culturals d’un poble es reflecteixen en el vocabulari, perquè és obligat de donar un nom als objectes i costums vigents en la societat, en un moment determinat. En aquesta línia, convé precisar que cultura no és tan sols (ni principalment) el conjunt d’obres considerades excel·lents (literàries, pictòriques, musicals, arquitectòniques, cinematogràfiques, etc.) que han tingut la sort de surar en el mar del temps. Cultura, tal i com la conceben els antropòlegs, és abans que res tot allò que un poble, com a col·lectivitat, fa en el seu medi de vida i que es transmès d’una generació a l’altra. Això inclou, d’una banda, les formes socials del treball (el cultiu de les vinyes, per exemple) i, de l’altra, els ritus o celebracions (les festes de la verema). Les elaboracions de la cultura impliquen, doncs, tant les activitats de supervivència en comú com les tradicions. I de tot plegat deriven creences i valors, estils de vida i, fins i tot, les formes d’organització de la societat, les lleis i les institucions. Des d’aquest punt de vista, és evident que el conjunt dels ingredients culturals ha de deixar, per força, petges importants en el vocabulari de les llengües; això, però, és una qüestió de fet, i mai ni els antropòlegs ni els lingüistes gosarien avaluar aquesta relació llengua-cultura en termes de millor o de pitjor.
+
+Pel que fa, ara, a les anomenades formes «superiors» de la cultura (artística, científica), cap llengua, per ella mateixa, no imposa mai límits al desenvolupament cultural: quan es produeixen noves necessitats les llengües s’hi adapten sense dificultats especials, normalment amb la creació, o amb l’adopció, del lèxic específic. En aquests casos, és freqüent que una persona lingüísticament més reflexiva, o un grup de persones, dotin la llengua amb les eines adequades i proposin els models necessaris per fer front als reptes culturals, sigui orientant la col·lectivitat amb el seu exemple (Ramon Llull per a la prosa catalana del segle XIII), sigui prenent la iniciativa d’una reforma lingüística (Pompeu Fabra i la campanya lingüística de L’Avenç, a finals del segle XIX). Que les llengües no són cap obstacle per al desenvolupament cultural es pot demostrar amb exemples diversos: la llengua japonesa no ha estat un impediment en el moment en què s’ha produït l’esclat de la tecnologia electrònica o, vist des d’una altra perspectiva, l’anglès de fa cent anys (substancialment la mateixa llengua d’avui) no estava preparat per parlar de cibernètica. Arribat el moment, però, la llengua anglesa ha respost al repte. Així doncs, el fet que avui, en una determinada llengua, no es pugui parlar amb la terminologia computacional no depèn de la llengua mateixa, sinó de condicions més aviat alienes, com ara el poder econòmic d’uns territoris implicats en els sistemes de producció tecnològica. Si les computadores haguessin estat inventades pels àrabs (amb tot el que implica aquest invent), avui l’àrab seria la llengua internacional de la cibernètica (i cal no oblidar que la llengua àrab va ser, en un determinat moment històric, el vehicle lingüístic d’una ciència esplendorosa).
+
+
+
+
+
+5.2. La llengua i l’entorn físic
+
+
+Una part considerable del lèxic, en totes les llengües, serveix per designar objectes del mon físic: entitats com l’aigua les pedres, la vivenda, les eines, els animals, els menjars, els estats del dia, les formes del terreny, els colors bàsics…, totes aquestes realitats reben noms específics com a elements de la vida quotidiana. En aquest aspecte, totes les llengües són idèntiques tot i que, és clar, cadascuna fa servir un lèxic propi: el gos es mbwa en swahili, txakur en euskera, ajá en ioruba, chien en francès, dog en anglès, perro en castellà; noms ben diferents, però tots assenyalant una mateixa realitat externa. El nostre entorn més immediat, el cos humà i les seves parts, també demanen obligatòriament les paraules específiques: la mà és mkono en swahili, shi en xinès, mano en castellà, esku en euskera, hand en anglès, etc. El que és important de tot això és que, malgrat les diferències en les formes, les llengües coincideixen en designar els elements bàsics i universals del món físic, mitjançant seqüències fòniques del tot arbitraries, com ja vam veure a la secció 1.3, parlant dels símbols. És per això que no té cap sentit discutir si és millor aigua que maji (swahili), water (anglès) o ur (euskera), perquè es tracta, en cada cas, d’una convenció que funciona perfectament per a cada comunitat lingüística, i cap d’aquestes paraules no manté lligams necessaris amb la realitat designada.
+
+L’adequació del lèxic respecte a l’entorn revela els interessos que hi té la col·lectivitat dels parlants: val a dir que el vocabulari d’una llengua conté una selecció significativa de tot allò que és rellevant per al grup, perquè no tots els elements de l’entorn tenen la mateixa importància. Per dir-ho d’una forma gràfica, no és el mateix, en català, el volum de vocabulari referent al cultiu de la vinya (que és una activitat social) que el corresponent a la recollida de la farigola (que és una activitat individual): existeix el verb veremar, però no pas el que designaria l’acte de collir la farigola, i això revela diferencies d’interessos respecte a l’entorn. D’altra banda, no tots els elements que pertanyen al nostre món tenen per a nosaltres el mateix grau de familiaritat o de proximitat, i això també ho reflecteixen les llengües: els gossos són els protagonistes d’un vocabulari generós, sigui amb formes d’una sola paraula (gànguil), sigui amb construccions més complexes (gos llebrer), però no passa el mateix en el cas dels cocodrils. Fins i tot distingim gos i gossa, però no tenim aquesta doble forma per als cocodrils. I això es un indici que socialment estem interessats en la reproducció dels primers (i cal, per tant, diferenciar-los) i no pas en la dels segons. L’inventari lèxic d’una llengua és, doncs, el mirall de la selecció que la comunitat, com a tal, fa del seu entorn.
+
+Un cas força divulgat és el de la llengua esquimal que conté diverses paraules per designar la neu en els seus diferents estats: quana, quan cau; aput, la que es troba a terra; piqsirpog, si el vent l’arrossega; quimuqsuq, si forma una clapa en alta muntanya (una congesta). És clar que els esquimals necessiten totes aquestes distincions, irrellevants en terres on la neu gairebé no fa acte de presencia; com també és evident que en esquimal no existeixen paraules per designar «ovella», «elefant» i «sargantana». Un exemple paral·lel és el de la llengua pintupi, d’Austràlia, on hi ha deu paraules per al concepte de «forat», especialment per diferenciar els caus dels animals: yarla, forat en un objecte; pirti, a la terra; yulpila, poc profund, on viuen les formigues; niarrkalpa, d’animals petits; pulpa, dels conills, etc. (Crystal (1987) p. 15). Exemples com aquests es troben en totes les llengües i n’hi hauria prou amb una ullada a les diferents paraules que tenim per anomenar de forma especifica cadascun dels diversos vehicles, les formes i qualitats dels vins, els estris d’escriptura, etc. Des d’aquest punt de vista, tota llengua és llengua de la tribu, el repertori lèxic de la qual s’adiu a les necessitats del grup i fa distincions allà on troba que són més útils.
+
+Un altre aspecte de la relació que existeix entre les llengües i el món el tenim en la reducció a segments de les realitats que són de gradació infinita. N’és un exemple destacat el vocabulari dels colors, que varia molt de llengua a llengua. De fet, entre el vermell i el morat hi ha una sèrie infinita de punts cromàtics i és del tot impossible destriar el groc del verd de manera neta. En canvi, les llengües fan una o altra forma de segmentació de l’espectre i diferencien lèxicament un petit nombre d’espais de color. En català, els termes bàsics són sis (vermell, taronja, groc, verd, blau i morat); en shona, llengua de Zàmbia, són tres (cipswuka, cicena i citema); en bassa, de Libèria i Camerun, dos (ziza i hui). Mirem-ne ara les equivalències en un quadre:
+
+
+
+Això mostra que la segmentació és relativament arbitrària i que algunes cultures no troben necessari, en aquest cas concret dels colors, fer-ne tantes distincions. Però de cap de les maneres significa que els parlants tenen menys capacitat perceptiva o que no sabrien distingir el vermell d’un tomàquet del color d’una taronja; el que vol dir és que per a la vida quotidiana no cal filar més prim (a més, si partim d’una gradació infinita, tan lluny es queden les llengües amb sis mots com les de dos). Això sí, quan les necessitats ho demanen, sempre hi ha la possibilitat d’introduir-hi tot de matisos (com verd fosc o blau grisós) o de recórrer als colors d’alguns objectes: llimona, rosa, safrà, salmó, en la línia ja coneguda de taronja.
+
+Però, malgrat diferències i particularitats, les llengües humanes coincideixen totes perquè són sistemes simbòlics en què les paraules designen no coses i accions, sinó classes de coses i d’accions. Cada paraula és, doncs, el nom d’un conjunt obert i és per això que podrà ser usada apropiadament per assenyalar també els nous elements que puguin entrar dins del conjunt. D’aquesta forma, el lèxic de qualsevol llengua sembla que és la font primera de la classificació del món i, per aquest camí, impedeix que els humans ens hàgim d’enfrontar amb un caos de percepcions aïllades.
+
+
+
+
+
+5.3. La llengua i els fets culturals
+
+
+El problema bàsic pel que fa a una possible relació entre les llengües i les cultures es pot formular mitjançant una pregunta, parcialment resposta en la secció primera d’aquest capítol: Hi juguen les llengües diferents un paper important en la construcció dels diversos móns culturals? Dit d’una forma alternativa, ens imposen les llengües una visió del món, o només reflecteixen, com ja hem dit, la selecció significativa que en fem? Aquest problema es conegut d’antropòlegs i lingüistes com a «hipòtesi Sapir-Whorf» i és al centre mateix del que s’anomena relativisme lingüístic: la nostra orientació vers el món vindria condicionada per la llengua, que actuaria com una mena de filtre, diferent en cada cas, i faria que cada poble percebés les coses de manera diversa i preestablerta. Cal dir, d’entrada, que la hipòtesi és molt atractiva, però que mai no ha estat verificada i sembla difícil que ho sigui en el futur, per moltes raons. Per exemple, un lord anglès i un mecànic de Detroit bé han de tenir visions del mon força allunyades, encara que tots dos parlin la mateixa llengua. I també val el cas contrari: probablement un dirigent empresarial del Japó i un altre de San Francisco tenen més punts en comú entre ells, tot i parlar llengües diferents, que aquest darrer i un treballador del port de Monterrey, pocs quilòmetres al sud de la ciutat nord-americana.
+
+D’altra banda, no es veu de quina manera els sistemes fonològic, morfològic i sintàctic de les llengües podrien orientar la nostra percepció del món. I, a més, caldria dubtar que la possessió de dues, tres o quatre llengües ens donés una visió barrejada de la realitat: ara una, ara una altra, segons la llengua. Si, però, deixem de costat els tres sistemes esmentats, encara ens queda el capítol del lèxic que, com ja s’ha dit, ens presenta el món classificat. El problema bàsic de la hipòtesi relativista es pot formular, ara, de la manera següent: el vocabulari d’una llengua només reflecteix el món o també ens imposa les seves lleis?
+
+Mirem de respondre amb uns exemples. Una persona que toca professionalment el violí és un violinista i qui toca la trompeta és un trompetista. Tots dos, a més, s’apleguen sota el nom de músic. Però no tenim paraules per designar el subconjunt format pels qui toquen el violí, el violoncel, el contrabaix… d’un costat, i els qui toquen la trompeta, el trombó, el clarinet…, de l’altre. Tanmateix això no ens impedeix de considerar-los com a grups ben definits i fins i tot podem anomenar-los instrumentistes de corda i de vent, respectivament. Un exemple semblant, ja comentat, és el dels termes de color: el fet que no hi hagi una paraula intermèdia entre el verd i el blau no ens priva de distingir tonalitats diverses i matisades.
+
+Un cas força interessant és el que ens ofereix el vocabulari del parentiu, que presenta diferències sorprenents de llengua a llengua. Una comparació entre l’hongarès, el català i el malai ens donaria el quadre següent, pel que fa al camp lèxic de la fraternitat:
+
+(Adaptat de S. Ullmann «Semantic Universals» p. 252 dins J. Greenberg, Universals of Language)
+
+
+
+El quadre ens fa suposar, per principi, que no són les mateixes les relacions i responsabilitats fraternes en el món hongarès i en el mon malai. Més sorprenent encara és el cas de la llengua pitjanjatjara, d’Austràlia:
+
+(Adaptat de D. Crystal (1987), p. 102)
+
+
+
+Això vol dir que la tia materna i l’oncle patern són del mateix nivell que la mare i el pare, respectivament, i que són cridats a exercir-ne les funcions, en cas de mort dels progenitors.
+
+Aquest sistema té una semblança sorprenent amb el llatí:
+
+
+
+En aquest cas, no tenim la mateixa paraula en un costat i en l’altre, però no es pot negar la semblança fonètica (en són idèntiques les arrels) que marca amb claredat la proximitat de les funcions familiars. Cal no oblidar, en aquesta mateixa línia, que en català existeixen el padrí i la padrina que originàriament substituïen els progenitors (i a més, que un dels sentits de padrí encara es el de «protector» o «avaluador»), i també és significativa l’existència de compare i comare amb què són designades aquestes persones.
+
+Tots aquests exemples del parentiu delimiten (i expressen) sistemes de relacions familiars ja preestablerts i ens porten un cop més a la pregunta inicial: aquestes estructures, prèviament fixades per la llengua determinen, o decideixen d’entrada, una aprehensió de la realitat? Una vegada més cal manifestar l’escepticisme davant del poder del lèxic: no sembla que les paraules tinguin capacitats coercitives, i tampoc és versemblant que les persones siguin obligades de forma indefugible a exercir les funcions que assenyalen, com l’experiència demostra de manera constant. L’afecte o el desafecte, l’amistat o l’odi, són disposicions tot sovint personals, dictades per un veritable munt de circumstancies, i no es veu per quin camí podrien influir-hi les paraules: els termes de parentiu, doncs, sembla que només reflecteixen l’organització del món familiar i no hi imposen cap orientació perceptiva.
+
+
+
+
+
+5.4. El lèxic, les frases fetes i les idees col·lectives
+
+
+Fins ara, totes les paraules que hem fet servir com a exemples per discutir un possible protagonisme de les llengües en la configuració de la cultura eren paraules que designaven bé realitats físiques aïllables (gos, aigua, neu, forat…), bé segmentacions arbitràries de realitats contínues (els termes de color), bé graus de parentiu. Però en les llengües trobem una mena de paraules que no remeten a objectes del món: solidesa, agressió, bondat, llibertat, etc., són paraules de referent abstracte, i no les podem associar amb entitats tangibles o visibles. Aprenem el sentit i l’ús de les paraules gos i aigua en contacte amb uns animals i unes substàncies, respectivament. Però com aprenem el sentit i l’ús de la paraula honradesa? Sense dubte, sentint expressions com És un polític honrat, La seva honradesa no li ha permès de fugir amb els diners del seu germà i d’altres de semblants, en tot de situacions apropiades i sabent, pel que fa al primer exemple, que la política pot corrompre i que hi ha polítics l’ambició dels quals els porta a ultrapassar les fronteres de l’ètica. Tenim, doncs, que el coneixement del valor semàntic d’honradesa implica alhora el coneixement del seu contrari.
+
+Aquest tipus de paraules abstractes fan sovint referència a qualitats (de les persones, de les coses) i són les primeres matèries dels judicis de valor. I pel fet de ser apreses en determinades situacions, el seu sentit pot variar molt d’un parlant a l’altre, a causa de la varietat de les vivències personals: un mot com llibertat pot tenir significats ben diferents, ara positiu (Per sort, viuen en llibertat), ara negatiu (Els tirans tenen llibertat per fer allò que volen). Però aquests termes abstractes no només els adquirim gràcies a les nostres experiències individuals: els fem nostres en la vida social, i aquesta pot ser dirigida o orientada pels aparells educatius i del poder i, doncs els valors de les paraules abstractes poden ser induïts o manipulats, amb la finalitat de crear una consciència col·lectiva. I, ara sí, les paraules poden condicionar la nostra percepció del món en la mesura en què ajuden a configurar la mentalitat d’un poble, tot sovint en contraposició amb la resta dels pobles (o amb el més proper). És d’aquesta forma que paraules com seny, educació, fidelitat, fermesa, etc., són percebudes socialment com a marcadors de valors positius i predisposen el poble a comportaments que puguin ser qualificats d’aquesta mena. Per contra, rauxa, ignorància, deslleialtat i feblesa tindran connotacions negatives, i els membres de la comunitat hauran de fer tot el possible per no ser titllats desfavorablement. Així doncs, la bipolarització, o la condicion antonímica, dels termes de referència abstracta, pot regular la vida social (i, de fet, els sistemes educatius solen recolzar-se en el poder de paraules com aquestes).
+
+Un altre factor lingüístic que reflecteix i condiciona (totes dues coses alhora) la vida social és l’existència de les frases fetes i dites populars, en la mesura en què encara tinguin vigència. Cal remarcar aquesta darrera precisió perquè tot sovint les dites expressen formes de vida antigues: la frase Tancat amb pany i forrellat, comparada amb la castellana Cerrado a cal y canto (o bé a piedra y lodo), probablement revela una manera diferent de fermar les cases; però en els moments actuals això ja no és vàlid i, encara que ho fos, no sembla que tindria cap incidència en la creació i direcció de les mentalitats.
+
+En canvi, trobem tot d’adagis que han contribuït a condicionar les formes de pensar col·lectives com, per exemple, els que fan referència a les dones de forma desfavorable. Vet aquí una petita mostra: Amb armes, dones i focs, no hi vulguis jocs, Dona ociosa no pot ésser virtuosa, És ben casada la que no té ni sogra ni cunyada, No creguis dona alguna perquè muden com la lluna, Quan la senyora es prepara, el rellotge es para, etc. Tots aquests proverbis no tan sols reflecteixen una mentalitat masclista i misògina, sinó que formen part del programa «educatiu» popular i passen d’una generació a l’altra. Un programa «educatiu» que ensenya a malfiar-se dels altres (Qui es fia de tothom es fa pobre i no sap com), a ser obedients (A la taula i al llit al primer crit), constants (Home de molts oficis, pobre segur), treballadors (Qui no treballa no menja ni fa bonic el diumenge), prudents (Vora el riu no hi facis niu), etc. Amb tot, no cal perdre de vista d’altres dites que contrasten clarament amb les anteriors (la «saviesa popular» es contradictòria), sigui perquè s’hi manifesta una bona dosi de sentit crític (De les grans cases surten els grans ases, El pobrissó mai no té raó); sigui perquè és crida a una vida més plaent (Qui no sap riure no sap viure); sigui, finalment, perquè es promou el valor de l’amistat (A ca l’amic necessitat, ve’s-hi sense ser cridat).
+
+En síntesi, de tots els nivells lingüístics només l’apartat del lèxic manté relacions amb l’univers de la cultura, ara donant-nos indicis dels interessos d’un poble, ara expressant el seu sistema d’organització. I també manifestant una determinada visió del món que es promoguda mitjançant els proverbis amb que es pretén guiar la vida social. Al capdavall, és amb la llengua que s’interpreta la cultura i, en aquest sentit, són les llengües de cada poble les que ens fan conscients de la nostra manera d’ésser i ens defineixen com a col·lectius.
+
+
+
+
+
+6. L’ESCRIPTURA
+
+
+
+
+
+6.1. Els orígens i les funcions
+
+
+L’escriptura no és un factor consubstancial a les llengües, com ho demostra el fet que, durant decenes de mil·lennis (potser alguns centenars de mil·lennis), aquestes en van poder prescindir. Més encara: com ja sabem, l’alfabetització generalitzada en els països occidentals és un fet molt recent i, per tant, la immensa majoria de la població mundial ha viscut fins fa ben poc al marge de l’escriptura. En canvi, allò que és consubstancial o natural a les llengües és la seva dimensió oral, i és per aquesta via (i no pas pel camí de l’escriptura) que s’ha desenvolupat la facultat de la parla i que la humanitat ha arribat als nivells d’intel·ligència que la caracteritzen.
+
+Avui, però, aclaparats per una quantitat incalculable de lletra impresa (llibres, revistes, diaris…), podríem arribar a creure que el volum de tot el que s’escriu es superior al de tot allò que es diu. Tanmateix, encara avui són ben pocs, en el conjunt de la humanitat, els qui escriuen de forma habitual: la immensa majoria dels humans continuem fent us prioritari de la comunicació verbal i, el que és més important, les llengües segueixen vives gràcies a la parla quotidiana i informal. Hi ha, a més, un fet cabdal: amb escriptura o sense, i tant en els països que tenen sistemes educatius molt esglaonats i complexos, com en els que això gairebé no existeix, els infants continuen fent l’adquisició natural de la llengua gràcies a l’exposició auditiva; l’escriptura vindrà desprès o no vindrà, i tant en un cas com en l’altre, la lletra ni ens afegirà ni ens treurà res de substancial a la nostra condició bàsica d’humans posseïdors d’una llengua.
+
+No obstant això, l’escriptura és reconeguda com una activitat de gran prestigi (més si pren la forma de literatura de creació), i qui més qui menys associa els textos escrits amb els avantatges de la cultura. Però aquesta meravella, que ha donat fruits realment excel·lents i que ha estat el suport d’obres literàries, filosòfiques i científiques, va tenir uns orígens molt modestos: les primeres mostres d’escriptura són, aproximadament, de l’any 3500 a. de C. i apareixen en petites peces de fang en que s’hi van escriure amb un punxó signes cuneïformes per deixar constància de contractes i vendes de terres i d’animals. Aquestes peces van ser trobades a milers en diverses localitzacions d’Accàdia i Sumèria, entre els rius Tigris i Eufrates, al sud-est del territori que avui és l’Iraq.
+
+FIGURA 8. Registre d’un lliurament d’ordi al temple de la ciutat d’Ur (de C.B.F. Walker, Cuneiform, Ed. Museu Britànic, p. 12)
+
+
+
+Sembla, doncs, que l’escriptura va néixer per un acte de la voluntat humana que cercava la permanència dels pactes verbals, i això ens porta de forma natural a considerar que les funcions primordials de l’escriptura són les de fixar les paraules dites (que són fugisseres) i la de constituir-se en auxiliar de la memòria. Des dels temps antics de Mesopotàmia fins als nostres dies, la primera d’aquestes dues funcions s’ha mantingut inalterada durant més de cinc mil·lennis, gràcies als avantatges evidents que suposa l’escriptura, capaç de vèncer el pas del temps i, a més, com a matèria que pot portar-se d’un lloc a l’altre i, doncs, apta per eliminar els entrebancs de l’espai. I pel que fa al suport de la memòria, factor indissolublement lligat a la funció de permanència, ha permès el manteniment dels records; es a dir, la historia de la col·lectivitat (la immensa majoria de tot el que sabem del passat ens ho ha llegat l’escriptura), i ha estat el vehicle privilegiat a través del qual s’han elaborat i han perviscut les grans obres del pensament, de les ciències i tècniques i de les arts literàries. Però en els orígens, l’escriptura, com a auxiliar de la memòria, va acomplir un paper també molt modest: va servir per fer llistats d’impostos (ja en els fangs mesopotàmics) i relacions de tota mena: calendaris amb els fets cabdals, genealogies, rutes geogràfiques, etc. (cfr. W. J. Ong, p. 100). Sense dubte, aquestes llistes van ser primer relacions orals, cantades o recitades; però aviat es van veure els avantatges d’una descarrega de la memòria conservant aquestes relacions de forma escrita.
+
+
+
+
+
+6.2. Tipus d escriptura: representacions conceptuals
+
+
+La representació escrita, que remet simbòlicament als objectes i esdeveniments de la realitat, es pot fer avui de maneres diverses i amb diferents graus d’arbitrarietat: un accident en que hi intervenen dos cotxes es pot dibuixar amb més o menys detall, de manera que n’obtindrem la representació icònica, però també el podem simbolitzar, amb un acord previ, d’aquesta altra forma:
+
+Δ X Δ
+
+En aquest cas, assignem a cada triangle el valor de «cotxe» i al signe «X» el de «col·lisió». En la historia de la escriptura, però, les diverses possibilitats de representació han hagut de recórrer un camí molt lent que va des de la figuració icònica a l’abstracció alfabètica: és per això que tot va començar amb els pictogrames (que cada cop es van simplificar més), va seguir amb l’escriptura sil·làbica (una primera revolució sorprenent) i el camí es va cloure amb la senzillesa màxima dels diversos sistemes d’escriptura alfabètica.
+
+Un pictograma és una representació icònica de la realitat, com ho pot ser un quadre. Però hi ha una diferencia molt important: el quadre no es pot «pronunciar» i, en canvi, el pictograma demana ser «pronunciat», provoca la seva lectura i, a més, desvetlla immediatament la cosa o idea que vol representar. Els pictogrames poden ser clarament realistes, com en el cas de molts dels jeroglífics egipcis i també poden ser el resultat d’una idealització, menys o més notòria; en aquest segon cas, els pictogrames només ens suggeriran els objectes i fins i tot caldrà un ensinistrament previ per descodificar-los, com es pot comprovar, progressivament, en el conjunt de jeroglífics egipcis següent:
+
+
+
+La simplificació dels pictogrames va ser, molt probablement, la conseqüència de dues necessitats: d’un costat, l’exigència d’una escriptura més ràpida; així, per exemple, nosaltres podríem dibuixar una copa de tres formes diferents, segons el temps que hi volguéssim dedicar:
+
+
+
+És clar que l’últim dels dibuixos recorda de lluny l’objecte representat i, vist en solitari, no seria interpretable sense un aprenentatge en els centres d’escriptura pictogràfica. D’altra banda, la desfiguració dels pictogrames va arribar de la ma de les diferents tècniques emprades: molt especialment del sistema d’incisions cuneïformes en fang que feia molt difícil el dibuix de figures curvilínies. Això provoca un canvi bastant radical que va allunyar aquestes figures de la realitat que representaven, com es pot veure en els exemples següents:
+
+
+
+Els pictogrames s’han desenvolupat en cultures molt diferents. El cas més conegut i divulgat és el de l’escriptura sagrada dels egipcis, els primers textos de la qual són anteriors a l’any 3.000 a. de C (aquesta escriptura es va emprar fins al 400 d. de C. i, per tant, abasta un període de tres mil·lennis i mig); però també en feren ús, a la seva manera, els antics xinesos, els maies i d’altres pobles. Sense anar, però, tan lluny, nosaltres mateixos fem servir tot de pictogrames, com en el cas d’alguns senyals de circulació o per designar els diferents esports olímpics.
+
+Els sistemes d’escriptura pictogràfica realista tenen un avantatge considerable: es poden interpretar d’un cop d’ull, independentment de la llengua del receptor. Però, exceptuant això, tot el que en resta són inconvenients: pel que fa als jeroglífics egipcis, hom n’ha comptat uns 6.000, cosa que en feia molt difícil l’aprenentatge i, de fet, el reservava per a una minoria (la casta dels escrivans). En aquesta dificultat hem de veure la causa d’una primera revolució (l’escriptura sil·làbica) que va ser motivada, sense dubte, per la idealització dels pictogrames a que ja hem fet referència.
+
+La desmotivació, la pèrdua de la semblança, és a l’origen dels ideogrames, Un ideograma és un element gràfic que, en la majoria dels casos, abans havia estat un pictograma; però que ara ja no es pot vincular amb cap element de la realitat perquè amb l’ús, s’ha anat simplificant fins a perdre els trets que el feien intel·ligible, com es pot comprovar amb les quatre parelles següents d’ideogrames xinesos:
+
+FIGURA 10. (De A. C. Moorhouse, p. 120)
+
+
+
+Com a norma general, els ideogrames corresponen a paraules i també es poden llegir amb independència de la llengua (pensem en les figures dels números aràbics 1, 2, 3,… que també són ideogrames i que es poden pronunciar segons les llengües diverses). És per això que a la Xina actual es manté aquest tipus d’escriptura que és intel·ligible tant pels parlants de Pequín com pels de Canton amb dialectes tan allunyats que, a la practica, són llengües diferents i mútuament incomprensibles des del punt de vista oral. Un altre cop, però, l’escriptura ideogràfica té molts problemes: un bon diccionari xinès conté uns 50.000 signes (que, òbviament, no es poden ordenar alfabèticament!, i, doncs, cal buscar-los-hi per ordre de complexitat creixent: primer els que són fets d’un tret…, fins a arribar als que són compostos de molts trets). Als deu anys, un alumne xinès ha de dominar uns 1.500 ideogrames, i un universitari no se’n podrà sortir amb menys de 6.000, cosa que representa un esforç molt considerable si tenim present, com a contrast, els poquíssim signes alfabètics.
+
+Els ideogrames, però, suposen un pas important en l’evolució de l’escriptura: com que es tracta de signes que han esdevingut convencionals i, doncs, deslligats de la realitat que representen, permeten dues operacions de gran transcendència en la historia de l’escriptura. D’un costat, poden servir per simbolitzar les paraules amb que al·ludim a les nocions abstractes («solidesa», «amistat», «honestedat»…), i per aquest camí s’eixamplen molt i molt les possibilitats de representació de la parla. D’altra banda, aquesta mena de signes queda lliure per simbolitzar qualsevol cosa: fins i tot (i això va suposar una primera revolució important) les articulacions mateixes de la parla.
+
+
+
+
+
+6.3. Tipus d’escriptura representacions lingüístiques
+
+
+Tant els pictogrames com els seus successors els ideogrames són signes que representen, en bloc i sense anàlisi, conceptes de coses, d’accions i de qualitats. I com que aquests conceptes es poden comptar per milers, també han de ser molt nombrosos els signes corresponents. Però algú o alguns, a Mesopotàmia, en algun moment de la historia, potser cap a mitjans del tercer mil·lenni, va tenir una idea genial i simplificadora: va considerar que uns pocs signes podien ser seleccionats no per representar conceptes, sinó grups d’articulacions fonètiques. Ho veurem amb uns exemples que ens recordaran els «jeroglífics» dels diaris i revistes. Fixem-nos-hi, en els dibuixos següents, associats a les paraules de sota:
+
+
+
+Cadascun d’aquests dibuixos és, de moment, un pictograma, com es pot comprovar per la semblança entre el signes i la realitat designada (sobretot en els dos primers, perquè el tercer és del tot convencional… tot i que la diferent posició de les notes en el pentagrama vol ser una icona de les altures diverses del to musical). Ara, però, els simplificarem per tal de convertir-los en ideogrames:
+
+
+
+I continuarem pronunciant-los, com abans, mà, pa i re, respectivament. A partir d’aquest moment, imaginem que a un escriva, tip perquè havia d’usar 5.000 signes d’aquesta mena, se li va encendre una llumeta i va veure que el primer, enlloc de representar una «ma», representava la síl·laba ma. Aquest signe, doncs, serviria ara per iniciar uns quants centenars de paraules. Més encara: combinant-los, i donant als altres dos els valors sil·làbics de pa i de re, l’escriva va obtenir paraules com les següents:
+
+
+
+Fet això, només calia que fes l’inventari de les síl·labes de la llengua i hi associés una figura a cadascuna: ara ja tenia a les seves mans un sil·labari. L’escriptura sil·làbica és, doncs, un sistema en que cada signe representa el grup fonètic anomenat «síl·laba», i el representa encara en bloc i sense tenir en compte que aquest grup pot estar format per una o més articulacions sonores. Els avantatges d’un sistema com aquest són evidents: com que el nombre de síl·labes en cada llengua és molt inferior al nombre de paraules que designen els objectes, accions i qualitats, ara només s’havien d’usar unes poques dotzenes de figures i no pas milers com abans (per exemple, en japonès hi ha la forma d’escriptura katakana que consta de 47 sil·labogrames bàsics).
+
+Sembla que el pas cap a l’escriptura sil·làbica ja es va donar a Mesopotàmia a mitjans del tercer mil·lenni, com s’ha dit abans, i una mica més tard al Sinaí i a Xipre; en cada cas com a derivació d’escriptures anteriors: del cuneïforme mesopotàmic es va originar el sil·labari elamita (amb poc més de 100 signes); dels jeroglífics egipcis, el sil·labari fenici (entre 22 i 30 signes) i dels ideogrames de Creta, el sil·labari xipriota (amb 56 signes) (Cfr. I. Gelb, pp. 161 i 215). És a partir del fenici, amb la seva reducció impressionant, que els grecs farien la resta: el pas definitiu cap a l’escriptura alfabètica.
+
+El principi ideal de l’escriptura alfabètica és el de la correspondència fonològica: un fonema, un signe gràfic; però en la realitat només els fonòlegs fan servir un instrument de representació (l’alfabet fonològic) que gaudeix d’aquest grau de precisió. A la practica, l’escriptura alfabètica presenta desequilibris com, per exemple, quan un fonema es representa amb diverses grafies (passa, piscina, caça…); també quan dues grafies corresponen a un únic fonema (queixa) i, encara més, quan una grafia (h) no té cap possibilitat de realització: els sistemes d’escriptura són conservadors, moltes vegades no planificats, i contenen adherències històriques, vacil·lacions i incongruències amb l’estat de la parla en un moment donat.
+
+L’anomenat «alfabet fenici», que va néixer a Palestina i Síria cap al 1.700 a. de C., només tenia signes per a les consonants, i és per això que alguns estudiosos (per exemple I. Gelb) l’han considerat més a prop de l’escriptura sil·làbica que no pas de alfabètica. Però, de fet, la concatenació de grafies exclusivament consonàntiques produeix l’efecte, a la practica, d’una escriptura quasi bé alfabètica, interpretable en la immensa majoria dels casos, com es pot veure a continuació:
+
+S PT LLGR FCLMNT N TXT SNS VCLS
+
+És però, l’escriptura grega la primera que de forma sistemàtica va incorporar signes per a les vocals, amb la qual cosa l’alfabet arriba al seu punt de perfecció.
+
+Va ser a l’entorn de l’any 1.000 a. de C. que els fenicis, gràcies a les colònies comercials que tenien establertes a la Mediterrània, van transmetre l’alfabet als grecs, i aquest llegat és fàcil de confirmar almenys per dues vies: n’és una la identitat dels noms dels signes (aleph > alpha, beth > beta, gimel > gamma, daleth > delta, etc.); d’altra banda, l’herencia és clara si tenim en compte la semblança evident de les formes:
+
+FIGURA 11. (De W. V. Davis. Egyptian Hieroglyphs. Ed. Museu Britànic, p. 60)
+
+
+
+Una comparació ens diu, ja a primer cop d’ull, que ens trobem davant d’un mateix sistema de representació i, en tot cas, les variacions són degudes al canvi d’orientació de l’escriptura, a les possibles característiques dels instruments emprats per escriure i a diferencies d’estil; no oblidem pas que avui mateix tenim diversos models per a una mateixa lletra:
+
+FIGURA 12. (De G. Blanchard. La letra. Barcelona, CEAC, p. 85)
+
+
+
+L’avantatge principal de l’escriptura alfabètica és evident: màxima economia de signes, la qual cosa en facilita molt l’aprenentatge. És per això, sense dubte, que aquest sistema d’escriptura va ser adoptat pels estruscos i d’aquests va passar als llatins i a tot de pobles d’Europa. Tanmateix, l’escriptura alfabètica també té els seus inconvenients, especialment dos d’importants que els sistemes pictogràfic i ideogràfic obviaven: un únic tipus d’escriptura alfabètica per a cada llengua amaga les diferencies dialectals; a més, la parla evoluciona i cal anar fent correccions si no es vol que l’ús oral i l’escrit es distanciïn excessivament (com passa avui en angles). Amb tot, l’economia de l’alfabet és un guany tan important que aquests dos desavantatges s’han de considerar com a insignificants.
+
+
+
+
+
+6.4. L’alfabet i l’analfabetisme
+
+
+S’ha dit sovint que l’escriptura és un doblatge o representació de la parla, una mena d’enregistrament visual d’allò que pronunciem. Cal, però, fer ara alguna precisió perquè ¿com podríem arribar a dibuixar les veus? Aquesta és una tasca literalment impossible, com ho serien les de cantar els perfums, ensumar la resistència d’una cadira o agafar amb els dits els sons d’una melodia. La realitat és que els sons de la parla s’emeten amb la veu, s’articulen amb moviments diversos i es perceben mitjançant l’aparell de l’oïda i, doncs, tenen una dimensió oral-auditiva; en canvi, l’escriptura és un afer graficovisual. En conseqüència, són dos de diferents els sentits implicats en cadascuna d’aquestes activitats, i és per això que les paraules escrites mai no podran representar, parlant de manera pròpia, les paraules dites. El vincle que uneix sons i grafies, doncs, només pot ser arbitrari: el fruit d’un pacte que cada nova generació haurà d’aprendre de forma explícita en les institucions encarregades de l’educació elemental.
+
+Per la seva extraordinària simplicitat i pel seu caràcter arbitrari, l’escriptura alfabètica és un instrument idoni per a la transcripció convencional de qualsevol de les llengües del món. L’alfabet llatí és emprat per la meitat de la humanitat, mentre que la resta fa servir alfabets diversos: el grec i el seu successor el ciríl·lic (rus, búlgar, ucraïnès i d’altres llengües eslaves), el devangari (hindi, nepalí, kaixmir, mahrati, bengalí i d’altres llengües de l’Índia), l’àrab i l’hebreu, amb un mateix origen, però que es van diversificar ja fa molt segles, etc.
+
+Amb tot, una bona part de la població mundial resta encara al marge de l’escriptura (alfabètica o no alfabètica), i o bé en desconeix els avantatges, o bé no ha pogut accedir-hi per una injusta distribució de les riqueses culturals que, en la majoria dels casos, és perfectament paral·lela a la injusta distribució de les riqueses econòmiques. Una ullada a les dades subministrades pels organismes internacionals (Cfr. J. Leclerc, p. 149 i T. De Mauro, pp. 14 i 15) ens diu que Somàlia, la zona nord del Iemen i Níger són estats en que s’ultrapassa el 90 % de població analfabeta; entre el 70 i el 80 % trobem Burkina-Fasso, Malí, Etiòpia, Txad, Guinea-Bissau, Gàmbia, Nepal, Pakistan, Angola, Marroc i d’altres. En el cantó oposat, Àustria, Holanda, Alemanya, Suïssa i uns quants més declaren haver eradicat l’analfabetisme. I s’hi acosten d’altres estats com USA (1 %), Japó (2 %), França i Bèlgica (tots dos amb el 3,3 %, aproximadament).
+
+Però el que és més punyent, des dels punts de vista humà i lingüístic, és comprovar l’evolució dels percentatges en la historia recent: cap als anys 20, Bèlgica tenia un 7,9 % d’analfabets, però uns seixanta anys més tard aquest percentatge s’havia reduït a poc més del 3 %. En el mateix lapse temporal, França baixava d’un 8,2 % a un 3,3, i Itàlia del d’un 28 % a un 6,1. Fins i tot Espanya va passar d’un 42,9 (any 1920) al 27,5 (1940) i al 9,8 (1980) (comparar A. C. Moorhouse, pp. 275-277 amb T. De Mauro, pp. 14 i 15). En contrast amb aquestes reduccions significatives, tot d’estats d’Asia i d’Àfrica continuen amb els seus altíssims percentatges d’analfabetisme pràcticament inalterats, i aquesta situació pel que fa a l’escriptura és una mena de termòmetre simbòlic que marca les grans desigualtats, els enormes greuges comparatius, que caracteritzen el panorama mundial avui dia.
+
+
+
+
+
+6.5. El futur de l’escriptura
+
+
+Hom repeteix que «una imatge val més que mil paraules», i potser això serà veritat per a alguns mitjans de comunicació i, sobretot, en el món de la publicitat. Aquesta sentencia, però, no conté cap veritat interessant, almenys per dos motius: primer, perquè els fabricants d’imatges han arribat allà on són gràcies a les paraules que els van constituir com a éssers humans; en segon lloc, una breu ullada a la historia de l’escriptura ja ens ha assabentat dels problemes de la pictografia i dels avantatges de la representació alfabètica de les paraules i del discurs. Les imatges poden produir impactes molt forts; però el raonament equilibrat, l’explicació dels estats d’ànim i dels sentiments, l’exposició científica, tenen encara en la paraula escrita el seu suport més perfeccionat i explícit.
+
+El món modern, a més, és inexplicable si no tenim en compte la gran troballa que Johannes G. Gutenberg va fer a mitjans del segle XV. La invenció de la impremta de tipus mòbils va permetre la generalització de la lectura, cosa que hauria estat impossible si hagués continuat el sistema d’escriptura manual. Gràcies també a la impremta l’alfabet ha conegut desenvolupaments d’una gran perfecció en els segles de l’època moderna, i encara avui els models de lletra més habituals en tota mena de publicacions són els creats per Aldo Manucio (finals del s. xv), Claude Garamond (s. XVI), John Baskerville i Giambattista Bodoni (s. XVIII), tots ells inspirants, directament o indirectament, en la lletra romana lapidaria, que són a la base del conegut model «Times». És curiós que, molt recentment, els sistemes d’impressió làser tinguin com a fita suprema d’aconseguir la perfecció i netedat de la millor lletra impresa.
+
+FIGURA 13. Tipus de lletra Garamond —o Garamont— (De G. Blanchard. La letra, p. 77)
+
+
+
+De tant en tant, però, hom ha vist fosc el futur de l’escriptura, en un món en que, cada cop més, sembla que vol dominar l’expressió visual i la comunicació automatitzada i estereotipada. Tanmateix, cal tenir present que les tècniques amb més futur i, en concret, la tecnologia electrònica, no pretenen, ni de bon tros, ensorrar l’escriptura, sinó tot el contrari: les millors tècniques i les més divulgades es posen avui al servei del tractament de textos, de la conservació de les informacions escrites en suport magnètic i, a més, es treballa de valent per aconseguir un diàleg entre els humans i les maquines que passa a través de les llengües naturals i de l’escriptura. D’altra banda, la comunicació i l’extensió de tot allò que sabem té en el llibre un suport ràpid, còmode, relativament econòmic i, sobretot, que es pot ajustar als diferents ritmes de lectura, a la repetició, a les pauses i a les acotacions personals. Així doncs, a falta d’un altre sistema de comunicació més ràpid, més efectiu i, sobretot, que pugui permetre l’expressió complexa dels discurs mental entre els humans, sembla que l’escriptura té assegurat el futur com a forma estable de representació de la parla.
+
+
+
+
+
+BIBLIOGRAFIA COMENTADA
+
+
+AKMAJIAN, Adrian i d’altres (1979). Lingüística: una introducción al lenguaje y la comunicación. Madrid, Alianza Universidad Textos, 1984.
+
+Manual excel·lent elaborat dins del marc de la gramàtica generativa i transformacional, concebut com a primera introducció a la Lingüística (amb exercicis després de cada capítol). Són especialment suggeridors els apartats dedicats a la comunicació animal (comparada amb la humana) i a la capacitat cerebral que fa possible el llenguatge.
+
+COMRIE, Bernard, editor (1987). The World’s Major Languages. London, Routledge.
+
+Obra col·lectiva en què especialistes diversos estudien 37 llengües, agrupades per famílies. De cada llengua, se’n dóna, primer, informació general i, a continuació, se’n descriuen amb especial cura els nivells fonològic, morfològic, sintàctic i lèxic. Com a mitjana, a cada llengua s’hi dediquen unes 30 pàgines.
+
+CRYSTAL, David (1987). The Cambridge Encyclopedia ol Language. Cambridge, Cambridge University Press.
+
+Obra fonamental de gran panoràmica que abasta pràcticament tots els aspectes relacionats amb el llenguatge: des dels relatius a l’estructura interna de les llengües fins als típicament interdisciplinaris, entre els quals hi destaquen els temes psicològics i socials. Ofereix també molta informació sobre les llengües del món.
+
+DE MAURO, Tullio (1980). Guía para el uso de la palabra. Barcelona, Eds. del Serbal, 1981.
+
+Assaig molt accessible i suggeridor sobre aspectes plurals del llenguatge vist com una facultat creativa i emmarcat dins l’àmbit general de la comunicació. S’hi dona especial importància a l’escriptura, a la varietat dels estils i a la producció del discurs.
+
+GELB, Ignace J. (1952). Historia de la escritura. Madrid, Alianza Universidad, 1976.
+
+Manual que ja és un clàssic imprescindible per a entendre els orígens de l’escriptura, la seva evolució i la diversitat de formes amb què les cultures humanes han fixat la seva memòria. L’autor manté la tesi (discutible) que l’alfabet, com a tal, és definitivament obra dels grecs. Il·lustracions abundants que permeten comprovar la varietat dels tipus d’escriptura en els diferents pobles del món.
+
+JUNYENT, Carme (1986). Les llengües d’Àfrica. Barcelona, Empúries.
+
+En la primera part, panoràmica molt documentada en què s’estudien les característiques internes de les llengües d’Àfrica i es presenten les temptatives diverses de classificació. En la segona part hi ha informació molt valuosa sobre els problemes polítics, socials i culturals que afecten aquestes llengües, sobretot els que deriven de les colonitzacions. L’autora lluita de valent contra tota mena de prejudici lingüístic.
+
+JUNYENT, Carme (I989). Les llengües del món. Barcelona, Empúries.
+
+Estudi escrit en to d’assaig personal i incisiu que té com a fita la classificació de les llengües del món. Amb tot, el més característic d’aquesta obra és la importància que s’hi dóna a les relacions entre llengües i cultures, i l’èmfasi en proclamar la igualtat entre les llengües i els drets de les comunitats lingüístiques.
+
+LECLERC, Jacques (1986). Langue et société. Laval, Mondia.
+
+Una veritable enciclopèdia sobre el panorama de les llengües del món fet des de la perspectiva sociolingüística. Informació abundant i actualitzada sobre els conflictes lingüístics i sobre política i planificació en diversos llocs del món.
+
+MALMBERG, Bertil (1966). La lengua y el hombre. Madrid, Istmo, 1970.
+
+Un llibre de divulgació que tracta de forma molt entenedora (i amb anècdotes constants) aspectes diversos del llenguatge: des de la dimensió més sistemàtica (so i significat), fins a problemes particulars relatius a l’aprenentatge, a la patologia i a la diversitat de llengües. Inclou un capítol breu sobre la qüestió irresoluble de l’origen del llenguatge.
+
+MOORHOUSE, A. C. (1953). Historia del alfabeto. Mèxic, Fondo de cultura econòmica, 1961.
+
+Estudi molt accessible sobre les diferents formes d’escriptura (amb moltes il·lustracions que guien constantment el lector). Especial atenció a les formes pre-alfabètiques i també als avantatges de l’escriptura fonològica i a la seva difusió.
+
+MORENO CABRERA, Juan Carlos (1990). Lenguas del mundo. Madrid, Visor.
+
+Obra de gran síntesi, molt actualitzada, que presenta el panorama dels cinc continents agrupant-hi les llengües en famílies. S’hi especifica, en cada cas, el nombre de parlants i s’hi inclouen observacions molt encertades sobre tot de llengües (orígens, transcendència cultural, tipus d’escriptura, etc.).
+
+ONG, Walter J. (1982). Oralidad y escritura. Tecnologias de la palabra. Mèxic, Fondo de cultura económica, 1987.
+
+Comparació brillant entre les característiques i condicions dels usos oral i escrit del llenguatge. S’hi dóna especial relleu a l’estudi del primer i s’investiga com l’escriptura ha pogut modificar les pràctiques orals. Imprescindible per entendre com funcionen les societats que, sense l’escriptura, han de lliurar a la memòria els fets del passat.
+
+SAPIR, Edward (1921). El llenguatge. Barcelona, Empúries, 1985.
+
+Un dels llibres cabdals de la Lingüística del segle XX, citat contínuament amb admiració. El llenguatge hi és concebut com un sistema simbòlic basat en el suport vocal-auditiu (l’escriptura és secundària). A més dels capítols centrats en els sistemes lingüístics (amb referències a unes cent llengües), n’hi ha un parell de molt brillants sobre les relacions entre llenguatge, cultura i literatura.
+
+TUSON, Jesús (1986). El luxe del llenguatge. Barcelona, Empúries.
+
+Assaig introductori sobre el aspectes unitaris del llenguatge humà i sobre la diversitat de les llengües i dels usos lingüístics (socials i dialectals). Els tres capítols finals versen sobre els orígens del llenguatge, sobre la producció poètica i sobre els prejudicis lingüístics.
+
+
+
+
+
+JESÚS TUSON i VALLS (València, 1939 - Barcelona, 2017) fou catedràtic de la Facultat de Filologia i professor de Lingüística a la Universitat de Barcelona durant quatre dècades, fins a la jubilació el 2009. La seva docència va abastar matèries com la Història de la Lingüística, la Semàntica, la Lingüística i Poètica i la Teoria i Història de l’Escriptura. És autor de diversos manuals sobre Lingüística i ha publicat, amb gran èxit entre els lectors, llibres d’assaig sobre diversos aspectes del llenguatge i de la comunicació humana, entre els quals: El luxe del llenguatge (1986), Mal de llengües (1988), Històries naturals de la paraula (1998), ¿Com és que ens entenem? (1999), Una imatge no val més que mil paraules (2001), Patrimoni Natural (2004), Lletres sobre lletres (2006), Això és (i no és) Allò (2008), Paraules en la corda fluixa (2009) i Quinze lliçons sobre el llenguatge (i algunes sortides de to) (2011).
+
+
+
+
+
+Notes
+
+
+[1] Aquí s’equivoca l’autor. Tochter en alemany és «filla». «Fill» es diu Sohn. (N. de l’Ed.) [Torna]
+
+
+
+[2] Més pròpiament piatră, viață i roată. (N. de l’Ed.) [Torna]
+
+
+
+
+

@@ -1,0 +1,1043 @@
+En aquesta narració breu es fa palesa la mestria de Tolkien tant pel que fa als personatges i situacions com en el toc distintiu i en la ironia desencisada en què observa i critica el món contemporani.
+
+L’enaltiment d’en Gil, l’humil pagès de Ham, davant els poderosos, la murrieria del drac Crisòfilax, la gràcia del gos Gram, són els elements de què Tolkien es val per defensar un model de societat casolana, amable, somiadora i positivament utòpica que meravellarà el lector.
+
+
+
+
+
+J. R. R. Tolkien
+
+
+
+
+
+Gil, el pagès de Ham
+
+
+
+
+ePUB v2.0
+
+Raticulina 22.03.15
+
+
+
+
+
+Títol original: Farmer Giles of Ham
+
+J. R. R. Tolkien, 1949
+
+Traducció: Carles Llorach, 1995
+
+Il·lustracions: Pauline Baynes
+
+Il·lustració de portada: Fragment de Sant Jordi i el drac de Paolo Uccello (s. XV)
+
+Edició digital: Raticulina (v1.0)
+
+Segona edició: EpubCat (v2.0)
+
+Digitalització: Raticulina
+
+ePUBCat base r1.3
+
+
+
+
+
+A C.A. Wilkinson
+
+
+
+
+
+PREFACI
+
+
+De la història del Regne Petit n’han sobreviscut pocs fragments; per sort, però, n’ha estat conservada una relació del seu origen: potser una llegenda, més que no pas una relació; ja que, evidentment, es tracta d’una compilació posterior, plena de prodigis, derivada no dels annals sobris, sinó de les cançons populars a les quals l’autor fa sovint referència. Per a ell, els esdeveniments que registra ja formen part d’un passat llunyà; tot i que sembla, nogensmenys, que ell mateix va viure a les terres del Regne Petit. Els coneixements geogràfics que demostra (i que no són el seu punt fort) són d’aquell país, mentre que ignora totalment les regions que en queden fora, siguin al nord o a l’oest.
+
+Una excusa per presentar la traducció del llatí molt insular d’aquest curiós conte a la llengua moderna del Regne Unit, podria ser el testimoni que aporta sobre la vida en un període fosc de la història de Bretanya, per no esmentar la llum que proporciona als orígens d’alguns topònims envitricollats. Algú potser trobarà que el personatge i les seves aventures heroiques són atractius per si mateixos.
+
+Els límits del Regne Petit, tant pel que fa al temps com a l’espai, no són fàcils de determinar ja que les evidències són migrades. D’ençà que Brutus arribà a Bretanya s’han proclamat i han desaparegut molts de reis i reialmes. La divisió sota Locrin, Camber i Albanac, només va ser la primera de moltes divisions diferents. Ja que, tal i com ens diuen els historiadors del regnat d’Artús, amb l’amor per una minsa independència en una mà i la cobdícia dels reis per expandir els reialmes en l’altra, els anys van anar plens d’alternances sobtades de guerra i de pau, de joia i d’aflicció; va ser un temps de fronteres inestables, en què els homes podien encimbellar-se o enfonsar-se de cop i els trobadors gaudien de material abundant i d’un públic devot. Els esdeveniments aquí relatats els hem de situar en algun moment durant aquells anys llarguíssims, potser després dels dies del rei Coel, però abans d’Artús o de l’Heptarquia anglesa; i n’és llur escenari la vall del Tàmesi, amb una incursió al nord-est, cap als límits del País de Gal·les.
+
+La capital del Regne Petit es trobava, evidentment, on és l’actual, a l’extrem sud-est, però els seus confins són vagues. Sembla que cap a l’oest, Tàmesi amunt, mai no va arribar gaire lluny, ni tampoc no ho va fer més al nord d’Otmoor; i els seus límits a l’est són dubtosos. En una llegenda fragmentària d’en Georgius, fill d’en Gil, i del seu patge Suovetaurilius (en Suet) hi ha indicis que en algun moment hom va mantenir un destacament contra el Regne Mitjà a Farthingo. Aquella situació, però, no té res a veure amb aquesta història, que ara presentem sense alteracions ni més comentaris, per bé que el títol original i ampul·lós hagi estat convenientment reduït a Gil, el pagès de Ham.
+
+
+
+
+
+GIL, EL PAGÈS DE HAM
+
+
+Ægidii Ahenobarbi Julii Agricole
+
+de Hammo
+
+Domini de Domito
+
+Aule Draconarie Comitis
+
+Regni Minimi Regis et Basilei
+
+mira facinora et mirabilis exortus
+
+
+
+o en llengua vulgar
+
+L’ascens i les aventures meravelloses del pagès en Gil, Senyor de l’Amansit, Comte de Cal Llangardaix i Rei del Regne Petit
+
+
+
+
+
+ÆGIDIUS DE HAMMO era un home que vivia a les regions més centrals de l’illa de Bretanya. El seu nom complet era Ægidius Ahenobarbus Julius Agrícola de Hammo; perquè en aquella època, ara ja fa molt de temps, quan aquesta illa encara estava feliçment dividida en molts regnes, la gent posseïa un bé de déu de noms. Llavors hi havia més temps, i eren més pocs habitants, de manera que eren molts els homes distingits. Sigui com sigui, ara aquells dies ja han passat, per la qual cosa, en endavant, donaré a l’home el seu nom abreujat i en la forma vulgar: era en Gil, pagès de Ham, i tenia la barba roja. Ham era tan sols un poblet, però en aquella època els poblets encara eren orgullosos i independents.
+
+En Gil, el pagès, tenia un gos. El nom del gos era Garm. Els gossos havien d’acontentar-se amb noms curts en la llengua vernacla: el llatí llibresc estava reservat als seus amos. El Garm ni tan sols no sabia expressar-se en llatí gossenc, però podia emprar la llengua vulgar (com la majoria dels gossos del seu temps) per amenaçar-hi, per pinxejar-hi o per afalagar-hi. Amenaçar era per als captaires i intrusos, pinxejar per a d’altres gossos, i afalagar per al seu amo. El Garm se sentia a la vegada orgullós i temerós d’en Gil, que podia amenaçar o pinxejar millor que ell.
+
+Aquella no era pas una època de presses o corredisses. I les corredisses tenien poc a veure amb la feina. Els homes feien la feina sense pressa; i acomplien una quantitat de feina considerable i, al mateix temps, xerraven força. Hi havia molta xerrera ja que molt sovint es produïen esdeveniments memorables. De fet, però, en el moment en què s’inicia aquest conte, a Ham, no hi havia passat res de memorable des de feia molt de temps. La qual cosa, al pagès en Gil, li venia com anell al dit: era una persona lenta de mena, molt arrelat als seus costums i capficat pels seus propis assumptes. Ja en tenia ben bé prou (deia) amb mantenir el llop a ratlla: és a dir, conservant-se tan gras i confortable com ho havia estat el seu pare. El gos tenia feina a ajudar-lo. Cap dels dos no s’amoïnava gaire per l’Ample Món més enllà dels seus camps, del poble i del mercat més proper.
+
+
+
+L’Ample Món, però, era allí. El bosc no quedava massa lluny i, més enllà, a l’oest i al nord, hi havia els Turons Feréstecs i les comarques inquietants del país muntanyenc. I, entre d’altres coses, encara existien gegants que se les campaven: gent maleducada i inculta i, de vegades, empipadora. En particular hi havia un gegant més gros i més estúpid que els seus companys. El seu nom no l’he trobat mencionat a les històries, però tant se val. Era molt gros, tenia un bastó com un arbre i petjades feixugues. Apartava els oms a banda i banda, com herbes altes; i era la ruïna de les carreteres i la desolació dels horts, perquè els seus peuarros hi feien forats fondos com pous; si ensopegava amb una casa, ja l’havíeu vista prou. I tot aquest mal el feia arreu on anés perquè tenia el cap molt per damunt les teulades de les cases i deixava que els peus li anessin pel seu compte. Era curt de vista i també força sord. Afortunadament vivia força lluny, als Turons Feréstecs, i rarament visitava les terres habitades pels homes, com a mínim no de manera intencionada. Tenia una gran casa mig enrunada allà dalt a les muntanyes; però tenia molt pocs amics a causa de la seva sordera, de la seva estupidesa i de l’escassedat de gegants. Solia sortir a passejar pels Turons Feréstecs i per les regions deshabitades als peus de les muntanyes, sempre tot sol.
+
+
+
+Un bon dia d’estiu aquest gegant va sortir a passejar i deambulà sense nord, causant moltes malvestats als boscos. De cop va adonar-se que el sol ja es ponia i advertí que s’acostava l’hora de sopar; però descobrí que havia anat a parar a un indret del país que no coneixia de res i que s’havia perdut. En intentar endevinar la direcció correcta s’equivocà i, camina que caminaràs, no va parar fins que va ser negra nit. Llavors es va asseure i esperà que sortís la lluna. Després va caminar i caminar a la llum de la lluna, afanyant-se a grans gambades, perquè tenia neguit d’arribar a casa. Havia deixat la millor olla d’aram al foc i tenia por que no se li socarrimés del fons. Però com que caminava d’esquena a les muntanyes ja es trobava a les terres habitades pels homes. A dir veritat, ara s’estava acostant a la masia d’Ægidius Ahenobarbus Julius Agricola i al poble anomenat (en llengua vulgar) Ham.
+
+Feia una nit serena. Les vaques eren als prats i el gos d’en Gil, el pagès, havia sortit i havia anat a fer un tomb pel seu compte. La seva flaca era la llum de la lluna, i els conills. No tenia ni idea, és clar, que també hi havia un gegant que es passejava. Aquesta hauria estat una bona raó per sortir sense permís, però una raó encara millor per estar-se quiet a la cuina. Pels volts de les dues el gegant va arribar als camps d’en Gil, el pagès, en va trencar les tanques, va trepitjar la collita i va aixafar l’herba a punt de segar. En cinc minuts va haver fet més mal que no hauria fet la cacera reial de la guineu en cinc dies.
+
+El Garm va sentir un patim-patam que s’acostava per la vora del riu i va córrer cap a la banda de ponent del turonet on hi havia la masia, simplement per veure què passava. Tot d’una va veure el gegant que gambava de dret per damunt el riu i que trepitjava la Galatea, la vaca preferida del pagès, esclafant la pobra bèstia tan plana com el pagès hauria esclafat un escarabat.
+
+
+
+Amb allò, el Garm, en va tenir prou i massa. Va deixar escapar un esgarip de por i va volar cap a casa. Oblidant totalment que era fora sense permís, va anar a bordar i a glapir sota la finestra de l’habitació del seu amo. Durant una bona estona no hi va haver resposta. No era fàcil de despertar, en Gil.
+
+—Socors!, socors!, socors! —cridava el Garm.
+
+La finestra s’obrí d’una bursada i en va sortir volant una ampolla disparada amb bona punteria.
+
+—Bufa! —va fer el gos apartant-se’n amb la perícia de qui hi està avesat—. Socors!, socors!, socors!
+
+
+
+El pagès va treure el cap.
+
+—Dimonis de gos! Què és aquest enrenou? —va dir.
+
+—No res —contestà el gos.
+
+—Ja et daré jo no res! Demà al matí et faré la pell —va dir el pagès tot estampint la finestra.
+
+—Socors!, socors!, socors! —continuava cridant el gos.
+
+En Gil va tornar a treure el cap.
+
+—Et mataré, si et torno a sentir —va dir—. Què et passa ara, guillat?
+
+—No res —va fer el gos—, però a tu sí que te’n passarà una de grossa.
+
+—Què vols dir? —va preguntar en Gil, sorprès de ple en la seva ràbia. El Garm mai dels mais no les hi havia clavades de tan fresques.
+
+—Hi ha un gegant als teus camps, un gegant enorme; i ve cap aquí —va dir el gos—. Ai!, ai! T’està trepitjant els xais. Ha esclafat la pobra Galatea i l’ha deixada plana com una estora. Socors!, socors! Està esbotzant les tanques i t’està aixafant totes les collites. Has de ser valent i llest, amo, o aviat no en quedara res. Socors! —començà a udolar el Garm.
+
+—Calla! —va fer el pagès, i tancà la finestra—. Vatua a déu! —va dir-se i, encara que la nit era càlida, va tremolar i sentí una esgarrifança.
+
+—Torna-te’n al llit i no siguis ximple! —li va dir la dona—. I, al matí, ofega el gos. No sé perquè has de creure el que diuen els gossos; quan els enxampes fent el gandul o pispant sempre et vénen amb històries.
+
+—Potser sí, Àgata —va dir ell—, i potser no. Però, o als meus camps hi passa alguna cosa, o el Garm és un conill. Aquest gos estava espantat. Per què havia de venir a fer esgarips de nit si podia haver-se escapolit a dins de casa per la porta del darrere quan porten la llet al matí?
+
+—No t’estiguis aquí discutint! —el va interrompre ella—. Si creus el gos, llavors fes-li cas: sigues valent i ràpid.
+
+—Aviat està dit, això —va respondre en Gil, ja que, en efecte, gairebé es creia la meitat de la història del Garm. A altes hores de la nit els gegants semblen menys inversemblants.
+
+Tanmateix la propietat és la propietat, i en Gil, el pagès, tenia un mètode expeditiu amb els intrusos i eren pocs els qui gosaven plantar-li cara. Així doncs, es va posar els calçons, va baixar a la cuina, i despenjà el trabuc de la paret. Algú podria preguntar-se, amb raó, què és un trabuc. En efecte, aquesta mateixa pregunta, segons diuen, va ser formulada als quatre savis d’Oxenford que, després de rumiar-s’hi, van respondre: «Trabuc: escopeta curta de gran calibre que dispara moltes bales o perdigons, capaç de tenir efectes mortífers a curta distància i sense apuntar massa. (En l’actualitat desplaçat, als països civilitzats, per altres armes de foc)».
+
+Sigui com sigui, el trabuc d’en Gil, el pagès, tenia una boca acampanada que s’obria com un corn i no solament disparava bales o perdigons sinó qualsevol cosa que tingués a l’abast per omplir-lo. I si no tenia efectes mortífers era perquè amb prou feines el carregava i mai no el disparava. Normalment, per als seus propòsits, en tenia prou amb ensenyar-lo. I el país no devia ser del tot civilitzat car el trabuc encara no havia estat desplaçat: era, en efecte, l’única mena d’escopeta que existia i, tot i així, no massa habitual. La gent s’estimava més els arcs i les fletxes i feia servir la pólvora principalment per als focs artificials.
+
+
+
+Així doncs, el pagès en Gil va despenjar el trabuc i hi va entaforar una bona càrrega de pólvora, només per si calia recórrer a mesures extremes, i per la boca acampanada el va carregar de claus vells i trossos de filferro, bocins de cassoles trencades, ossos i pedres i altres deixalles. Després es va posar les botes altes i el gec, i va sortir bo i travessant l’hortet que hi havia al costat de la cuina.
+
+
+
+Tenia la lluna al darrere, baixa, i no va ser capaç de distingir res més terrorífic que les ombres allargassades i negroses dels matolls i dels arbres; però sentia un patim-patam espaventós que pujava pel vessant del turó. Digués el que digués l’Àgata, no se sentia ni valent ni ràpid; les seves propietats, malgrat tot, el preocupaven més que no pas la seva pell. De manera que, tot i adonar-se que li ballava el cinturó, es dirigí caminant cap al coster del pujol.
+
+El rostre del gegant, lívid sota la claror de la lluna que li llambrejava als ulls rodons i grossos, aparegué tot d’una per damunt la carena. Encara tenia els peus molt més avall, fent forats als conreus. La lluna enlluernà el gegant i aquest no va veure el pagès; però en Gil, el pagès, sí que el va veure i, de l’esgarrifança, per poc que es mor de por. Va prémer el gallet sense adonar-se’n i el trabuc es disparà amb un espetec esbalaïdor. Per sort el tenia apuntant, pam més pam menys, a la cara enorme i lletjota del gegant. Les deixalles van sortir disparades, amb les pedres i els ossos, i els trossos de terrissa i el filferro i mitja dotzena de claus. I com que realment no era a massa distància, molts d’aquests objectes, no pas per voluntat del pagès sinó per pur atzar, van encertar la cara del gegant i un clau considerable se li clavà al nas.
+
+—Fúmer! —va dir el gegant amb el seu capteniment vulgar—. M’han picat! —El soroll no li havia causat cap mena d’impressió (era una mica dur d’oïda), però el clau no li agradà gens ni mica. Feia molt de temps que no s’havia topat amb cap insecte prou valent per travessar-li la pell gruixuda, encara que havia sentit a dir que molt lluny, cap a l’est, als aiguamolls, hi havia uns espiadimonis que feien unes picades que eren com tenalles roents. Va pensar que devia haver ensopegat amb alguna cosa similar.
+
+—Uns topants ben repugnants i poc saludables, n’estic segur! —va dir—. No cal que continuï més enllà, aquesta nit.
+
+De forma que engrapà un parell d’ovelles del coster, per cruspir-se-les quan arribés a casa, i tornà a creuar de l’altre costat del riu seguint la direcció nord-nord-oest a grans gambades. I, a la fi, tornà a trobar el camí de casa, perquè ara avançava en la bona direcció; però el que hi havia al fons de la seva olla d’aram ja s’havia socarrimat.
+
+Pel que fa al pobre Gil, el pagès, en disparar-se el trabuc, havia caigut estès de cul a terra, i allí romangué, contemplant el firmament i preguntant-se si els peus del gegant l’enxamparien o no quan li passessin pel costat. Però no va passar res, i el patim-patam s’afeblí en la llunyania. De manera que va alçar-se, es fregà l’espatlla i recollí el trabuc. Llavors, de cop i volta, sentí la cridòria de la gent que victorejava.
+
+La majoria de la gent de Ham havia estat guaitant per les finestres i uns pocs s’havien vestit i havien sortit (després que el gegant se n’hagués anat). Ara, n’hi havia alguns que corrien turó amunt, tot cridant.
+
+Els vilatans havien sentit el patim-patam horrible de les petjades del gegant i, immediatament, la majoria s’havia colgat sota les flassades, i alguns fins i tot sota el llit. El Garm, però, se sentia a l’ensems orgullós i espantat del seu amo. Creia que, quan estava enfadat, era esfereïdor i meravellós i, naturalment, va decidir que qualsevol gegant havia de pensar el mateix. De manera que, tan bon punt com va veure sortir en Gil amb el trabuc (signe, per regla general, de grandíssima còlera), va córrer cap al poble, tot bordant i cridant:
+
+—Sortiu!, sortiu!, sortiu! Alceu-vos!, alceu-vos! Veniu a veure el meu gran amo! És valent i ràpid. És a punt de disparar contra un gegant que ha entrat a les seves terres. Sortiu!
+
+El cim del turó podia ser vist des de la majoria de cases. Quan la gent i el gos van albirar la cara del gegant que apareixia per damunt la carena, es van acoquinar i se’ls va tallar l’alè, i tots, llevat del gos, van pensar que aquell seria un os massa dur de rosegar per a en Gil. Aleshores el trabuc va fer patapam i el gegant va girar cua tot d’un plegat i se’n va anar, de forma que, totalment astorats i contentíssims, es van posar a aplaudir i a cridar visques, i el Garm va bordar fins a perdre el món de vista.
+
+
+
+—Hurra! —cridaven—. Així n’aprendrà! El mestre Ægidius li ha donat el que es mereixia. Ara se’n tornarà a casa i morirà, s’ho té ben guanyat i amb escreix.
+
+Després tots van tornar a victorejar-lo, però, fins i tot mentre cridaven els visques, i pel compte que els tenia, van prendre bona nota que, tot comptat i debatut, el trabuc podia disparar de debò. A aquest respecte, s’havien produït algunes discussions a les tavernes del poble; ara, però, la qüestió quedava aclarida. Després d’això, en Gil, el pagès, ja gairebé mai més no va tenir problemes amb els intrusos.
+
+Quan tot va semblar segur, alguns dels més valents van dirigir-se directament al cim del turó i van encaixar-la amb en Gil. Uns quants —el rector, el ferrer i el moliner, i una o dues persones més d’importància— van tustar-li l’esquena. Això no li agradà gaire (tenia l’espatlla molt adolorida), però se sentí obligat a convidar-los a casa seva. Van seure a la cuina i van beure a la seva salut i el van lloar en veu alta. En Gil no va fer cap esforç per ocultar els seus badalls, però mentre hi hagué de beure no en van fer cas. Quan hagueren pres una o dues begudes (i ell dues o tres), en Gil començà a sentir-se força valent; quan n’hagueren pres dues o tres (i ell cinc o sis), es va sentir tan valent com el seu gos el creia. Es van separar molt amics i els va tustar l’esquena de tot cor. Tenia les mans grosses, vermelles i molt gruixudes; de manera que va ser una bona revenja.
+
+
+
+L’endemà va descobrir que la tafaneria havia engrandit l’esdeveniment i que s’havia convertit en una figura local important. A mitjan de la setmana següent, la notícia havia arribat a tots els pobles en un redol de vint milles. S’havia convertit en l’Heroi de la Comarca. Ho va trobar molt agradable. El primer dia de mercat va aconseguir beure tant de franc que hi hauria pogut fer surar una barca: és a dir, va beure fins gairebé quedar-ne tip, i tornà a casa cantant velles cançons heroiques.
+
+A la fi, fins i tot el rei se n’assabentà. La capital del reialme, el Regne Mitjà de l’illa en aquells dies feliços, era a unes vint llegües de Ham i, habitualment, la cort feia poc cas dels fets dels aixafaterrossos de les províncies. Però l’expulsió tan expeditiva d’un gegant tan perjudicial semblava mereixedora d’una nota i d’alguna petita cortesia. Per això, al moment oportú —és a dir, transcorreguts uns bons tres mesos i per la festa de Sant Miquel—, el rei va enviar-li una carta magnífica. Era escrita en vermell damunt pergamí blanc i s’hi expressava l’aprovació reial al «nostre súbdit lleial i benvolgut Ægidius Ahenobarbus Julius Agricola de Hammo».
+
+
+
+La carta era firmada amb un gargot vermell, però l’escrivent de la cort hi havia afegit:
+
+Ego Augustus Bonidacius Ambrosius
+
+Aurelianus Antoninus Pius et Magnificus,
+
+dux rex, tirannus, et Basileus
+
+Mediterranearum Partium, subscribo;
+
+
+
+i duia enganxat un gran segell. De forma que el document era absolutament genuí. La carta proporcionà gran plaer a en Gil i fou molt admirada, en especial quan hom va descobrir que es podia seure i beure a la vora del foc del pagès només amb demanar-li per veure-la.
+
+
+
+Millor que el document era el present que l’acompanyava. El rei enviava un cinturó i una espasa llarga. A dir veritat, el rei no l’havia usada mai. Pertanyia a la seva família i havia estat penjada a la seva armeria des de temps immemorials. L’armer no sabia dir com hi havia anat a parar ni quin podia ser el seu servei.
+
+Les espases senzilles i pesants d’aquella mena, aleshores, no estaven de moda a la cort, així que el rei va pensar que la cosa era d’allò més adient com a regal per a un pagerol. Però en Gil, el pagès, n’estava encantat, i la seva reputació local arribà a ser enorme.
+
+En Gil fruïa moltíssim del tomb dels esdeveniments. I el seu gos també. Mai no havia rebut la fuetejada promesa. En Gil era un home just ateses les seves capacitats i, al seu cor, atribuïa bona part del mèrit al Garm, encara que mai no arribà a dir-ho. Quan en tenia ganes continuava llançant paraules dures i objectes durs al gos, però feia els ulls grossos a moltes de les seves escapadetes. El Garm s’havia acostumat a passejar pels camps fins molt lluny. El pagès anava amb el cap alt i la sort li somreia. La feina de la tardor i de principis d’hivern anà bé. Tot semblava rutllar com una seda… fins que arribà el drac.
+
+
+
+A l’illa, en aquella època, els dracs començaven a escassejar. Feia molts anys que al reialme de les terres mitjanes d’Augustus Bonifacius no se n’havia vist cap. Hi havia, és clar, cap a l’oest i cap al nord, les comarques inquietants i les muntanyes deshabitades, però eren a molta distància. En aquelles contrades, temps era temps, hi havia viscut cert nombre de dracs d’una mena o d’una altra que havien fet incursions tot al llarg i ample del país. En aquella època, però, el Regne Mitjà era famós pel coratge dels cavallers del rei i eren tants els dracs errívols que havien estat morts o que se n’havien tornat greument ferits, que els altres deixaren de recórrer aquells camins.
+
+Encara hi havia costum de servir «Cua de drac» al festí nadalenc del rei, i cada any hom triava un cavaller que complia amb el deure de sortir de cacera. Suposadament s’havia de posar en camí el dia de Sant Nicolau i havia de tornar amb la cua del drac, com a molt tard, la vigília de la festa. Però ja feia molts anys que el cuiner reial feia una creació meravellosa: una falsa «Cua de drac» de pa de pessic i pasta d’ametlles, amb escates artificioses i dures de sucre de llustre. Llavors, la vetlla de Nadal, mentre tocaven els violins i sonaven les trompetes, el cavaller elegit la portava fins al vestíbul. La falsa «Cua de drac» es menjava després del sopar de Nadal i tothom deia (per fer content el cuiner) que era molt més saborosa que la cua de debò.
+
+
+
+Aquesta era la situació quan va tornar a aparèixer un drac de debò. El gegant hi tenia molta part de culpa. Després de la seva aventura, s’acostumà a rondar per les muntanyes, tot visitant la parentela que hi tenia escampada més del que havia tingut per costum i molt més del que a aquests els agradava. Sempre feia per tal que li prestessin una olla gran d’aram. Però, tant si aconseguia el préstec com si no, s’asseia i xerrava de la seva manera sinuosa, pesada i avorrida sobre l’excel·lent país que hi havia avall, cap a l’est, i sobre totes les meravelles de l’Ample Món. S’havia ficat al cap que era un viatger considerable i decidit.
+
+—Una terra bonica —deia—, força plana, tova als peus i amb tot el menjar que vulgueu abastar: ja sabeu, vaques i ovelles pertot arreu, i fàcils de veure si us hi fixeu una mica.
+
+—Però, i de la gent, què? —deien.
+
+—Mai no vaig veure’n —responia—. No s’hi veia ni s’hi sentia ni un sol cavaller, estimats amics. La cosa pitjor són quatre tàvecs que piquen a la vora del riu.
+
+—Per què no te n’hi tornes i t’hi quedes? —li deien.
+
+—Oh, ves, enlloc com a casa, que se sol dir —responia—. Potser hi torni, si un dia faig un cop de cap. I, a més, ja hi he estat una vegada, que és molt més del que la majoria podeu dir. Ep, i què me’n dieu, d’això de l’olla d’aram?
+
+—I aqueixes terres riques —s’afanyaven a preguntar—, aqueixes regions agradoses plenes de bestiar indefens, cap a on cauen? Són gaire lluny?
+
+—Oh —responia—, lluny, cap a l’est o cap al sud-est. Però és un viatge llarg. —I llavors feia una relació tan exagerada de la distància que havia caminat, i dels boscos, turons i planes que havia travessat, que cap dels altres gegants, que no eren tan cama-llargs com ell, mai no va emprendre la marxa. Malgrat tot, la història s’anà escampant.
+
+Després, l’estiu càlid va ser seguit per un dur hivern. A les muntanyes hi feia un fred que pelava i el menjar anava escàs. La història començava a desorbitar-se. Hom discutia molt de les ovelles de la plana i de les vaques dels prats ufanosos. Els dracs paraven l’orella. Estaven afamegats i aquelles enraonaries eren atraients.
+
+—De manera que això dels cavallers són romanços! —deien els dracs mes joves i menys experimentats—. Sempre ens ho havíem imaginat.
+
+—Si més no, sembla que escassegen —pensaven els llangardaixos més vells i assenyats—. Són quatre gats i estan escampats: no cal témer-los.
+
+
+
+Un dels dracs se sentí profundament commogut. El seu nom era Crisòfilax Dives, perquè pertanyia a un llinatge antic i imperial, i era molt ric. Era astut, tafaner, golafre i estava ben cuirassat, però la valentia no era el seu punt fort. Sigui com sigui, no tenia gens de por a les mosques ni als insectes, qualsevol que fos llur mena o grandària; i estava mortalment afamegat.
+
+Així doncs, un dia d’hivern, si fa no fa una setmana abans de Nadal, en Crisòfilax va estendre les ales i emprengué el vol. Va aterrar silenciosament al mig de la negra nit, al cor mateix del reialme mitjà d’Augustus Bonifacius rex et basileus. Va causar molts estralls en poca estona, aixafant i socarrant, i devorant ovelles, vaques i cavalls.
+
+Això s’esdevenia en una part del país força allunyada de Ham, però el Garm es va dur l’ensurt més gros de la seva vida. Se n’havia anat a fer una gran excursió i, bo i aprofitant la consideració del seu amo, s’havia aventurat a passar una o dues nits fora de casa. Seguia una flaire captivadora al llarg dels ràfecs d’un bosc quan, en tombar un revolt, va topar-se de sobte amb una olor nova i alarmant; en efecte, havia ensopegat amb la cua d’en Crisòfilax Dives, que acabava d’aterrar. Mai cap gos no ha girat cua i ha sortit disparat cap a casa més ràpid que el Garm. El drac, en sentir el seu udol, va girar-se i esbufegà, però el Garm ja era totalment fora del seu abast. Va córrer durant la resta de la nit i va arribar a casa als volts de l’hora d’esmorzar.
+
+—Socors!, socors!, socors! —cridà, plantat a la part de fora de la porta del darrere.
+
+En Gil ho va sentir i li va fer mala espina. Li recordà que, quan tot sembla lliscar com una seda, poden ocórrer coses inesperades.
+
+—Dona, deixa entrar aquest diantre de gos —va dir— i clava-li canya.
+
+El Garm va entrar agemolit cap a la cuina, amb els ulls esbatanats i la llengua que li penjava.
+
+—Socors! —va cridar.
+
+—Vejam, quina una n’has fet, aquest cop? —va preguntar en Gil, tirant-li una botifarra.
+
+—No he fet res —va esbufegar el Garm, massa congestionat per parar esment a la botifarra.
+
+—Prou, para de fer això o t’arrenco la pell a tires —va dir el pagès.
+
+—No he fet res de dolent. No ho he fet pas amb mala intenció —va dir el gos—. Però m’he topat amb un drac per pura casualitat, i m’ha espantat.
+
+El pagès s’ennuegà amb la cervesa.
+
+—Un drac? —va dir—. Diable de gos inútil que només és bo per tafanejar! Es pot saber per quins set sous volies anar a buscar un drac, en aquesta època de l’any, i jo carregat de feina? On era?
+
+—Oh! Cap al nord, de l’altra banda de les muntanyes i encara més enllà, després de les Pedres Dretes i tot —va explicar el gos.
+
+—Bufa, que lluny! —exclamà en Gil, enormement alleujat—. Segons he sentit a dir, són gent estrambòtica, per aquells verals, i hi pot passar qualsevol cosa. Deixem-los que se’n desempatollin! I no vinguis a atabalar-me amb històries com aquesta! Passa fora!
+
+
+
+El Garm sortí a fora i va escampar la notícia per tot el poble. I no s’oblidà de dir que el seu amo no s’havia espantat gens ni mica.
+
+—Molt tranquil, estava, i ha continuat esmorzant.
+
+La gent ho comentava divertida als portals.
+
+—Com en els vells temps! —deien—. I precisament quan s’acosta Nadal, a més. Molt oportú. El rei sí que n’estarà content! Podrà menjar cua de debò, aquest Nadal.
+
+L’endemà, però, van arribar més notícies. El drac, pel que semblava, era extraordinàriament gros i ferotge. Estava causant grans estralls.
+
+—I dels cavallers del rei, què? —va començar a dir la gent.
+
+D’altres ja havien preguntat el mateix. En efecte, els missatgers dels pobles més afectats per en Crisòfilax ja havien començat a arribar al rei, i li deien, tan fort i tan sovint com gosaven:
+
+—Senyor, què hi ha dels vostres cavallers?
+
+Però els cavallers no feien res; allò que sabien sobre el drac encara no tenia res d’oficial. De manera que el rei va notificar-los la qüestió, amb tots els ets i uts i formalment, demanant-los que emprenguessin les accions necessàries tan bon punt els semblés convenient. El monarca, però, se sentí molt disgustat en descobrir que mai no els semblava convenient i que, en efecte, cada dia ho tornaven a ajornar.
+
+Les excuses dels cavallers, malgrat tot, eren indubtablement raonables. En primer lloc, el cuiner reial ja havia preparat la «Cua de drac» per a aquell Nadal, essent com era un home que creia que calia fer les coses amb temps. No hauria estat gens bé d’ofendre’l a l’últim moment duent una cua de debò. Era un servidor molt valuós.
+
+—Tant hi fa, la cua! Talleu-li el cap i liquideu-lo! —cridaven els missatgers dels pobles més directament afectats.
+
+Però Nadal ja havia arribat i, ben dissortadament, hom havia preparat un gran torneig per Sant Joan Apòstol: hi havien estat convidats cavallers de molts reialmes que pensaven competir per un premi valuós. Evidentment, malbaratar les oportunitats dels cavallers de la Terra Mitjana, tot enviant els millors homes a una cacera de dracs abans que hagués acabat el torneig, no era gens enraonat.
+
+I, després, venia la festa de cap d’any.
+
+El drac, però, canviava de lloc cada nit i, a cada moviment, s’acostava més a Ham. La nit de cap d’any la gent pogué veure una resplendor al llunyedar. El drac s’havia instal·lat en un bosc, a unes deu milles, i ara cremava alegrement. Quan es trobava d’humor, era un drac molt ardent.
+
+Després d’això la gent va començar a dirigir llambregades a en Gil, el pagès, i a xiuxiuejar a la seva esquena. Allò el va neguitejar qui-sap-lo, però va fer veure que no se n’adonava. L’endemà el drac es va acostar bastants milles més. Llavors en Gil en persona va començar a parlar en veu alta de l’escàndol dels cavallers del rei.
+
+—M’agradaria saber què fan per guanyar-se el pa —deia.
+
+—A nosaltres també! —corejava tothom a Ham.
+
+I el moliner hi afegia:
+
+—M’han dit que alguns homes encara són armats cavallers pels seus mèrits. Al cap i a la fi, aquí el nostre bon Ægidius ja és, en cert sentit, un cavaller. Que no li va enviar una carta vermella i una espasa, el rei?
+
+—L’espasa no fa el cavaller —responia en Gil—. Cal ser armat cavaller i tota la pesca, o així és com jo ho entenc. I, de tota manera, jo tinc altres feines de què ocupar-me.
+
+—Oh, però el rei, si li ho demanéssim, us armaria cavaller, n’estic segur! —deia el moliner—. Demanem-li-ho abans que sigui massa tard!
+
+
+
+—I ca! —deia en Gil—. Ser armat cavaller no està fet per a gent com jo. Sóc pagès i n’estic orgullós: un home senzill i honrat, i els homes honrats, segons diuen, a la cort tenen mala peça al teler. Us escauria més a vós, mestre moliner.
+
+El rector somreia: no per la resposta del pagès, sinó perquè en Gil i el moliner sempre se’n deien de fresques, essent, com se solia dir a Ham, enemics de cor. El rector havia estat sobtadament colpit per una idea que li va plaure. Tot i que, de moment, no en va dir res. El moliner no se sentí tan complagut i arrufà les celles.
+
+—Senzill ho és, sense cap mena de dubte, i honrat potser —va dir—. Però, és que cal anar a la cort i ser armat cavaller per matar un drac? L’única cosa que cal és valor, segons que li vaig sentir a dir al mestre Ægidius ahir mateix. Segur que és tan valent com qualsevol cavaller.
+
+Tota la gent que era prop va cridar:
+
+—És clar que no! —i— I tant! Tres visques per l’Heroi de Ham!
+
+Llavors en Gil, el pagès, se n’anà cap a casa molt desficiós. Descobria que mantenir una reputació local pot exigir que hom demostri estar a l’altura de les circumstàncies, cosa que pot ser difícil. Va clavar una guitza al gos i va amagar l’espasa en un armari de la cuina. Fins aleshores havia estat penjada damunt la llar de foc.
+
+L’endemà el drac arribà fins al poble veí de Quercetum (en llengua vulgar, l’Alzinar). No solament es va menjar xais i vaques i una o dues criatures, sinó que, a més, se’n menjà el rector. Aquest havia mirat, de manera força temerària, de dissuadir-lo de les seves malifetes. Allò va produir un enrenou terrible. Tot el poble de Ham va pujar al turó, encapçalat pel seu rector, i es va presentar a casa d’en Gil, el pagès.
+
+—Confiem en vós —van dir-li, i van quedar-se plantats davant seu, mirant-lo, de forma que la cara del pagès es va posar més vermella que la seva barba.
+
+—Quan penseu posar-vos-hi? —van preguntar-li.
+
+—Bé, avui no puc pas començar, no hi ha res a fer —va dir—. Amb el mosso malalt i tot plegat, tinc molta feina. Ja m’ho rumiaré.
+
+Se’n van anar, però al vespre va córrer el rumor que el drac s’havia acostat encara més, de forma que hi van tornar tots plegats.
+
+—Depenem de vós, mestre Ægidius —van dir-li.
+
+—Bé —va dir—, ara mateix m’és molt desavinent. L’euga ha pres mal en una pota i les ovelles estan a l’època de parir. Me n’ocuparé tan aviat com pugui.
+
+Així doncs, van tornar a marxar, però rondinant i remugant una mica. Al moliner se li escapava el riure. El rector es va quedar reressagat i en Gil no se’n va poder desempallegar. Es va convidar a sopar i va fer alguns comentaris càustics. Fins i tot va preguntar què se n’havia fet, de l’espasa, i insistí a veure-la.
+
+El pagès la tenia desada plana en un prestatge d’un armari on gairebé no hi cabia i, tan bon punt la va baixar, va saltar com un llamp de la beina, que va caure de les mans del pagès com si fos un ferro roent. El rector s’alçà d’un bot, i tombà la cervesa. Després va plegar l’espasa amb molt de compte i va provar de tornar-la a embeinar, però no l’hi pogué entrar ni un peu i, tan aviat com va treure la mà de l’empunyadura, tornà a sortir-se’n immediatament.
+
+
+
+—Renoi! Això sí que és curiós! —va dir el rector i va examinar detingudament tant la beina com la fulla. El rector era home de lletra, però el pagès només podia llegir les uncials grosses i encara amb dificultats i ni tan sols no acabava d’estar segur de com es llegia el seu propi nom. Aquesta és la raó per la qual mai no havia parat atenció a les lletres estranyes que amb prou feines es distingien a la beina i a l’espasa. I, pel que fa a l’armer del rei, estava tan avesat a les rúniques, als noms i a d’altres signes de poder i d’importància en espases i beines que no s’hi havia trencat pas el magí; en qualsevol cas, li havien semblat antiquades.
+
+El rector, però, les examinà força estona, i va arrufar les celles. Havia esperat trobar alguna inscripció a l’espasa o a la beina, i aquesta era precisament la idea que se li havia acudit el dia abans; però ara estava astorat pel que veia, perquè, de lletres i signes, n’hi havia, com hi ha món!, però no els trobava ni cap ni peus.
+
+—A la beina hi ha una inscripció i alguns, ah, signes epigramàtics que també són visibles a l’espasa —va dir.
+
+—De debò? —va dir en Gil—. I què pot voler dir, això?
+
+—Les lletres són antigues i el llenguatge bàrbar —va dir el rector per guanyar temps—. Caldrà mirar-s’ho de més a prop. —Suplicà que li deixés l’espasa per aquella nit i el pagès la hi prestà de bon grat.
+
+Quan el rector va arribar a ca seva, va baixar molts llibres erudits dels prestatges i es va quedar a treballar fins ben entrada la nit. L’endemà al matí hom va descobrir que el drac encara s’havia acostat més. A Ham tothom va barrar les portes i va tancar bé les finestres; i els qui tenien celler, van baixar-hi i hi van seure tot tremolosos a la llum d’una espelma.
+
+El rector, però, va sortir d’amagatotis i va anar de porta en porta i, a tothom que volgué escoltar-lo per una escletxa o pel forat del pany, va comunicar-li el que havia descobert al seu estudi.
+
+—El nostre bon Ægidius —deia— ara és, per la gràcia del rei, l’amo de Caudimòrdax, la famosa espasa que als romanços populars és vulgarment anomenada l’Escapçacues.
+
+
+
+Normalment, els qui sentien aquest nom obrien la porta. Tots coneixien l’anomenada de l’Escapçacues, ja que era una espasa que havia pertangut a en Bellomarius, el més gran mata-dracs del reialme. Algunes contalles el feien rebesavi matern del rei. Les cançons i contes de les seves gestes eren nombrosos i, malgrat haver estat oblidats a la cort, als pobles encara eren recordats.
+
+—Aquesta espasa —explicava el rector— no s’estarà embeinada mentre hi hagi algun drac en un radi de cinc milles; i, sense cap mena de dubte, en mans d’un home valerós, no hi ha drac que se li resisteixi.
+
+Llavors la gent va tornar a recobrar els ànims; i alguns fins van obrir els porticons de les finestres i van treure el cap. A la fi, el rector en va convèncer uns pocs perquè anessin a fer-li costat; però l’únic que en tenia ganes de debò era el moliner. Li semblava que pagava la pena de córrer el risc només per veure en Gil en un tràngol de mil dimonis.
+
+Van anar turó amunt, bo i dirigint mirades neguitoses a la riba nord del riu. No es veien senyals del drac. Probablement dormia; durant tot el Nadal s’havia apeixat a cor què vols cor què desitges.
+
+El rector (i el moliner) van picar amb força a la porta del pagès. Però, en no obtenir cap resposta, van trucar més fort. Al capdavall aparegué en Gil. Estava molt vermell. Ell també havia vetllat fins a la matinada, bevent una respectable quantitat de cervesa; i hi havia tornat tan aviat com s’havia llevat.
+
+Tots van envoltar-lo anomenant-lo Bon Ægidius, Valent Ahenobarbus, Gran Julius, Ferm Agricola, Orgull de Ham, Heroi del País. I van parlar de Caudimòrdax, l’Escapçacues, L’Espasa-que-no-pot-ser-embeinada, Victòria o Mort, la Glòria de la Pagesia, el Pal del Paller del País, i el Bé del Proïsme, fins que el pagès no va poder evitar acabar amb el cap com un timbal.
+
+—Vejam! Aneu per pams! —va dir tan bon punt com en va tenir l’oportunitat—. Què és, què és tot això? Per si no ho sabíeu, aquest matí estic molt enfeinat.
+
+Així doncs van deixar que el rector li expliqués la situació. Mentrestant el moliner va tenir el plaer de veure el pagès en el tràngol més difícil que podia desitjar-li. Però les coses no van sortir exactament com el moliner esperava. D’una banda, en Gil havia begut una considerable quantitat de cervesa bastant forta. De l’altra, en assabentar-se que la seva espasa era en realitat l’Escapçacues, va tenir un curiós sentiment d’orgull i de coratge. De petit havia estat molt afeccionat a les històries d’en Bellomarius i, de vegades, abans que hagués posat seny, havia desitjat tenir una espasa meravellosa i heroica. De manera que, de sobte, se li va acudir d’agafar l’Escapçacues i sortir a caçar dracs. Tanmateix, com que havia regatejat tota la seva vida, va fer un darrer esforç per ajornar l’esdeveniment.
+
+—Apa! —va dir—. Jo, a caçar dracs? Amb les polaines velles i l’armilla? Per lluitar amb un drac cal alguna mena d’armadura, pel que he sentir a dir. I en aquesta casa no n’hi ha cap, d’armadura, com hi ha món! —afegí.
+
+Tots van reconèixer que allò era una mica problemàtic, però van enviar a buscar el ferrer. El ferrer brandà el cap. Era un home lent, pessimista, vulgarment conegut per en Sam Rioler, encara que el seu veritable nom fos Fabricius Cunctator. A la feina mai no xiulava, llevat que s’hagués produït algun desastre (com ara una gelada al mes de maig) que ell ja havia anticipat. Com que cada dia predeia desastres de tota mena, se’n produïen pocs que no hagués anunciat, de forma i manera que se’n podia atribuir el mèrit. Aquest constituïa el seu entreteniment principal i era natural que estigués poc disposat a fer res per evitar les adversitats. Va tornar a brandar el cap.
+
+—No puc fer una armadura del no-res —va dir—. I, a més, no és la meva especialitat. Més val que aneu a veure el fuster i que us faci un escut de fusta. Tot i que no crec que serveixi de gaire. És un drac de foc.
+
+Les cares es van desanimar, però el moliner no estava disposat a renunciar tan fàcilment al seu propòsit d’enviar en Gil contra el drac, si aquest estava disposat a anar-hi, o a fer petar la bombolla de la seva reputació local si, a la fi, el pagès s’hi negava.
+
+—I què me’n dieu, d’una cota de malla? —va dir—. Fóra un ajut; i no cal que sigui molt bona. Una cosa per anar per feina i no per ensenyar a la cort. Què us semblaria el vostre vell justacòs de cuir, amic Ægidius? I a cal ferrer hi ha una pila de baules i d’anelles. Em sembla que ni el mestre Fabricius no sap exactament el que hi pot haver.
+
+—No sabeu el que us dieu —va respondre aquest, alegrant-se de cop—. Si voleu una cota de malla autèntica, no la podreu tenir de cap de les maneres. Es necessita tenir la traça dels nans i cada petita anella ha d’anar lligada a quatre més i tota la pesca. Encara que jo fos prou destre per fer-la, seria una feina de setmanes. I abans ja haurem anat tots a parar a la tomba o, si més no, a la panxa del drac.
+
+Tots es van prémer les mans, desconhortats, i el ferrer va començar a somriure. Però ara l’alarma era tan grossa que no estaven disposats a deixar córrer el pla del moliner, i es van girar a demanar-li consell.
+
+—Bé —va dir aquest—, jo he sentit a dir que, als temps antics, qui no podia comprar un ausberc lluent als Països del Sud, cosia anelles d’acer en un gec de cuir i amb això quedava content. Anem a veure què s’hi pot fer!
+
+
+
+Així doncs, en Gil va haver de dur el seu vell justacòs i el ferrer va ser enviat ràpidament a la ferreria. Un cop allí van regirar tots els racons i van remenar de dalt a baix la pila de metall vell, cosa que no havien fet en molts anys. Al fons de tot hi van trobar, tot ple de rovell, un pilot d’anelles petites, caigudes d’algun gec oblidat, com el que el moliner havia esmentat. En Sam, menys complaent i més llòbrec com més esperançadora semblava la tasca, va ser posat immediatament a la feina, arreplegant, classificant i netejant les anelles; i quan (com li va plaure de fer notar) es va veure que aquestes eren clarament insuficients per a algú tan ample d’espatlles i de pit com el mestre Ægidius, li van fer tallar cadenes velles i picar les baules fins a fer-ne anelles tan més primes com era capaç d’afaiçonar.
+
+Van agafar les anelles d’acer més petites i les van cosir al pit del justacòs, i les més grosses i matusseres les van cosir a l’esquena; i després, quan encara hi hagué més anelles disponibles (de tant com havien fet treballar el pobre Sam), van agafar unes calces del pagès i també van cosir-n’hi. I, damunt un prestatge, en un amagatall fosc de la ferreria, el moliner va trobar la carcassa vella de ferro d’un casc, i va posar el sabater a treballar-hi, recobrint-la de cuir tan bé com sabia.
+
+La feina els va ocupar la resta del dia i tot l’endemà, que era la vigília de Reis o l’Epifania; però les festivitats van quedar oblidades. En Gil, el pagès, va celebrar l’avinentesa amb més cervesa que de costum; el drac, per sort, dormia. De moment s’havia oblidat totalment de la gana i de les espases.
+
+
+
+El dia de Reis, de bon matí, van pujar turó amunt, portant l’estrany resultat de llurs tràfecs. En Gil ja els esperava. No tenia cap més excusa a oferir, així que es va posar el justacòs de malla i les calces. El moliner s’hagué d’aguantar el riure. Després, en Gil es va calçar les botes altes i un parell d’esperons vells; i també es va posar el casc recobert de cuir. Al darrer moment, però, va engiponar-se un vell capell de feltre damunt el casc i, per sobre el gec de malla, va posar-se la capa grisa.
+
+—Quin propòsit té això, mestre? —van demanar-li.
+
+—Bé —va dir en Gil—, si la vostra intenció és anar a la caça del drac dringant i repicant com les campanes de Canterbury, la meva no. Em sembla que no té ni cap ni peus fer saber al drac, abans d’hora, que algú s’acosta pel camí. I un casc és un casc, i un repte a la batalla. Deixem que el llangardaix només vegi el meu barret vell per damunt el marge i potser m’hi podré acostar abans que comencin els problemes.
+
+Havien cosit les malles de tal manera que s’encavalcaven, cadascuna penjant lliurement sobre la de sota i la veritat és que feien una bona dringadissa. La capa servia d’alguna cosa per esmorteir-ne el soroll, però, malgrat tot, en Gil, amb aquella vestimenta, feia una fila estrafolària. No li’n van dir res. Li van cenyir el cinturó amb dificultats i van penjar-li la beina; però l’espasa va haver de dur-la a la mà perquè ja no volia estar-se embeinada si no era fent-hi molta força.
+
+El pagès va cridar el Garm. Segons el seu albir era un home just.
+
+—Gos —va dir—, tu véns amb mi.
+
+El gos va udolar.
+
+—Socors!, socors! —cridà.
+
+—Para ja —va dir en Gil—, o la que et fumeré serà pitjor que la que et fumeria qualsevol drac! Tu coneixes la ferum d’aquest llangardaix i potser, per una vegada, serviràs d’alguna cosa.
+
+En Gil, el pagès, va cridar la seva euga grisa. Aquesta li va clavar una ullada d’estranyesa i li ensumà els esperons. Però va deixar-lo muntar; després van posar-se en camí, però cap dels tres no se sentia content. Van passar al trot per tot el poble i tothom els va aplaudir i victorejar, la majoria de les finestres estant. El pagès i l’euga hi posaren tan bona cara com van poder; però el Garm no tenia sentit del ridícul i va passar encongit amb la cua entre les potes.
+
+
+
+Van travessar el pont sobre el riu, a l’extrem del poble. I, quan per fi van ser lluny de les mirades, van afluixar la marxa fins a posar-se al pas. Malgrat això van deixar enrere massa aviat les terres pertanyents a en Gil i als altres vilatans de Ham, i arribaren als indrets que el drac havia visitat. Hi havia arbres esqueixats, marges socarrats, herba renegrida, i un silenci horrible i de mal averany.
+
+El sol brillava amb força i en Gil, el pagès, començà a desitjar posseir la gosadia per treure’s un o dos guarniments i es preguntà si no hauria begut alguna pinta de més. «Un bonic acabament de Nadal —va pensar—. I em puc considerar afortunat si no acabo deixant-hi també la pell». Va eixugar-se la cara amb un gran mocador, verd, no pas vermell, perquè els parracs vermells enfurismen els dracs, o així ho havia sentit a dir.
+
+Però no trobava el drac. Va recórrer molts viaranys, amples i estrets, i els camps deserts d’altres pagesos, i continuava sense trobar el drac. El Garm, és clar, no li servia absolutament de res. S’arrecerava darrere l’euga i es negava en rodó a fer servir el nas.
+
+Al cap i a la fi van arribar a una carretera amb molts revolts que havia sofert pocs estralls i que semblava tranquil·la i pacífica. Després d’avançar-hi durant una mitja milla, en Gil va començar a preguntar-se si no havia complert ja amb el seu deure i amb tot allò que la seva reputació requeria. Acabava de decidir que ja havia buscat prou i fins prou lluny, i justament pensava en girar cua, en el sopar i en com explicaria als seus amics que el drac, en veure’l, havia fugit volant tot d’una, quan va tombar un revolt pronunciat.
+
+I allí tenia el drac, mig ajagut sobre un marge esllavissat, amb aquell cap horrible al bell mig de la carretera.
+
+—Socors! —va glapir el Garm, i sortí disparat.
+
+L’euga grisa va caure de cul i en Gil, el pagès, va anar a espetegar d’esquena en una rasa. Quan va treure el cap, es va trobar el drac, ben despert, que el guaitava.
+
+
+
+—Bon dia! —va dir el drac—. Sembleu sorprès.
+
+—Bon dia! —va dir en Gil—. N’estic.
+
+—Dispenseu —va dir el drac. En caure el pagès, havia parat l’orella molt sospitosament perquè havia sentit el soroll de les anelles que dringaven—. Dispenseu la pregunta, però no m’estaríeu buscant pas a mi, per casualitat?
+
+—No, i ara! —va fer el pagès—. Qui podria haver pensat que us trobaria aquí? Simplement havia sortit a fer un tomb a cavall.
+
+A corre-cuita va sortir a quatre grapes de la rasa i va recular cap a l’euga grisa. Aquesta ja tornava a estar de quatre potes i pasturava l’herba al costat de la carretera, amb un posat força indiferent.
+
+—Llavors hem tingut sort trobant-nos —va dir el drac—. El plaer és meu. Aquest és el vostre vestit de mudar, suposo. Un estil nou, potser?
+
+El barret de feltre d’en Gil, el pagès, li havia caigut i la capa grisa se li havia obert de mig a mig, però li va seguir la veta.
+
+—Sí —va respondre—, nou de trinca. Però ara he d’anar al darrere d’aquest gossot meu. Deu haver anat a empaitar conills, m’imagino.
+
+—M’imagino que no —va dir en Crisòfilax, llepant-se els morros (senyal que es divertia)—. Arribarà a casa molt abans que vós, suposo. Però, si us plau, continueu el vostre camí, mestre… deixeu-me rumiar, em penso que no sé el vostre nom.
+
+—Ni jo el vostre —va dir en Gil—; deixem-ho així.
+
+—Com vulgueu —acceptà en Crisòfilax, tornant-se a llepar els morros però fent veure que aclucava els ulls. Tenia un cor malvat (com tots els dracs), però no gaire valent (cosa que tampoc no era una raresa). S’estimava més un àpat pel qual no s’hagués de barallar; però, després d’una bona i llarga dormida, tornava a tenir gana. El rector de l’Alzinar havia estat escanyolit i feia anys que no havia tastat cap home grassonet. Ja s’havia decidit a provar aquella carn que se li posava a l’abast, i només esperava que aquell ximplet estigués desprevingut.
+
+
+
+Però aquell ximplet no era tan ximple com semblava, i no li treia l’ull del damunt, fins i tot mentre provava de muntar. L’euga, de tota manera, tenia altres idees i, quan en Gil tractà de pujar-hi, tirà guitzes i reguitnà. El drac es despacientà i es disposà a saltar.
+
+—Dispenseu —va dir—. No us ha caigut pas res?
+
+Un truc molt vell però que li va sortir bé ja que a en Gil, el pagès, efectivament li havia caigut alguna cosa. En anar per terra havia deixat Caudimòrdax (o vulgarment l’Escapçacues), que ara jeia estesa al costat del camí. S’ajupí a plegar-la; i el drac va saltar. No tan ràpid, però, com l’Escapçacues. Aquesta, tan bon punt va ser a mans del pagès, va pegar un bot com un llamp, de dret als ulls del drac.
+
+—Ei! —va fer aquest, i va aturar-se en sec—. Què hi teniu, aquí?
+
+—És només l’Escapçacues que el rei em va donar —va dir en Gil.
+
+—Quin malentès! —exclamà el drac—. Haureu de disculpar-me. —Es va ajeure i s’agemolí, i en Gil, el pagès, va començar a sentir-se més confortable—. Em sembla que no us heu comportat gaire bé, amb mi.
+
+—Com que no? —va dir en Gil—. I, de tota manera, per què ho hauria d’haver fet?
+
+—M’heu amagat el vostre honorable nom i heu fet veure que la nostra trobada havia estat pura casualitat; però és evident que sou un cavaller d’alt llinatge. En aitals casos, senyor, solia ser costum dels cavallers pronunciar, després de l’intercanvi ritual de títols i de credencials, un desafiament.
+
+—Potser solia ser així, i potser encara ho és —va dir en Gil, que començava a sentir-se complagut de si mateix. Si algú té un drac immens i imperial agemolit als seus peus pot ser disculpat de sentir-se una mica ensuperbit—. Potser caieu en més d’un malentès, vell llangardaix. Jo no sóc pas cavaller. Sóc el pagès Ægidius de Ham, tal com sona; i no suporto els intrusos. En ocasions anteriors, amb el meu trabuc i per causar menys estralls dels que vós heu causat, he matat gegants. I tampoc no vaig pronunciar cap desafiament.
+
+El drac estava trastornat. «Maleït sigui aquell gegant mentider! —pensava—. He estat tristament enganyat. I ara, què dimonis puc fer amb aquest pagès valerós i amb aquesta espasa tan lluent i agressiva?». Que ell sapigués, una situació com aquella no tenia precedents.
+
+—El meu nom és Crisòfilax —va dir—. Crisòfilax, el ric. Què puc fer per la vostra altesa? —afegí afalagadorament, sense perdre de vista l’espasa i confiant evitar la batalla.
+
+—Podeu tocar el dos, cuca-fera vella i banyuda —va dir en Gil, esperant també evitar la batalla—. Només vull desempallegar-me de vós. Escampeu la boira i torneu-vos-en al vostre cau brut! —i va fer un pas cap a en Crisòfilax, movent els braços com qui espanta ocells.
+
+Amb tot això, l’Escapçacues ja en tenia ben bé prou, de manera que va descriure un cercle llampeguejant en l’aire i, després, va davallar i va colpejar el drac a l’os de l’ala dreta amb un cop sonor que el va deixar totalment astorat. Com és natural, en Gil sabia ben poc dels bons mètodes per matar un drac, altrament l’espasa hauria anat a picar en un lloc més tendre; però l’Escapçacues ho feia tan bé com podia en unes mans inexpertes. En Crisòfilax també n’estava fart: no es podria valer de l’ala en molts dies. Es va posar dret i es girà per emprendre el vol però s’adonà que li era impossible. El pagès va saltar a lloms de l’euga. El drac començà a córrer. L’euga també. El drac va galopar a través d’un camp, bufant i panteixant. També l’euga. El pagès cridava i bramava, com si estigués contemplant una cursa de cavalls; i durant tota l’estona no parà de brandar enlaire l’Escapçacues. El drac, com més corria, mes esverat estava i, mentrestant, l’euga grisa corria al galop tant com podia i l’encalçava de prop.
+
+
+
+Així avançaren, batent camins i fent esvorancs a les tanques, bo i travessant molts conreus i moltes rieres. El drac treia fum i esbufegava i havia perdut el sentit de l’orientació. Al capdavall, de cop i volta, van arribar al pont de Ham, hi van passar pel damunt com un tro i van enfilar el carrer del poble amb gran terrabastall. Allí el Garm va tenir la poca-vergonya d’esquitllar-se d’un carreró i afegir-se a la persecució.
+
+Tothom era a les finestres o a les teulades. Alguns reien i d’altres cridaven amb entusiasme; alguns repicaven pots i paelles i olles; d’altres bufaven corns, gaites i xiulets; i el rector va fer repicar les campanes. Feia cent anys que a Ham no s’havia sentit una saragata i un rebombori semblants.
+
+Davant mateix de l’església el drac es va rendir. Es deixà caure estirat al mig del carrer i panteixà. El Garm va acostar-s’hi i li va ensumar la cua, però en Crisòfilax ja havia perdut el pudor més elemental.
+
+
+
+—Bona gent i guerrer gallard —bleixà, mentre en Gil, el pagès, s’hi atansava cavalcant i la gent l’envoltava (a una distància prudencial) duent a les mans forques, bastons i burxes—. Bona gent, no em mateu! Sóc molt ric! Pagaré per tot el mal que he fet. Pagaré els funerals de tots els qui he mort, en especial el del rector de l’Alzinar; tindrà un cenotafi noble… encara que era més aviat escanyolit. Donaré a cadascú un regal de bo de veres, però m’heu de deixar anar a casa a buscar-lo.
+
+—Quant? —preguntà el pagès.
+
+—Bé —va dir el drac fent un càlcul ràpid. S’havia adonat que la colla era bastant nombrosa—. Tretze xílings amb vuit penics per cap?
+
+—Ni parlar-ne! —va dir en Gil.
+
+—Ximpleries! —va dir la gent.
+
+—Bajanades! —va dir el gos.
+
+—Dues guinees d’or per cap i la canalla a meitat de preu? —suggerí el drac.
+
+—I els gossos què? —va dir el Garm.
+
+—Passa! —va fer el pagès—. Us escoltem.
+
+—Deu lliures i un portamonedes de plata per cap, i collars d’or per als gossos —va dir en Crisòfilax, neguitós.
+
+—Mateu-lo! —va cridar la gent, que perdia la paciència.
+
+—Una bossa d’or per a cadascú i diamants per a les senyores? —va pujar en Crisòfilax apressadament.
+
+—Ara ens comencem a entendre, però no n’hi ha prou —va dir en Gil, el pagès.
+
+—Us heu tornat a oblidar dels gossos —va dir el Garm.
+
+—Bosses de quina mida? —van dir els homes.
+
+—Quants diamants? —van dir les dones.
+
+—Pobre de mi! Pobre de mi! —va dir el drac—. M’arruïnaré!
+
+—Us ho teniu ben guanyat —va respondre en Gil—. Podeu triar entre arruïnar-vos o morir aquí on sou. —Va brandar l’Escapçacues i el drac s’arraulí.
+
+—Decidiu-vos! —va cridar la gent, tot envalentint-se i acostant-se més a la vora.
+
+En Crisòfilax parpellejà, però, molt endins, reia: amb una tremolor silenciosa que ningú no va copsar. Llur regateig havia començat a divertir-lo. Era evident que esperaven treure-li alguna cosa. Però sabien molt poc de les maneres del món ample i malvat: en efecte, entre els vius de tot el reialme ara no hi havia ningú que mai hagués tingut cap mena d’experiència en els tractes amb dracs o amb els seus trucs. En Crisòfilax estava recuperant l’alè i també l’astúcia. Es va llepar els morros.
+
+
+
+—Digueu quin és el vostre preu! —va dir.
+
+Aleshores tots van començar a xerrar a la vegada. En Crisòfilax els escoltà amb interès. Només el destorbava una veu: la del ferrer.
+
+—No en sortirà res de bo, feu-me cas —deia aquest—. Un llangardaix no torna mai, digueu el que vulgueu. I, en qualsevol cas, no en traureu res de bo.
+
+—Si t’ho estimes més, pots quedar-te fora del tracte —el van advertir, i van continuar regatejant, sense parar gaire esment en el drac.
+
+En Crisòfilax aixecà el cap; però si pensava que podia saltar-los al damunt o esquitllar-se durant la discussió, va veure’s decebut. En Gil, el pagès, s’estava dret al seu costat mastegant una herba i rumiant; però duia l’Escapçacues a la mà i no perdia el drac per res de vista.
+
+—Ajaieu-vos on sou —va dir— o rebreu el que us mereixeu, tant si hi ha or com si no n’hi ha.
+
+El drac es va ajeure ben pla. A la fi van anomenar portantveu el rector, que avançà fins al costat d’en Gil.
+
+—Vil llangardaix! —va dir—. Heu de dur aquí mateix totes les vostres mal guanyades riqueses i, després de recompensar aquells a qui heu causat cap dany, ens en repartirem bonament la resta. Després, si feu un vot solemne de no tornar mai més a inquietar la nostra terra, i de no atiar cap altre monstre perquè ens destorbi, us deixarem marxar amb el cap i la cua sencers cap a casa vostra. I ara heu de jurar, per allò que a la consciència d’un llangardaix hi hagi de més sagrat i inviolable, que tornareu.
+
+En Crisòfilax, després d’una exhibició prou convincent de vacil·lacions, va acceptar. Fins i tot deixà caure algunes llàgrimes calentes lamentant la seva ruïna, i fins es van formar tolls fumejants a la carretera; però ningú no s’immutà. Va fer molts juraments, solemnes i impressionants, que tornaria amb totes les seves riqueses pel dia de Sant Hilari i de Sant Fèlix. Això li donava vuit dies de coll, un temps massa curt per al viatge, com poden haver comprès fins i tot els més ignorants en geografia. Tot amb tot, el van deixar anar i el van escortar fins al pont.
+
+
+
+—Fins a la pròxima trobada! —va dir mentre passava el riu—. Estic segur que tots l’esperarem amb il·lusió.
+
+—I tant! —van dir. Eren, és clar, ben ximplets. Perquè, encara que els juraments que havia pronunciat li haurien d’haver pesat a la consciència apenant-lo i fent-li témer grans desastres, la veritat és que, ai las!, no tenia consciència. I, encara que aquesta mancança lamentable en un llinatge imperial fos impossible de copsar en el magí dels simples, el rector, si més no, amb totes les seves lectures, la podia haver endevinada. Potser ho havia endevinat. Com a gramàtic que era, sens dubte podia copsar el futur millor que no pas els altres.
+
+El ferrer va brandar el cap i va tornar cap a la ferreria.
+
+—Hilari i Fèlix, noms de mal averany! —va dir—. No m’agrada com sonen.
+
+Naturalment la notícia de seguida va arribar al rei. Va córrer com un llamp a través del reialme i no va minvar en passar de boca en boca. El rei en quedà profundament trasbalsat per moltes raons, entre les quals les financeres no eren precisament les menys importants; així que va prendre la decisió de cavalcar en persona, i immediatament, a Ham on, segons que semblava, s’esdevenien coses tan extraordinàries.
+
+Hi arribà als quatre dies de la partida del drac i va entrar pel pont damunt el seu corser blanc, amb molts cavallers i trompeters i una corrua d’equipatge. Tothom s’havia posat els millors vestits i s’havia arrenglerat al carrer per donar-li la benvinguda. El seguici va aturar-se a la plaça, davant la porta de l’església. En Gil, el pagès, s’agenollà davant el rei quan hi va ser presentat, però el monarca li va dir que s’aixequés i fins i tot va donar-li uns copets a l’esquena. Els cavallers van fer veure que no s’havien adonat d’aquesta familiaritat.
+
+
+
+El rei va ordenar que tot el poble es reunís al gran prat que en Gil tenia vora el riu i, quan tots hi van haver fet cap (inclòs el Garm, que sospitava que hi tenia alguna cosa a veure), Augustus Bonifacius rex et basileus va tenir la graciosa deferència d’adreçar-se’ls.
+
+Els va explicar detingudament que les riqueses del bergant d’en Crisòfilax li pertanyien enterament com a senyor de la terra. Només va tocar molt lleugerament la seva reclamació de ser considerat sobirà del país de les muntanyes (cosa que era discutible), però va dir:
+
+—En qualsevol cas, no tenim cap mena de dubte que tot el tresor d’aquest llangardaix va ser robat als nostres avantpassats. Tanmateix som, com sabeu, justos i generosos i el nostre bon vassall Ægidius serà recompensat com cal, i cap dels nostres lleials súbdits d’aquestes terres, des del rector fins al nen més petit, no se n’anirà sense una penyora de la nostra estimació. Aquí, com a mínim, hi ha una gent ferrenya i incorrupta que encara manté l’antic coratge de la nostra raça.
+
+Els cavallers comentaven entre ells la nova moda de barrets.
+
+La gent saludà i féu reverències i el regracià humilment. Ara, però, s’exclamaven per no haver tancat el tracte amb l’oferta del drac de deu lliures per barba, i que tot hagués quedat en secret. Eren prou llestos per adonar-se que l’estimació del rei no s’elevaria pas a tant. El Garm s’adonà que no havia mencionat els gossos per res. En Gil, el pagès, era l’únic que estava realment content. Estava segur que aconseguiria alguna recompensa i, de tota manera, el satisfeia d’allò més haver tornat sa i estalvi, i amb la reputació local més alta que mai, d’una empresa veritablement arriscada.
+
+El rei no se n’anà pas. Va plantar els seus pavellons al camps d’en Gil i va esperar fins al catorze de gener, passant-se-la tan bé com podia en aquell miserable llogarret. La comitiva reial va acabar amb gairebé tot el pa, la mantega, els ous, els pollastres, la cansalada i els xais i, en els tres dies següents, va engolir tota la cervesa que hi havia sense deixar-ne ni gota. Després van començar a queixar-se de les racions escasses. Però el rei pagava generosament per tot (amb rebuts que serien complimentats més endavant per Hisenda, la qual esperava ser aviat ricament recompensada); així doncs, la gent de Ham estava molt satisfeta, desconeixedora com era del veritable estat de la Hisenda.
+
+
+
+I arribà el catorze de gener, festivitat dels sants Hilari i Fèlix i, de bon matí, tothom ja era llevat i rondava pel poble. Els cavallers es van posar l’armadura i el pagès es vestí el gec casolà de malla, de manera que tots els cavallers van fer una rialleta fins que s’adonaren de l’expressió molesta del rei. El pagès també es va penjar l’Escapçacues, que va entrar a la beina com si fos de mantega, i hi restà. El rector contemplà fixament l’espasa i va assentir amb el cap per a si mateix. El ferrer reia per sota el nas.
+
+
+
+Arribà el migdia. La gent estava massa desficiosa per menjar gaire. La tarda va anar passant a poc a poc. L’Escapçacues continuava sense fer cap senyal de voler saltar de la beina. Ni els guaites del turó ni cap dels noiets que s’havien enfilat al capdamunt dels arbres alts no podien atalaiar res que, per aire o per terra, pogués anunciar el retorn del drac.
+
+El ferrer es passejava xiulant, però l’altra gent del poble no va començar a sospitar que el drac no tenia la més mínima intenció de tornar fins que llostrejà del tot i van sortir les estrelles. Continuaven recordant els seus juraments solemnes i espaterrants i encara conservaven l’esperança. No obstant això, quan van tocar les dotze i el dia assenyalat s’acabà, la decepció va ser profunda. El ferrer n’estava encantat.
+
+
+
+—Jo ja us ho deia —repetia.
+
+Però no n’estaven convençuts.
+
+—Al cap i a la fi, estava malferit —deien uns.
+
+—No li vam donar prou temps —deien d’altres—. El camí fins a les muntanyes és llarg i pesat, i deu anar molt carregat. Potser li ha calgut buscar ajuda.
+
+Però va passar l’endemà, i l’altre. I tots van perdre l’esperança. El rei estava encès de còlera. Les vitualles i la beguda s’havien acabat i els cavallers rondinaven de valent. Desitjaven tornar als plaers de la cort. Però el rei volia diners.
+
+Es va acomiadar dels seus súbdits lleials, però d’una manera breu i esquerpa i va cancel·lar la meitat dels rebuts d’Hisenda. Amb en Gil, el pagès, es va mostrar bastant fred i se’l va treure del damunt amb un petit moviment del cap.
+
+—Tindreu notícies nostres més endavant —va dir, i va emprendre la cavalcada amb els seus cavallers i trompeters.
+
+Els més esperançats i ingenus van creure que de seguida arribaria un missatge de la cort demanant que el mestre Ægidius es presentés al rei per a, pel cap baix, armar-lo cavaller. La missiva arribà una setmana després, però era d’un altre caire. Estava escrita i signada per triplicat; una còpia per a en Gil, una altra per al rector i una darrera perquè la clavessin a la porta de l’església. Només la que anava adreçada al rector servia d’alguna cosa, ja que l’escriptura de la cort era molt peculiar i, per a la gent de Ham, tan enrevessada com un llibre en llatí. Però el rector la va traduir a la llengua vulgar i la va llegir des de la trona. Era curta i directa (per tractar-se d’una carta reial): el rei tenia pressa.
+
+Nós, Augustus, B. A. A. P. i M.
+
+rex et cetera fem saber que hem
+
+determinat, per a la seguretat del
+
+nostre reialme i per a la conservació
+
+del nostre honor, que el llangardaix
+
+o drac, que respon al nom de
+
+Crisòfilax el ric, ha de ser capturat i
+
+castigat convenientment per les seves
+
+ofenses, torts, fellonies i fals
+
+perjuri. Tots els cavallers del nostre
+
+Casal Reial estan obligats, a partir
+
+d’ara, a armar-se i a disposar-se a
+
+emprendre la marxa per a aquesta
+
+requesta tan aviat com el mestre
+
+Æegidius A. J. Agricola arribi a
+
+aquesta la nostra cort. Per tal com
+
+l’esmentat Æegidius ha provat ser
+
+home honrat i molt capaç de tractar
+
+amb gegants, dracs i d’altres
+
+enemics de la pau reial, Nós li
+
+ordenem posar-se a cavalcar a partir
+
+d’ara mateix i sumar-se a la
+
+companyia dels nostres cavallers amb
+
+tota diligència.
+
+
+
+La gent deia que allò constituïa un gran honor i que quasi equivalia a ser armat cavaller. El moliner li tenia enveja.
+
+—L’amic Ægidius comença a fer carrera —deia—. Espero que, quan torni, encara se’n recordi de nosaltres.
+
+—Potser no tornarà mai més —intervenia el ferrer.
+
+—Ja n’hi ha prou d’aquest coll, cap de trons! —va dir el pagès, fora de polleguera—. Al dimoni els honors! Si mai torno, fins i tot la companyia del moliner serà benvinguda. Tanmateix és un descans pensar que us perdré de vista a tots dos d’aquí a uns quants dies —i, havent-los-hi engegat aquestes, els deixà.
+
+Un hom no podia excusar-se davant el rei com ho feia davant els veïns; de forma que tant se valia si li parien les ovelles, o si havia de llaurar, o que si naps o cols, va haver de muntar l’euga i anar-se’n. El rector el va acomiadar.
+
+—Suposo que us emporteu una corda gruixuda, oi? —va dir.
+
+—Per a què? —va dir en Gil—. Per penjar-me?
+
+—Ca! Feu el cor fort, mestre Ægidius —va dir el rector—. Em sembla que podeu confiar en la vostra sort. Però endueu-vos-en també una corda llarga, perquè, si les meves sospites no m’enganyen, potser n’haureu menester. I, ara, adéu-siau, i espero que torneu sa i estalvi!
+
+—I tant! Tornar per trobar-me amb la casa i les terres potes enlaire. Maleïts dracs! —va dir en Gil. Però va entatxonar un gran rotlle de corda a les alforges de la sella i després va muntar i se’n va anar, tot cavalcant.
+
+No es va endur el gos, que en tot el matí no havia estat vist per enlloc. Però, un cop l’amo va ser fora, el Garm va esquitllar-se cap a casa i s’hi va quedar; i va udolar tota la santa nit i, encara que va ser convenientment estomacat, continuà udolant.
+
+
+
+—Ai, ai! —gemegava—. No tornaré a veure mai més el meu amo estimat, que era tan imposant i admirable. Tant de bo me n’hagués anat amb ell, de debò.
+
+—Calla! —deia la dona del pagès— o no viuràs per veure si torna o no torna.
+
+El ferrer en va sentir els udols.
+
+—Un mal averany —va dir alegrement.
+
+Van passar molts dies i no en van tenir cap notícia.
+
+—Si no hi ha notícies, males notícies —va dir el ferrer, i es posà a cantar.
+
+Quan en Gil, el pagès, va arribar a la cort, estava cansat i empolsegat. Els cavallers, pel contrari, amb llurs cotes de malla brunyides i els cascos lluents al cap, s’estaven tots arrenglerats al costat dels cavalls. La crida del rei i la inclusió del pagès els havia irritats. Així que s’havien entestat a obeir les ordres al peu de la lletra i esperaven l’arribada d’en Gil per posar-se en marxa. El pobre pagès, abans de posar-se en camí una altra vegada, amb prou feines va tenir temps d’empassar-se d’un glop unes sopes de vi. L’euga s’ho va prendre molt malament. Per sort, no pogué expressar el que pensava del rei, perquè haurien estat idees profundament deslleials.
+
+El dia ja era molt avançat. «Massa tard per començar una cacera de dracs», va pensar en Gil. Però no van anar pas gaire lluny. Els cavallers, un cop iniciada la marxa, no tenien cap pressa. Cavalcaven al seu aire, cavallers, senyors, servents i mules afeixugades per l’equipatge formaven una gran corrua dispersa i, al darrere, venia en Gil, el pagès, a trot curt, muntat en la seva euga exhausta.
+
+Al tomb del capvespre van aturar-se i van plantar les tendes. No havien fet provisió per a en Gil i aquest va haver de pidolar el que va poder. L’euga estava indignada i va abjurar de la seva lleialtat a la casa d’Augustus Bonifacius.
+
+L’endemà van continuar cavalcant i l’endemà passat també. Al tercer dia, van mig albirar a la llunyania les muntanyes ombrívoles i inhòspites. I no van trigar gaire a ser a les regions on el domini d’Augustus Bonifacius no era reconegut oficialment. Llavors van cavalcar amb més compte i es van mantenir tots més junts.
+
+
+
+Al quart dia van atènyer els Turons Feréstecs i els límits de les terres inquietants on, segons deien, vivien criatures llegendàries. De sobte, un dels qui cavalcaven al davant va topar-se, a l’arena del costat d’un rierol, amb unes petjades sinistres. Van fer cridar el pagès.
+
+—Què és això, mestre Ægidius? —va demanar-li.
+
+—Petjades de drac —va respondre.
+
+—Guieu-nos-hi! —van dir.
+
+Llavors van tirar cap a ponent, amb en Gil, el pagès, al davant; les anelles del gec de pell feien una gran dringadissa. Però això no tenia gaire importància: tots els cavallers xerraven i reien i duien un joglar que cantava una troba. De tant en tant, s’enganxaven a la tornada de la cançó i cantaven tots plegats, molt alt i fort. Això servia per encoratjar-los ja que es tractava d’una bona cançó: havia estat composta feia molt de temps, quan les batalles encara eren més comunes que els tornejos. Aquell rebombori, però, no era gaire assenyat, perquè amb aquell capteniment totes les criatures d’aquells topants ja s’havien assabentat de la seva arribada; i, a totes les coves de ponent, els dracs paraven les orelles. Ja no tenien cap oportunitat d’agafar desprevingut el vell Crisòfilax.
+
+Com si la sort (o la mateixa euga grisa) ho hagués fet, quan per fi van entrar sota mateix de l’ombra de les muntanyes fosques, l’animal d’en Gil va posar-se a coixejar. Ara havien començat a cavalcar per viaranys costeruts i pedregosos, enfilant-se cap amunt, cada vegada amb més dificultats i amb creixent desassossec. De mica en mica, l’euga va anar endarrerint-se a la fila, ensopegant i coixejant constantment i amb el posat tan pacient i tan trist que en Gil, el pagès, es va veure obligat a desmuntar i a caminar. No van trigar gaire a trobar-se a la cua, enmig de les mules de càrrega; però ningú no se’n va adonar. Els cavallers discutien l’ordre de preeminència i d’etiqueta i paraven poca atenció a la resta. Altrament s’haurien adonat que, ara, les petjades de drac eren molt clares i nombroses.
+
+Havien arribat, en efecte, als llocs on en Crisòfilax rondava o descendia sovint després del seu exercici diari a l’aire lliure. Els turons més baixos i els vessants a banda i banda del camí tenien una aparença calcigada i socarrimada. Hi havia poca herba, i els calcinals recargolats dels brucs i de les argelagues negres destacaven al mig d’amples clapes de cendra i de terra cremada. Aquell indret havia estat el pati d’esbarjo del drac durant molts anys. Una paret muntanyenca, i fosca, es dreçava al seu davant.
+
+En Gil, el pagès, estava preocupat per la seva euga; però l’excusa el complaïa perquè així ja no era el centre d’atenció. No li havia plagut gens de cavalcar per unes contrades tan tètriques i inquietants al front d’un seguici com aquell. Poc després encara va sentir-se més satisfet i va tenir una raó més per estar agraït a la seva fortuna (i a la seva euga). Perquè, prop del punt del migdia —essent la festa de la Candelera i el setè dia de la cavalcada—, l’Escapçacues va saltar fora de la beina i el drac fora de la cova.
+
+En Crisòfilax, sense cap mena de formalisme, s’arrossegà enfora per moure batalla. Va caure’ls al damunt amb focs i bramuls. Lluny de casa, malgrat el seu llinatge antic i imperial, no s’havia mostrat massa valerós. Ara, però, estava completament encoleritzat, ja que lluitava, com si diguéssim, a les portes de casa seva i n’havia de defensar tot el tresor. Va doblar un contrafort de la muntanya com una tona d’espetecs i trons, amb un soroll de galerna i una ratxa de llampecs vermells.
+
+La discussió sobre l’ordre de preeminència quedà interrompuda en sec. Totes les cavalcadures van fer-se cap a un costat o cap a l’altre i alguns genets van caure a terra. Les mules i l’equipatge i els criats van girar cua i van fugir cames ajudeu-me. Aquests sí que no tenien cap mena de dubte sobre l’ordre de preeminència.
+
+
+
+De sobte arribà una gran fumarada que els embolcallà a tots plegats i, al bell mig de la fumarola, va sorgir el drac que embestia contra l’avantguarda de la fila. Molts cavallers van morir sense tenir ni tan sols temps de pronunciar el desafiament formal de la batalla, i molts d’altres van caure rodolant amb cavall i tot. De la resta, se’n van fer càrrec els seus corsers: van girar cua i van fugir enduent-se’n llurs amos de grat o per força. La majoria, naturalment, de molt bon grat.
+
+Però l’euga grisa no es va bellugar. Potser tenia por de trencar-se les potes en aquell camí costerut i pedregós. Potser se sentia massa cansada per escapar. Al moll dels ossos sabia que els dracs alats són pitjors al darrere que al davant i que, perquè la fugida sigui eficaç, cal ser més veloç que un cavall de curses. D’altra banda, a aquell Crisòfilax ja el tenia vist, i recordava com, allà al seu país, l’havien empaitat pels camps i rierols fins fer-lo agemolir, mansoi, al bell mig del carrer gran del poble. Sigui com sigui, el cas és que es va plantar de ferm amb les quatre potes i va rebufar. En Gil, el pagès, es va tornar blanc com la cera, però va romandre al seu costat car semblava que no hi havia res més a fer.
+
+I així fou com el drac, que embestia contra la resta de la filera, va topar-se inesperadament amb el seu vell enemic que duia l’Escapçacues a la mà. Era l’última persona amb qui hauria esperat trobar-se. Va girar bruscament, com un gran rat-penat, i va anar a caure al pendent del turó, prop de la carretera. L’euga grisa s’hi va atansar, oblidant-se pràcticament de coixejar. En Gil, el pagès, d’allò més encoratjat, hi havia muntat molt de pressa.
+
+—Dispenseu —va dir—, però no m’estàveu cercant pas a mi, per un casual?
+
+—No, de debò! —va dir en Crisòfilax—. Qui podia suposar que us trobaria aquí? Simplement feia una voladeta.
+
+—Llavors és una sort que ens hàgim trobat —va dir en Gil—, i el plaer és meu; perquè jo sí que us estava buscant. És més: tinc alguna queixa de vós, és a dir, unes quantes queixes.
+
+El drac va rebufar. En Gil, el pagès, aixecà el braç per protegir-se de la bafarada ardent i l’Escapçacues li va botre endavant com un llamp, perillosament prop del morro del drac.
+
+—Ei! —va fer aquest, i va parar d’esbufegar. Va posar-se a tremolar i a anar a recules i tot el seu foc s’apagà—. Espero que no m’hàgiu vingut pas a matar, bon mestre —gemegà.
+
+—No! I ca! —va dir el pagès—. Jo no he parlat de matar per res.
+
+L’euga grisa va ensumar.
+
+—Aleshores, si m’és permès de demanar-ho, què feu amb tots aquests cavallers? —va preguntar en Crisòfilax—. Els cavallers sempre maten els dracs, si nosaltres no els matem primer.
+
+—No hi faig res, amb ells. No em són res —va respondre en Gil—. I, de tota manera, ara tots són morts o han escapat. Què hi ha del que vau dir el passat dia de Reis?
+
+—Què de què? —va dir el drac, inquiet.
+
+—Us heu retardat gairebé un mes —va dir en Gil—, i ja fa molt que ens hauríeu d’haver pagat. He vingut a cobrar. M’hauríeu de demanar disculpes per totes les molèsties que m’heu causat.
+
+—Us les demano! No calia que us preocupéssiu per venir —va fer en Crisòfilax.
+
+—Aquest cop serà tot el tresor sencer, i res de regatejar —va advertir-lo en Gil—, o us mataré i, com a avís, penjaré la vostra pell al campanar de l’església.
+
+—Sou molt cruel! —va dir el drac.
+
+—Un tracte és un tracte —va respondre en Gil.
+
+
+
+—No podria quedar-me encara que només fos amb un o dos anells i una miqueta d’or en atenció que us pago en metàl·lic? —va insistir.
+
+—Ni un botó de llautó! —va dir en Gil.
+
+I així van prosseguir una estona, regatejant i discutint com a firaires. Però el final ja us el podeu imaginar, perquè, per més coses que es poguessin dir, poca gent havia estat capaç de superar el regateig d’en Gil, el pagès.
+
+El drac va haver de caminar tot el tros de tornada fins a la cova, ja que en Gil no es va apartar del seu costat amb l’Escapçacues que l’amenaçava de ben a prop. Hi havia un senderol estret que serpentejava i pujava muntanya amunt i amb prou feines hi havia espai per a tots dos. L’euga grisa anava al darrere i semblava molt pensarosa.
+
+Hi havia, pel cap baix, cinc milles i era una caminada de déu i ajut, i en Gil avançava arrossegant els peus, bufant i panteixant, però no va treure ni un moment la vista de damunt del llangardaix. A la fi van arribar a la boca de la cova, a la banda de ponent de la muntanya. Era gran, negra, i imposava respecte, i tenia portes de llautó que penjaven de dues grans columnes de ferro. Era evident que, en els dies de l’antigor, havia estat un lloc de poder i d’orgull, ja que els dracs no construeixen aquesta mena de coses ni excaven aquestes mines, sinó que, per poc que puguin, més aviat viuen a les tombes i als amagatalls dels tresors dels homes poderosos i dels gegants d’antany. Les portes d’aquella estança fonda eren obertes de bat a bat i s’hi van aturar al llindar. Fins aquell moment, en Crisòfilax no havia tingut la més mínima oportunitat de fugir, però ara, en arribar a la porta de casa seva, va agafar embranzida i es disposà a capbussar-s’hi.
+
+En Gil el va picar amb l’espasa plana.
+
+—Ep-pala! —va dir—. Abans que hi entreu us he de dir una cosa: si no torneu de seguida amb alguna cosa de profit, us empaitaré i, d’entrada, us tallaré la cua.
+
+L’euga esbufegà. No podia imaginar-se el pagès baixant tot sol al catau del drac ni per tots els diners del món. Però en Crisòfilax, amb l’Escapçacues tan lluent i esmolada i tot plegat, estava molt disposat a creure-s’ho. I potser tenia raó, mentre que l’euga, malgrat el seu seny, potser encara no havia entès el canvi que s’havia operat en el seu amo. El pagès estava cooperant amb la seva sort i, després d’haver-hi tingut dues topades, començava a imaginar-se que cap drac no li buscaria les pessigolles.
+
+Sigui com sigui, en Crisòfilax tornà a sortir en un tres i no res amb vint lliures (de dotze unces) de pes en or i plata i un cofre d’anells, collarets i d’altres objectes preciosos.
+
+—Aquí teniu! —va dir.
+
+—On? —va demanar en Gil—. Amb això no n’hi ha ni per començar, si és això el que voleu dir. I m’hi jugo qualsevol cosa que no és ni la meitat del que teniu.
+
+—És clar que no! —va dir el drac, tot trasbalsat en descobrir que l’enginy del pagès semblava haver-se esmolat d’ençà d’aquell dia al poble—. És clar que no! Però no puc pas portar-ho tot d’un cop.
+
+—Ni en dos, no sé pas que m’hi apostaria —va afegir en Gil—. Cap dins una altra vegada i torneu a sortir a doble velocitat, o us faré tastar l’Escapçacues!
+
+—No! —va dir el drac, i va esquitllar-se a dintre i en tornà a sortir com una fletxa—. Teniu! —va fer, deixant anar una càrrega enorme d’or i dos cofres de diamants.
+
+—Ara, torneu-hi! —va comminar-lo el pagès—, i esforceu-vos-hi un xic més!
+
+—Sou molt cruel, terriblement cruel —va dir el drac tornant-hi una altra vegada.
+
+Mentrestant, però, l’euga grisa s’estava posant una mica nerviosa pel compte que li tenia. «Em pregunto qui haurà de dur tota aquesta càrrega feixuga fins a casa», pensava; i va dirigir una mirada tan trista a tots els sacs i els cofres que el pagès li va endevinar el pensament.
+
+—No t’hi amoïnis, noia! —va dir—. Farem que ho carretegi tot el vell llangardaix.
+
+—Sigueu misericordiós! —va dir el drac, que va sentir aquests mots en sortir de la cova per tercer cop amb la carregamenta més grossa de totes i un bé de déu de gemmes verdes i roges com el foc—. Pietat! Si he de carregar tot això gairebé segur que no ho resistiré i, encara que em matéssiu, no hi afegiria ni un sol sac més.
+
+—Això vol dir que encara n’hi ha més —va deduir el pagès.
+
+—Sí —va dir el drac—, prou perquè no deixi de ser respectable. —Per una estranya casualitat havia dit gairebé la veritat i, com veureu, va fer assenyadament—. Si em deixeu conservar-ne la resta —va dir molt astutament—, seré el vostre amic per sempre. I carregaré aquest tresor fins a la vostra honorable casa en lloc de dur-lo a la del rei. I, encara més, us ajudaré a defensar-lo —afegí.
+
+Aleshores el pagès va escurar-se les dents amb un branquillonet que duia a la mà esquerra i rumià intensament durant un minut.
+
+—Fet! —va dir després, fent gala d’una lloable discreció. Un cavaller hauria cobdiciat tot el tresor i, d’aquesta manera, hi hauria fet caure una maledicció al damunt. I probablement, si en Gil hagués dut el llangardaix fins a la desesperació, aquest al capdavall, amb Escapçacues o sense, s’hauria girat a lluitar. Amb la qual cosa si en Gil no hi perdia la vida, com a mínim s’hauria vist obligat a matar el seu transport i a abandonar a les muntanyes la major part del botí.
+
+Bé, allò va ser el final de la història. El pagès va atapeir-se les butxaques de joiells, només per si alguna cosa anava a mal borràs, i va carregar un petit pes a l’euga grisa. La resta la va lligar a l’esquena d’en Crisòfilax en cofres i sacs, fins que semblà un carro de mudances reials. No hi havia cap perill que s’envolés perquè la seva càrrega era massa feixuga i, a més, en Gil li havia lligat les ales.
+
+
+
+«Finalment la corda ha estat d’allò més útil!», va pensar, i va recordar el rector amb agraïment.
+
+Així doncs, ara el drac trotà, bufant i rebufant, amb l’euga a la cua i el pagès que sostenia la lluentíssima i amenaçadora Caudimòrdax. El drac no va gosar intentar cap argúcia.
+
+Malgrat els embalums, l’euga i el drac van fer més via a la tornada que no havia fet el seguici dels cavallers a l’anada. El pagès tenia pressa, entre d’altres motius perquè duia poc menjar al sarró. A més, no es refiava d’en Crisòfilax, que ja havia trencat un cop aquells juraments tan solemnes i espaterrants, i el neguitejava força com podia passar la nit sense morir o sofrir pèrdues. Abans que caigués la nit, emperò, va ensopegar una altra vegada la bona sort, ja que van atrapar mitja dotzena de servidors i de mules que havien fugit cames ajudeu-me i que ara deambulaven perduts pels Turons Feréstecs. Va haver-hi una escampadissa de por i d’esbalaïment, però en Gil els va cridar.
+
+—Ei, xicots! —va dir—. Torneu! Tinc feina per a vosaltres i bona paga mentre duri aquest viatge.
+
+Així fou com van entrar al seu servei, contents de tenir qui els guiés i pensant que potser ara cobrarien el jornal amb més regularitat del que solien. I van continuar cavalcant, set homes, sis mules, una euga i un drac; i en Gil començà a sentir-se com un senyor i va estarrufar el pit. Paraven tan poc com podien. A la nit el pagès fermava el drac amb quatre estaques, una per a cada pota, i tres homes que el vigilaven per torns. Però l’euga grisa dormia amb un ull obert, per si de cas als homes se’ls acudia d’intentar qualsevol estratagema pel seu compte.
+
+
+
+Tres dies després ja havien travessat les fronteres del seu país i la seva arribada va causar una sorpresa i un enrenou com poques vegades s’era vist entre els dos mars. Al primer poble on van parar, els van servir de franc de menjar i de beure i la meitat de la jovenalla volgué sumar-se al seguici. En Gil va triar una dotzena de xicotots cepats. Els va prometre bona paga i els va comprar les úniques muntures que pogué aconseguir. Començava a tenir algunes idees.
+
+Després d’un dia de descans, cavalcà de bell nou seguit de la nova escorta. Cantaven cançons en honor seu: rudes i simples, però que li sonaven bé a l’oïda. Hi havia gent que cridava visques i d’altra que reia. Tot plegat era un espectacle festiu i meravellós.
+
+En Gil aviat va desviar-se cap al sud i va enfilar de dret cap a casa seva, sense acostar-se per res a la cort del rei ni enviar-li cap missatge. Però les notícies de la tornada del mestre Ægidius es van escampar des de ponent com el foc i van provocar gran esverament i confusió. Arribava immediatament després de la proclamació d’un edicte reial que demanava a totes les ciutats i pobles de guardar dol per la pèrdua dels valerosos cavallers al pas de les muntanyes.
+
+Arreu on en Gil arribava, es deixaven estar del dol i engegaven les campanes a repicar; i la gent s’amuntegava a les vores dels camins cridant i agitant les gorres i els mocadors. Però escridassaven tant el drac que aquest va començar a fer-se retrets amargs pel mal negoci que havia fet. Era la cosa més humiliant que li podia passar a un de llinatge antic i imperial. Quan van fer cap a Ham, tots els gossos li bordaven desdenyosament. Tots, llevat del Garm, que només tenia ulls, orelles i nas per al seu amo. En realitat, estava absolutament fora de polleguera, i anava pegant tombarelles per tot el carrer.
+
+
+
+Ham, és clar, va fer una esplèndida rebuda al pagès; però probablement res no el va plaure més que trobar el moliner sense ganes de sorneguejar i el ferrer ben desconcertat.
+
+—No s’acabarà pas aquí, aquest assumpte, ja us ho ben dic! —va fer aquest darrer, però no podia pensar a dir res pitjor, i abaixava el cap, apesarat. En Gil, el pagès, amb els seus sis homes i els seus dotze xicotots cepats i el drac i tota la pesca, continuà turó amunt i va romandre allí ben tranquil durant algun temps. L’única persona convidada a la casa, va ser el rector.
+
+Les notícies no van trigar a arribar a la capital i la gent, oblidant el dol oficial i també la feina, es va aplegar als carrers. Feien molta cridòria i rebombori.
+
+El rei era al seu gran casal que es mossegava les ungles i s’estiregassava la barba. Entre l’aflicció i la ràbia (i l’angoixa financera), el seu humor era tan horrorós que ningú no gosava parlar-hi. Però a la fi el soroll de la ciutat arribà a les seves orelles i no li semblà que fossin planys i llàgrimes.
+
+—Què és tot aquest xivarri? —va demanar—. Digueu al poble que es tanqui a casa i guardi el dol decentment! Això més aviat sembla un corral d’ànecs.
+
+—El drac ha tornat, senyor —li van respondre.
+
+—Què? —va fer el rei—. Reuniu els cavallers, o el que en quedi!
+
+—No cal, senyor —van respondre-li—. Amb el mestre Ægidius al darrere, el drac és dòcil com un xai. O això és el que ens han dit. La notícia fa poc que ha arribat i els informes són confusos.
+
+—Gràcies a déu! —va dir el rei amb el posat notablement alleujat—. I pensar que havíem ordenat que demà li cantessin un ofici, al pobre home! Cancel·leu-lo! Hi ha cap senyal del nostre tresor?
+
+—Els informes diuen que n’hi ha una veritable muntanya, senyor —li van contestar.
+
+—Quan arribarà? —va demanar el rei, impacient—. Un bon home, aquest Ægidius, envieu-nos-el tan bon punt arribi!
+
+
+
+No els va fer gaire gràcia de respondre a això, però, a la fi, algú va fer el cor fort i va dir:
+
+—Amb la vostra vènia, senyor, però diuen que el pagès ha girat de dret cap a casa seva. Sens dubte s’afanyarà a venir cap aquí a la primera avinentesa, amb la vestimenta adequada.
+
+—Sens dubte —va fer el rei—. Però, tant se val, la seva vestimenta! No havia d’anar a fer-hi res, a casa seva, sense haver-nos informat abans. Estem molt molestos.
+
+Es va presentar una primera oportunitat, i va passar, i en van passar moltes més. De fet, en Gil, el pagès, feia una setmana llarga o més que havia tornat i encara no havia arribat a la cort cap paraula o notícia seva. Al desè dia la ràbia del rei esclatà.
+
+—Envieu-me’l a buscar! —va ordenar, i així ho van fer. Fins a Ham hi havia una bona jornada a cavall i una altra de tornada.
+
+—No vol venir, senyor! —va dir, tremolós, el missatger dos dies després.
+
+—Llamps del cel! —va exclamar el rei—. Ordeneu-li que es presenti dimarts vinent o anirà a parar a la presó de per vida!
+
+—Dispenseu, senyor, però continua sense voler venir —va dir un missatger completament abatut quan va tornar tot sol un dimarts.
+
+—Cent mil trons! —va cridar el rei—. Fiqueu-me aquest boig a la presó tot d’una! Envieu ara mateix alguns homes que em portin aquest ronyós encadenat! —va bramar als qui eren a la vora.
+
+—Quants homes? —van barbotejar—. Hi ha el drac i…, i l’Escapçacues, i…
+
+—I falòrnies i martingales! —va dir el rei. Tot seguit va fer dur el seu cavall blanc i reuní els seus cavallers (o el que en quedava) i una companyia d’homes armats i va sortir cavalcant, fet una fera. Tothom va treure el cap de casa amb gran sorpresa.
+
+Però ara el pagès s’havia convertit en alguna cosa més que en l’Heroi del País: era el Fill Predilecte de la Terra, i la gent no victorejava ni els cavallers ni els soldats que passaven, tot i que encara es llevava el barret davant el rei. A mesura que aquest s’acostava a Ham, les mirades esdevingueren més i més sorrudes, en alguns pobles la gent va tancar les portes i no s’hi va veure ni una ànima.
+
+Aleshores el rei va passar d’una ira ardent a una còlera freda. Quan finalment arribà al riu, part d’enllà del qual hi havia Ham i la casa del pagès, tenia una mirada severa. Li va passar pel cap de calar-hi foc. Però en Gil, el pagès, era al pont, muntat en l’euga grisa, amb l’Escapçacues a la mà. No s’hi veia ningú més, llevat del Garm, que jeia a la carretera.
+
+—Bon dia, senyor! —va dir en Gil ben alegrement, sense esperar que li dirigissin la paraula.
+
+El rei li va clavar una llambregada d’allò més freda.
+
+—Les vostres maneres no són adequades en presència nostra —va dir—, però això no us excusa de no venir quan se us crida.
+
+—No hi havia pensat pas, senyor, ho reconec —va dir en Gil—. Jo tinc els meus propis assumptes i ja he malgastat prou temps en els vostres encàrrecs.
+
+—Cent mil trons! —va exclamar el rei, encès de ràbia altra vegada—. Al diable vós i les vostres insolències! Després d’això, no rebreu cap recompensa; i podeu considerar-vos amb sort si escapeu de la forca. Perquè, com no supliqueu el nostre perdó ara i aquí i ens torneu l’espasa, sereu penjat.
+
+—Eh? —va fer en Gil—. Jo ja tinc la meva recompensa, em penso. Qui troba guarda, i qui guarda té, que diem per aquí. A mi em sembla que l’Escapçacues està millor a les meves mans que no pas a les de la vostra gent. Però, es pot saber per a què voleu tota aquesta colla de cavallers i de soldats? —va demanar—. Si veniu de visita, amb més pocs seríeu més ben rebut. I, si el que voleu és agafar-me, aleshores us en caldran molts més.
+
+Al rei se li va tallar l’alè i els cavallers van enrojolar-se i miraren de reüll. Alguns dels soldats van somriure, car el rei els donava l’esquena.
+
+—Doneu-me la meva espasa! —va cridar el rei, retrobant la veu però descuidant-se del plural.
+
+—Doneu-me la vostra corona! —va dir Gil: una demanda esbalaïdora, que mai no s’havia sentit en tots els dies del Regne Mitjà.
+
+—Llamps del cel! Agafeu-me’l i lligueu-me’l! —va exclamar el rei, més enrabiat del que era capaç de suportar—. Per què vacil·leu? Agafeu-lo o mateu-lo!
+
+Els soldats van tirar endavant.
+
+—Socors!, socors!, socors! —va cridar el Garm.
+
+En aquell precís instant, el drac va alçar-se de sota el pont. Havia romàs allí amagat, enfonsat al riu, sota el marge de l’altra riba. Ara deixà anar una bafarada terrible, car havia begut molts galons d’aigua. Immediatament es va produir una boira molt espessa, en la qual només es podien distingir els ulls vermells del drac.
+
+
+
+—Escampeu la boira, ximples! —va bramular—, o bé us trinxaré. Ja hi ha cavallers que jeuen erts al pas de les muntanyes, i aviat n’hi haurà més al riu. No n’hi haurà prou amb tots els cavallers i tots els homes del rei! —va rugir.
+
+Llavors saltà endavant i va clavar les urpes al cavall blanc del rei; i la bèstia va arrencar a galopar com els cent mil trons a què el rei es referia tan sovint. Els altres cavallers el van seguir amb igual rapidesa: alguns havien topat anteriorment amb el drac i no en tenien un bon record. Els soldats corrien cames ajudeu-me en totes direccions, excepte cap a Ham.
+
+El cavall blanc només tenia una esgarrapada i no li van permetre de fugir gaire lluny. Transcorreguts uns instants, el rei el va fer tornar. Com a mínim el seu cavall l’obeïa i ningú no podia dir que tenia por de cap home ni de cap drac sobre la capa de la terra. Quan va tornar, la boira ja havia escampat, però també havien escampat tots els seus cavallers i soldats. Ara, amb el rei parlant tot sol a un pagès cepat que tenia l’Escapçacues i, a més, un drac, les coses semblaven molt diferents.
+
+Però la conversa no va arreglar res. El pagès era tossut. No volia cedir, però tampoc no volia lluitar, encara que el rei el desafià a un combat individual allí mateix i tot d’una.
+
+—I ca, senyor! —deia rient—. Aneu-vos-en a casa i tempereu-vos! No us vull fer cap mal, però més val que marxeu o, sinó, no podré respondre del llangardaix. Bon dia!
+
+
+
+I aquest va ser el final de la Batalla del Pont de Ham. El rei no va aconseguir mai ni un penic del tresor, ni cap paraula de disculpa per part d’en Gil, el pagès, que començava a tenir una boníssima opinió de si mateix. És més: a partir d’aquell dia va cessar el domini del Regne Mitjà en aquella contrada. En moltes milles a la rodona, els home van prendre en Gil com a senyor seu. El rei, amb tots els seus títols, mai no va aconseguir que ni un sol home mogués guerra contra el rebel Ægidius, perquè s’havia convertit en el Fill Predilecte de la terra i en objecte de moltes cançons, fins al punt que era impossible censurar totes les trobes que celebraven les seves gestes. La cançó més popular de totes feia referència a l’entrevista al pont en cent rodolins heroico-burlescos.
+
+En Crisòfilax va romandre molt de temps a Ham, per a gran profit d’en Gil; perquè l’home que té un drac amansit és naturalment respectat. El tenia allotjat, amb permís del rector, al graner de la rectoria i el vigilaven els dotze xicots cepats. D’aquesta manera es va crear el primer dels títols d’en Gil: Dominus de Domito Serpente que, en vulgar, és Senyor del Llangardaix Amansit o, abreujadament, d’Amansit. Com a tal va ser honorat pertot arreu, tot i que encara pagava un tribut nominal al rei: sis cues de bou i una gerra de cervesa, que lliurava el dia de Sant Maties, que era la data de l’entrevista al pont. Però no trigà gaire a ascendir de senyor a comte i les terres del comte de l’Amansit eren, certament, d’una gran extensió.
+
+Alguns anys més tard, va esdevenir Príncep Julius Ægidius i el tribut deixà de pagar-se ja que en Gil, que era fabulosament ric, s’havia construït un palau d’una gran magnificència i havia reunit una nombrosa força de soldats. Anaven molt lluents i contents perquè els seus pertrets eren els millors que es trobaven al mercat. Els dotze xicots cepats en van ser nomenats capitans. El Garm duia un collar d’or i, mentre va viure, va rondar a pler, convertit en un gos orgullós i feliç, però que els altres gossos no podien suportar perquè esperava que el tractessin amb el mateix respecte que causava el temor i la magnificència del seu amo. L’euga grisa va passar el final dels seus dies en pau i no deixà traspuar cap de les seves reflexions.
+
+
+
+A la fi, és clar, en Gil es convertí en rei, el rei del Regne Petit. Va ser coronat a Ham amb el nom d’Ægidius Draconarius; però era més conegut com el vell Gil del Llangardaix. Perquè la llengua vulgar es va posar de moda a la seva cort, cap dels seus parlaments no es va fer en llatí. La seva dona esdevingué una reina descomunal i majestuosa i va dur els comptes de palau amb mà ferma. No hi havia manera d’escapar-se’n ni fent un rodeig… perquè hauria estat un rodeig inacabable.
+
+
+
+Així doncs, en Gil va arribar a ser vell i venerable i tenia una barba blanca que li arribava fins als genolls, una cort molt respectable en què els mèrits eren sovint recompensats i un orde totalment nou de cavalleria. Es tractava dels Guardians del Llangardaix que tenien com a ensenya un drac, i els dotze xicots cepats n’eren els membres més antics.
+
+Hem d’admetre que, en gran part, en Gil devia el seu ascens a la sort, tot i que va mostrar cert enginy per aprofitar-se’n. Tant la sort com l’enginy li van durar fins a la fi dels seus dies, per a gran benefici dels seus amics i veïns. Va recompensar el rector molt generosament i fins i tot el ferrer i el moliner en van tenir llur bocinet. Car en Gil podia permetre’s d’obrar amb liberalitat. Quan va arribar a rei, però, va promulgar una dura llei contra les prediccions de mals averanys i, dels molins, en va fer un monopoli reial. El ferrer va canviar el seu negoci pel de pompes fúnebres; però el moliner es convertí en servent fervorós de la corona. El rector va arribar a bisbe i va establir la seva seu a l’església de Ham, que fou considerablement engrandida.
+
+
+
+Els qui encara viuen a les terres del Regne Petit trobaran en aquesta història la veritable explicació dels noms que actualment duen alguns dels seus pobles i ciutats. En efecte, els entesos en aquestes qüestions ens informen que, després que Ham esdevingué capital del nou reialme, i per una confusió natural entre el senyor de Ham i el senyor de l’Amansit (Tame), va passar a ser coneguda com a Tame (que en la llengua vernacla insular vol dir «amansit»), nom que encara conserva avui dia; perquè Thame amb una h és una errada injustificable. En consideració a la memòria del drac, a qui devien llur fama i llur fortuna, els Draconarii van construir-se un gran casal quatre milles al nord-est de l’Amansit, al mateix indret on en Gil i en Crisòfilax s’havien trobat per primera vegada. Aquest lloc va ser conegut a tot el reialme com a Aula Draconaria o, en vulgar, Palaullangardera, a causa del nom del rei i de la seva divisa.
+
+D’aquells temps ençà l’aspecte de la terra ha canviat i han sorgit i desaparegut reialmes, han estat tallats boscos sencers i el curs d’alguns rius ha quedat modificat i només queden els turons, erosionats per les pluges i els vents.
+
+Però la denominació antiga encara perdura, per més que la gent ho anomena (o així m’ho han dit) Pallanguera, ja que els pobles han perdut el seu orgull. Però, a l’època a què fa referència aquest conte, era Palaullangardera, i Residència Reial; i les senyeres amb el drac onejaven per damunt dels arbres i tot rutllà bé i alegrement, mentre l’Escapçacues fou damunt la capa de la terra.
+
+
+
+
+
+EPÍLEG
+
+
+
+
+En Crisòfilax va suplicar sovint que el deixessin en llibertat i, a més, era car de peixar perquè no parava de créixer, cosa que els dracs, com els arbres, fan durant tota la vida. Així doncs, després d’alguns anys, quan en Gil es va sentir consolidat i segur, va deixar que el pobre llangardaix tornés a casa seva. Es van separar amb moltes frases d’estimació mútua i amb un pacte de no-agressió. Al fons de tot del seu cor pervers, el drac se sentia tan amablement predisposat envers en Gil com un drac s’ho pot sentir envers algú. Al cap i a la fi hi havia l’Escapçacues: li podien haver pres fàcilment la vida, i també tot el tresor. De fet encara tenia una bona picossada del tresor a casa seva, a la cova (tal i com en Gil havia sospitat).
+
+
+
+Va volar cap a les muntanyes, lentament i penosa, ja que les ales se li movien maldestres després de tant de temps en desús i perquè la seva talla i la cuirassa havien crescut molt. En arribar a casa, tot d’una va fer fora un drac jove que havia comès la temeritat d’instal·lar-se a la cova mentre ell, en Crisòfilax, era fora. Es diu que el soroll de la baralla va sentir-se fins a Venedotia. Quan, amb gran satisfacció, va haver-se cruspit el seu oponent derrotat, se sentí millor i les cicatrius de la seva humiliació van quedar assuaujades i va dormir durant molt de temps. Però a la fi, en desvetllar-se, va sortir a la recerca d’aquell gegant, el més alt i més estúpid de tots, que era qui una nit d’estiu, temps enrere, havia començat l’embolic. Li’n va cantar unes quantes de fresques i el pobre gegant va quedar-se molt atribolat.
+
+—Era un trabuc? —va dir, tot gratant-se la closca—. I jo que em pensava que havien estat els tàvecs!
+
+FINIS
+
+o en vulgar
+
+Fi
+
+
+
+
+
+The Tolkien Society
+
+
+The Tolkien Society va ser fundada l’any 1969 i en l’actualitat és una societat benèfica domiciliada al Regne Unit. Constitueix un punt de reunió per a tota aquella gent interessada en les obres del professor J. R. R. Tolkien, que n’és el President d’Honor. La Societat és independent dels editors de Tolkien.
+
+The Tolkien Society edita diverses publicacions amb articles i comentaris sobre les obres de Tolkien i organitza reunions anuals i visites a llocs d’interès per als associats.
+
+Per a més detalls hom pot contactar:
+
+THE TOLKIEN SOCIETY
+
+The Secretary (B)
+
+35, Amesbury Crescent
+
+HOVE, East Sussex
+
+BN3 5RD ANGLATERRA
+
+
+
+
+
+JOHN RONALD REULEN TOLKIEN (Bloemfontein, Sud-àfrica, 3 de gener de 1892 — Bournemouth, Anglaterra, 2 de setembre de 1973) fou un filòleg, professor universitari, poeta, i novel·lista anglès. Va ensenyar anglosaxó (1925-45) i llengua i literatura angleses (1945-59) a la universitat d’Oxford.
+
+És impossible de separar la seva faceta d’erudit, amb estudis sobre Chaucer i el poema heroic Beowulf, de la seva obra de novel·lista, que ja va començar mentre era estudiant a Oxford, i que continuà, segons deia ell mateix, solament «per a la seva pròpia satisfacció i amb poques esperances que aquell treball pogués interessar ningú».
+
+La composició d’El Senyor dels Anells durà des del 1936 fins al 1949, i mentre hi treballava va escriure El hòbbit (1937), que féu servir com una introducció per als seus fills.
+
+Tolkien va escriure altres obres com a introducció o complement del món mitològic creat per ell, potser el producte més impressionant que ha sorgit mai de la imaginació d’un sol home. A El Silmaríl·lion (1977), per exemple, Tolkien pretenia narrar la creació mitològica del seu món, la història dels elfs i dels humans fins al moment en què comença la narració d’El hòbbit; i a Els fills d’en Hurin (2007), Tolkien pretenia narrar una part de la història dels Edain (els homes), centrant-se en la figura d’Hurin i la seva descendència.
+
+El 2008 The Times va situar l’escriptor anglès en sisena posició del seu llistat dels «50 escriptors britànics més importants des del 1945».
+
+
+
+
+

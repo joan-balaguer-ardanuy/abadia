@@ -1,0 +1,895 @@
+Estrenada al Théâtre du Petit-Bourbon el 1659, Les melindroses ridícules és una comèdia, breu i hilarantment divertida. La seva tesi és el del casament per força de les filles. La manera de parlar que tenen aquestes, Cati i Mundeta, les converteix en inintel·ligibles per a la resta de personatges amb la corresponent gràcia i joc que això desencadenava a escena. El marquès de Mascarilla, criat de La Grange, do de gents i amb un bon bec, ve com l’anell al dit per rifar-se-les mentre se sent un públic que no hi és, però que s’esbutza de les rialles.
+
+
+
+
+
+Molière
+
+
+
+
+
+Les melindroses ridícules
+
+
+
+
+ePUB v1.0
+
+Puck 10.05.22
+
+
+
+
+
+Títol original: Les Précieuses ridicules
+
+Molière, 1659
+
+Traducció: Miquel Desclot, 2021
+
+Edició digital: Puck (v1.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+LES MELINDROSES RIDÍCULES
+
+
+Comèdia
+
+Representada per primer cop al Théâtre
+
+du Petit-Bourbon,
+
+el 18 de novembre del 1659,
+
+i impresa el mateix any.
+
+
+
+
+
+PREFACI
+
+
+És ben estrany que s’imprimeixin les obres a l’esquena dels autors. Jo no sé imaginar res de tan injust, i perdonaria qualsevol altra violència més aviat que no pas aquesta.
+
+No és pas que jo ara vulgui fer el modest i menysprear, per honor, la meva comèdia. Amb ben poca traça ofendria tot París, si l’acusava d’haver pogut aplaudir una ximpleria. Com que el públic és el jutge absolut d’aquesta mena d’obres, seria ben impertinent que jo el desmentís. I encara que jo tingués la pitjor opinió de les meves Melindroses ridícules abans de la representació, ara haig de creure que bé deuen valdre poc o molt, ja que tanta gent a l’una n’ha dit bé. Però com que una gran part de les gràcies que s’hi han trobat depenen de l’acció i del to de la veu, m’importava que no les despullessin d’aquests ornaments, i trobava que amb l’èxit que havien tingut a les representacions ja n’hi havia prou. Havia resolt, dic, de mostrar-les només en escena, per no donar peu a la dita «és molt bella a la llum de la candela, però la llum del dia la revela». I jo no volia que saltessin directament del teatre de Bourbon a la galeria del Palais. Tanmateix, no ho he pogut evitar, i he tingut la desgràcia de veure una còpia de la meva obra anar furtivament a les mans dels llibreters, acompanyada d’un privilegi obtingut per sorpresa. Per més que cridés «O tempora, o mores!», em van fer veure la necessitat d’anar a l’estampa, o bé sostenir un plet; però el darrer mal és encara pitjor que el primer. Calia, doncs, deixar-se portar per la fatalitat, i consentir a una cosa que farien igualment sense mi.
+
+Déu meu, quin compromís, treure un llibre a la llum! I que n’és de novell, un autor, la primera vegada que el publiquen! Encara, si m’haguessin deixat temps, hauria pogut pensar en el meu interès, i hauria pres totes les precaucions que els senyors autors, ara els meus confrares, tenen costum de prendre en semblants ocasions. A més d’intentar prendre, a desgrat seu, algun gran senyor com a protector de la meva obra —del qual hauria temptat la liberalitat amb una epístola dedicatòria d’allò més florida—, hauria assajat de fer-hi un prefaci ben bonic i ben docte. I no em manquen pas llibres que m’haurien fornit tot el que es pot dir d’erudit sobre la tragèdia i la comèdia, l’etimologia de totes dues, el seu origen, la seva definició i tota la resta. Hauria parlat també amb els meus amics, que per a la recomanació de la meva obra no m’haurien negat uns quants versos en francès o en llatí. En tinc algun que fins i tot m’hauria elogiat en grec, i ningú ignora que un elogi en grec al capdavant d’un llibre és d’una eficàcia meravellosa. Però em fan sortir a la llum sense ni deixar-me temps de reconèixer-me; ni tan sols se’m concedeix la llibertat de dir quatre paraules per justificar les meves intencions sobre el tema de la comèdia. Hauria volgut fer notar que l’obra es manté sempre dins els límits de la sàtira honesta i permesa; que les coses més excel·lents estan exposades a ser copiades per les pitjors mones d’imitació, que bé es mereixen ser escarnides; que aquestes imitacions vicioses d’allò que hi ha de més perfecte han estat sempre la matèria de la comèdia; i que, per la mateixa raó que els autèntics savis i els autèntics herois no se senten ofesos pel Doctor de la comèdia i el Capità, ni tampoc els jutges, els prínceps ni els reis per veure Trivelí, o algun altre personatge, fer ridículament de jutge, de príncep o de rei, així mateix les autèntiques melindroses farien malament d’enfadar-se perquè s’hi representin unes ridícules que les imiten malament. Però en fi, com ja he dit, no em deixen temps de respirar, i el senyor de Luynes té pressa per relligar els plecs: en bona hora, si Déu ho ha volgut així!
+
+
+
+
+
+PERSONATGES
+
+
+LA GRANGE, enamorat carbassejat
+
+DU CROISY, enamorat carbassejat
+
+GÒRGIBUS, bon burgès
+
+MUNDETA, filla de Gòrgibus, melindrosa ridícula
+
+CATI, neboda de Gòrgibus, melindrosa ridícula
+
+MARIONA, serventa de les melindroses ridícules
+
+ALMANSOR, lacai de les melindroses ridícules
+
+EL MARQUÈS DE MASCARILLA, criat de la Grange
+
+EL VESCOMTE DE DIDALET, criat de du Croisy
+
+Dos portadors de cadira
+
+Veïnes
+
+Violinistes
+
+
+
+
+
+ESCENA 1
+
+
+La Grange, Du Croisy
+
+DU CROISY Senyor la Grange…
+
+LA GRANGE Què?
+
+DU CROISY Mireu-me una mica sense riure.
+
+LA GRANGE Què hi ha?
+
+DU CROISY Què me’n dieu de la nostra visita? N’esteu gaire satisfet?
+
+LA GRANGE A parer vostre, tenim raó d’estar-ne cap dels dos?
+
+DU CROISY No del tot, si val a dir la veritat.
+
+LA GRANGE Doncs jo us confesso que n’estic ben escandalitzat. ¿On s’és vist, digueu, que dues fleumes de província com aquestes facin les desmenjades, i que dos homes com nosaltres siguin tractats amb tant menyspreu? Amb prou feines s’han dignat a fer-nos seure. No havia vist mai tant xiuxiuejar com feien elles, ni tant badallar, ni tant fregar-se els ulls, ni tant demanar a cada punt i moment «Quina hora és?». ¿Han respost altra cosa que sí o no a tot el que els hàgim dit? ¿I no em confessareu, per acabar, que ni que haguéssim estat els últims micos del món, no ens haurien pogut rebre pitjor?
+
+DU CROISY Em sembla que us ho agafeu molt a la valenta.
+
+LA GRANGE I tant si me l’hi agafo! Me l’hi agafo tant que me’n vull venjar, d’aquesta impertinència. Jo ja sé d’on ve, tot aquest menyspreu. El mal aire melindrós no tan sols ha infectat París, sinó que també s’ha escampat per les províncies, i les nostres donzelles ridícules se n’han empassat una bona alenada. En una paraula, són una barreja de melindrosa i de coqueta. I ja veig el que cal fer perquè ens rebin bé; si em voleu creure, els jugarem una passada que els farà adonar de la seva estupidesa i els ensenyarà a conèixer una mica més bé la gent.
+
+DU CROISY I això?
+
+LA GRANGE Tinc un criat que es diu Mascarilla i que, a parer de molta gent, és eixerit com ell sol; perquè a hores d’ara ja no hi ha res que vagi més barat que l’enginy. Aquest criat és un extravagant que s’ha ficat al cap de voler fer el senyor. Se les dona de galant i d’entès en versos, i menysprea els altres criats fins al punt de tenir-los per bàrbars.
+
+DU CROISY Doncs bé, què teniu intenció de fer?
+
+LA GRANGE Què penso fer? Doncs… Però abans sortim d’aquí.
+
+
+
+
+
+ESCENA 2
+
+
+Gòrgibus, La Grange
+
+GÒRGIBUS Doncs què? Diu que heu vist la meva neboda i la meva filla: aniran bé, les coses? Quin és el resultat de la visita?
+
+LA GRANGE D’això, elles us en podran informar més bé que no pas nosaltres. Tot el que us en podem dir nosaltres és que us estem molt agraïts pel favor que ens heu fet, i que som els vostres humils servents.
+
+GÒRGIBUS Caram! Sembla que no en surten gaire satisfets. Què els pot haver disgustat? Això ho haig d’esbrinar una mica. Ja ho crec!
+
+
+
+
+
+ESCENA 3
+
+
+Mariona, Gòrgibus
+
+MARIONA Què voleu, senyor?
+
+GÒRGIBUS On són les senyores?
+
+MARIONA A la cambra.
+
+GÒRGIBUS Què fan?
+
+MARIONA Pomada pels llavis.
+
+GÒRGIBUS Ja n’hi ha prou, de potingues! Digue’ls que baixin. Amb la seva pomada, aquestes bergantelles em penso que tenen ganes d’arruïnar-me. No veig enlloc res més que clara d’ou, llet virginal, i altres mil requincalles que ni sé què són. D’ençà que som aquí ja han gastat almenys el llard d’una dotzena de garrins, i amb els peus de moltó que fan servir en podrien viure cada dia ben bé quatre criats.
+
+
+
+
+
+ESCENA 4
+
+
+Mundeta, Cati, Gòrgibus
+
+GÒRGIBUS ¿Voleu dir que per empastifar-vos els morrets cal fer tanta despesa? Digueu-me, què els heu fet, a aquests senyors, que els he vist sortir tan despagats? ¿No us havia encomanat de rebre’ls com convé, a aquells que vull donar-vos per marits?
+
+MUNDETA ¿I quina consideració voleu que ens mereixi, pare, la manera de fer tan irregular d’aquests senyors?
+
+CATI ¿Com voleu, oncle, que una noia amb dos dits de front es pugui entendre amb persones així?
+
+GÒRGIBUS I doncs, què n’heu de dir?
+
+MUNDETA Quins galants estan fets! ¿Com es pot començar parlant de casament?
+
+GÒRGIBUS I doncs, per on vols que comencin? Pel concubinatge? ¿No és una manera de procedir perquè ens en puguem felicitar tant vosaltres com jo? Hi ha cosa més correcta que aquesta? I el lligam sagrat al qual aspiren, no és una prova de l’honestedat de les seves intencions?
+
+MUNDETA Ai, pare, això que dieu és digne del més vulgar dels vilans. Em fa vergonya sentir-vos parlar així. Us hauríeu de fer ensenyar l’aire delicat de les coses.
+
+GÒRGIBUS No estic per aires ni cançons, jo. El que et dic és que el casament és una cosa santa i sagrada, i que començar per aquí és cosa de gent honesta.
+
+MUNDETA Déu meu, si tothom se us assemblés, les novel·les serien ben aviat acabades! Si que seria maco, si de bon començament Cyrus ja es casés amb Mandane, i Aronce es trobés casat amb Clélie a la primera!
+
+GÒRGIBUS Amb què em surt, ara, aquesta?
+
+MUNDETA Pare, la meva cosina us dirà, com jo, que el casament no ha d’arribar sinó després de les altres aventures. Per fer-se agradable, un festejador ha de saber vendre els seus millors sentiments, mostrar-se suau, tendre i apassionat, i el seu festeig ha de ser exquisit en les formes. Primerament, ha de veure al temple, al passeig o en alguna cerimònia pública, la persona de qui s’enamori; o bé algun parent o amic l’ha de portar fatalment a casa d’ella, per sortir-ne tot somiós i melancòlic. Durant un temps amagarà la seva passió a l’objecte del seu amor, tot i que prou li farà unes quantes visites, durant les quals no deixarà mai de plantejar alguna qüestió galant que exerciti l’enginy de l’audiència. I arriba el dia de la declaració, que ordinàriament s’ha de fer en un passeig d’algun jardí, quan la resta de la companyia s’hagi allunyat una mica; darrere d’aquesta declaració ve un emmurriament que ens fa envermellir les galtes i que, durant una estona, allunya l’enamorat de la nostra presència. Però ell no triga a trobar la manera d’apaivagar-nos, d’acostumar-nos insensiblement al discurs de la seva passió, i d’arrencar-nos la confessió que tant li fem gruar. Després d’això venen les aventures, els rivals que es fiquen pel mig d’una inclinació establerta, les persecucions dels pares, les gelosies concebudes sota falses aparences, els laments, els desconsols, els raptes, i el que ve al darrere. És així com es fan les coses amb bones maneres, i aquestes són unes regles que, en bona galanteria, no es poden saltar alegrement. Però això d’arribar sense embuts a la unió conjugal, no fer la cort sinó en signar el contracte de matrimoni, és començar la novella pel final! Pare, us ho torno a dir, no hi ha manera de fer més mercantil que aquesta. Només de pensar-hi, me n’esborrono tota.
+
+GÒRGIBUS Quin dimoni de galimaties sento? D’això se’n diu un estil elevat.
+
+CATI En efecte, oncle, la meva cosina ha tocat el viu de la qüestió. Com voleu que acollim un personal tan ignorant de les lleis de la galanteria? M’hi jugaria el que fos que no han vist mai el mapa de Tendre, i que Carta-d’Amor, Sol·licitud, Carta-Galant i Vers-Bonic són terres incògnites per a ells. ¿No veieu que tota la seva persona ho palesa, i que no tenen gens aquell aire que dona d’entrada bona opinió de la gent? Venir de visita d’amor amb el camal desguarnit, el barret desarmat de plomes, el cap amb els cabells irregulars, i el vestit patint indigència de cintes… Déu meu, quina mena d’enamorats són aquests! Quina frugalitat d’agençament i quina eixutesa de conversa! No es pot sofrir, no es pot aguantar. A més a més, m’he fixat que els sobrecolls no eren de bona factura, i que a les calces els faltava ben bé un pam d’amplada.
+
+GÒRGIBUS Em penso que totes dues són boges, i no hi entenc ben res, en aquest galimaties. Cati, i vós, Mundeta…
+
+MUNDETA Si us plau, pare, oblideu aquests noms estranys i digueu-nos d’una altra manera.
+
+GÒRGIBUS Què voleu dir, aquests noms estranys! Que no són els vostres noms de bateig?
+
+MUNDETA Déu meu, que en sou de vulgar! Una de les coses que més em meravella és que hàgiu pogut tenir una filla tan eixerida com jo. Heu sentit mai parlar en bon estil de Catis i Mundetes? Heu de confessar que n’hi hauria prou amb un d’aquests noms per desacreditar la més bella novel·la del món!
+
+CATI És veritat, oncle, que una orella una mica delicada pateix furiosament en sentir pronunciar aquestes paraules; i el nom de Polixena que la meva cosina ha escollit, i el d’Aminta que m’he donat jo, tenen una gràcia que heu de reconèixer vós i tot.
+
+GÒRGIBUS Escolteu, només hi ha una paraula que valgui: jo no admeto que tingueu altres noms que els que us van donar els vostres padrins i padrines; i pel que fa a aquests senyors de qui parlem, jo conec les seves famílies i els seus possibles, i vull de totes passades que us disposeu a rebre’ls per marits. Ja estic cansat de mantenir-vos, i la custòdia de dues noies és una càrrega una mica massa feixuga per un home de la meva edat.
+
+CATI Pel que a mi fa, oncle, tot el que us puc dir és que el matrimoni em sembla una cosa d’allò més xocant. ¿Com es pot suportar la idea de dormir al costat d’un home totalment nu?
+
+MUNDETA Permeteu que respirem una mica entre la bona societat de París, on tot just acabem d’arribar. Deixeu-nos teixir amb llibertat la trama de la nostra novel·la, i no en precipiteu tant la conclusió.
+
+GÒRGIBUS Sense cap mena de dubte, estan rematades. Us torno a dir que no entenc res de tot aquest guirigall; aquí mano jo, i per acabar d’una vegada tants discursos, us dic que o us caseu abans de poc o a fe meva que sereu religioses: ho juro pel més sagrat.
+
+
+
+
+
+ESCENA 5
+
+
+Cati, Mundeta
+
+CATI Déu meu, estimada, el teu pare té la forma ben enfonsada en la matèria! I quina intel·ligència més espessa! I quina ànima més plena d’ombra!
+
+MUNDETA Què vols fer-hi, estimada? N’estic tota confosa. Em costa molt de creure que pugui ser realment filla seva, i estic convençuda que un dia o altre algun atzar em descobrirà un bressol més il·lustre.
+
+CATI Jo també n’estic segura; sí, totes les aparences hi estan a favor; i pel que a mi fa, pensant-hi bé, crec que també…
+
+
+
+
+
+ESCENA 6
+
+
+Mariona, Cati, Mundeta
+
+MARIONA Hi ha un lacai que demana si sou a casa, i diu que el seu amo us voldria venir a veure.
+
+MUNDETA Heu d’aprendre a explicar-vos amb menys vulgaritat, ximpleta! Digueu: «Hi ha un necessari que demana si esteu en disposició de fer-vos visibles».
+
+MARIONA Senyora, jo no entenc el llatí, i no he après, com vós, filofia a El gran Cirus.
+
+MUNDETA Impertinent! Com es pot suportar, això? I qui és, l’amo d’aquest lacai?
+
+MARIONA L’ha anomenat marquès de Mascarilla.
+
+MUNDETA Ah, estimada, un marquès! Sí, aneu a dir que estem visibles. Deu ser, sens dubte, alguna eminència que ha sentit a parlar de nosaltres.
+
+CATI Ben segur, estimada.
+
+MUNDETA L’hem de rebre en aquesta sala, més que no pas a la cambra. Arreglem-nos una mica els cabells, almenys, i mantinguem la reputació. De pressa, porteu-nos el conseller de les gràcies.
+
+MARIONA A fe que no sé de quina bèstia es tracta: parleu cristià, si voleu que us entengui.
+
+CATI Porteu-nos el mirall, ignorant, i guardeu-vos d’embrutar-ne el vidre amb la comunicació de la vostra imatge.
+
+
+
+
+
+ESCENA 7
+
+
+Mascarilla, dos portadors
+
+MASCARILLA Ei, portadors, alerta! Ei, ei, ei, ei, ei, ei. Em penso que aquests brètols duen intenció de masegar-me a còpia de topar contra les parets i els empedrats.
+
+PRIMER PORTADOR Punyeta! És que la porta és estreta: sou vós que heu volgut que entréssim fins aquí.
+
+MASCARILLA És clar que sí, carallots. ¿Que potser volíeu que exposés la riquesa de les meves plomes a les inclemències de l’estació plujosa i que m’enfangués les sabates? Vinga, traieu la cadira d’aquí.
+
+SEGON PORTADOR Pagueu-nos, doncs, si us plau, senyor.
+
+MASCARILLA Què?
+
+SEGON PORTADOR Dic, senyor, que ens doneu els diners, si us plau.
+
+MASCARILLA (Donant-li una bufetada.) On s’és vist, galifardeu, demanar diners a una persona de la meva qualitat!
+
+SEGON PORTADOR És així com es paga els pobres? Ja en tirarem un bon tros a l’olla, de la vostra qualitat!
+
+MASCARILLA Ah, ja us ensenyaré jo qui sou! Aquests canalles gosen rifar-se’m.
+
+PRIMER PORTADOR (Agafant un dels bastons de la cadira.) Arri, pagueu-nos ara mateix.
+
+MASCARILLA Com?
+
+PRIMER PORTADOR Dic que vull els diners de seguida.
+
+MASCARILLA És prou raonable.
+
+PRIMER PORTADOR De pressa, doncs.
+
+MASCARILLA Oi tant. Tu, almenys, parles com cal; però l’altre és un pocapena que no sap el que es diu. Té: estàs content?
+
+PRIMER PORTADOR No, no estic content: heu donat una bufetada al meu company, i…
+
+MASCARILLA A poc a poc. Té, això és per la bufetada. A les bones, ho aconseguireu tot, de mi. Apa, veniu-me a buscar aviat per anar al Louvre, a l’ajocar reial.
+
+
+
+
+
+ESCENA 8
+
+
+Mariona, Mascarilla
+
+MARIONA Senyor, les senyoretes vindran de seguida.
+
+MASCARILLA No cal pas que s’afanyin: aquí hi estic apostat prou còmodament per esperar tant com calgui.
+
+MARIONA Ja són aquí.
+
+
+
+
+
+ESCENA 9
+
+
+Mundeta, Cati, Mascarilla, Almansor
+
+MASCARILLA (Després d’haver saludat.) Senyores, sens dubte us deurà sorprendre l’audàcia de la meva visita; però la vostra reputació comporta aquests inconvenients. I és que el mèrit té per mi una atracció tan poderosa que em cal anar-hi al darrere allà on sigui.
+
+MUNDETA Si perseguiu el mèrit, no és pas a les nostres terres que l’aconseguireu.
+
+CATI Per veure el mèrit a casa nostra, ha calgut que vós l’hi portéssiu.
+
+MASCARILLA Ah, no puc creure les vostres paraules! L’anomenada és justa referint el que valeu; i fareu creu i ratlla amb tot el que hi ha de més galant a París.
+
+MUNDETA La vostra complaença va massa enllà en la liberalitat de les seves lloances; i ni jo ni la meva cosina pensem prendre’ns seriosament els vostres dolços afalacs.
+
+CATI Estimada, caldria oferir seients.
+
+MUNDETA Ep, Almansor!
+
+ALMANSOR Senyora.
+
+MUNDETA De pressa, carretegeu cap aquí les comoditats de la conversa.
+
+MASCARILLA Però, almenys, hi ha seguretat per mi?
+
+CATI De què teniu por?
+
+MASCARILLA D’un robatori del meu cor, d’un assassinat de la meva llibertat. Aquí veig uns ulls que tenen tot l’aire de ser molt malèvols, d’assaltar les llibertats i de tractar una ànima com un cap de turc. ¿Com diable pot ser que només d’acostar-t’hi ja se’t posin en guàrdia assassina? Ah, creieu que no me’n fio gens! I ho donaré tot a les cames, si no m’oferiu garantia que no em faran cap mal.
+
+MUNDETA Estimada, és el caràcter jovial.
+
+CATI Ja ho veig prou, que és un Amílcar.
+
+MUNDETA No tingueu por de res: els nostres ulls no porten males intencions, i el vostre cor pot dormir tranquil pel que fa a la seva perillositat.
+
+CATI Però, si us plau, senyor, no us mostreu inexorable amb aquesta cadira que fa un quart que us estén els braços; vulgueu acontentar una mica les ganes que té d’abraçar-vos.
+
+MASCARILLA (Després de pentinar-se i ajustar-se les randes de les calces.) I bé, senyores, què me’n dieu, de París?
+
+MUNDETA Ai! Què en podríem dir, nosaltres? Caldria ser l’antípoda de la raó per no confessar que París és la gran oficina de les meravelles, el centre del bon gust, del talent i de la galanteria.
+
+MASCARILLA Jo crec que fora de París no hi ha salvació possible per la gent com cal.
+
+CATI És una veritat incontestable.
+
+MASCARILLA Hi ha una mica de fangueig pertot arreu, però tenim la cadira de mà.
+
+MUNDETA És ben cert que la cadira és un atrinxerament meravellós contra els atacs del fang i del mal temps.
+
+MASCARILLA Rebeu gaires visites? Quin cap de brot compteu entre els vostres?
+
+MUNDETA Per desgràcia, encara no som conegudes, però podem ser-ho aviat. Tenim una amiga molt amiga que ens ha promès de portar-nos aquí tots aquests senyors del Recull d’obres escollides.
+
+CATI I també d’altres que ens han ponderat com a àrbitres sobirans de les coses belles.
+
+MASCARILLA Jo us hi puc ajudar millor que ningú: tots ells em visiten. I puc dir que no em llevo mai sense la companyia de mitja dotzena de llumeneres.
+
+MUNDETA Déu meu, Senyor! Us n’estaríem agraïdíssimes, si ens féssiu aquesta mercè. Perquè realment cal fer la coneixença de tots aquests senyors, si es vol pertànyer a la bona societat. Són ells els que donen reputació, a París, i ja sabeu que n’hi ha algun que, només de freqüentar-lo, ja us dona fama d’entesa, encara que no hi hagi res de res. Però allò que jo considero més important és que, gràcies a aquestes visites espirituals, us instruïu en mil coses que cal saber de tota necessitat, i que són l’essència del talent. Així us assabenteu cada dia de les notícies galants, dels bells intercanvis en prosa i en vers. Sentiu a dir: «En Tal ha escrit l’obra més bella del món sobre tal tema o tal altre. La Tal ha fet una lletra per aquella tonada. Aquest ha fet un madrigal sobre un favor assolit. Aquell ha compost unes estances sobre una infidelitat. El senyor Tal escrivia ahir al vespre un sextet a la senyoreta Tal, i ella n’hi ha enviat la resposta avui, cap a les vuit del matí. Tal autor ha fet avui tal projecte. Aquell ja va per la tercera part de la seva novel·la. Aquest altre fa imprimir les seves obres». És això el que us fa valdre entre la gent. I si ignoreu aquestes coses, tot l’enginy que pugueu tenir no val un clau.
+
+CATI Ben cert. És ben ridícul que una persona se les doni de refinada, si no sap fins a l’últim verset que es fa córrer cada dia. El que és jo, em moriria de vergonya si em demanessin si havia vist alguna novetat que no hagués vist.
+
+MASCARILLA És veritat que és vergonyós, no tenir notícia immediata de tot allò que es fa. Però no patiu: vull establir a casa vostra una Acadèmia d’enginys refinats, i us prometo que no es farà un rodolí a París sense que vosaltres el sapigueu de memòria abans que ningú més. Jo mateix, aquí on em veieu, m’hi entretinc una mica quan em ve de gust. I només de la meva collita, en veureu córrer, per les alcoves i els salons de París, duescentes cançons, tants altres sonets, quatre-cents epigrames i més de mil madrigals, sense comptar els enigmes i els retrats.
+
+MUNDETA Jo us confesso que tinc una bogeria pels retrats. No conec res de més galant.
+
+MASCARILLA Els retrats són difícils, i demanen un enginy profund: en podreu veure alguns de meus que no us desplauran.
+
+CATI A mi m’agraden amb bogeria els enigmes.
+
+MASCARILLA Això exercita l’enginy. Aquest matí mateix n’he fet quatre, que prou us proposaré d’endevinar.
+
+MUNDETA Els madrigals són ben agradables, quan són ben girats.
+
+MASCARILLA És allò que em surt millor. Ara treballo a posar en madrigals tota la història romana.
+
+MUNDETA Això sí que serà una bella cosa. Reserveu-me’n un exemplar, almenys, si ho feu imprimir.
+
+MASCARILLA Us en prometo un a cadascuna, i dels més ben relligats. Això està per sota de la meva condició, però ho faig perquè s’hi puguin guanyar la vida els llibreters, que sempre em venen al darrere.
+
+MUNDETA M’imagino que ha de fer molt de goig, veure’s publicat.
+
+MASCARILLA Ja ho crec. A propòsit, us haig de dir un impromptu que vaig fer ahir a casa d’una de les meves amigues duquesses que havia anat a visitar. Perquè en això dels impromptus soc endimoniadament bo.
+
+CATI L’impromptu és justament la pedra de toc de l’enginy.
+
+MASCARILLA Doncs, escolteu.
+
+MUNDETA Només tenim orelles per vós.
+
+MASCARILLA
+
+Oh! Oh! Jo mai no m’ho esperava!
+
+Mentre, distret de mi, a vós sols us mirava,
+
+els vostres ulls furtius em van sostreure el cor.
+
+Lladres, lladres, em roben! Lladres, lladres, soc mort!
+
+CATI Ah, Déu meu! Això sí que és el cim de la galanteria.
+
+MASCARILLA Tot el que jo faig té un aire cavalleresc. I no és gens ni mica pedant.
+
+MUNDETA Està més de mil llegües lluny de ser-ho.
+
+MASCARILLA Us heu fixat en aquest començament: Oh, oh? És extraordinari: Oh, oh! Com aquell que tot d’una hi cau: Oh, oh! La sorpresa: Oh, oh!
+
+MUNDETA Sí, el trobo admirable, aquest Oh, oh!
+
+MASCARILLA I sembla que no sigui res.
+
+CATI Marededeu, què dieu? És d’aquelles coses que no tenen preu.
+
+MUNDETA Ja ho crec. Jo m’estimaria més haver fet aquest oh, oh! que no pas tot un poema èpic.
+
+MASCARILLA Redeu, teniu bon gust!
+
+MUNDETA Sí, no el tinc dolent del tot.
+
+MASCARILLA Però ¿no us sembla també admirable jo mai no m’ho esperava? Jo mai no m’ho esperava, jo no m’adonava de res: una manera de parlar natural: jo mai no m’ho esperava. Mentre, distret de mi, mentre que, innocentment, sense malícia, com un pobre xaiet; a vós sols us mirava, és a dir, em complaïa a considerar-vos, us observava, us contemplava; els vostres ulls furtius… Què us en sembla, d’aquest furtius? No és ben trobat?
+
+CATI D’allò més.
+
+MASCARILLA Furtius, d’amagatotis: sembla que sigui un gat que acabi de caçar un ratolí: furtius.
+
+MUNDETA No es podia trobar res de millor.
+
+MASCARILLA Em van sostreure el cor, se me’l van endur, me’l van arrabassar. Lladres, lladres, em roben! Lladres, lladres, soc mort! ¿No diríeu que es tracta d’un desesperat que crida i corre darrere un lladre perquè l’agafin? Lladres, lladres, em roben! Lladres, lladres, soc mort!
+
+MUNDETA Haig de confessar que això té un caire ben enginyós i galant.
+
+MASCARILLA Ara us diré la tonada que hi he posat.
+
+CATI Sabeu de nota?
+
+MASCARILLA Jo? Gens ni mica.
+
+CATI I, doncs, com pot ser, això?
+
+MASCARILLA Les persones de qualitat saben de tot sense haver estudiat mai res.
+
+MUNDETA És ben cert, estimada.
+
+MASCARILLA Escolteu si la tonada us agrada. Hem, hem. La, la, la, la, la. Aquest mal temps salvatge m’ha maltractat furiosament la veu; però no hi fa res, que surti al seu aire.
+
+(Canta.)
+
+Oh! Oh! Jo mai no m’ho esperava…
+
+CATI Ah! Quina melodia tan apassionada! No n’hi ha per morir-s’hi?
+
+MUNDETA Hi ha molt de cromatisme, aquí.
+
+MASCARILLA No trobeu la idea d’allò més ben expressada en el cant? Lladres!… I llavors, com qui cridés: ah, ah, ah, ah, ah, ah, lladres! I, de cop, com qui hagués perdut l’alè: soc mort!
+
+MUNDETA D’això se’n diu saber afinar les coses, afinar-les i refinar-les. És meravellós, us ho asseguro. Estic entusiasmada amb la música i amb la lletra.
+
+CATI No conec res que tingui tanta força.
+
+MASCARILLA Tot el que faig em surt naturalment, sense estudiar-ho.
+
+MUNDETA La natura us ha tractat com una mare enamorada, i vós en sou el fill aviciat.
+
+MASCARILLA A què dediqueu el vostre temps?
+
+CATI A res de res.
+
+MUNDETA Nosaltres hem passat un dejuni esgarrifós de divertiments.
+
+MASCARILLA M’ofereixo a portar-vos un dia d’aquests a la comèdia, si voleu; ara mateix n’han d’estrenar una de nova, que em plauria molt que anéssim a veure plegats.
+
+MUNDETA No ens hi podem pas negar.
+
+MASCARILLA Però us demano que aplaudiu com cal, quan siguem allà, perquè m’he compromès a fer triomfar l’obra, i l’autor m’ho suplicava encara aquest matí. Aquí tenim el costum que els autors ens vinguin a llegir les seves obres noves, a la gent de condició, per engrescar-nos a judicar-les bones i a fer-los guanyar reputació. Ja podeu pensar si, quan nosaltres diem una cosa, la platea gosarà contradir-nos! El que és jo, soc molt complidor, i quan m’he compromès amb un poeta, sempre exclamo: «Això sí que és bo!» abans i tot que s’encenguin les candeles.
+
+MUNDETA No me’n parleu. París és un lloc admirable. Cada dia s’hi esdevenen mil coses que a les províncies passen ignorades, per més intel·ligent que sigueu.
+
+CATI Ja està dit: com que ja estem instruïdes, complirem amb el deure d’exclamar-nos com escau sobre tot el que diguin.
+
+MASCARILLA No sé si m’enganyo, però feu tota la cara d’haver escrit alguna comèdia.
+
+MUNDETA Ah, podria ser que hi hagués alguna cosa d’això que dieu.
+
+MASCARILLA A fe que l’hauríem de veure! Entre nosaltres, jo n’he compost una que vull fer representar.
+
+CATI I a quins comediants la donaríeu?
+
+MASCARILLA Quina pregunta! Als grans comediants del Palau de Borgonya. Només ells són capaços de fer valdre les coses; els altres són uns ignorants que reciten tal com es parla; no saben fer retrunyir els versos i aturar-se al lloc precís: ¿i com es pot saber quin és el millor vers, si el comediant no s’hi atura, i no us adverteix així que us hi cal badar la boca?
+
+CATI És cert, cal fer sentir als auditors les belleses d’una obra, que les coses no valen sinó allò que les fem valdre.
+
+MASCARILLA Què us en sembla del meu parament de randes i flocs? Trobeu que fa joc amb el vestit?
+
+CATI Del tot.
+
+MASCARILLA La cinta és molt ben triada.
+
+MUNDETA Furiosament ben triada. És ben bé de can Perdrigeon.
+
+MASCARILLA Què me’n dieu, dels camals?
+
+MUNDETA Són d’allò més escaients.
+
+MASCARILLA Puc gloriar-me que tenen ben bé un pam més que tots aquests que corren.
+
+MUNDETA Haig de confessar que no havia vist mai una elegància tan refinada en l’agençament.
+
+MASCARILLA Acosteu una mica a aquests guants la reflexió de l’olfacte.
+
+MUNDETA Fan una sentor terriblement bona.
+
+CATI No he respirat mai una olor més ben condicionada.
+
+MASCARILLA I aquesta altra?
+
+MUNDETA És decididament exquisida. El sublim en queda deliciosament enartat.
+
+MASCARILLA No m’heu dit res de les plomes: què us en sembla?
+
+CATI Esfereïdorament belles.
+
+MASCARILLA Sabeu que cada una em costa un lluís d’or? El que és jo, tinc la mania d’anar a buscar sempre el més bonic que hi ha.
+
+MUNDETA Us asseguro que simpatitzem, vós i jo: tinc una delicadesa furiosa per tot allò que porto; i fins a l’últim farbalà, no puc sofrir res que no sigui de la millor factura.
+
+MASCARILLA (Exclamant-se bruscament.) Ai, ai, ai, a poc a poc! Déu me valgui, senyores, no anem pas bé. M’haig de queixar de la vostra manera de fer. Això no és correcte.
+
+CATI Què hi ha? Què teniu?
+
+MASCARILLA Què? ¿Totes dues alhora contra el meu cor, atacant-me per la dreta i per l’esquerra? Ah, això va contra el dret de gents! La partida és desigual, i jo cridaré ajuda per assassinat.
+
+CATI S’ha d’admetre que diu les coses d’una manera ben personal.
+
+MUNDETA Té un toc d’enginy admirable.
+
+CATI Patiu més de por que no pas de mal, que el vostre cor s’exclama abans que l’escorxin.
+
+MASCARILLA I ara, què dieu? Si ja està escorxat de cap a peus.
+
+
+
+
+
+ESCENA 10
+
+
+Mariona, Mascarilla, Cati, Mundeta
+
+MARIONA Senyora, demanen per vós.
+
+MUNDETA Qui?
+
+MARIONA El vescomte de Jodelet.
+
+MASCARILLA El vescomte de Jodelet?
+
+MARIONA Sí, senyor.
+
+CATI El coneixeu?
+
+MASCARILLA És el meu millor amic.
+
+MUNDETA Fes-lo passar de seguida.
+
+MASCARILLA Fa temps que no ens hem vist, i estic encantat d’aquesta coincidència.
+
+CATI Aquí el tenim.
+
+
+
+
+
+ESCENA 11
+
+
+Didalet, Mascarilla, Cati, Mundeta, Mariona
+
+MASCARILLA Ah, vescomte!
+
+DIDALET (Abraçant-se l’un amb l’altre.) Ah, marquès!
+
+MASCARILLA Que n’estic de content de trobar-te!
+
+DIDALET I quina alegria, veure’t aquí!
+
+MASCARILLA Abraça’m una mica més, si et plau.
+
+MUNDETA Estimada, ja comencem a ser conegudes. La gent important ja emprèn el camí de casa nostra.
+
+MASCARILLA Senyores, permeteu que us presenti aquest gentilhome: paraula que és digne que el conegueu.
+
+DIDALET És de justícia venir-vos a retre l’homenatge que us és degut. Que els vostres atractius exigeixen els seus drets a tota llei de gent.
+
+MUNDETA Això és portar la vostra civilitat fins als darrers confins de l’afalac.
+
+CATI Aquest dia ha de quedar senyalat al nostre almanac com un dia venturós.
+
+MUNDETA Vinga, minyó, sempre se t’han de repetir les coses? No veus que ens cal l’escreix d’una cadira?
+
+MASCARILLA No us estranyeu de veure el vescomte d’aquesta manera: acaba de sortir d’una malaltia que li ha deixat la cara així de pàl·lida.
+
+DIDALET És cosa de les vetllades de la cort i de les fatigues de la guerra.
+
+MASCARILLA ¿Sabíeu, senyores, que aquí on el veieu el vescomte és un dels homes més valents del món? És un cor de lleó.
+
+DIDALET Vós no us quedeu pas enrere, marquès. Tots sabem prou el que sabeu fer.
+
+MASCARILLA És ben veritat que l’un i l’altre ens hem vist a la palestra.
+
+DIDALET I en llocs on hi feia una bona calor.
+
+MASCARILLA (Mirant-les totes dues.) Sí, però no pas tanta calor com aquí. He, he, he!
+
+DIDALET Ens vam conèixer a l’exèrcit, i la primera vegada que ens vam veure, ell comandava un regiment de cavalleria a les galeres de Malta.
+
+MASCARILLA És veritat, però vós ja dúieu galons abans que jo hi entrés; i recordo que jo no era més que un suboficial que vós ja comandàveu dos mil cavalls.
+
+DIDALET La guerra és una bella cosa, però a fe que avui dia la cort recompensa ben malament els homes de servei com nosaltres.
+
+MASCARILLA És per això que tinc ganes de penjar l’espasa.
+
+CATI Doncs jo tinc una debilitat furiosa pels homes d’espasa.
+
+MUNDETA A mi també m’agraden, però vull que l’enginy assaoni el coratge.
+
+MASCARILLA ¿Te’n recordes, vescomte, d’aquella mitja lluna que vam arrabassar a l’enemic al setge d’Arras?
+
+DIDALET Què vols dir, mitja lluna? Era una lluna ben sencera.
+
+MASCARILLA Em penso que tens raó.
+
+DIDALET A fe que me’n puc ben recordar: m’hi van ferir la cama d’un tret de granada, que encara en tinc el senyal. Palpeu una mica, si us plau. Sentireu la ferida.
+
+CATI Certament, la cicatriu és grossa.
+
+MASCARILLA Doneu-me la mà, i palpeu aquí, justament darrere el cap. Ho trobeu?
+
+MUNDETA Sí, hi noto alguna cosa.
+
+MASCARILLA És un tret de mosquet que vaig rebre a la darrera campanya que vaig fer.
+
+DIDALET I això és un altre tret que em va traspassar de part a part a l’atac de Gravelines.
+
+MASCARILLA (Posant-se la mà al botó de les calces.) Us vull mostrar una ferida furiosa.
+
+MUNDETA No cal: ja ens ho creiem sense mirar.
+
+MASCARILLA Això són senyals honorables que donen fe del que un hom és.
+
+CATI No dubtem gens del que vós sou.
+
+MASCARILLA Vescomte, tens la carrossa aquí?
+
+DIDALET Per què?
+
+MASCARILLA Aniríem a fer un passeig fora portals amb aquestes dames i els oferiríem un refrigeri.
+
+MUNDETA Avui no podem pas sortir.
+
+MASCARILLA Fem venir els violins i ballem.
+
+DIDALET Molt ben pensat!
+
+MUNDETA En això sí que hi consentim. Però ens caldria un escreix de companyia.
+
+MASCARILLA Ei! Xampanyès, Picard, Borgonyó, Casquaret, Basc, la Verdure, Lorenès, Provençal, la Violette! Mal viatge facin tots aquests lacais! No crec que hi hagi en tot França un gentilhome més mal servit que jo. Aquests bergants em deixen sempre sol.
+
+MUNDETA Almansor, digues als criats del senyor que vagin a buscar violinistes, i fes venir els senyors i les senyores del veïnat per poblar la solitud del nostre ball.
+
+MASCARILLA Vescomte, què me’n dius d’aquests ulls?
+
+DIDALET Tu mateix, marquès, digues què te’n sembla!
+
+MASCARILLA El que jo dic és que les nostres llibertats tindran treballs per sortir d’aquí sense entrebancs. Jo, almenys, sofreixo unes estranyes sotragades i el cor se m’aguanta per un fil.
+
+MUNDETA Quina naturalitat, en tot el que diu! Amaneix les coses de la manera més agradable del món.
+
+CATI És cert que fa una furiosa despesa d’enginy.
+
+MASCARILLA Per demostrar-vos la meva sinceritat, vull fer una improvisació sobre això.
+
+CATI Ai, sí! Us ho prego amb tota la devoció del cor: ens encantaria tenir alguna cosa feta expressament a intenció nostra.
+
+DIDALET A mi m’agradaria fer el mateix, però la vena poètica se m’ha estroncat, de resultes de les moltes sagnies que hi he fet aquests dies.
+
+MASCARILLA Què dimoni em passa, avui? El primer vers sempre em surt bé, però els altres em costen més. És clar, deu ser massa precipitat: us faré un impromptu amb més calma, i us semblarà el més ben acabat del món.
+
+DIDALET És enginyós com un dimoni.
+
+MUNDETA I galant, i ben girat.
+
+MASCARILLA Vescomte, digues, fa gaire que no veus la comtessa?
+
+DIDALET Fa més de tres setmanes que no li he fet visita.
+
+MASCARILLA ¿Saps que el duc m’ha vingut a veure aquest matí, per si volia anar a caçar cérvols amb ell?
+
+MUNDETA Ja venen les nostres amigues.
+
+
+
+
+
+ESCENA 12
+
+
+Didalet, Mascarilla, Cati, Mundeta, Mariona, Lucile
+
+MUNDETA Déu meu, estimades, us demanem excuses. Aquests senyors han tingut la fantasia de portar-nos les ànimes dels peus, i nosaltres us hem fet venir per omplir els buits de l’assemblea.
+
+LUCILE És molt d’agrair, i tant!
+
+MASCARILLA No és més que un ball improvisat, però un dia d’aquests us en donarem un en tota regla. Ja són aquí els violins?
+
+ALMANSOR Sí, senyor, ja els tenim.
+
+CATI Vinga, doncs, estimades, preneu lloc.
+
+MASCARILLA (Ballant ell sol a manera de preludi.) La, la, la, la, la, la, la, la.
+
+MUNDETA Té una planta d’allò més elegant.
+
+CATI I fa cara de ballar amb propietat.
+
+MASCARILLA (Agafant Mundeta.) La meva llibertat ballarà la corranda tan bé com aquests peus. Al compàs, violins, al compàs. Oh, quins ignorants! No hi ha manera de ballar, amb aquests! El diable se us emporti! No podeu tocar a compàs? La, la, la, la, la, la, la, la. Amb fermesa, violinistes de fira!
+
+DIDALET (Posant-se a ballar.) Ei, no aneu tan de pressa, que encara no estic refet del tot del meu mal!
+
+
+
+
+
+ESCENA 13
+
+
+Du Croisy, La Grange, Mascarilla
+
+LA GRANGE Ah, bergants, què hi feu, aquí? Fa tres hores que us estem buscant.
+
+MASCARILLA (Sentint els cops.) Ai, ai, ai! No m’ho havíeu dit, que també hi hauria bastó!
+
+DIDALET Ai, ai, ai!
+
+LA GRANGE Ja t’està bé, infame com ets, de voler fer l’home d’importància.
+
+DU CROISY Això us ensenyarà a saber qui sou. (Surten.)
+
+
+
+
+
+ESCENA 14
+
+
+Mascarilla, Didalet, Cati, Mundeta
+
+MUNDETA Què vol dir, tot això?
+
+DIDALET És una juguesca.
+
+CATI I us deixeu pegar d’aquesta manera?
+
+MASCARILLA Déu meu, he preferit dissimular, perquè soc violent i m’hauria encès com un lluquet.
+
+MUNDETA Suportar un afront així, i en presència nostra!
+
+MASCARILLA No ha estat res: continuem la gresca. Ens coneixem de fa molt de temps i, entre amics, no ens enfadem pas per tan poqueta cosa.
+
+
+
+
+
+ESCENA 15
+
+
+Du Croisy, La Grange, Mascarilla, Didalet, Mundeta, Cati
+
+LA GRANGE Ja us dic jo, brètols, que no us en riureu pas de nosaltres. Vosaltres, entreu. (Entren tres o quatre espadatxins.)
+
+MUNDETA ¿Què és aquest atreviment de venir-nos a destorbar així a casa nostra?
+
+DU CROISY On s’és vist, senyores! ¿Hem de suportar que els nostres lacais siguin més ben rebuts que nosaltres? ¿I que us vinguin a fer la cort a despeses nostres, i que us muntin a més un ball?
+
+MUNDETA Els vostres lacais?
+
+LA GRANGE Sí, els nostres lacais: i no és gens maco ni decent que els pervertiu com fèieu.
+
+MUNDETA Oh, déus del Cel! Quina insolència!
+
+LA GRANGE Però ara no tindran l’avantatge de servir-se dels nostres vestits per enlluernar-vos; i si els voleu estimar, ja us dic jo que haurà de ser pels seus ulls bonics. Vinga, que els despullin ara mateix.
+
+DIDALET Adeu al nostre parament.
+
+MASCARILLA S’han abolit el marquesat i el vescomtat.
+
+DU CROISY Ha, ha, bergants! Mira que tenir la barra de fer-nos la competència! Ja us asseguro jo que anireu a una altra banda a buscar la manera de fer-vos agradables als ulls de les vostres enamorades.
+
+LA GRANGE Si suplantar-nos és gros, suplantar-nos amb els nostres propis vestits ja és massa.
+
+MASCARILLA Oh, Fortuna, que n’ets d’inconstant!
+
+DU CROISY De pressa, que els ho treguin tot, fins a l’última ploma.
+
+LA GRANGE Que s’emportin tots aquests parracs, de pressa. Ara, senyores, en aquest nou estat, podeu continuar les vostres amoretes amb ells tant com us plagui. Us en donem tota la llibertat del món, i us protestem, el senyor i jo, que no ens en sentirem gens ni mica gelosos.
+
+CATI Ah, quina confusió!
+
+MUNDETA Jo em moro de ràbia.
+
+VIOLINISTA (Al marquès.) Què és, tot això? Qui ens pagarà, a nosaltres?
+
+MASCARILLA Demaneu-ho al senyor vescomte.
+
+VIOLINISTA (Al vescomte.) Qui ens donarà els diners?
+
+DIDALET Demaneu-ho al senyor marquès.
+
+
+
+
+
+ESCENA 16
+
+
+Gòrgibus, Mascarilla, Mundeta
+
+GÒRGIBUS Ah, que en sou de dolentes! Veig que us agrada posar-nos en compromís! Aquests senyors que ara sortien ens n’han contades de ben grosses!
+
+MUNDETA Ah, pare meu! Ens han fet una jugada ben sagnant.
+
+GÒRGIBUS Sí, és una jugada sagnant, però és un efecte de la vostra impertinència, mesquines! Se senten ferits pels tractes que els heu donat, i jo, pobre de mi, m’haig d’empassar l’afront.
+
+MUNDETA Ah, juro que en serem venjades o que moriré en l’intent. I vosaltres, brètols, ¿goseu quedar-vos aquí, després de la vostra insolència?
+
+MASCARILLA Quina manera de tractar un marquès! Així és la gent! El més petit entrebanc ens fa menysprear aquells que ens estimaven. Anem, company, anem a buscar fortuna en una altra banda: ja veig que aquí només aprecien les vanes aparences, i que no hi saben considerar la virtut en la seva nuesa. (Surten tots dos.)
+
+
+
+
+
+ESCENA 17
+
+
+Gòrgibus, Mundeta, Cati, Violinistes
+
+VIOLINISTES: Senyor, ens sembla que, a falta d’ells, ens hauríeu de pagar vós la feina que hem fet aquí.
+
+GÒRGIBUS (Pegant-los.) Sí, sí, ja us en donaré satisfacció, i vet aquí la moneda amb què us pagaré. I vosaltres, bergantelles, no sé quin sant m’atura de fer-vos el mateix. Serem l’escarni i la riota de tothom: vet aquí el que us heu guanyat amb les vostres extravagàncies. Aneu a amagar-vos, beneites, aneu a amagar-vos per sempre. I vosaltres, que heu estat causa de la seva ximpleria, romanços estúpids, divertiments perniciosos de les ànimes desenfeinades, novel·les, versos, cançons, sonets i sonadetes, que el diable se us emporti!
+
+
+
+
+
+JEAN-BAPTISTE POQUELIN, més conegut com a MOLIÈRE (París, 15 de gener del 1622 - 17 de febrer del 1673), fou un dramaturg i actor francès.
+
+Considerat com el mestre de la Comédie Française, segueix sent l’autor amb més obres representades per aquesta institució. Inflexible amb la pedanteria dels falsos savis, les mentides dels metges ignorants i les pretensions dels rics burgesos, Molière estimava la joventut i la volia alliberar de tan absurdes càrregues i prejudicis.
+
+En les 30 comèdies que va escriure després del seu retorn a París mostra un coneixement pregon de les incongruències de la vida humana i de la societat francesa del seu temps. Hi és capaç de tractar temes seriosos, i àdhuc tràgics, sense renunciar a l’alegria i a l’exuberància de la comèdia. Va ser un mestre en el maneig dels diàlegs i en l’ús de l’argot.
+
+Molt lluny dels rigors de la devoció o de l’ascetisme, el seu paper de moralista tenia els límits que ell mateix es va imposar: «No sé si no és millor treballar per rectificar i per suavitzar les passions dels homes que voler suprimir-los completament», i el seu objectiu era sobretot «fer riure la gent honesta». D’aquesta manera, feia seva la divisa que usaven els comediants italians dels anys 1620 a França: Castigat ridendo mores (corregeix els costums pel riure).
+
+Les principals obres de Molière són: El metge ambulant (1645), La gelosia del compromès (1650), L’atabalat o els contratemps (1655), El despit amorós (1656), El doctor enamorat (1656), Les precioses ridícules (1659), Sganarelle o el cornut imaginari (1660), Don Garcia de Navarra o el príncep gelós (1661), L’escola dels marits (1661), L’escola de les mullers (1662), La crítica de l’«Escola de les dones» (1663), La gelosia del gran René (1663), La princesa d’Elida (1664), Tartuf o l’impostor (1664), El casament per força (1664), Don Joan o el festí de pedra (1665), L’amor metge (1665), El misantrop (1666), El metge per força (1666), Melicerta (1666), El sicilià o l’amor pintor (1667), Amfitrió (1668), Jordi Dandí o el marit confós (1668), L’avar (1668), El senyor de Pourceaugnac (1669), Els amants magnífics (1670), El burgès ennoblit (1670), Psyché (1671), Les trapelleries de Scapin (1671), La comtessa d’Escarbanyes (1671), Les dones sàvies (1672), El malalt imaginari (1673).
+
+
+
+
+

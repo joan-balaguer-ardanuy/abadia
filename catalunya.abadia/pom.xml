@@ -63,4 +63,7 @@
 			<url>https://maven.pkg.github.com/joan-balaguer-ardanuy/abadia</url>
 		</repository>
 	</distributionManagement>
+	<modules>
+		<module>formatador</module>
+	</modules>
 </project>

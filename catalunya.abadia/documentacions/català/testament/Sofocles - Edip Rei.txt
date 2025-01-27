@@ -1,0 +1,1461 @@
+Èdip ha esdevingut rei de Tebes, després de vèncer l’Esfinx i de casar-se amb Iocasta, vídua del rei Laios. Una terrible pesta s’ha ensenyorit de Tebes i Èdip cerca les causes de l’infortuni fent una consulta a l’oracle d’Apol·lo a Delfos i també a Tirèsias, el sacerdot endeví de Tebes. La resposta és clara: la pesta s’acabarà quan hagi estat venjada la mort de Laios.
+
+
+
+
+
+Sòfocles
+
+
+
+
+
+Èdip Rei
+
+
+Introducció, traducció i notes de Joan Castellanos
+
+
+
+ePUB v3.0
+
+PerDut 06.09.13
+
+
+
+
+
+Títol original: Οἰδίπους Τύραννος
+
+Sòfocles, 429 aC
+
+Traducció: Joan Castellanos, 2012
+
+Edició digital: PerDut (v1.0)
+
+Segona edició: EpubCat (v2.0)
+
+Tercera edició: EpubCat (v3.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+INTRODUCCIÓ
+
+
+
+
+
+SÒFOCLES: UN ATENÈS EXEMPLAR
+
+
+La vida de Sòfocles va coincidir amb els moments de màxim esplendor de la ciutat d’Atenes, però també amb moments difícils i angoixants. La data del seu naixement no pot precisar-se amb exactitud, si bé normalment se situa als voltants del 495 aC., al dem de Colonos. Aquesta data concorda amb la tradició que el fa un dels efebus escollits per a actuar en la dansa triomfal commemorativa de la victòria de Salamina sobre els perses, l’any 480 aC. La seva mort s’esdevingué l’any 406/5 aC. i li estalvià els moments terribles de la derrota d’Atenes davant dels exèrcits espartans.
+
+Sòfocles era fill d’una família benestant d’Atenes. El seu pare, Sòfíl, era fabricant d’armes i va donar-li l’educació curosa i equilibrada dels atenesos rics: poesia, gimnàstica i música. Els seus dots naturals, tanmateix, el feien excel·lir per sobre dels seus companys i, tal com hem dit, fou escollit per dirigir, segons sembla, la dansa amb què Atenes celebrava la victòria de Salamina. Aquest fet tan important en la vida política d’Atenes, reuneix també els tres grans tràgics: Èsquil, el més gran, va prendre part en la batalla; Sòfocles va intervenir, com hem vist, en la celebració de la victòria; i Eurípides va néixer, versemblantment, per aquestes dates.
+
+L’educació que va rebre Sòfocles el va convertir en ciutadà exemplar i, al llarg de la seva vida, el veiem acceptar càrrecs de gran importància en la vida pública atenesa. Així, el 443/442 fou hellenotamias (Tresorer de l’aliança àtico-dèlica). El 441-439, durant la guerra de Samos, fou estrateg al costat de Pèricles (l’autor de l’argument de l’Antígona, afirma que aquest càrrec li fou atorgat com a recompensa per la victòria tràgica que va aconseguir Sòfocles amb aquesta tragèdia). Posteriorment, sembla que fou novament nomenat estrateg l’any 428, encara que no tothom considera un fet segur aquest nou nomenament. Més tard, ja molt gran, va formar part d’una comissió per intentar salvar políticament el desastre de l’expedició a Sicília (413). La Vida Anònima de Sòfocles afirma encara que fou sacerdot de l’heroi curador Halon i sembla que també tingué un paper molt important en la introducció del culte a Asclepi a la ciutat d’Atenes (l’any 420).
+
+Sòfocles fou una persona cultivada i amable, sempre envoltada d’amics i de gent que l’estimava. El seu caràcter, doncs, contrasta amb el dramatisme dels personatges de les seves tragèdies.
+
+La tradició diu que va tenir cinc fills, el més gran dels quals, Iofont, va ésser també poeta tràgic i, almenys en una ocasió, va competir amb el seu pare i va obtenir un segon lloc, l’any 428. Un altre fill, Aristió, fou pare d’un altre autor de tragèdies, anomenat, per diferenciar-lo d’ell, Sòfocles el Jove.
+
+Sembla que a la fi de la seva vida va haver de pledejar amb els seus fills i defensar-se de l’acusació d’haver perdut el seny.
+
+La seva fama i el seu bon nom eren tan grans que, un cop mort, els atenesos li van dedicar un heroon, i li oferien un sacrifici cada any.
+
+
+
+
+
+SÒFOCLES: UN GRAN INNOVADOR
+
+
+Sòfocles va ésser un veritable home de tragèdia. No solament va escriure obres tràgiques, sinó que fins i tot va actuar com a actor, fet d’altra banda normal en tots els autors tràgics, i va teoritzar sobre la tragèdia (sabem que en la seva obra Sobre el cor, Sòfocles polemitzava amb Tespis i Quèril, dos autors de tragèdies, i segurament hi justificava l’augment del nombre de coreutes que va introduir en les seves obres). La tradició diu també que, com a actor, Sòfocles va ballar, fent el paper de Nausica, en l’obra Les Plíntries i que en la tragèdia Tàmiras, hi tocava la lira. La seva vida d’actor fou, tanmateix, curta i la Vida ho atribueix a la debilitat de la seva veu. Sabem també que, per a representar el paper de protagonista de les seves obres, solia contractar un actor anomenat Tlepòlem.
+
+Des del punt de vista pràctic, Sòfocles va ésser un gran innovador: en primer lloc va introduir un tercer actor en la representació de les tragèdies (innovació que Èsquil va seguir en les seves últimes obres, l’Orestea i el Prometeu), va augmentar el nombre de coreutes (membres del cor) de dotze a quinze i va abandonar el costum d’escriure trilogies (tres tragèdies lligades per un tema), encara que tenim notícies que una de les obres que se li atribueix, anomenada Telefea, podria ésser una trilogia. Des del punt de vista formal, sembla que devem a Sòfocles la introducció de decorats pintats, si bé el poc coneixement del decorat antic ens impedeix de valorar adequadament aquesta innovació.
+
+Si analitzem, encara que sigui superficialment, la tècnica tràgica de Sòfocles, no deixarem de notar, en primer lloc, la situació d’aïllament en què es mouen els seus protagonistes. D’alguna manera és la lluita d’un personatge (Èdip, Antígona, Àiax, etc.) contra tots els altres i que en els moments claus es queda sol i ha de prendre tot sol la decisió final. L’heroi de Sòfocles actua de manera inflexible, sense cedir, i per contrast es col·loca enfront dels personatges no herois (Tecmesa, Ismene, Iocasta, Crisòtemis…). No és injust, però sí que és ignorant de la voluntat divina (gairebé en totes les tragèdies de Sòfocles, el conflicte ve o es complica de resultes d’un oracle mal interpretat). En Èsquil, l’heroi vacil·la davant d’un dilema, mentre que en Sòfocles l’heroi actua sense vacil·lar en una direcció determinada (que pot ésser o no ésser l’encertada). L’heroi de Sòfocles, doncs, és un personatge amb un gran caràcter, incapaç d’aprendre i d’ésser educat: Èdip és el prototipus d’home segur, Electra reconeix la seva violència i falta de mesura, Àiax s’enfada perquè Tecmesa vol millorar el seu caràcter.
+
+Un altre element molt important és l’anomenada «ironia tràgica» que, segons la definició de I. Errandonea, és llenguatge en què un personatge diu al públic, sobre l’acció mateixa del drama, molt més del que el mateix personatge pensa (així veurem que Èdip es proposa buscar l’assassí de Laios amb el mateix esforç amb què buscaria l’assassí del seu propi pare). Relacionat també amb aquesta ironia, podem referir-nos al que podríem anomenar contrast, que consisteix en el fet d’expressar elements jubilosos, cants d’alegria o esperança, en uns moments immediatament anteriors a un desenllaç tràgic, per donar-li, amb aquest contrast, un major èmfasi tràgic (així veurem que el cor d’Èdip exulta en pensar que aquest podria ésser fill d’un déu, poc abans de descobrir-se la seva veritable genealogia).
+
+
+
+
+
+EL LLEGAT DE SÒFOCLES
+
+
+Sòfocles va ésser un escriptor enormement prolífic, i no sols va escriure tragèdies, sinó que també va tocar altres gèneres literaris: sabem que va escriure un pean dedicat a Asclepi, una Oda a Heròdot, el tractat Sobre el cor, que ja hem esmentat abans, i un drama satíric, anomenat Els sàtirs rastrejadors. Quant a les tragèdies, el seu nombre varia, segons les fonts, de 123 a 130, de les quals ens en queden només set. Els seus èxits foren sempre molt espectaculars, i, segons afirmen les fonts, si no aconseguia el primer premi en els certàmens tràgics, no baixava mai del segon. D’acord amb aquestes mateixes fonts, va obtenir entre divuit i vint-i-quatre primers premis. La seva carrera dramàtica va començar amb la seva primera victòria, al 468 aC., amb la tragèdia Triptòlem.
+
+De les set tragèdies que ens queden, tres són del cicle tebà (Èdip Rei, Èdip a Colonos, i Antígona), tres del cicle troià (Electra, Filoctetes i Àiax) i una del cicle d’Hèracles (Les Traquínies).
+
+És difícil establir una cronologia segura de les tragèdies conservades i, basant-nos en les dades que ens forneixen els arguments d’autors anònims, podem donar per a l’Antígona la data del 442 aC., per a Filoctetes la del 409 aC. i per a l’Èdip a Colonos la del 401 aC., cosa que vol dir que fou representada després de la seva mort. La resta de les tragèdies conservades es reparteixen de manera força incerta d’acord amb criteris literaris. Ara, pel que sembla, totes les hem de datar a partir de la maduresa del poeta. L’Àiax és considerada la més antiga de les que ens queden, anterior a l’Antígona (potser del 455/450 aC).
+
+Pel que fa a les Traquínies, els filòlegs no acaben de posar-se d’acord a l’hora de datar-la, si bé per les seves característiques la col·loquen en el grup format per l’Àiax i l’Antígona, totes elles anomenades «díptiques» perquè es poden dividir en dues parts, fins i tot amb canvi de protagonista, sense, però, que se’n ressenteixi la seva unitat.
+
+Quant a l’Electra i a l’Èdip Rei, els filòlegs acostumen a assenyalar el paral·lelisme entre les dues tragèdies: la personalitat humana és situada en un gran primer terme i en lloc de la lluita de l’individu amb el destí, apareix la lluita de l’individu amb les persones que l’envolten. Quant a la data de les dues tragèdies, direm que l’Èdip Rei s’acostuma a relacionar amb els primers anys de la guerra del Peloponnès i que la pesta que va declarar-se a Atenes, l’any 430 aC., fou la que inspirà la pesta que, en la tragèdia, pateix la ciutat de Tebes. Quant a l’Electra, se la situa de manera molt imprecisa entre l’Èdip Rei i el Filoctetes, molt més propera a aquesta última que a l’Èdip, potser entre el 415 i el 411 aC.
+
+
+
+
+
+ÈDIP: L’HOME PIETÓS REBUTJAT PELS DÉUS
+
+
+Com hem indicat anteriorment, no sabem tampoc amb certesa la data en què fou representada la tragèdia Èdip Rei. La pesta que va sofrir Atenes el 430 aC. i diverses dades que ens forneixen els gramàtics antics, fan suposar que la data de la seva representació podria ésser la del 429 aC.
+
+Encara que la crítica moderna considera aquesta tragèdia una de les millors de Sòfocles, una de les més «tràgiques», quan va representar-se no va aconseguir el primer premi esperat perquè, segons diu el segon argument, el premi se’l va emportar un cert Filocles (potser un nebot d’Èsquil que va presentar, segons que es creu, una trilogia del seu oncle).
+
+El mite d’Èdip és el següent: Èdip era fill de Laios i Iocasta, reis de Tebes. El seu naixement fou maleït per una terrible profecia: mataria el seu pare i es casaria amb la seva mare. Per tal d’evitar l’acompliment d’aquesta maledicció, el pare lliga els peus del nen i el dóna a un criat fidel perquè l’abandoni a les muntanyes del Citeró. El criat, però, s’apiada d’ell i el lliura a un pastor de Corint que el porta a la seva ciutat on els reis Pòlib i Mèrope, que no tenien fills, l’adopten. Al cap de molts anys, quan Èdip (nom que significa «peus inflats») ja és gran, sent comentaris respecte a la seva adopció i com que els aclariments dels seus pares no acaben de satisfer-lo, se’n va a Delfos a consultar l’oracle. El déu, però, en lloc de contestar a la seva pregunta, li diu que el seu destí és matar el pare i casar-se amb la seva mare. Èdip, doncs, per evitar l’acompliment d’aquesta profecia no torna a Corint i pren el camí en direcció a Tebes. En una cruïlla de camins entre Delfos i Tebes, es troba amb un carruatge, escortat per cinc homes, que li barren el pas. S’inicia una baralla i Èdip mata tots els seus adversaris, tret d’un que aconsegueix fugir. Ja a prop de Tebes, Èdip es troba amb la terrible Esfinx, monstre amb cos de lleó i cara de dona, que presenta enigmes als viatgers i se’ls menja si no coneixen la resposta. L’enigma que presentava és el següent: «Quin és l’ésser que primer camina amb quatre potes, després amb dues i més tard amb tres, i com més potes fa servir més dèbil és?». La resposta que va donar Èdip fou «l’home», i l’Esfinx, veient endevinat el seu enigma, va precipitar-se cingles avall i va matar-se. Aleshores el poble de Tebes, agraït, li concedeix la mà de la reina Iocasta, el marit de la qual havia mort feia poc. Al cap d’uns anys, una pesta va començar a assolar la ciutat de Tebes i el déu Apol·lo va ordenar matar o desterrar el culpable de la mort de Laios, si volien alliberar-se de la pesta. Èdip, doncs, inicia la investigació i, de mica en mica, veu que tots els indicis l’assenyalen a ell com a culpable. Finalment, el testimoni del criat que va salvar-se de la matança a la cruïlla de camins, que era el mateix que havia salvat el nen de morir abandonat a les muntanyes del Citeró, deixa les coses clares: Èdip ha mort el seu pare i s’ha casat amb la seva mare. Iocasta, desesperada, entra a la cambra nupcial i es penja i Èdip, amb les agulles del vestit, es treu els ulls.
+
+L’Èdip Rei, i totes les tragèdies, estan compostes de diverses parts: el pròleg és la part inicial de la tragèdia, la part on l’autor exposa el moment de l’acció, presenta els personatges i orienta l’espectador respecte al desenvolupament de la tragèdia; el pàrode és el cant d’entrada del cor; els episodis són els moments en què es desenvolupa l’acció i en què intervenen els personatges; els estàsims són els cants del cor entre episodis, en què el cor expressa els seus sentiments o la seva actitud davant el desenvolupament de l’acció i l’èxode és l’episodi final, amb la sortida del cor. En el diàleg entre els personatges i el cor, sempre és representat pel corifeu, o cap del cor. L’acció que trobarem en els episodis sempre és dialèctica. Les morts o accions violentes s’esdevenen sempre fora de la vista de l’espectador i són explicades per un personatge o com en el cas de l’Èdip Rei, per un missatger.
+
+En el pròleg de l’Èdip Rei, ens trobem amb la ciutat de Tebes trasbalsada pel dolor de la pesta que s’ha estès sense que ningú en sàpiga el motiu. Tot el poble prega davant els altars, quan es presenta un Èdip paternal, angoixat pel dolor dels seus súbdits. Aquests, per boca del sacerdot de Zeus, li demostren la seva confiança: «… no et fem igual als déus, però sí que et considerem el primer d’entre els homes… Quan tu vas arribar a la ciutat de Cadmos, vas alliberar-nos del tribut que devíem a la cruel Cantora… gràcies a l’ajuda d’un déu…». Èdip és previsor i ja ha posat en pràctica l’únic remei que se li pot acudir a un home pietós: consultar el déu de Delfos. Arriba, doncs, Creont, el cunyat del rei, enviat a Delfos, i davant de tots li explica la resposta del déu: la pesta s’acabarà quan es condemni a mort o a l’exili l’assassí de Laios, l’antic rei de Tebes.
+
+Èdip no vacil·la: ell serà qui «donarà satisfacció al mort i al déu». I el poble, tranquil i confiat, es retira dels seus llocs de pregària.
+
+En el pròleg, doncs, Sòfocles ens ha presentat ja Èdip: un home de tarannà paternal, segur d’ell mateix, previsor, sincer amb els seus súbdits i amics, i pietós amb els déus. I per això els tebans confien en ell. Després veurem, i aquesta és la seva tragèdia, que els déus no corresponen a la seva pietat.
+
+També podem ja notar el començament de la ironia tràgica de què parlàvem més amunt: tot Tebes s’adreça a Èdip com a qui té el favor dels déus, però tots els espectadors saben que els déus són ben lluny d’afavorir Èdip. Després, la ironia ressonarà també en les seves paraules: «sé els mals que patiu, però malgrat el vostre sofriment, cap de vosaltres no pateix el que jo pateixo». Tebes demana ajuda a Èdip quan tots els mals vénen d’ell. I Èdip demana la intervenció d’Apol·lo quan aquest déu és el causant dels seus mals (així ho diu ell mateix, al final de la tragèdia: «Apol·lo ha estat, amics. Apol·lo ha provocat aquestes desgràcies…»).
+
+Ha estat, doncs, un pròleg ple d’esperança per als personatges, però ple de presagis obscurs per als espectadors que coneixen la història.
+
+Acabada l’escena del pròleg, entra el cor de nobles tebans, cantant el pàrode. El seu cant és compost per tres unitats d’estrofa i antiestrofa amb una estructura simètrica: comença i acaba amb una invocació als déus protectors de Tebes i, en la unitat central, hi exposa les desgràcies que pateix la ciutat.
+
+Quan el cor ha acabat el seu cant d’entrada i ja s’ha col·locat en el seu lloc de l’orquestra, comença el primer episodi. Èdip es mostra decidit a solucionar el problema de la pesta. El ban que publica és ple d’ironia tràgica: «si un dia (l’assassí) arribés a ésser hoste del meu casal… que se m’apliquin els mateixos càstigs». «Iniciaré la meva lluita, igual que si es tractés del meu pare».
+
+En la col·laboració que tot seguit mostra el cor, per boca del seu corifeu, surt el nom de Tirèsias. També en això Èdip pot mostrar la seva previsió: ja l’ha fet venir. I com a representant dels déus, Èdip, pietós, es posa a les seves mans. Sòfocles vol que Tirèsias s’apiadi d’Èdip negant-se a parlar («deixa’m tornar a casa…»), amb una pietat que el rei no comprèn, perquè quan es tracta d’un mal públic, no hi valen pietats privades, i Èdip, doncs, l’acusa d’ésser l’instigador, si no el mateix responsable, de la mort de Laios. Aleshores Tirèsias li revela la veritat, però Èdip, que desxifrava enigmes, no entén les coses clares i li adreça unes paraules plenes d’ironia tràgica: «ets cec de les orelles i de l’enteniment com ho ets de la vista». Però Èdip s’equivoca, perquè Tirèsias, cec de la vista, veu molt bé, amb l’enteniment, la veritat que és amagada a la ment d’Èdip. I això també li ho revela ben clarament: «ara hi veus bé, però aviat veuràs la foscor… i no veus tampoc la infinitud de les teves desventures…». És aquesta circumstància la que demostra la perfecció de la tragèdia: la revelació arriba en el primer episodi, però d’una manera que ningú no se la creu. Ni tan sols el cor que, en el primer estàsim, no pot comprendre que aquestes paraules puguin anar adreçades a Èdip. El vaticini de Delfos era clar: la impuresa de la ciutat venia d’un impur, però, qui era l’impur? Delfos no s’equivoca, però aleshores les paraules de l’endeví eren veritables o falses? Èdip també maleeix l’assassí i el condemnava. Èdip també era prudent i pietós, i els déus l’ajudaven. El cor, doncs, se sent confús, però la seva confiança en Èdip és tan gran que arriba a la conclusió que Tirèsias també pot equivocar-se.
+
+El segon episodi comença amb l’aparició de Creont que vol saber amb exactitud quines són les acusacions d’Èdip. Tot això comporta una llarga discussió en què Èdip continua convençut de la culpabilitat de Creont. Èdip creu que Tirèsias l’hauria denunciat quan va arribar a Tebes i si no va fer-ho, vol dir que no és culpable. Si tanmateix ara l’acusa, és perquè l’endeví menteix (perquè per la seva qualitat d’endeví coneix la veritat) i si menteix ho fa per Creont. Així, doncs, no accepta cap mena de disculpa. L’aparició de Iocasta no serveix tampoc per apaivagar els ànims i la discussió només acaba després de la intervenció apassionada del cor i de la mateixa reina, a favor de Creont, malgrat que Èdip, igual que Iocasta, veu ben clar que si no s’accepta la culpabilitat de Creont s’accepta la seva, perquè si Creont no és culpable, vol dir que Tirèsias diu la veritat i, doncs, Èdip és culpable. Però Iocasta busca de seguida la sortida: «no hi ha ningú d’entre els mortals que en sàpiga res de l’art d’endevinar» i Iocasta revela aleshores la seva impietat: «Apol·lo no va aconseguir que fos l’assassí del seu pare…». I acaba afirmant: «… perquè allò que un déu considera necessari, ell mateix ho revela amb mitjans senzills», sense adonar-se que, amb ironia tràgica, el déu se servia d’ella mateixa per mostrar-li la veritat i, en la seva voluntat de tranquil·litzar Èdip, el posa en el camí de descobrir-se ell mateix com a l’assassí de Laios i com a fill incestuós.
+
+En efecte, el relat de l’assassinat de Laios trasbalsa l’ànim d’Èdip, perquè el lloc on s’esdevingué era el mateix on ell havia mort un home que l’havia ofès greument i, per això, no se n’havia considerat culpable. Ara, però, davant la veritat que ell intueix a mitges, comença a pensar que no té els déus tant al seu costat com creia: «Oh Zeus, què has planejat de fer-me?». Ara bé, la seva intuïció li fa veure la possibilitat que ell sigui l’assassí de Laios, però no relaciona el fet amb la profecia que un dia també ell havia escoltat de Delfos (que mataria el seu pare i es casaria amb la seva mare), i tan sols s’angoixa pel fet de pensar que profana el llit de la seva víctima. Però sempre hi ha una esperança: el criat que va presenciar l’assassinat.
+
+El cor, en l’estàsim segon, es mostra de nou desconcertat, insegur. Més que res el fan dubtar les paraules poc pietoses que ha sentit de Iocasta. També tem per Èdip, tem que no l’hagi atès la impuresa en els seus actes i que no s’hagi guanyat l’enemistat dels déus. El cor també s’adona que les afirmacions contra els vaticinis dels déus poden comportar la mort de les lleis morals i del culte als déus i demana el càstig diví per evitar que el cosmos esdevingui de nou caos.
+
+L’episodi tercer comença amb el mateix esperit religiós amb què ha acabat el cant del cor. Però en aquest cas es tracta de Iocasta. La reina, que acaba de negar els vaticinis d’Apol·lo, ara ve a oferir sacrificis i a pregar davant del seu altar: «aquí em tens amb aquestes ofrenes implorant davant teu, oh Apol·lo Liceu!, que tan a prop et tenim, perquè ens proporcionis un remei purificador». I també per obra de la ironia, la resposta del déu es presenta immediata i amb el remei purificador: el missatger de Corint, que ve a revelar la veritat.
+
+El missatge del corinti té un sentit doble: per al missatger la notícia alegrarà Èdip i Iocasta perquè aquell esdevindrà rei de Corint, però els entristirà per la mort de Pòlib. Per a Èdip i Iocasta, en canvi, l’alegria és immediata, però la causa és la mort de Pòlib (la seva mort natural). La tristesa vindrà després, quan sàpiguen que Èdip no és fill de Pòlib. Per això, després de donar la notícia, primer a Iocasta i després a Èdip, el missatger resta callat sense comprendre massa bé el raonament dels dos esposos. I de nou es torna a mostrar la impietat de Iocasta: «oh oracles dels déus, on sou?», sense saber distingir un vaticini veraç dels déus i la interpretació falsa dels homes. Èdip mostra més pietat que Iocasta; no comprèn l’incompliment dels vaticinis, però hi busca una explicació («tret que hagi mort d’una cruel enyorança. En aquest cas la seva mort seria culpa meva»).
+
+Després ve el dolor, la por, quan descobreixen que Èdip no és fill de Pòlib. I de qui és fill? El missatger corinti només sap que, infant de bolquers, el va rebre d’un pastor de Laios, que per obra de l’enginy de Sòfocles resulta que és el mateix que va salvar-se d’aquella matança, a la cruïlla de camins. Iocasta ja ho sap, ja ho ha endevinat, ja no necessita el testimoni del criat: «no vulguis esbrinar nèciament les coses que han estat dites», «pels déus, no ho esbrinis, per poc que t’estimis la vida. Prou que en pateixo jo». Novament, Èdip, l’expert desxifrador d’enigmes, s’equivoca a l’hora d’interpretar la reacció de Iocasta: «ella, com a dona que és, és orgullosa i potser s’avergonyeix del meu llinatge».
+
+El cor, en canvi, sempre disposat a admetre qualsevol excusa per salvar Èdip, s’agafa a la idea d’un naixement d’origen diví i s’imagina el seu rei descendent d’Apol·lo, Pan o Hermes. El seu cant jubilós marcarà un fort contrast amb el descobriment del veritable llinatge d’Èdip que tot seguit es farà palès.
+
+En l’episodi següent, Iocasta ja no hi és. Per a ella ja s’ha acabat tot. Mentre es desenvolupa el diàleg d’aquest episodi, Iocasta ha pujat a la cambra nupcial. Èdip, en canvi, continua la seva investigació, però ara hi ha un nou element imprevist, la seva pròpia identitat que es farà palesa, per a desgràcia seva, amb l’arribada del criat, el pastor que va recollir-lo i, a la vegada, l’únic testimoni de la mort de Laios. El seu reconeixement, l’anagnòrisi d’Èdip, comportarà, a la vegada, la seva caiguda, la seva destrucció, amb el consegüent desenvolupament entre el públic, d’emocions com pietat o temor, exponent de màxima bellesa i perfecció que, segons Aristòtil, podem trobar en una tragèdia.
+
+El diàleg entre Èdip i el criat, amb l’ajuda del missatger de Corint, és viu i intens i ens mostra un Èdip tens i nerviós que ja veu, no endevina només, quin és el seu final, però el seu caràcter decidit i sincer el fa arribar fins al final de la seva investigació.
+
+Ara el cor no sap on agafar-se per salvar Èdip, perquè la veritat ha estat revelada sense cap dubte. En la seva última intervenció cantava alegre i esperançat, ara, en un contrast característic de Sòfocles, canta l’infortuni d’Èdip i l’infortuni de tota la raça dels mortals, perquè la felicitat d’Èdip no ha estat capgirada per la mort, com la d’Agamèmnon d’Èsquil, per exemple, sinó per la impuresa i la culpa, i tot això en una persona que havia demostrat a bastament la seva pietat i la seva justícia, cosa que no deixa de recordar, amb nostàlgia, el cor: «… gràcies a tu he respirat tranquil i, per tu, els meus ulls s’han tancat en somnis plàcids».
+
+L’èxode de la tragèdia, l’episodi final, el forma, en primer lloc, el missatger de palau que explica la fi de Iocasta i l’acció d’Èdip. La mort de Iocasta, el suïcidi, queda ben aviat en segon terme, quan apareix Èdip que esdevé el protagonista del relat. La compassió del missatger és més gran per a Èdip que per a Iocasta. La segona part de l’èxode, més emotiva, la forma l’aparició d’Èdip i el seu diàleg, primer amb el corifeu i després amb Creont.
+
+L’Èdip de l’èxode és el mateix que el del pròleg. Continua mostrant la mateixa reverència i pietat amb els déus. Es lamenta dels seus infortunis, però no maleeix els déus. L’única diferència és que ara sap el que no sabia en el pròleg: sap qui és l’impur; però també sap que ara no contaminarà ningú, que ningú no prendrà part en la seva pena, i, conseqüent amb ell mateix, demana ésser portat fora del país. I ara que és cec, és quan veu més clar la voluntat dels déus: si primer el van salvar de la mort, no va ésser perquè morís, va ésser per fer-lo patir i, per tant, no ha de morir, ha d’ésser desterrat.
+
+Continua essent el mateix Èdip previsor i paternal, però ara ho és amb les seves filles que depenen d’ell, i no amb els súbdits ni amb el poble de Tebes, perquè ja ha deixat d’ésser el seu rei.
+
+Èdip acaba, doncs, humiliat pels déus. Aquell home, «la sort del qual era vista no sense enveja pels ciutadans», resulta ésser el més infortunat dels mortals. Per això el cor acaba amb unes paraules que sonen ben pessimistes: «és l’últim dia de la seva vida el que ha de considerar qualsevol mortal i ningú no pot ésser tingut per feliç abans de passar el terme de la seva existència sense haver patit cap pena».
+
+I, tanmateix, no podem oblidar aquells versos dedicats a Sòfocles: «Benaurat Sòfocles, que va viure llargs anys i va morir com a home feliç i estimat. Va escriure moltes i belles tragèdies i la seva fi va ésser feliç i sense penes».
+
+
+
+
+
+LA VIGÈNCIA DE SÒFOCLES
+
+
+I encara podríem afegir que, malgrat la seva mort, Sòfocles va continuar vivint en la humanitat, va continuar vivint per la singularitat de les seves intuïcions literàries i humanes dels seus mites, mai no igualats, però sí copiats moltes vegades.
+
+Malgrat que el tema de l’incest el trobem en diverses tradicions de moltes literatures europees, és ben cert que la força del tema en l’Èdip Rei va ésser el que va inspirar S. Freud en els seus estudis de la psicoanàlisi, i va ésser precisament amb el nom de «complex d’Èdip» amb què el descobridor de la psicoanàlisi va definir aquell conflicte psíquic provocat per un conjunt inconscient i organitzat d’impulsos que es presenten, en certs aspectes, de manera semblant al mite d’Èdip: atracció envers el progenitor de sexe contrari i rebuig del progenitor del mateix sexe. Aquest complex és un dels elements importants de la psicoanàlisi.
+
+En el terreny de la creació literària, el mite d’Èdip ha tingut sempre una continuïtat molt evident, ja des de la literatura llatina amb l’Èdip Rei de L. A. Sèneca, inspirat en Sòfocles, o amb la Tebaida d’Estaci (inspirada potser no directament en Sòfocles, però sí que tracta del mateix mite).
+
+Deixant de banda les recreacions del mite en èpoques molt antigues, citarem l’Oedipe de P. Corneille, representada a París el 1659. Posteriorment, podem citar també Giovanni Battista Niccolini amb el seu Edipo nel bosco delle Eumenide, estrenada el 1823 i inspirada en Èdip a Colonos. Durant els anys 1820 i 1823, Francisco Martínez de la Rosa va fer una adaptació, en vers, de l’Èdip Rei, tragèdia que va dividir en cinc actes.
+
+André Gide (1869-1951) va inspirar-se també en Sòfocles a l’hora d’escriure l’Oedipe, drama en tres actes, publicat a París el 1930.
+
+Posteriorment, H. Ghéon va adaptar el mite d’Èdip, introduint-hi motius cristians de la redempció, en la seva obra Oedipe ou Le crépuscule des dieux, del 1938.
+
+Pel que fa al nostre país, tenim una traducció de l’Èdip Rei feta per Enric Franco el 1878. Més tard, al 1907, Ignasi Casanovas S. I. va traduir la trilogia tebana del mite (Èdip Rei, Èdip a Colonos i Antígona), però la seva traducció restà inèdita fins que fou publicada per M. Batllori (a Relíquies Literàries, Barcelona, 1960). Posteriorment, les traduccions de Sòfocles van ésser realitzades per C. Riba i publicades, en edició bilingüe, a la Fundació Bernat Metge, en quatre volums (l’Èdip Rei es troba al volum segon, juntament amb l’Àiax). També s’han publicat les versions en vers de les tragèdies de Sòfocles, del mateix C. Riba, a les edicions Curial (Clàssics Curial, ns. 8 i 9), edició a cura de C. Miralles.
+
+Quant a la incidència d’Èdip al nostre país, hem de recular al 1903, quan Adrià Gual, en sessió IX del Teatre íntim, va presentar l’Èdip Rei de Sòfocles. Sabem, en primer lloc, les dificultats que va trobar per part de la «Sociedad de Actores Dramáticos y Líricos de España», perquè hi introduïa actors aficionats, no afiliats a la dita societat. Tanmateix, quan es va resoldre el conflicte, es féu la representació el dia 10 de març de 1903, amb tant d’èxit, que va haver de fer-se una segona funció, aquest cop precedida d’una conferència sobre El Teatre grec antic, llegida per Pompeu Gener. Aquestes representacions significaren una fita important per al Teatre íntim, per tal com, a partir d’aquest fet, va abandonar el seu caràcter de cenacle per a obrir-se al gran públic.
+
+No podem deixar d’esmentar el pas del mite d’Èdip en el món del cinema, especialment en el film, signat per P. P. Pasolini, Edipo Re, del 1967.
+
+Un altre capítol molt important és la repercussió del mite d’Èdip en el món de la música. I per donar-ne un breu resum, començarem per anotar la música escènica per a l’Èdip Rei que va compondre Henry Purcell, amb el títol d’Oedipus, executada per primer cop el 1692.
+
+Nicolas-François Guillard va escriure el llibret, inspirat en Èdip a Colonos, per al melodrama en tres actes compost per Antonio Sacchini (1734-1786), representat a Versalles, el 1786, davant els reis de França.
+
+Modest Petrovic Musorgskij (1839-1881) va escriure un cor mixt sobre el mateix tema (1860). Ruggero Leoncavallo (1858-1919) va escriure l’òpera Edipo Re, que fou representada per primer cop a Xicago el 1920. També Felix Mendelssohn-Bartholdy (1809-1847) va compondre música escènica en nou parts per a solistes, cor i orquestra (op. 93), executada a Postdam el 1845.
+
+Georges Enescu (1881-1955), compositor romanès, va escriure una tragèdia lírica, Oedipus, sobre un llibret d’Edmond Fleg, que adaptà l’Èdip Rei i l’Èdip a Colonos de Sòfocles. L’obra fou estrenada a París el 13 de març de 1936.
+
+Finalment Igor Stravinsky va escriure una òpera-oratori, Oedipus Rex, en dos actes, amb text de Jean Cocteau, traduït al llatí per Jean Danielov. La primera representació s’esdevingué a París, el 30 de maig de 1927.
+
+Mikis Teodorakis ha compost, també recentment, una oda per a orquestra i cordes, amb el títol Oedipus Tyrannus.
+
+Finalment, també sobre el mite d’Èdip, però basant-se en l’obra de Sèneca, el compositor català Josep Soler i Sardà ha compost una òpera amb el títol Èdip i Iocasta (1974).
+
+
+
+
+
+BIBLIOGRAFIA
+
+
+Obres generals d’història de la literatura grega:
+
+LESKY, A. Historia de la literatura griega. Madrid (1968)
+
+ROMILLY J. Précis de littérature Grecque. París (1980)
+
+Obres generals sobre la tragèdia:
+
+ADRADOS, F. R. Fiesta, Comedia y tragedia. Barcelona (1971).
+
+ALSINA, J. Tragedia, religión y mito entre los griegos. Barcelona (1971).
+
+FERGUSON, J. A companion to Greek Tragedy. London (1972).
+
+LESKY, A. La tragedia griega. Barcelona (1966).
+
+POHLENZ, M. La tragedia greca. Brescia (1961).
+
+RACHET, G. La tragédie grecque. París (1973).
+
+ROMILLY, J. La tragédie grecque. París (1971).
+
+SCHAN, L. Études sur la tragédie grecque (dans ses rapports avec la céramique). París (1967).
+
+Obres sobre Sòfocles:
+
+LIDA, M. R. Introducción al teatro de Sófocles. Buenos Aires (1944).
+
+MADDALENA, A. Sofocle. Torino (1963).
+
+RONNET, G. Sophocle poéte tragique. París (1969).
+
+WALDOCK, A. J. Sophocles the dramatist. Cambridge (1966).
+
+WOODARD, T. Sophocles. New Jersey (1966).
+
+Pervivència del teatre grec:
+
+GIL, L. Transmisión mítica. Barcelona (1975).
+
+LASSO DE LA VEGA, J. S. De Sòfocles a Brecht. Barcelona (1970).
+
+LASSO DE LA VEGA, J. S. Helenismo y literatura contemporánea. Madrid (1967).
+
+PROPP, V. Edipo a la luz del Folklore. Madrid (1982).
+
+
+
+
+
+ÈDIP REI
+
+
+
+
+
+DRAMATIS PERSONAE
+
+
+ÈDIP, rei de Tebes.
+
+SACERDOT DE ZEUS, interlocutor d’Èdip en el Pròleg.
+
+CREONT, cunyat d’Èdip i germà de Iocasta.
+
+COR, nobles ancians de Tebes.
+
+TIRÈSIAS, sacerdot-endeví, cec.
+
+IOCASTA, reina de Tebes, esposa d’Èdip.
+
+MISSATGER DE CORINT.
+
+CRIAT DE LAIOS.
+
+MISSATGER DE PALAU.
+
+
+
+
+
+PRÒLEG
+
+
+
+(L’acció es desenvolupa a la ciutat de Tebes)
+
+ÈDIP: Fills meus, estirp nova de l’antic Cadmos,[1] ¿què vol dir aquesta actitud de suplicants amb què us presenteu, coronats amb aquests rams d’oliveres? Tota la ciutat és plena d’encens, de cants de peans[2] i de laments. M’ha semblat que era just d’assabentar-me’n personalment, fills meus, més que no pas sentir-ho de boca de missatgers i per això aquí em teniu disposat a escoltar-vos jo mateix, el famós Èdip ben conegut per tots. Parla tu, ancià, perquè a tu et correspon per edat parlar abans que els altres: per què adopteu aquesta actitud? Què temeu o què demaneu? És el meu desig ajudar-vos en tot. Caldria ésser insensible per a no compadir-se davant la vostra actitud.
+
+SACERDOT: Sobirà del meu país, Èdip, ja veus l’edat dels qui ens trobem davant dels teus altars: uns no tenen encara força per fer una llarga volada; altres són ancians, feixucs per la vellesa; jo sóc sacerdot de Zeus; i aquests altres són un grup escollit de joves. La resta del poble seu amb corones de suplicants a les places, davant dels dos temples de Pal·las i sobre les cendres profètiques d’Ismenos.[3] La ciutat, com tu mateix veus, està terriblement agitada i ja no és capaç d’aixecar el cap per sobre de l’onada de mort i es consumeix en les mateixes arrels fructíferes de la terra, en les ramades de bous i en els parts de les seves dones que ja no infanten cap fill. Una divinitat portadora de foc, de l’odiosa pesta, s’escampa amb violència per tota la ciutat i deixa buit el casal de Cadmos i el negre Hades es va enriquint amb els nostres planys i plors. Ni jo ni aquests nois que seiem davant l’altar, no et fem igual als déus, però sí que et considerem el primer d’entre els homes en els esdeveniments de la nostra vida i en les vicissituds creades pels déus. Quan tu vas arribar a la ciutat de Cadmos, vas alliberar-nos del tribut que devíem a la cruel Cantora,[4] sense saber ni haver après res de nosaltres, sinó que fou, segons tothom diu i tothom creu, gràcies a l’ajuda d’un déu que vas redreçar la nostra vida. També ara, poderós Èdip, estimat per tots, et supliquem prosternats que ens trobis algun remei, tant se val si l’escoltes d’un déu o si el saps d’algun home, perquè veig que els qui tenen experiència solen ser més encertats en els seus consells. Tu, doncs, oh millor dels mortals!, redreça la ciutat, i defensa el teu nom, perquè aquesta terra t’aclama com a salvador pel teu zel d’abans: no deixis com a record del teu regnat el fet que vam redreçar-nos per caure tot seguit. Redreça definitivament aquesta ciutat! Si abans vas portar-nos la salvació amb un auspici favorable, sigues el mateix en la situació present. Si vols continuar governant aquesta terra com ara la governes, és millor que la governis amb homes, i no buida, perquè de res no valen una fortalesa o una nau sense homes que l’ocupin.
+
+ÈDIP: Pobres fills meus, em veniu amb unes peticions que em són ben conegudes, que no em són pas noves. Sé els mals que patiu, però, malgrat el vostre sofriment, cap de vosaltres no pateix el que jo pateixo. El vostre dolor s’adreça tan sols a cada un de vosaltres i a ningú més. La meva ànima, en canvi, s’afligeix alhora per la ciutat, per mi i per tu. No desvetlleu pas un home que dormia. Sapigueu, més aviat, que són moltes les llàgrimes que he vessat i són molts els camins que he recorregut amb el meu pensament intranquil, i l’únic remei que en les meves reflexions he trobat, l’he posat ja en pràctica: he enviat Creont, fill de Meneceu, el meu cunyat, al casal pític de Febos,[5] a preguntar amb quines accions o amb quines paraules podríem alliberar la nostra ciutat. Quan veig el temps transcorregut em pregunto amb neguit què li pot haver passat, perquè la seva absència supera el temps que és raonable d’esperar. Quan arribi, però, seria un malvat si no fes tot el que haurà revelat el déu.
+
+SACERDOT: En un bon moment has parlat. Aquests m’acaben de fer senyals que s’acosta Creont.
+
+ÈDIP: Déu Apol·lo, tant de bo que vingui amb alguna ventura salvadora, com sembla pel seu aspecte radiant.
+
+SACERDOT: Sembla, en efecte, satisfet, altrament no vindria amb el cap ben coronat amb llorer florit.
+
+ÈDIP: Ben aviat ho sabrem. Ja és prou a la vora per sentir-nos. Príncep, benvolgut cunyat, fill de Meneceu, quina resposta ens portes del déu?
+
+(Creont entra per l’esquerra)
+
+CREONT: Excel·lent. Perquè és ben cert que fins i tot els afers més desafortunats, si se’ls porta pel bon camí, poden tots girar cap a bé.
+
+ÈDIP: Però quina és la seva resposta? Perquè les teves paraules si bé no em produeixen temor, tampoc no em tranquil·litzen.
+
+CREONT: Si és la teva voluntat escoltar-me en presència d’aquests, estic disposat a parlar. O vols que entrem dins?
+
+ÈDIP: Parla davant de tots. El dol, el porto més per ells que per mi mateix.
+
+CREONT: Et diré, doncs, el que he sentit del déu. Febos Apol·lo ens mana d’alliberar-nos de la taca produïda en aquest país i no alimentar-la fins a fer-la irreparable.
+
+ÈDIP: Amb quina mena de purificació? Quina és la naturalesa de la calamitat?
+
+CREONT: Amb l’exili o fent pagar mort per mort, perquè el que atueix la ciutat és aquesta sang.
+
+ÈDIP: A l’assassinat de quin home es refereix amb aquestes paraules?
+
+CREONT: En altre temps, senyor, teníem Laios com a rei d’aquesta terra, abans que tu governessis la nostra ciutat.
+
+ÈDIP: N’he sentit parlar, però mai no l’he conegut.
+
+CREONT: És mort i el déu ens ordena clarament de castigar amb mà dura els assassins, siguin quins siguin.
+
+ÈDIP: Però, on són? On trobarem el rastre obscur d’una falta antiga?
+
+CREONT: El déu va dir que en el mateix país. Allò que es busca es troba, mentre que es perd allò que s’oblida.
+
+ÈDIP: On fou que s’esdevingué la mort de Laios, a casa, al camp o en terres estranyes?
+
+CREONT: Va sortir a consultar l’oracle, segons va dir, i ja no va tornar mai més a casa, després que el vam acomiadar.
+
+ÈDIP: I no el va veure cap missatger o company de viatge a qui poder-li treure alguna informació?
+
+CREONT: Tots són morts, llevat d’un que va fugir de por i de tot el que va veure no ha sabut dir-ne més que una cosa.
+
+ÈDIP: Quina? Un sol detall pot ajudar-nos a descobrir-ne molts, si en traiem un lleu bri d’esperança.
+
+CREONT: Afirmava que van trobar-se amb lladres de camí ral i que el varen matar, no pas un home sol, sinó molts.
+
+ÈDIP: Com podria un bandit arribar a tanta audàcia, si no era pagat amb diners des d’aquí?[6]
+
+CREONT: Aquesta era l’opinió comuna, però ningú no va oferir-se a venjar la mort de Laios enmig de tanta desgràcia.
+
+ÈDIP: I quina era aquesta desgràcia que va impedir d’aclarir la qüestió de la mort del rei?
+
+CREONT: L’Esfinx de cants enigmàtics ens obligava a ocupar-nos del perill que teníem davant i a deixar de banda el que era obscur.
+
+ÈDIP: Doncs bé, de nou jo ho aclariré des del seu començament. Febos ha estat just, i tu també, de mostrar aquesta sol·licitud per al mort. En mi, doncs, trobareu justament un aliat que donarà alhora satisfacció a aquesta terra i al déu. I no és pas per un amic llunyà que proscriuré aquest crim abominable, sinó que és per mi mateix. Perquè qui sigui l’assassí pot voler atacar-me també a mi. Però, fills meus, aixequeu-vos de pressa d’aquests graons i recolliu aquests rams de suplicants. Que un de vosaltres reuneixi el poble de Cadmos perquè estic disposat a fer tot el que calgui: amb l’ajuda del déu ens en sortirem feliçment, o hi deixarem la vida.
+
+(Èdip i Creont entren dins del palau)
+
+SACERDOT: Fills, aixequem-nos. La resposta que hem vingut a buscar, el rei ens la dóna. Que Febos, que ens ha enviat aquesta profecia, sigui el nostre salvador i posi fi a aquesta epidèmia.
+
+(Tots surten d’escena i entra el cor d’ancians)
+
+
+
+
+
+PÀRODE
+
+
+
+COR: Dolça veu de Zeus, quina resposta ens has portat de Pito, rica en or, a la il·lustre Tebes? Tinc l’ànima tensa pel temor i tremolosa de por, oh Apol·lo guaridor de Delos!,[7] angoixada per l’espera de les teves noves o per la renovació d’antigues obligacions que, passat el temps, tornes a imposar-nos. Digues-m’ho, radiant filla de l’esperança, paraula immortal.
+
+»En primer lloc t’invoco a tu, filla de Zeus, Atena immortal, i també la teva germana Àrtemis,[8] protectora d’aquesta terra, que ocupa el tron circular i gloriós de l’àgora, i a tu, fletxador Febos, tots tres, divinitats protectores, mostreu la vostra presència i si mai, quan una calamitat amenaçava la nostra ciutat, heu destruït la flama horrible del sofriment, feu també ara acte de presència.
+
+»Ai!, Ai!, els meus sofriments són innombrables. Tota la meva gent està malalta i el meu esperit no troba cap arma amb què defensar-se. Ni creixen els fills de la nostra il·lustre terra ni les dones resisteixen les fatigues doloroses dels parts. I com ocells de bones ales, més lleugers que el foc que tot ho crema, pots veure els meus fills que es precipiten de cap a la platja del déu del capvespre.[9]
+
+»La ciutat es consumeix amb morts sense fi i els seus fills jeuen desconsolats per terra, portadors de mort, sense que ningú se n’apiadi. I les esposes i les mares de cabells blancs preguen al peu dels altars i es planyen pels seus mísers sofriments. I ressonen les veus clares dels cants del Pean i les complantes que els acompanyen. Oh filla egrègia de Zeus, envia’ns, per a tots ells, l’ajuda esperada.
+
+»Que Ares,[10] el destructor que, sense armadura ni escut, m’abrasa amb les seves tumultuoses escomeses, faci marxa enrere, lluny de la pàtria, cap al grandiós casal d’Amfitrite[11] o cap al port inhòspit de les aigües de Tràcia. Si la nit deixa algun mal per fer, ve el dia per a acabar-lo. Oh pare Zeus! Tu que posseeixes el poder del foc lluminós, destrueix-lo amb el teu llamp.
+
+»Senyor, Apol·lo Liceu, voldria veure distribuïdes, com a defenses davant nostre, les fletxes indomables sortides del teu arc encorbat, i les torxes enceses d’Àrtemis que il·luminen els seus salts pels boscos de Lícia. També a tu, t’invoco amb insistència, déu de la diadema d’or, Bacus cara-roja, a qui s’aclama amb crits d’alegria, i dónes nom a aquesta terra, company de les Mènades,[12] vine amb una torxa refulgent a protegir-nos contra el déu odiós d’entre els déus.
+
+
+
+
+
+EPISODI I
+
+
+
+(Surt Èdip del palau i s’adreça al cor)
+
+ÈDIP: Em fas una petició, però respecte a això que em demanes, si vols escoltar i acceptar les meves paraules i prestes la teva ajuda en la pesta, trobaràs un gran alleujament dels teus mals. Les meves paraules seran les d’una persona estranya a allò que ha estat dit i estranya també als fets. No podria, doncs, seguir tot sol un rastre massa llarg sense tenir-ne algun indici. I ara, últim ciutadà inscrit a la ciutat, davant de tots vosaltres, ciutadans de Cadmos, faig aquesta proclama: «A aquell de vosaltres que sàpiga a mans de qui va morir Laios fill de Làbdac, li ordeno de denunciar-ho tot davant meu. I si l’autor tem per la seva vida, que s’alliberi de l’acusació, perquè no rebrà cap altra punició que sortir, sense perill, del país. Si, en canvi, algú coneix l’assassí, alguna persona estranya o d’un altre país, que no calli, perquè a la recompensa que li donaré, li afegiré el meu agraïment. Però si calleu i, algú, temorós per un amic o per ell mateix, desatén les meves paraules, convé que escolti el que penso fer: com a persona que posseeix el poder i el tron d’aquesta terra, ordeno que ningú no aculli ni parli amb aquest home, que no se li permeti de participar en les pregàries i sacrificis comuns ni se l’accepti en les purificacions amb aigua lustral. I que tothom el bandegi de casa seva com un estigma per a tots nosaltres. Així m’ho acaba de comunicar l’oracle del déu pític. Aquest és el pacte que faig amb el déu i el mort. I impreco contra l’autor del fet, tant si ha aconseguit encobrir la seva actuació perquè era sol, com si va actuar amb còmplices, miserable com és, que passi la vida en el pitjor dels infortunis. Ordeno també que si un dia arribés a ésser hoste del meu casal amb el meu consentiment, se m’apliquin els mateixos càstigs que ara mateix exposava. A tots vosaltres us encomano l’acompliment de la meva voluntat: feu-ho per mi mateix, pel déu i per aquesta terra tan cruelment assolada per la manca de fruits i per l’abandó dels déus».
+
+(Èdip deixa el to oficial i continua amb aire familiar)
+
+»Encara que no hagués estat un mandat diví, no era just de deixar aquest crim sense expiació, sobretot perquè es tractava del vostre millor rei. Calia iniciar una investigació. Com que s’esdevé que ara jo tinc l’autoritat que tenia ell abans, que comparteixo el seu llit i la mateixa esposa i ens haurien nascut fills comuns, si la dissort no hagués colpit la seva raça (la desgràcia va precipitar-se sobre la seva persona), per tot això iniciaré la meva lluita, igual que si es tractés del meu pare, i arribaré fins al final en el meu propòsit de capturar l’autor de la mort del fill de Làbdac, fill de Polidor, fill del vell Cadmos, fill de l’antic Agenor! I prego els déus per als qui no col·laborin en la meva recerca, que la terra no els produeixi cap fruit ni les dones cap fill, i que siguin atuïts per la plaga que ara ens afeixuga i per una encara de pitjor. I a vosaltres, habitants de Cadmos, que fareu cas de les meves paraules, us desitjo que tingueu d’aliats per sempre la Justícia i tots els déus.
+
+CORIFEU: Com que m’has implicat en els teus conjurs, et contestaré, senyor: ni jo l’he matat ni puc dir-te qui ho ha fet. Tanmateix fóra més propi que la investigació de l’autor del fet la dugués el mateix Febos que ho ha ordenat.
+
+ÈDIP: Tens raó, però no hi ha ningú que pugui obligar els déus a fer allò que no volen.
+
+CORIFEU: Encara voldria expressar-te una segona opinió.
+
+ÈDIP: I una tercera també. No vacil·lis a parlar.
+
+CORIFEU: Conec una persona venerable, Tirèsias, que posseeix els mateixos dons profètics que el déu Apol·lo. Si li preguntem, senyor, potser arribarem a esbrinar-ne alguna cosa segura.
+
+ÈDIP: Això tampoc no he deixat de fer-ho. Quan Creont me’n va parlar, vaig enviar-li dos missatgers, i m’estranya que, després de tant de temps, encara no s’hagi presentat.
+
+CORIFEU: I encara hi ha d’altres opinions antigues i poc fiables.
+
+ÈDIP: Quines són? Tinc en compte qualsevol cosa que es digui.
+
+CORIFEU: Diuen que va morir a mans d’uns caminants.
+
+ÈDIP: Jo també ho he sentit, però ningú no sap on és el qui ho va veure.
+
+CORIFEU: Si té una mica de temor, quan senti les teves imprecacions no es quedarà callat.
+
+ÈDIP: Qui no té por dels fets, no tem tampoc les paraules.
+
+CORIFEU: Aquí hi ha la persona que el convencerà. Aquests homes ja porten el profeta diví, l’únic mortal que posseeix la veritat.
+
+(Entra Tirèsias guiat per un noi i acompanyat per dos criats d’Èdip)
+
+ÈDIP: Tirèsias, tu que tot ho observes, tant allò que pot ensenyar-se com allò que és prohibit, tant els fenòmens celestials com el que passa sobre la terra, encara que no hi veus, coneixes la terrible epidèmia que assola la ciutat. Oh senyor! Només en tu confiem com a protector i salvador. Febos (potser en tens notícies pels nostres missatgers), en la seva resposta, ha manifestat que hi havia una sola possibilitat de salvar-nos de la pesta: descobrir els assassins de Laios i matar-los o bé condemnar-los a l’exili. Tu, ara, no ens deneguis la teva ciència de la interpretació de les aus ni cap dels altres recursos endevinatoris que posseeixes, i protegeix-te tu mateix i la ciutat, protegeix-me a mi i protegeix-nos tots de la impuresa que ens pot produir el mort. Som a les teves mans. Ajudar els altres amb tots els mitjans i possibilitats és l’empresa més noble a què un home pot aspirar.
+
+TIRÈSIAS: Ai! Ai! Que terrible que és conèixer allò que no aprofita a qui ho coneix. Ho sabia bé i ho he oblidat, si no, no seria aquí.
+
+ÈDIP: Què és això? Véns molt desanimat!
+
+TIRÈSIAS: Deixa’m tornar a casa. Suportarem millor tu el teu destí i jo el meu, si m’obeeixes.
+
+ÈDIP: Les teves paraules no són justes ni plaents per a aquesta ciutat que t’ha criat, si li negues la teva resposta.
+
+TIRÈSIAS: Veig que les teves paraules tampoc no són oportunes. Com que no vull que em passi el mateix…
+
+(Fa gest d’entornar-se’n)
+
+ÈDIP: No, pels déus, no te’n vagis si saps alguna cosa. Tots ens prosternem davant teu per suplicar-te.
+
+TIRÈSIAS: Perquè cap de vosaltres no sap res. Però jo mai no exposaré els meus mals, per no dir els teus.
+
+ÈDIP: Què dius? No vols parlar malgrat saber-ho? No t’adones que ens traeixes i arruïnes la ciutat?
+
+TIRÈSIAS: Jo no t’angoixaré a tu, ni m’angoixaré a mi. Per què vols preguntar encara? De mi no sabràs res més.
+
+ÈDIP: Ets el més malvat dels malvats i causaries irritació a les mateixes pedres. No diràs res i mantindràs aquesta actitud obstinada?
+
+TIRÈSIAS: Em retreus la meva ira i no veus la que hi ha dins teu, i encara m’insultes.
+
+ÈDIP: ¿Qui no s’irritaria en sentir unes paraules com aquestes teves amb què ara tu ofens la ciutat?
+
+TIRÈSIAS: Les desgràcies vindran soles, encara que jo em tanqui en el silenci.
+
+ÈDIP: Doncs cal que tu ens diguis quines són aquestes desgràcies que vindran.
+
+TIRÈSIAS: No vull dir res més. Si vols, davant d’això ja pots mostrar la còlera més terrible.
+
+ÈDIP: Doncs bé, en el meu estat d’ira no callaré res del que intueixo. Sàpigues que, pel que a mi em sembla, tu mateix vas ésser còmplice del crim i tu mateix vas realitzar-lo, encara que no amb les teves mans, però, si hi veiessis, diria que tot era obra només teva.
+
+TIRÈSIAS: De veritat? Doncs t’invito a executar l’ordre que has donat i que des d’avui no ens adrecis més la paraula, ni a aquests ni a mi, perquè tu ets el veritable causant de la impuresa que embruta aquest país.
+
+ÈDIP: Has d’ésser molt insolent per arribar a dir aquestes paraules. Que potser et penses que et salvaran?
+
+TIRÈSIAS: Ja n’estic de salvat. La meva força és la veritat.
+
+ÈDIP: Apresa de qui? Perquè no serà pas del teu art.
+
+TIRÈSIAS: Apresa de tu, perquè tu m’has obligat a parlar, sense que jo ho volgués.
+
+ÈDIP: A parlar de què? Torna-m’ho a dir i ho entendré millor.
+
+TIRÈSIAS: No ho has entès abans? O potser intentes fer-me parlar?
+
+ÈDIP: No ho he entès prou bé per dir que ho sé. Torna-ho a dir.
+
+TIRÈSIAS: Dic que tu ets l’assassí que busques.
+
+ÈDIP: No repetiràs, tan tranquil, dos cops aquests insults.
+
+TIRÈSIAS: Doncs encara te’n diré d’altres que t’enfurismaran més.
+
+ÈDIP: Fes el que vulguis, però parlaràs en va.
+
+TIRÈSIAS: Afirmo que, sense saber-ho, convius vergonyosament amb els éssers més estimats sense veure tampoc a quin punt de misèria has arribat.
+
+ÈDIP: Et penses que podràs sempre expressar paraules semblants tan alegrament?
+
+TIRÈSIAS: Sí, almenys si la veritat té alguna força.
+
+ÈDIP: La té, però no per a tu. La seva força no et recolza perquè ets cec de les orelles i de l’enteniment com ho ets de la vista.
+
+TIRÈSIAS: I tu ets un beneit perquè em fas uns retrets que ben aviat tothom et farà a tu.
+
+ÈDIP: Vius a la nit i no ens pots fer cap mal, ni a mi ni a ningú que vegi la llum.
+
+TIRÈSIAS: No, el destí no vol que caiguis per culpa meva, perquè Apol·lo és prou poderós i a ell ha estat confiat l’acompliment del teu destí.
+
+ÈDIP: Això és invenció teva o de Creont?
+
+TIRÈSIAS: Creont no és el culpable de les teves desgràcies. L’ets tu mateix.
+
+ÈDIP: Oh riquesa, poder real, art que excel·leix pel damunt de tot art en aquesta vida envejable! Quanta gelosia s’hi amaga, si per aquest poder que la ciutat va confiar-me com a present, sense jo demanar-ho, Creont, el fidel, l’amic de sempre, desitja d’apartar-me’n venint d’amagat i subornant aquest bruixot maquinador, aquest pidolaire enganyós que té els ulls oberts només per als guanys, però tancats per al seu art. Perquè, vinga!, digues!, ¿quan has estat un endeví fidedigne? ¿Per què no vas donar la solució alliberadora als ciutadans quan tenien aquí el monstre cantador?[13] I tanmateix resoldre l’enigma demanava no pas un home qualsevol, sinó l’art d’un endeví. Tu vas mostrar ben clarament que ignoraves l’art dels ocells i l’art profètic que ve dels déus. En canvi, quan vaig arribar jo, Èdip, el que no sap res, vaig solucionar-ho només amb la meva intel·ligència, sense conèixer l’art d’endevinar. I ara tu el vols fer fora, perquè creus que estaràs més a prop del tron de Creont. Em sembla que lamentareu aquesta purificació del crim tu i el qui t’hi ha ficat. Si no et veiés tan vell, amb sofriments sabries el valor dels teus pensaments.
+
+CORIFEU: Al nostre parer, les seves paraules han estat dites en un excés d’ira, igual que les teves, Èdip. Però el que ara convé examinar, no són pas les vostres divergències, sinó la manera millor de portar a terme el mandat del déu.
+
+TIRÈSIAS: Encara que siguis rei, puc replicar-te d’igual a igual, perquè també jo tinc el meu poder: la meva vida no és sotmesa a tu, sinó a Lòxias,[14] de manera que tampoc no estic inscrit en la llista dels seguidors de Creont. I com que m’has retret la meva ceguesa, et diré que, encara que hi veus, no veus en quin punt de desgràcia et trobes, ni tampoc on vius ni amb qui vius. Saps de qui ets fill? Sense saber-ho t’has convertit en abominació dels teus, dels morts i del qui encara habiten la terra, i la doble maledicció, de la teva mare i del teu pare, que s’acosta inexorablement, t’expulsarà ben aviat d’aquesta terra. Ara hi veus bé, però ben aviat veuràs només la foscor. Quin port hi haurà que no s’ompli amb els teus gemecs, quin Citeró[15] hi haurà que no se’n faci eco, quan coneguis el port inhòspit, que són les teves noces, on has arribat tot pensant haver fet una travessia feliç? No veus tampoc la infinitud de les teves desventures que et faran igual a tu mateix i als teus fills. I davant d’això, segueix insultant Creont i les meves profecies! No hi haurà en aquest món ningú que tingui una fi més dissortada que la teva.
+
+ÈDIP: He de continuar tolerant les paraules d’aquest home? Maleït siguis! Vés-te’n ja d’aquesta casa pel mateix camí per on has vingut!
+
+TIRÈSIAS: Jo no hauria vingut si tu no m’haguessis cridat.
+
+ÈDIP: Perquè no sabia que diries tantes bajanades, sinó, ben bé que m’hi hauria pensat abans de fer-te venir a casa meva!
+
+TIRÈSIAS: Segons tu, doncs, sóc un neci. En canvi el teus pares, que van donar-te la vida, em consideraven ben assenyat.
+
+ÈDIP: Quins pares? Espera’t. Qui em va donar la vida?
+
+TIRÈSIAS: El dia d’avui et farà néixer i et destruirà.
+
+ÈDIP: Que enigmàtiques i fosques que són les teves paraules!
+
+TIRÈSIAS: No ets tu el millor desxifrador d’enigmes?
+
+ÈDIP: Retreu-me precisament allò que em fa important.
+
+TIRÈSIAS: I és tanmateix el teu èxit el que et perd.
+
+ÈDIP: Tant me fa, si he salvat la ciutat.
+
+TIRÈSIAS (fa gest de marxar): Bé, doncs, jo me’n vaig. Noi, acompanya’m.
+
+ÈDIP: Això, que t’acompanyi, perquè la teva presència em molesta i com més lluny te’n vagis, menys m’importunaràs.
+
+TIRÈSIAS: Marxaré quan hagi dit el que he vingut a dir, perquè el teu posat no em fa cap por: no ets pas tu qui em perdrà. I això és el que et dic: aquest home que fa temps que busques amb les teves amenaces i edictes, l’assassí de Laios, és aquí: és, segons sembla, foraster, però ben aviat es coneixerà la seva procedència tebana, però no s’alegrarà de la seva sort que el convertirà de vident en cec i de ric en pobre i el farà vagar per terres estranyes tot guiant-se amb un bastó. Tothom sabrà que és germà i pare dels fills amb qui conviu, i fill i espòs de la dona que l’infantà, i alhora marit de l’esposa del seu pare i el seu assassí. Entra a palau i medita aquestes paraules i, si trobes que menteixo, pots proclamar que no sé res de profecies.
+
+(Tirèsias se’n va acompanyat pel seu pigall i Èdip entra a palau)
+
+
+
+
+
+ESTÀSIM I
+
+
+
+COR:[16] I qui és aquest home acusat per la roca profètica de Delfos d’haver comès els crims més abominables amb la seva mà homicida? Ara li convé d’encaminar els seus passos cap a la fugida amb la llestesa del vent tempestuós, perquè el fill de Zeus, ben armat amb el foc dels llamps, s’abat contra ell i al seu darrere corren les temibles i infal·libles Fúries.
+
+»La veu del Parnàs,[17] cobert de neu, s’acaba de manifestar de manera diàfana i ens ordena de perseguir l’assassí desconegut. Igual que un toro salvatge, s’amaga sota l’espessor de la selva i dins les coves; solitari i dissortat en una fugida dissortada, intenta salvar-se de les paraules profètiques sortides del centre de la terra, però sempre volen incansables al seu voltant.
+
+»El savi endeví em confon amb les seves temibles paraules. Ni hi estic d’acord ni les rebutjo: no sé què puc dir-hi. Només em manté l’esperança, perquè no hi veig res ni en el present ni en el passat. ¿Quina enemistat podria existir entre els Labdàcides i el fill de Pòlib? Ni abans ni ara no he trobat cap argument per anar a favor dels Labdàcides i en contra de la bona fama d’Èdip, i presentar-me com a venjador d’unes morts incertes.
+
+»Zeus i Apol·lo són savis i bons coneixedors dels afers dels mortals. Entre els homes, però, no es pot assegurar que un endeví sigui millor que jo: un coneixement humà pot sempre ésser superior a un altre. Jo, abans de veure una afirmació provada, no penso acceptar els arguments dels acusadors, perquè la Verge alada era real i un dia també va atacar-lo i ell va demostrar en la prova la seva saviesa i el seu amor per Tebes. Per això, en consciència, no el culparé mai d’un crim.
+
+(Creont entra per la dreta)
+
+
+
+
+
+EPISODI II
+
+
+
+CREONT: He sabut, ciutadans, que el rei Èdip m’acusava d’uns fets terribles i intolerables i per això em presento davant vostre. Si enmig de les desgràcies actuals, ell creu que he dit o fet alguna cosa que el perjudiqui, no tinc cap desig de viure més amb aquestes acusacions, perquè la pena que em causa aquesta difamació no és gens insignificant per a mi. Fóra terrible tenir fama de malvat a la ciutat i ésser considerat malvat per tu i pels amics.
+
+CORIFEU: Les seves acusacions van ésser provocades sens dubte per un arravatament de còlera més que no pas per un raonament conscient.
+
+CREONT: Ha estat dit ben clar, oi?, que amb els meus raonaments he persuadit l’endeví perquè mentís?
+
+CORIFEU: Això s’ha dit, però no sé amb quina intenció.
+
+CREONT: I va fer-me aquestes acusacions amb la mirada sincera i el cap clar?
+
+CORIFEU: Ho ignoro. Jo no veig res del que fan els poderosos. Però aquí el tens en persona; ara surt de palau.
+
+(Entra Èdip en escena)
+
+ÈDIP: Què hi fas aquí tu? Per què hi has vingut? Tanta gosadia tens per venir a casa meva? Assassí assedegat de la meva vida, lladre cobejós del meu poder! Digues, pels déus, ¿m’has vist covard o beneit, quan has ordit aquesta conspiració? ¿Potser et pensaves que no arribaria a conèixer els plans que tramaves amb enganys i que si els arribava a conèixer, no me’n defensaria? ¿No és més insensat el teu projecte d’aconseguir, sense el suport del poble i dels amics, el tron que només s’aconsegueix amb el poble i amb diners?[18]
+
+CREONT: Saps què has de fer? Deixar-me parlar i escoltar-me, i jutjar quan coneguis la meva opinió.
+
+ÈDIP: Ets un bon orador, però jo sóc de mal convèncer. Et trobo hostil i pertorbador.
+
+CREONT: Respecte a això, doncs, escolta el que et diré.
+
+ÈDIP: Respecte a això, doncs, no comencis a dir-me que no ets un malvat.
+
+CREONT: Si creus que l’arrogància sense la raó, és un bé important, vas molt errat.
+
+ÈDIP: Si creus que una persona que ha actuat amb dolenteria en contra d’un familiar no ha de sotmetre’s a la justícia, comets un greu error.
+
+CREONT: Bé, convinc que tens raó. Però explica’m el greuge que dius que t’he fet.
+
+ÈDIP: ¿Em vas o no convèncer que calia fer venir el venerable endeví?
+
+CREONT: I encara sóc del mateix parer.
+
+ÈDIP: ¿Quant temps fa que Laios…
+
+CREONT: Ha fet què? No sé què vols dir.
+
+ÈDIP: …va morir de mort violenta?
+
+CREONT: Podríem comptar-ne molts i llargs anys.
+
+ÈDIP: I en aquell temps l’endeví ja exercia el seu art?
+
+CREONT: La seva saviesa era la mateixa i tothom el tenia en la mateixa consideració.
+
+ÈDIP: M’havia mencionat algun cop en aquell temps?
+
+CREONT: No, mai; almenys davant meu.
+
+ÈDIP: Però no vau iniciar cap investigació sobre la mort?
+
+CREONT: Ben cert que sí, però no vam sentir res de tu.
+
+ÈDIP: I per què aquest savi endeví no explicava aquestes històries en aquell moment?
+
+CREONT: No ho sé: d’allò que no conec, prefereixo no opinar.
+
+ÈDIP: Allò que saps, almenys, hauries de dir-m’ho, si vols mostrar bona voluntat.
+
+CREONT: A què et refereixes? Si ho sé, no em negaré a parlar.
+
+ÈDIP: Em refereixo al fet que, si no s’hagués posat d’acord amb tu, no hauria parlat del meu assassinat de Laios.
+
+CREONT: Si va dir això, tu ho saps millor. Però ara és també just que jo et pregunti a tu, igual que tu ho has fet amb mi.
+
+ÈDIP: Pregunta, però no descobriràs en mi l’assassí de Laios.
+
+CREONT: I bé, t’has casat amb la meva germana?
+
+ÈDIP: No puc negar això que em preguntes.
+
+CREONT: I no ets rei en igualtat de drets que ella?
+
+ÈDIP: I tot el que ella vol ho obté de mi.
+
+CREONT: I jo no sóc igual, en rang, a vosaltres dos?
+
+ÈDIP: I és precisament en això quan demostres que ets un amic traïdor.
+
+CREONT: Al contrari, si et fas el raonament que jo faig. En primer lloc reflexiona: ¿creus que algú preferiria governar amb por abans que dormir tranquil posseint el mateix poder? Bé, doncs, jo no tinc el desig de ser rei, sinó el de governar com a rei, igual que faria qualsevol persona assenyada. Ara de tu ho rebo tot, sense haver de témer res, mentre que si governava, hauria d’actuar sovint en contra de la meva voluntat. ¿Per què, doncs, m’hauria d’ésser més plaent ésser rei que posseir un poder que no em proporciona cap preocupació? No he comès encara l’error de deixar honors i riqueses per altres preocupacions. Ara estic bé amb tothom i tothom em saluda, i si algú necessita alguna cosa de tu, busquen la meva intercessió, perquè gràcies a mi els és més fàcil d’obtenir el que cerquen. ¿Per què, doncs, hauria de voler aquell poder i deixar aquest? No, una persona assenyada no pot actuar insensatament. Aquesta idea no m’ha temptat mai ni acceptaria mai ningú que ho hagués intentat. I si en vols una prova, vés a Delfos a assabentar-te si et vaig transmetre amb tota fidelitat l’oracle del déu. D’altra banda, si pots provar que he fet conxorxa amb l’endeví, podràs matar-me no amb un vot, sinó amb dos, amb el teu i amb el meu. Però no em condemnis per una sospita no fonamentada, sense haver-me escoltat, perquè no és just de tenir frívolament els dolents per bons i els bons per dolents, i dic més: expulsar un amic lleial és com privar-se de la part més estimada de la pròpia vida. Però amb el temps ho sabràs bé, perquè només el temps deixa en clar l’home just; el dolent, en canvi, es coneix en un sol dia.
+
+CORIFEU: Ha parlat de manera encertada per a qui vulgui evitar de caure en un error, senyor, perquè les reflexions precipitades no són fiables.
+
+ÈDIP: Quan un conspirador fa la seva conjura amb silenci i rapidesa, també jo he de prendre una determinació ràpida. Si em quedo sense fer res, la conjura triomfarà i jo fracassaré.
+
+CREONT: Què vols, doncs? Expulsar-me del país?
+
+ÈDIP: De cap manera. La teva mort vull, i no el teu exili.
+
+CREONT: Quan m’expliquis la raó de la teva còlera…
+
+ÈDIP: Vols dir que no acataràs la meva voluntat ni m’obeiràs?
+
+CREONT: És que no veig que raonis amb seny.
+
+ÈDIP: Sí que ho faig, almenys amb els meus afers.
+
+CREONT: També ho hauries de fer amb els meus.
+
+ÈDIP: Però tu ets un traïdor.
+
+CREONT: I si estiguessis equivocat?
+
+ÈDIP: S’ha d’obeir el rei.
+
+CREONT: Tret de si governa injustament.
+
+ÈDIP: Oh ciutat! Ciutat!
+
+CREONT: També és la meva ciutat; no és només teva.
+
+CORIFEU: Calmeu-vos, prínceps. Ara justament veig Iocasta que surt de palau. Cal que amb la seva ajuda concilieu el vostre litigi actual.
+
+(Iocasta surt de palau i s’interposa entre ells dos)
+
+IOCASTA: Desgraciats, què ha provocat aquesta insensata i exaltada discussió? No us fa vergonya remoure rancúnies privades quan el país és sumit en una epidèmia tan greu? Per què no entres a palau i tu, Creont, no vas a casa teva? No convertiu un dolor que no és res en un dolor insuportable.
+
+CREONT: Èdip, el teu espòs, germana, considera just actuar amb gran severitat en contra meu i dubta entre expulsar-me de la pàtria o agafar-me i condemnar-me a mort.
+
+ÈDIP: Així és: l’he sorprès conjurant contra la meva persona amb maquinacions insidioses.
+
+CREONT: Que m’abandoni tota mena de felicitat i que mori maleït si sóc culpable de qualsevol dels fets que tu m’imputes.
+
+IOCASTA: Pels déus, Èdip, dóna crèdit a les seves paraules, en consideració als déus que ha invocat en el seu jurament, a la meva persona i a tots els presents.
+
+CORIFEU: Reflexiona, senyor, dóna mostres de bona voluntat i accepta les seves paraules. T’ho demano!
+
+ÈDIP: En què vols que cedeixi?
+
+CORIFEU: Respecta aquest home que, encara que abans tampoc no era un infant, ara el seu jurament l’ha fet gran.
+
+ÈDIP: Ja saps què em demanes?
+
+CORIFEU: Ho sé.
+
+ÈDIP: Digues, doncs, el que vols.
+
+CORIFEU: Que per una acusació incerta no condemnis a l’exili i a la deshonra un amic que t’ha fet aquest jurament.
+
+ÈDIP: Sàpigues que demanar-me això és condemnar-me, a mi, a la mort o a l’exili.
+
+CORIFEU: Per Hèlios, el déu primer entre tots els déus, que mori amb les tortures més terribles, abandonat pels déus i pels amics, si tinc aquesta intenció. Però aquesta terra que es va consumint adoloreix la meva ànima dissortada, sobretot si als infortunis antics s’hi afegeixen aquests nous infortunis que vosaltres provoqueu.
+
+ÈDIP: Bé, doncs, que se’n vagi, encara que al capdavall, em comporti a mi la mort o, deshonrat, sigui obligat a la força a abandonar aquesta terra. Són les teves paraules compassives les que em commouen, no les d’aquest. A ell l’odiaré sempre, sigui on sigui.
+
+CREONT: És evident que transigeixes amb el cor ple d’odi, però quan t’hagi passat la còlera, et sentiràs torbat. Els caràcters com el teu són difícils de suportar pels mateixos que el tenen.
+
+ÈDIP: No em deixaràs tranquil? Vés-te’n ja.
+
+CREONT: Me’n vaig, però encara que per a tu sigui un desconegut, per a aquests, jo sóc el mateix.
+
+(Creont se’n va per l’esquerra)
+
+CORIFEU: Senyora, què esperes per a fer-lo entrar a palau?
+
+IOCASTA: Saber què ha passat.
+
+CORIFEU: Unes paraules mal enteses han provocat una sospita i una acusació injusta ha originat la rancúnia.
+
+IOCASTA: Entre els dos?
+
+CORIFEU: Sí.
+
+IOCASTA: I quin n’era el motiu?
+
+CORIFEU: Massa, massa és el que sofreix aquesta terra. Crec que la discussió hauria de quedar on s’ha acabat.
+
+ÈDIP: Veus on em portes amb el teu bon desig de tranquil·litzar-me i de reprimir el meu cor?
+
+CORIFEU: Senyor, t’ho he dit més d’una vegada, però sàpigues que, si t’abandonava, semblaria boig i un incapaç de comportar-me assenyadament. Tu que has conduït per bons rumbs la nostra terra, quan la sacsejaven desgràcies, si t’és possible, sigues-li ara de nou un bon guia.
+
+IOCASTA: Pels déus, senyor, explica’m també a mi quina és la causa de la còlera que et domina.
+
+ÈDIP: T’ho diré, perquè jo et respecto més que ningú. És Creont, que ha conspirat contra meu.
+
+IOCASTA: Parla. Explica’m exactament la vostra disputa.
+
+ÈDIP: M’acusa d’ésser l’assassí de Laios.
+
+IOCASTA: Ho sap per ell mateix o ho ha sentit d’algú?
+
+ÈDIP: Ha fet venir un endeví infaust, perquè el que és la seva boca és ben lliure d’acusacions.
+
+IOCASTA: Oblida’t d’això que dius ara; escolta’m i veuràs que no hi ha ningú, d’entre els mortals, que en sàpiga res de l’art d’endevinar. I te’n donaré proves breus i clares. Una vegada van vaticinar a Laios, no diré que Febos mateix, sinó els seus servidors, que el seu destí era morir a mans del fill que naixeria d’ell i de mi. I, segons que expliquen, el van matar uns bandits estrangers en un nus de camins. I quant al fill, quan encara no havien passat tres dies del seu naixement, li va lligar els dos peus i el va fer abandonar per mans de criats en el paratge més inaccessible de la muntanya. Per això Apol·lo no va aconseguir que fos l’assassí del seu pare ni que s’acomplís allò que Laios més temia, morir a mans del seu fill. I foren paraules d’endeví les que presagiaren aquestes desgràcies. Que no et torbin, doncs, aquestes altres, perquè allò que un déu considera necessari, ell mateix ho revela amb mitjans senzills.
+
+ÈDIP: Com se’m trasbalsa l’ànima i se’m remouen els pensaments quan escolto, dona, les teves paraules.
+
+IOCASTA: Quines velles inquietuds et fan parlar així?
+
+ÈDIP: M’ha semblat sentir dir que Laios va ser assassinat en una cruïlla de camins.
+
+IOCASTA: Així ho van explicar i mai no ha estat desmentit.
+
+ÈDIP: I on és l’indret on s’esdevingué la desgràcia?
+
+IOCASTA: Al país anomenat Fòcida, en el lloc on es troben el camí que ve de Delfos i el que ve de Dàulia.
+
+ÈDIP: I quant de temps ha passat des d’aquests fets?
+
+IOCASTA: El fet fou comunicat a la ciutat poc abans que tu apareguessis i et fessis càrrec del govern d’aquesta terra.
+
+ÈDIP: Oh Zeus! Què has planejat de fer-me?
+
+IOCASTA: Què és aquest temor, Èdip?
+
+ÈDIP: No m’ho preguntis encara. Explica’m, com era Laios físicament? Quina edat tenia?
+
+IOCASTA: Era alt, els cabells li començaven a blanquejar i el seu aspecte no era massa diferent del teu.
+
+ÈDIP: Ai de mi! Desgraciat! Em sembla que fa poc, sense saber-ho, he llançat contra mi mateix les malediccions més terribles.
+
+IOCASTA: Què dius? M’inquieta només mirar-te, senyor.
+
+ÈDIP: Defalleixo de por que l’endeví no veiés la veritat. I tu m’ho provaràs millor si pots contestar-me encara una pregunta.
+
+IOCASTA: Tota jo tremolo, però si ho sé, contestaré a tot el que em preguntis.
+
+ÈDIP: Viatjava sol o acompanyat d’una escorta nombrosa, com correspon a un rei?
+
+IOCASTA: Cinc homes eren en total, i entre ells hi anava un herald. Laios anava en un carruatge.
+
+ÈDIP: Ai! Ai! Ja tot és ben clar. I qui va ésser el que us va explicar tota la història?
+
+IOCASTA: Un servent; l’únic que va poder salvar-se.
+
+ÈDIP: I ara és, potser, encara a palau?
+
+IOCASTA: Ja no. Quan va arribar i va veure que, mort Laios, tu et feies càrrec del govern, va agafar-me les mans i va suplicar-me que l’enviés al camp i a les pastures dels ramats, perquè volia viure ben lluny de la ciutat. I l’hi vaig enviar perquè aquest esclau mereixia un premi fins i tot molt més gran que aquest.
+
+ÈDIP: I podríem fer-lo venir de seguida?
+
+IOCASTA: Certament, però, per què el vols?
+
+ÈDIP: Em fa por, senyora, haver parlat massa sobre aquest assumpte, i per això el vull veure.
+
+IOCASTA: Doncs, vindrà. També jo vull saber quins són els temors que t’afligeixen, senyor.
+
+ÈDIP: No et sentiràs decebuda, perquè, en aquesta situació d’inquietud, en qui puc confiar millor que en tu la història de la meva dissort? El meu pare era Pòlib de Corint i la meva mare era la dòrida Mèrope. Allà era considerat el ciutadà més important fins que va passar un incident digne, això sí, d’estranyesa, però que no mereixia la meva preocupació. En la celebració d’un banquet, en el moment del vi, un convidat, embriac, va anomenar-me fill adoptat. A mi em va doldre, però aquell dia vaig contenir-me. A l’endemà, però, vaig interrogar el meu pare i la meva mare, els quals van mostrar una gran indignació per la injúria de l’embriac. Encara que la seva resposta va satisfer-me, sempre em va quedar una certa inquietud que m’anava penetrant a poc a poc. Un dia, sense dir res al meu pare ni a la meva mare, vaig anar a Pito i Febos no va atendre la pregunta que l’hi havia anat a fer i va acomiadar-me, malaurat de mi, amb unes revelacions terribles i insuportables. Va dir-me que el meu destí era casar-me amb la meva mare, donar vida a un llinatge no permès entre els homes i ésser, a més, l’assassí del pare que em va donar la vida. Jo, després de sentir aquest oracle, vaig calcular amb els astres la situació de Corint i vaig fugir d’aquella terra en direcció a qualsevol lloc on no pogués veure l’acompliment vergonyós d’aquest oracle esfereïdor. En la meva fugida vaig arribar als paratges on tu dius que el rei va ésser mort. I t’explicaré, reina, la veritat. Quan ja em trobava ben a prop de la cruïlla de camins, van barrar-me el pas un herald i un home, semblant al que tu dius, assegut dins un carruatge tirat per poltres. El conductor i l’home mateix miren de fer-me fora del camí a la força, i jo, boig d’ira, torno els cops al conductor que m’havia atacat i l’ancià, que estava a l’aguait, quan veu que m’acosto al carro em fueteja al mig del cap amb el fuet doble. Ell no va rebre el mateix càstig, però, a cops de bastó, el vaig fer sortir rodant del carruatge amb aquesta mateixa mà i va caure d’esquena a terra, i els vaig matar tots. Si existeix alguna relació entre aquest desconegut i Laios, ¿qui hi ha més desgraciat que jo? ¿Qui pot ésser més odiat pels déus que jo? Ningú, ni estranger ni ciutadà, no pot acollir-me en la seva llar ni adreçar-me la paraula. Tots m’han de fer fora de casa. I no era ningú més, sinó jo, qui ordenava aquestes malediccions contra mi mateix! I profano el llit del mort amb les meves mans, amb les mans que el van matar! ¿He nascut maleït? ¿No seré tot jo impur perquè que em veig obligat a fugir i a no veure més els meus i a no trepitjar mai més la meva pàtria si no vull veure’m obligat a unir-me en matrimoni a la meva mare i a matar el meu pare Pòlib que em va donar la vida i em va educar? ¿No creurà tothom que ha estat un déu despietat qui ha tramat aquestes desgràcies? Oh pietat sagrada dels déus! Que no arribi mai a veure aquest dia! Que desaparegui del gènere humà abans que aquesta desgràcia infamant m’atenyi!
+
+CORIFEU: També això ens angoixa a nosaltres, però fins que no interroguis el testimoni presencial, tingues esperança.
+
+ÈDIP: Sí, la meva única esperança és aquest pastor.
+
+IOCASTA: I quan es presenti, quina és la teva intenció?
+
+ÈDIP: T’ho diré: si resulta que les seves paraules coincideixen amb les teves, puc considerar-me lliure de l’infortuni.
+
+IOCASTA: I quines són aquestes paraules extraordinàries que m’has sentit dir?
+
+ÈDIP: Vas dir que l’home havia explicat que uns bandits van matar-lo. Doncs bé, si encara manté el mateix nombre, jo no l’he matat, perquè un home sol no pot ésser mai igual a molts. Però si diu que va ésser un viatger tot sol, aleshores no hi ha dubte, el fet recau sobre mi.
+
+IOCASTA: Però tu ja coneixes la seva declaració, i no és lògic que ara la rectifiqui perquè l’ha sentida tota la ciutat, no jo sola. I encara que es fes enrere en la seva primera declaració, tampoc no provaria en realitat la teva participació en la mort de Laios, que d’acord amb les paraules profètiques de Lòxias havia de morir a mans del meu fill, i aquest, pobre dissortat, mai no podrà matar-lo perquè va morir abans. De manera que jo no em preocuparia pels oracles, ni pel primer ni per aquest darrer.
+
+ÈDIP: Tens raó. Però, tanmateix, envia algú a cridar el pastor. No te n’oblidis.
+
+IOCASTA: L’envio de seguida. Però entrem a palau. Jo no faria res que no et plagués a tu.
+
+(Entren plegats a palau)
+
+
+
+
+
+ESTÀSIM II
+
+
+
+COR: Tant de bo que el destí em permeti de conservar la puresa en les paraules i en totes les meves accions. Les protegeixen les més altes lleis que han vist la llum en l’èter celestial. L’Olimp és el seu únic pare i cap naturalesa humana no les ha infantades ni l’oblit no les fa adormir. Les guarda un déu poderós que mai no envelleix.
+
+»L’orgull engendra el tirà. Quan l’orgull se sacia nèciament de béns inoportuns i inútils, s’enlaira fins al punt més alt i es llença a un precipici fatal on no serveix la fermesa del peu. Jo demano al déu que mai no posi fi a la lluita per la ciutat que li porta benaurança. No deixaré mai de tenir el déu de protector.
+
+»I si algú fa el seu camí tot exhibint la seva arrogància en els seus actes i en les seves paraules, sense mostrar cap temor per la justícia ni respecte pels estatges dels déus, que el destí el castigui amb mals sense fi per la seva arrogància malaurada, si els seus guanys no reposen en la justícia i s’originen en la impietat i s’apoderen de coses sagrades. ¿Quin home, en aquestes circumstàncies pot vanagloriar-se d’apartar de la seva ànima els dards de la ira? Si, doncs, aquests comportaments són honrosos, per què he de cantar en cors en honor dels déus?
+
+»Jo no tornaré, ple de pietat, al centre sagrat de la terra ni al temple d’Aba,[19] ni a Olímpia, si aquests actes ben coneguts no són condemnats unànimement per tots els homes. Zeus poderós, si amb raó així t’anomenen, rei de tot el món, que no s’amagui al teu poder sempre immortal que ja aboleixen per caducs els oracles de l’antic Laios i que Apol·lo ja no rep honors públics. El culte als déus desapareix.
+
+
+
+
+
+EPISODI III
+
+
+
+(Iocasta surt de palau, acompanyada de criades, portant flors i perfums)
+
+IOCASTA: M’ha semblat convenient, prínceps del país, venir als temples dels déus amb aquestes corones i aquests perfums per cremar en honor d’ells, perquè l’ànim d’Èdip es troba pertorbat per l’excés d’afliccions inesgotables. No sap jutjar, com un home assenyat, els nous oracles a la llum dels antics i tan sols atén l’opinió de qui li parla si li parla d’inquietuds. Com que amb els meus consells no he aconseguit res de bo, aquí em tens amb aquestes ofrenes, implorant davant teu, oh Apol·lo Liceu!, que tan a prop et tenim, perquè ens proporcionis un remei purificador. Quina temença ens envaeix quan veiem tan torbat el timoner de la nostra nau!
+
+(Entra un missatger, un home vell, per l’esquerra)
+
+MISSATGER: Estrangers, algú de vosaltres podria indicar-me on és el palau del rei Èdip? O, millor, digueu-me on és ell, si ho sabeu.
+
+CORIFEU: Aquesta és la seva casa, foraster, i ell és ara dins. Aquesta és la seva esposa i la mare dels seus fills.
+
+MISSATGER: Que sigui sempre feliç ella, i feliços els seus fills sempre al seu costat, ja que és l’esposa digna d’Èdip.
+
+IOCASTA: Així sigui també per a tu, foraster. Les teves bones paraules te’n fan mereixedor. Però digues, què has vingut a buscar i de què vols informar-nos.
+
+MISSATGER: Porto bones notícies per a aquesta casa i per al teu espòs, senyora.
+
+IOCASTA: Quines són? De part de qui véns?
+
+MISSATGER: Vinc de Corint i el missatge que ara et donaré, d’una banda et complaurà (no podria ésser altrament), però també pot produir-te aflicció.
+
+IOCASTA: I què és això que té aquest doble poder?
+
+MISSATGER: Els habitants d’Ístmia el nomenaran rei del país, segons que es diu allà.
+
+IOCASTA: Què dius? El vell Pòlib ja no és el sobirà?
+
+MISSATGER: Doncs, no, perquè la mort l’ha portat ja a la sepultura.
+
+IOCASTA: Què has dit? Pòlib és mort?
+
+MISSATGER: I si no dic la veritat, que em mori ara mateix.
+
+IOCASTA: Esclava, vés ràpidament a comunicar al teu senyor aquestes notícies. Oh oracles dels déus! On sou? Fa temps que Èdip va allunyar-se d’aquest home per por de matar-lo i ara ha mort per causes naturals i no a mans seves.
+
+(Èdip surt de palau)
+
+ÈDIP: Esposa meva estimada, per què em fas sortir del palau?
+
+IOCASTA: Escolta aquest home i mira on paren les venerables profecies dels déus.
+
+ÈDIP: Qui és aquest? I què vol dir-me?
+
+IOCASTA: Ve de Corint a comunicar-te que el teu pare Pòlib ja no viu, que és mort.
+
+ÈDIP: Què dius, foraster? Explica’m tu mateix el teu missatge.
+
+MISSATGER: Si, doncs, cal que m’expressi de manera clara, sàpigues que Pòlib és mort.
+
+ÈDIP: Víctima d’un complot o de malaltia?
+
+MISSATGER: Un petit xoc consumeix un cor envellit.
+
+ÈDIP: El malaurat va morir, doncs, de malaltia?
+
+MISSATGER: I pels llargs anys que havia comptat.
+
+ÈDIP: I per què, esposa meva, pot una persona anar a consultar els estatges profètics de Pito o els ocells que xisclen pel cel, segons els quals jo havia de matar el meu pare? Ell ara és mort i jeu sota terra, i jo sóc aquí sense tocar cap espasa… tret que hagi mort d’una cruel enyorança. En aquest cas la seva mort seria culpa meva. Però ara Pòlib és a l’Hades i s’hi ha emportat tots aquests oracles que ja no tenen cap valor.
+
+IOCASTA: No t’ho deia jo ja fa temps?
+
+ÈDIP: Sí que ho deies, però jo em deixava portar per la por.
+
+IOCASTA: Ara no deixis que cap d’ells influeixi en el teu cor.
+
+ÈDIP: I com he d’allunyar el temor del matrimoni amb la meva mare?
+
+IOCASTA: Què pot témer l’home que viu dominat pel destí i no té cap previsió certa de res? El millor és viure a l’atzar, com cadascú pugui. Però tu no has de témer res respecte a les noces amb la teva mare, perquè són molts els mortals que en somnis han realitzat aquest casament. Qui no es capfica per aquests problemes té la vida més planera.
+
+ÈDIP: Et donaria la raó en totes les teves paraules, si la meva mare no fos viva, però com que encara viu, malgrat les teves bones paraules, no puc evitar de témer.
+
+IOCASTA: I la tomba del teu pare no et serveix de llum?
+
+ÈDIP: Sí, ho confesso. Em fa por, però, que ella visqui.
+
+MISSATGER: I qui és ella?
+
+ÈDIP: Mèrope, vell, l’esposa que vivia amb Pòlib.
+
+MISSATGER: I què és el que us fa por d’ella?
+
+ÈDIP: Un terrible oracle diví, foraster.
+
+MISSATGER: Pot saber-se o no és permès que el sàpiga un estrany?
+
+ÈDIP: Ben cert que sí! Un dia Lòxias va profetitzar-me que m’uniria amb la meva mare i que les meves mans s’embrutarien amb la sang del meu pare. Per això fa temps que visc lluny de Corint. He estat feliç, però sempre és agradable de veure els ulls dels pares.
+
+MISSATGER: I aquesta por t’ha fet viure fora de la ciutat?
+
+ÈDIP: No volia ésser l’assassí del meu pare, ancià.
+
+MISSATGER: I per què no t’he alliberat d’aquest temor, senyor, jo que he vingut disposat a ajudar-te?
+
+ÈDIP: Doncs de mi rebries l’agraïment digne de la teva ajuda.
+
+MISSATGER: Sobretot he vingut per això, per aconseguir més benestar al teu retorn.
+
+ÈDIP: Però jo no tornaré mai a casa dels meus pares.
+
+MISSATGER: Ai! Fill meu! És ben evident que no saps què fas.
+
+ÈDIP: Què vols dir, ancià? Explica-m’ho, pels déus.
+
+MISSATGER: Si refuses de tornar a casa per aquest motiu…
+
+ÈDIP: Em fa por que Febos no resulti encertat.
+
+MISSATGER: Que et contaminis amb els teus pares?
+
+ÈDIP: Això, vell, és el que sempre em fa tremolar.
+
+MISSATGER: Doncs, saps que els teus temors no tenen cap fonament?
+
+ÈDIP: Com que no, si sóc fill d’ells?
+
+MISSATGER: Perquè Pòlib no tenia amb tu cap relació de sang.
+
+ÈDIP: Què dius? No va ser Pòlib qui va engendrar-me?
+
+MISSATGER: Tant com jo mateix, no pas més.
+
+ÈDIP: I com pot ésser que qui m’engendrà sigui igual a qui no té cap relació amb mi?
+
+MISSATGER: Perquè ell no t’engendrà. Ni ell ni jo.
+
+ÈDIP: I per quina raó em donava el nom de fill?
+
+MISSATGER: Perquè et va rebre un dia de les meves mans com un regal.
+
+ÈDIP: I va estimar-me tant, malgrat rebre’m de mans estranyes?
+
+MISSATGER: La seva falta de fills potser l’en va persuadir.
+
+ÈDIP: Però tu em vas comprar o em vas trobar?
+
+MISSATGER: Vaig trobar-te a les selvoses valls del Citeró.
+
+ÈDIP: I per quina raó anaves tu per aquells indrets?
+
+MISSATGER: Allà tenia cura de petits ramats.
+
+ÈDIP: Eres, doncs, un pastor nòmada a sou?
+
+MISSATGER: Però que aleshores va ésser el teu salvador, fill meu.
+
+ÈDIP: I quins mals tenia quan em vas arreplegar?
+
+MISSATGER: Els teus peus encara en són una prova.
+
+ÈDIP: Per què recordar aquesta vella desgràcia?
+
+MISSATGER: Jo vaig alliberar els teus dos peus perforats.
+
+ÈDIP: Quin terrible oprobi vaig rebre en el meu bressol!
+
+MISSATGER: D’aquest fet et ve el nom que duus.[20]
+
+ÈDIP: Pels déus, digues, va ésser la meva mare o el meu pare?
+
+MISSATGER: No ho sé, però el qui va donar-te’m ho sap millor que jo.
+
+ÈDIP: Així em vas rebre d’un altre? No vas trobar-me tu mateix?
+
+MISSATGER: Va ser un altre pastor.
+
+ÈDIP: Qui era? Pots dir-m’ho clarament?
+
+MISSATGER: L’anomenaven pastor de Laios.
+
+ÈDIP: De l’antic rei d’aquest país?
+
+MISSATGER: Exacte: era pastor seu.
+
+ÈDIP: És viu encara? El podria veure?
+
+MISSATGER (adreçant-se al cor): Això potser ho sabeu millor vosaltres, la gent d’aquesta terra.
+
+ÈDIP (s’adreça també al cor): Hi ha d’entre els presents algú que conegui el pastor de què parlem, que l’hagi vist pel camp o per la ciutat? Digueu-m’ho perquè ha arribat el moment d’esbrinar la veritat.
+
+CORIFEU: Crec que no és altre que el camperol que abans volies veure. Però la mateixa Iocasta pot informar-te’n de manera més exacta.
+
+ÈDIP: Esposa meva, saps si aquell home que ara hem fet venir i aquest de qui ell parla…
+
+IOCASTA: Què ha dit de qui? No t’hi capfiquis. No vulguis esbrinar nèciament les coses que han estat dites.
+
+ÈDIP: Amb les dades que ara tinc, no renunciaré a aclarir la veritat del meu llinatge.
+
+IOCASTA: Pels déus, no ho esbrinis, per poc que t’estimis la vida. Prou que en pateixo jo.
+
+ÈDIP: Estigues tranquil·la, perquè per a tu no serà cap deshonra encara que jo sigui fill d’esclau de tercera generació.
+
+IOCASTA: Tanmateix creu-me, t’ho demano: no ho facis.
+
+ÈDIP: No te’n faré cas fins que no sàpiga clarament el meu llinatge.
+
+IOCASTA: Jo t’aconsello el millor perquè vull el millor per a tu.
+
+ÈDIP: El millor ja fa temps que em fa mal.
+
+IOCASTA: Malaurat! Tant de bo que no sàpigues mai qui ets.
+
+ÈDIP: Algú em portarà aquest pastor ja? Deixeu que ella presumeixi del seu llinatge sumptuós.
+
+IOCASTA: Ai! Ai! Dissortat, aquest és l’únic nom que puc donar-te i, d’ara en endavant, no en tindràs cap altre.
+
+(Iocasta entra embogida a palau)
+
+CORIFEU: Què l’ha feta marxar, Èdip, com si fos impulsada per un dolor ferotge? Temo que d’aquest silenci no n’esclati alguna desgràcia.
+
+ÈDIP: Que n’esclatin les que siguin, però jo vull conèixer els meus orígens encara que siguin insignificants. Ella, com a dona que és, és orgullosa i potser s’avergonyeix de la humilitat del meu llinatge, però jo no em sentiré deshonrat de considerar-me fill de la Fortuna, d’una Fortuna que m’ha donat aquesta prosperitat, perquè jo sóc fill d’aquesta mare i els mesos, els meus parents, m’han fet petit i gran. Si aquests són els meus orígens, no podria pas ésser un altre, encara que no conegués el meu llinatge.
+
+
+
+
+
+ESTÀSIM III
+
+
+
+COR:[21] Si sóc endeví i home d’opinió experta, et juro per l’Olimp que en la propera lluna plena sentiràs les lloances que et farem, oh Citeró!, com a compatriota d’Èdip, la seva nodrissa i mare, i dansarem en honor teu en agraïment a les teves sol·licituds amb el nostre rei. I per a tu també, Febos, invocat sempre amb crits aguts, que les nostres ofrenes et siguin plaents!
+
+»Quina de les nimfes de llarga vida va infantar-te després d’unir-se amb Pan que corre per les muntanyes? O potser va ésser alguna amant de Lòxias, que estima totes les planes silvestres? O potser el senyor de Cil·lene, o el déu Bacus, que habita les altes muntanyes, et va rebre qui sap si d’una de les nimfes de l’Helicó,[22] amb les quals sovint s’esplaia?
+
+
+
+
+
+EPISODI IV
+
+
+
+ÈDIP: Si m’és permès també a mi, ancians, de fer una conjectura, diria que reconec, malgrat no haver-lo mai tractat, el pastor que fa estona que cerquem. La seva edat avançada s’ajusta a la d’aquest, però, més que res, reconec com a criats del meu casal els qui el porten. Tu, però, el coneixes, sens dubte, millor que jo, perquè l’has vist abans.
+
+CORIFEU: En efecte, el reconec, no en tinguis cap dubte. Era pastor de Laios, més fidel que cap altre.
+
+ÈDIP: A tu t’interrogo primer, estranger de Corint: és aquest l’home de qui parles?
+
+MISSATGER: Sí, és aquest, el que veus davant teu.
+
+ÈDIP: I tu, vell, vine aquí i contesta les meves preguntes mirant-me a la cara. Eres criat de Laios?
+
+CRIAT: Era esclau, no comprat, sinó nascut a casa.
+
+ÈDIP: De quina feina t’ocupaves o quina vida portaves?
+
+CRIAT: Vaig portar els ramats a pasturar al llarg de gairebé tota la meva vida.
+
+ÈDIP: I quina regió acostumaves a freqüentar?
+
+CRIAT: El Citeró i les regions veïnes.
+
+ÈDIP: Reconeixes haver vist aquest home per aquells indrets?
+
+CRIAT: I quina ocupació hi tenia? A quin home et refereixes?
+
+ÈDIP: A aquest home que tens al teu davant. Hi has tingut algun tracte?
+
+CRIAT: No; almenys per poder-ho afirmar, tot d’una, de memòria.
+
+MISSATGER: No és gens estrany, senyor. Però jo faré memòria a aquest desmemoriat. Estic ben segur que recorda aquell temps en què, ell amb dos ramats i jo amb un, vam conviure en les muntanyes del Citeró, durant tres anys, sis mesos sencers, des de la primavera fins a la constel·lació d’Artur,[23] i que a l’hivern jo portava el meu ramat als meus estables i ell als corrals de Laios. Dic o no dic veritat?
+
+CRIAT: Dius veritat, però parles de temps molt antics.
+
+MISSATGER: Ara digues: recordes que vas donar-me un nen perquè el criés com si fos meu?
+
+CRIAT: Què és això? Per què em fas aquestes preguntes?
+
+MISSATGER: Aquí el tens, estimat. Aquest és aquell nen.
+
+CRIAT (aixecant el bastó): Maleït siguis! No callaràs?
+
+ÈDIP: Ep! Res de pegar, vell, perquè les teves paraules mereixen més el càstig que les seves.
+
+CRIAT: Però, quina és la meva falta, senyor, el més bondadós de tots?
+
+ÈDIP: Negar-te a contestar les preguntes que ell et fa sobre aquest nen.
+
+CRIAT: Parla sense saber res. Es neguiteja per no-res.
+
+ÈDIP: I tu, si no parles de grat, parlaràs gemegant.
+
+CRIAT: No, pels déus, no maltractis un pobre vell.
+
+ÈDIP: De pressa, que algú li torci els braços.
+
+CRIAT: I per què? Pobre de mi! Què vols saber?
+
+ÈDIP: Vas donar-li, efectivament, el nen que aquest diu?
+
+CRIAT: Vaig donar-l’hi i més m’hagués valgut morir-me el mateix dia.
+
+ÈDIP: A això arribaràs si no parles com cal.
+
+CRIAT: És que encara estic més perdut, si parlo.
+
+ÈDIP: Aquest home, segons que sembla, busca evasives.
+
+CRIAT: Jo no; ja t’he dit que l’hi vaig donar.
+
+ÈDIP: I de qui el vas rebre? Era teu o d’algú altre?
+
+CRIAT: Meu no ho era; el vaig rebre d’un altre.
+
+ÈDIP: De quin ciutadà i de quina casa?
+
+CRIAT: No, pels déus, senyor, no preguntis més.
+
+ÈDIP: Ets home mort si t’ho he de preguntar una altra vegada.
+
+CRIAT: Era nascut a la casa de Laios.
+
+ÈDIP: Esclau o de la seva família?
+
+CRIAT: Ai! Ai! Sóc davant de la resposta més terrible de donar.
+
+ÈDIP: I per a mi d’escoltar, però l’he d’escoltar.
+
+CRIAT: Deien que era fill seu. Però la teva esposa que és dins podria explicar-te millor què va passar.
+
+ÈDIP: Fou ella qui te’l va donar?
+
+CRIAT: Així és, senyor.
+
+ÈDIP: I per fer què?
+
+CRIAT: Per matar-lo.
+
+ÈDIP: Mare desgraciada!
+
+CRIAT: Ho va fer per temor a uns oracles divins.
+
+ÈDIP: A quins?
+
+CRIAT: Deien que mataria els seus pares.
+
+ÈDIP: I per què el vas donar a aquest vell, tu?
+
+CRIAT: Per compassió, senyor. Vaig pensar que el portaria al país d’on ell venia. Però va salvar-lo per als infortunis més terribles, perquè si tu ets aquell de qui aquest parla, sàpigues que ets un dissortat.
+
+ÈDIP: Ai! Ai! Ja tot ha arribat a ésser clar. Oh llum! Que et vegi ara per darrer cop, perquè s’ha aclarit ben bé que he nascut de qui no podia, convisc amb qui no podia i he matat a qui no podia.
+
+(Èdip entra precipitadament a palau)
+
+
+
+
+
+ESTÀSIM IV
+
+
+
+COR:[24] Ai! Generacions de mortals, com penso que la vostra vida és igual a no-res! Qui, doncs, quin home pot assolir més felicitat que la de semblar feliç i després desaparèixer? Davant del teu exemple, davant del teu destí, infortunat Èdip, no puc considerar feliç res que sigui mortal.
+
+»Un home que amb les seves fletxes va aconseguir una puixança tan venturosa, oh Zeus!, que va destruir la donzella d’urpes corbes i cants enigmàtics i va aixecar-se en la meva terra com un baluard contra les morts: d’aleshores ençà ets anomenat rei, ets honorat amb els més grans honors i governes sobre la gran Tebes.
+
+»Però ara, de qui pots escoltar més desgràcies? En qui els capgirells de la vida han provocat més terribles penes i dolors? Ai! Cèlebre Èdip, el mateix port fou prou immens per a rebre-hi com a esposos pare i fill. Com van poder els mateixos solcs paterns aguantar en silenci, dissortat, fins a aquests extrems?
+
+»El Temps que tot ho veu t’ha trobat, sense tu voler-ho, i jutja el casament que no és casament, en què engendrava l’engendrat. Ai! Fill de Laios! Tan de bo que mai no t’hagués conegut! Ploro com si de la meva boca brollés un cant de mort. Però aquesta és la veritat: gràcies a tu he respirat tranquil i, per tu, els meus ulls s’han tancat en somnis plàcids.
+
+
+
+
+
+ÈXODE
+
+
+
+(Surt un missatger de palau)
+
+MISSATGER: Prínceps d’aquest país, dignes dels honors més grans, quins fets sentireu, quines obres veureu, quant de dolor commourà el vostre noble cor si encara sentiu preocupació per la família de Làbdac. Crec que ni l’Istre ni el Fasis,[25] amb la seva força purificadora, no podrien rentar aquest casal de tots els crims que s’hi amaguen i que ben aviat, volguts i no inconscients, sortiran a la llum. Però les calamitats que més ens entristeixen són les que provenen de la pròpia acció conscient.
+
+CORIFEU: Els fets que fins ara coneixíem, no deixaven d’ésser, certament, desoladors. Quins nous fets hi afegeixes?
+
+MISSATGER: Per dir-ho i sentir-ho amb una paraula: la divina Iocasta és morta.
+
+CORIFEU: Ah dissortada! Qui n’ha estat el responsable?
+
+MISSATGER: Ella mateixa. Els moments més dolorosos de la història no els puc explicar perquè no els he presenciat, però et ressenyaré tots els sofriments d’aquella malaurada, tots els que jo pugui recordar. Quan, dominada per la ira, ha sortit del vestíbul, ha corregut a desplomar-se sobre el llit nupcial tot arrancant-se els cabells amb les seves mans. Quan ha entrat, ha tancat de cop les portes tot invocant Laios, mort ja fa temps, i anava fent memòria del seu fill, pel qual aquell seria mort i amb el qual la deixaria perquè esdevingués mare procreadora d’una nissaga funesta. Gemegava sobre el seu llit nupcial on va produir doble descendència: espòs de l’espòs i fills del fill. Després d’això s’ha produït la seva mort, però no sé com, perquè Èdip ha entrat tot xisclant i ja no ens ha estat possible de veure el final funest de Iocasta, perquè tots miràvem el rei que corria amunt i avall tot demanant-nos que li donéssim una espasa i ens preguntava per la seva esposa, ja no esposa, sinó el si matern on va trobar un conreu doble, el propi i el dels seus fills. Enmig d’aquell frenesí, un déu, no pas cap dels presents, la hi va mostrar: amb un crit esgarrifós i com si obeís un guia, s’ha llançat contra les portes dobles; el forrellat s’ha doblegat i ha cedit i ell s’ha precipitat dins de l’habitació. Allà hem vist la seva esposa penjada d’una corda ben trenada. Tan aviat com ell l’ha vista, el dissortat, bramulant de dolor, l’ha deslligada del nus d’on penjava. Quan la desventurada ha caigut a terra, s’ha produït una escena que ha fet esfereir tots els qui l’hem vista: ha arrancat les fíbules d’or treballat amb què ella adornava els seus vestits i aixecant-les se les ha clavades als ulls tot cridant que mai més no veuria els mals que havia sofert ni els mals que havia fet, i que tan sols en la foscor veuria els que no hauria d’haver vist mai[26] i no podria reconèixer els que hauria volgut conèixer.[27] I repetia aquestes paraules no una vegada sinó moltes, i aixecant els braços anava ferint-se els ulls sense parar. Les ninetes sangonoses li tacaven de vermell tota la barba i no paraven de rajar gotes de sang i una negra gropada i pluja de sang li cobria la cara. De dos han irromput aquests mals, no pas d’un de sol: de tots dos junts, marit i muller. Ell, que abans era sortós, era amb justícia sortós. Avui, però, tot són plors, desgràcia, mort, vergonya, tots els noms que té el mal, ni li’n falta cap.
+
+CORIFEU: I en aquests moments té el dissortat uns instants de quietud en els seus mals?
+
+MISSATGER: Demana a grans crits que algú li obri la porta i mostri als ciutadans de Cadmos l’assassí del seu pare i de la seva mare el… i profereix paraules sacrílegues que no puc repetir. Demana també ésser desterrat del país i, maleït per la seva pròpia maledicció, que no se’l permeti de romandre a palau. Però li manca la força i un guia: el seu infortuni és massa feixuc de suportar. Ara mateix t’ho farà veure, perquè ja s’obren els forrelats de les portes. L’espectacle que veuràs tot seguit, commouria fins i tot un enemic.
+
+(S’obren les portes de palau i apareix Èdip amb els ulls i la cara amarats de sang)
+
+CORIFEU: Oh infortuni que esfereeix tothom qui el veu! El més esfereïdor de tots els que he trobat! Quina follia, oh malaurat!, t’ha escomès? Quina divinitat ha irromput amb tanta força en contra del teu destí malaurat? Ai! Ai! Míser! No goso ni mirar-te i bé que voldria fer-te moltes preguntes, moltes consideracions i reflexions… però em fas tanta basarda…
+
+ÈDIP: Ai! Ai! Ai! Pobre de mi! A quina terra aniré desgraciat! Cap on volen rabents les meves paraules? Ah! Déu! En quin abisme m’has precipitat?
+
+CORIFEU: En un abisme paorós: no es pot escoltar ni veure.
+
+ÈDIP: Ah! Núvol espantós de la meva foscor, que m’acorrala de manera terrible, inflexible i sense remei. Dissortat de mi! Dues vegades dissortat! Com se’m claven alhora la punta de les agulles i el record dels meus mals!
+
+COR: No és gens estrany que enmig de tantes penes sentis una doble aflicció i suportis un doble dolor.
+
+ÈDIP: Ai! Amic, tu encara m’ets l’únic company, perquè en la meva ceguesa continues encara mostrant-me la teva sol·licitud. Ai! Ai! No m’ets gens desconegut: tot i les meves tenebres, reconec ben bé la teva veu.
+
+CORIFEU: Quina acció horrible que has fet! Com has pogut destruir-te així els ulls? Quina divinitat t’hi ha induït?
+
+ÈDIP: Apol·lo ha estat, amics. Apol·lo ha provocat aquestes desgràcies, les desgràcies dels meus sofriments. Però l’autor que ha colpejat els meus ulls no ha estat ningú sinó jo, dissortat de mi! Per què em calia veure-hi si quan hi veia, res no m’era agradable de veure?
+
+CORIFEU: Era, en efecte, tal com tu dius.
+
+ÈDIP: I què hi ha que jo pugui veure o estimar? Quines paraules em poden plaure d’escoltar, amics? Porteu-me fora del país, i ben de pressa, porteu-hi, amics, aquest home funest, el més maleït i detestat pels déus.
+
+CORIFEU: Malaurat per la teva lucidesa i malaurat per la teva desgràcia! Com hauria volgut que mai no haguessis sabut res.
+
+ÈDIP: Mala mort desitjo a aquell, qui sigui, que va treure’m els salvatges grills en els camps de pastura i va alliberar-me de la mort i va salvar-me, per no fer-me cap favor. Si hagués mort aleshores, no causaria aquest dolor ni als meus amics ni a mi mateix.
+
+CORIFEU: Fins i tot hauria estat millor per mi.
+
+ÈDIP: Ni hauria esdevingut assassí del meu pare ni els homes m’haurien considerat l’espòs d’aquella de qui vaig néixer. Ara, en canvi, sóc un infame, fill de pares sacrílegs i engendrador infortunat amb la mateixa mare de qui he nascut. Si existís un mal més enllà del mal, la sort l’hauria destinat a Èdip.
+
+CORIFEU: No sé com dir-te que la teva decisió ha estat encertada, perquè millor hauria estat deixar d’existir que viure cec.
+
+ÈDIP: Que la meva acció no ha estat la millor que jo podia realitzar, no cal que m’ho demostris ni m’hi donis la teva opinió. No sé amb quins ulls podria mirar el meu pare en arribar a l’Hades, ni la meva mare, perquè contra ells dos he comès uns actes que més que cap mereixen la forca. I la visió dels fills, nascuts de qui van néixer, podia oferir-me algun atractiu? No, almenys per als meus ulls. Ni tampoc la ciutat, ni la fortalesa, ni les estàtues sagrades dels déus. Me n’he exclòs jo mateix, desgraciat, l’home més noble dels que ha nodrit la ciutat de Tebes, quan vaig ordenar que tothom foragités l’infame, el declarat sacríleg pels déus i pel llinatge de Laios. Podria jo, després de mostrar la meva pròpia infàmia, mirar tots aquests amb la cara alta? De cap manera. I si fos possible posar una barrera en el camí dels sons a les orelles, res no m’impediria de tancar el meu pobre cos per fer-lo, cec i sord a tot: és agradable tenir la ment en un habitacle lluny de les desgràcies. Ai Citeró! Per què vas acollir-me? Per què no vas matar-me tan aviat com em vas rebre i no hauria mai revelat als homes d’on vaig sortir? Oh Pòlib i Corint, i antics palaus que en deien paterns! Amb quina bellesa farcida de brutícia em vau nodrir! Un malvat sóc, i fill de malvats! Oh cruïlla de camins! Oh vall selvosa amagada! Alzinar i congost on conflueixen els camins! Vosaltres que us vau beure la meva sang en el cos del meu pare mort per les meves pròpies mans, ¿no feu memòria dels crims que hi he comès i dels que vaig cometre quan vaig arribar aquí? Oh noces, noces! Ens vau engendrar i després d’engendrar-nos vau fer brollar la mateixa llavor i vau mostrar pares, germans i fills, tots de la mateixa sang, i esposes, alhora mullers i mares, i totes les obres més sòrdides que existeixen entre els homes. Però no és bo d’escoltar allò que tampoc no és bo de fer. Pels déus, amagueu-me ben de pressa fora de la ciutat, o mateu-me, o llanceu-me al mar, on mai no pugueu veure’m. Veniu, accediu a tocar un home malaurat. Obeïu-me, no temeu: els meus mals no els pot suportar ningú sinó jo.
+
+CORIFEU: Ara arriba el mateix Creont que podrà fer i decidir tot això que demanes, perquè ell és l’únic guardià del país que ens queda en el teu lloc.
+
+(Entra Creont)
+
+ÈDIP: Ai de mi! Amb quines paraules m’hi puc adreçar? Quina confiança, en justícia, podrà mostrar-me? Fins ara m’he comportat amb ell com un malvat.
+
+CREONT: No he vingut pas per escarnir-te, Èdip, ni per retreure’t els teus insults d’abans. Si no us compadiu de la nissaga dels mortals, reveriu almenys el foc del déu Hèlios que tot ho nodreix i eviteu de mostrar davant de tots aquesta greu impuresa, que no admetrà ni la terra ni la pluja sagrada ni la llum. Acompanyeu-lo de pressa dins el palau, perquè és prova de pietat veure i escoltar només en família les calamitats que li arriben.
+
+ÈDIP: Pels déus, ja que m’has alliberat del meu temor presentant-te tu mateix, el millor dels homes, davant meu, l’home més infame, escolta’m: parlo per tu, no per mi.
+
+CREONT: I què vols aconseguir amb la teva insistència?
+
+ÈDIP: Foragita’m ara mateix d’aquesta terra cap on ningú no m’adreci la paraula.
+
+CREONT: Ho hauria fet, en pots estar ben segur, si abans no hagués volgut conèixer què m’ordena de fer el déu.
+
+ÈDIP: La seva paraula, però, havia estat ja dita ben clarament: destruir-me a mi, l’assassí del meu pare, el sacríleg.
+
+CREONT: Així havia estat dit, en efecte, però en l’infortuni en què ens trobem, el millor era preguntar com havíem d’actuar.
+
+ÈDIP: I per un home tan malaurat fareu aquesta demanda?
+
+CREONT: També tu hauries de tenir fe en el déu.
+
+ÈDIP: I encara t’encomano i et demano que organitzis de la millor manera que et sembli l’enterrament de la infortunada que és dins el palau. Així compliràs els teus deures familiars. I no consentis que aquesta ciutat dels meus pares hagi mai d’acceptar-me, en vida, com a ciutadà. Deixeu-me viure a les muntanyes, a aquelles que anomenen el meu Citeró, on el meu pare i la meva mare varen destinar-me com a sepultura, on pugui morir per obra d’aquells que van intentar destruir-me. Tanmateix una cosa sí que la sé bé, i és que no podrà matar-me ni una malaltia ni res de semblant, perquè mai no hauria estat salvat de la mort si no era per anar a caure en un mal pitjor. Però que el meu destí, vagi on vagi, faci la seva via. I no passis ànsia pels meus fills, Creont: són homes i no tindran mai problemes en la vida. En canvi, de les meves pobres i desgraciades filles, que mai no s’han assegut en una taula sense la meva presència i sempre han compartit els aliments que jo prenia, tingues-ne cura. I, sobretot, deixa-me-les tocar amb les meves mans, i gemegar per les seves desgràcies. Oh senyor! Oh noble i generós! Si les puc amanyagar amb les meves mans, em semblarà que les tinc, com quan hi veia. Què dic? Pels déus, no són les meves filles que sento plorar? Creont s’ha compadit de mi i m’ha fet venir les dues filles meves estimadíssimes? És veritat?
+
+(Antígona i Ismene entren a escena acompanyades per una esclava)
+
+CREONT: Tens raó. He estat, efectivament, jo qui ho ha ordenat, perquè m’he adonat del teu desig que ara mateix t’obsessionava.
+
+ÈDIP: Que siguis sempre feliç i que, per la teva actitud, els déus et protegeixin millor que no ho han fet amb mi. Filles meves, on sou? Veniu aquí, acosteu-vos a aquestes mans meves fraternals, que han estat les responsables que vosaltres vegeu en aquest estat els ulls abans guspirejants del vostre pare que us ha engendrat, d’un pare que sense veure res ni saber res, s’ha manifestat pare de les mateixes entranyes on ell fou engendrat. I ploro per vosaltres dues (ja que no m’és possible veure-us) quan penso en l’amargor de la vida que us espera i en quina mena d’existència haureu de portar entre els homes. A quines assemblees de la ciutat anireu, o a quines festes, d’on no torneu a casa amb els ulls amarats de llàgrimes en lloc de contemplar l’espectacle?[28] I quan arribeu a l’edat núbil, quin home hi haurà, qui gosarà, filles meves, acceptar aquesta infàmia que ha estat la ruïna dels meus pares i ho serà també de vosaltres dues? Quina desgràcia hi manca? El vostre pare ha mort el seu pare. Ha fecundat el mateix ventre d’on ell havia nascut i us ha tingut a vosaltres de les mateixes entranyes d’on ell ha sortit. Totes aquestes desgràcies us retrauran. I, doncs, qui es casarà amb vosaltres? Ningú, filles meves, i el vostre destí serà consumir-vos eixorques i fadrines. Fill de Meneceu, puix que et quedes com al seu únic pare, perquè els qui els vam donar la vida, els dos, som morts, no permetis que elles, família teva com són, errin sense marit com a captaires, ni les facis iguals a les meves desgràcies. Compadeix-te d’elles. Mira que terrible que és el seu aïllament si tu no te n’ocupes. Noble príncep, dóna’m la mà en senyal d’assentiment (Creont dóna la mà a Èdip). I a vosaltres, filles meves, si tinguéssiu ja l’edat de comprendre, quants consells que us donaria! Ara, però, demaneu als déus que allà on les circumstàncies us permetin de viure, pugueu portar una vida millor que la del pare que us va engendrar.
+
+CREONT: Ja n’hi ha prou de plorar. Entra ja dins de casa.
+
+ÈDIP: Em cal obeir, encara que no m’agradi.
+
+CREONT: Tot el que es fa en el seu temps, és bo.
+
+ÈDIP: Vols saber en quines condicions marxaré?
+
+CREONT: Parla i ho sabrem quan t’haguem escoltat.
+
+ÈDIP: Vull que em facis portar fora del país.
+
+CREONT: Em demanes una cosa que depèn del déu.
+
+ÈDIP: Per als déus jo sóc l’home més odiós.
+
+CREONT: Així, doncs, ben aviat coneixeràs la seva voluntat.
+
+ÈDIP: Hi estàs, doncs, d’acord?
+
+CREONT: No m’agrada parlar inútilment d’allò que no penso.
+
+ÈDIP: Treu-me d’aquí ara mateix.
+
+CREONT: Vine i deixa les teves filles.
+
+ÈDIP: No, no me les prenguis.
+
+CREONT: No vulguis sempre guanyar en tot: les victòries no t’han seguit pas sempre en la teva vida.
+
+(L’esclava s’emporta les dues filles i Creont acompanya Èdip dins del palau)
+
+COR: Habitants de Tebes, la nostra pàtria, mireu-lo, aquest és Èdip, aquell que desxifrava els enigmes més famosos, aquell que era l’home més poderós, la sort del qual era vista no sense enveja pels ciutadans: a quin tràngol de terribles infortunis ha arribat. És l’últim dia de la vida el que ha de considerar qualsevol mortal i ningú no pot ésser tingut per feliç abans de passar el terme de la seva existència sense haver patit cap pena.
+
+
+
+
+
+SÒFOCLES (en grec antic: Σοφοκλῆς; Colonos, 496 aC - Atenes, 406 aC) fou un dels tres grans dramaturgs tràgics de l'antiga Grècia, juntament amb Èsquil i Eurípides. La seva existència va coincidir amb el període d'esplendor d'Atenes. Entre els seus amics, figuraven l'historiador Heròdot i l'estadista Pèricles. De les 123 tragèdies que se li atribueixen, només se n’han conservat 7 de senceres: Àiax (445 aC), Antígona (442 aC), Les dones de Traquis (441 aC), Èdip Rei (429 aC), Electra (415 aC), Filoctetes (409 aC) i Èdip a Colonos (405 aC).
+
+
+
+
+
+Notes
+
+
+[1] Llegendari fundador de Tebes. Sovint Sòfocles fa servir el nom de Cadmos, casal o ciutat de Cadme, per designar la ciutat de Tebes. [Torna]
+
+
+
+[2] Originàriament el peà era un cant de guerra, però ben aviat passà a ser un cant col·lectiu no necessàriament guerrer, en honor d'un déu, principalment Apol·lo. [Torna]
+
+
+
+[3] Pal·las Atena tenia a Tebes dos temples dedicats. Ismenos és un semidéu fill d'Apol·lo. A la ciutat de Tebes hi havia, en honor seu, un altar de cendres procedents de sacrificis, on es practicava la piromància. [Torna]
+
+
+
+[4] L'Esfinx. [Torna]
+
+
+
+[5] L'oracle de Delfos, propietat d'Apol·lo. [Torna]
+
+
+
+[6] Aquestes paraules insinuen una conjura en contra de Laios: alguns nobles pagarien diners a un bandit per assassinar el rei. [Torna]
+
+
+
+[7] Apol·lo i la seva germana Àrtemis eren nascuts a Delos. [Torna]
+
+
+
+[8] Àrtemis tenia un temple circular a l'àgora de Tebes. [Torna]
+
+
+
+[9] Es refereix a Hades, també anomenat, de vegades, déu de la foscor. Segons Homer, tenia un el seu regne allà on es pon el sol. [Torna]
+
+
+
+[10] Ares és el déu de la guerra i la mort. [Torna]
+
+
+
+[11] El casal d'Amfitrite fa referència al mar Atlàntic. [Torna]
+
+
+
+[12] Seguidores de Dionís. [Torna]
+
+
+
+[13] L'Esfinx. [Torna]
+
+
+
+[14] Apol·lo. [Torna]
+
+
+
+[15] Citeró és la muntanya on Èdip havia estat abandonat. Aquí té un significat genèric i es refereix a qualsevol muntanya. [Torna]
+
+
+
+[16] El cor no dubta en cap moment de la innocència d'Èdip. S'estranya de les paraules de Tirèsias i no descarta un possible error en les seves interpretacions. D'altra banda, no veu cap possible enemistat entre Laios, de la família de Làbdac, i Èdip, a qui el cor considera fill de Pòlib de Corint, i per això continua fent-li costat. [Torna]
+
+
+
+[17] Delfos era situat a la muntanya del Parnàs i considerat el centre de la terra. [Torna]
+
+
+
+[18] Èdip torna a fer referència a la conjura per aconseguir el poder. Per a això calia el suport del poble i uns amics que aportessin diners per poder subornar els nobles que s'hi poguessin oposar. [Torna]
+
+
+
+[19] Aba era un santuari d'Apol·lo de la Fòcida. [Torna]
+
+
+
+[20] Quan va salvar Èdip, tenia els peus perforats i lligats, cosa que li havia provocat una inflamació als peus, tal com indica el seu nom: Èdip vol dir «de peus inflats». [Torna]
+
+
+
+[21] El cor sempre fa costat a Èdip i ara intenta treure's l'angoixa que l'aclapara i s'imagina que Èdip ha nascut d'un déu. [Torna]
+
+
+
+[22] Muntanyes de Beòcia. [Torna]
+
+
+
+[23] Segona quinzena de setembre. [Torna]
+
+
+
+[24] El cor aquí ja no pot fer altra cosa que acceptar l'infortuni d'Èdip i el seu cant desenvolupa el tema de la inseguretat humana, que trobem en altres llocs de la tragèdia. [Torna]
+
+
+
+[25] L'Istre és el Danubi i el Fasis el Ríon, a Geòrgia. Tots dos desemboquen al Pont Euxí o mar Negre, un a l'oest i l'altre a l'est. [Torna]
+
+
+
+[26] Es refereix als fills que va tenir Iocasta. [Torna]
+
+
+
+[27] Els seus pares, malgrat que havien volgut la seva mort. [Torna]
+
+
+
+[28] S'entén que hauran de marxar abans de començar l'espectable, perquè seran rebutjades per tothom. [Torna]
+
+
+
+
+

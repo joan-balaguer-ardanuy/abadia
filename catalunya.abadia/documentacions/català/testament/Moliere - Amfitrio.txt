@@ -1,0 +1,5438 @@
+Amfitrió és la comèdia de la suplantació i de l’embolic, ideada per Plaute i que Molière acomoda al gust imperant de França de mitjans del segle XVII.
+
+
+
+
+
+Molière
+
+
+
+
+
+Amfitrió
+
+
+
+
+ePUB v1.0
+
+Puck 10.05.22
+
+
+
+
+
+Títol original: Amphitryon
+
+Molière, 1668
+
+Traducció: Miquel Desclot, 2021
+
+Edició digital: Puck (v1.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+AMFITRIÓ
+
+
+Comèdia
+
+Representada per primer cop a París,
+
+al Théâtre du Palais-Royal,
+
+el 13 de gener del 1668,
+
+i impresa el mateix any.
+
+
+
+
+
+DEDICATÒRIA A SA ALTESA SERENÍSSIMA MONSENYOR EL PRÍNCEP
+
+
+Monsenyor,
+
+Encara que això desplagui als instruïts, jo no conec res més enutjós que les epístoles dedicatòries; i Vostra Altesa Sereníssima em permetrà, si li plau, que jo no segueixi aquí l’estil d’aquests senyors, i que em negui a servir-me de dues o tres idees miserables que han estat girades i regirades tants i tants cops, que a la fi ja estan gastades per tots costats. El nom del Gran Condé és un nom massa gloriós per tractar-lo com els altres noms. Només es pot aplicar, aquest nom il·lustre, a empreses que siguin dignes d’ell, i, per fer una bella frase, m’estimaria més posar-lo al capdavant d’un exèrcit que no pas al capdavant d’un llibre; i m’afiguro millor el que és capaç de fer oposant-lo a les forces dels enemics d’aquest Estat que no pas oposant-lo a la crítica dels enemics d’una comèdia.
+
+No és pas, Monsenyor, que la gloriosa aprovació de Vostra Altesa Sereníssima no sigui una poderosa protecció per a totes les obres d’aquesta mena, ni que jo no estigui tan persuadit de la clarividència del vostre enteniment com de la intrepidesa del vostre cor i de la grandesa de la vostra ànima. Tothom sap, arreu de la terra, que l’esplendor del vostre mèrit no és enclosa dins els límits d’aquest valor indòmit que desvetlla adoradors entre els mateixos que derrota; que s’estén, aquest mèrit, fins als coneixements més fins i més elevats, i que les decisions del vostre judici sobre totes les obres de l’intel·lecte són immancablement seguides pel sentiment dels més delicats. Però també és sabut, Monsenyor, que totes aquestes aprovacions de què ens vantem en públic no ens costen gens de fer imprimir; i que són coses de les quals disposem com ens sembla. Tothom sap, dic, que una epístola dedicatòria diu tot el que li plau, i que un autor té la facilitat d’emparar-se de les persones més augustes, i d’engalanar amb els seus noms insignes els primers fulls del seu llibre; i que té la llibertat de donar-s’hi, tant com vulgui, l’honor de la seva estima, i de fer-se uns protectors que mai no han pensat de ser-ho.
+
+Jo no abusaré, Monsenyor, ni del vostre nom ni de les vostres bondats, per combatre els censors de l’Amfitrió i atribuir-me una glòria que potser no he merescut, i només em prenc la llibertat d’oferir-vos la meva comèdia per tenir l’avinentesa de dir-vos que considero tothora, amb una profunda veneració, les grans qualitats que sobreposeu a la sang augusta que heu heretat, i que soc, Monsenyor, amb tot el respecte possible i tot el zel imaginable,
+
+De Vostra Altesa Sereníssima,
+
+molt humil, molt obedient,
+
+i molt agraït servidor.
+
+MOLIÈRE
+
+
+
+
+
+PERSONATGES
+
+
+MERCURI
+
+LA NIT
+
+JÚPITER, sota la forma d’Amfitrió
+
+AMFITRIÓ, general dels tebans
+
+ALCMENA, muller d’Amfitrió
+
+CLEANTIS, serventa d’Alcmena i muller de Sòsia
+
+SÒSIA, criat d’Amfitrió
+
+ARGATIFÒNTIDES
+
+NÀUCRATES
+
+PÒLIDES, capitans tebans
+
+POSICLES
+
+L’escena és a Tebes, davant el casal d’Amfitrió.
+
+
+
+
+
+PRÒLEG
+
+
+Mercuri, dalt d’un núvol; la Nit, en un carro tirat per dos cavalls
+
+MERCURI
+
+Amb calma, excelsa Nit! Digneu-vos aturar:
+
+em cal la vostra ajuda i el vostre patronatge,
+
+que us haig de donar un missatge
+
+de Júpiter sobirà.
+
+LA NIT
+
+Ah, si sou vós, senyor Mercuri!
+
+No us he sabut conèixer, dalt del núvol purpuri!
+
+MERCURI
+
+Ja ho veieu, fatigat de tant córrer a complir
+
+els múltiples encàrrecs que Júpiter em dona,
+
+m’he assegut sobre el núvol per descansar una estona
+
+tot esperant veure-us venir.
+
+LA NIT
+
+Mercuri, ja feu broma, i això està malament:
+
+creieu que a un déu li escau de mostrar cansament?
+
+MERCURI
+
+Que són de ferro, els déus?
+
+LA NIT No, però per prudència
+
+han de guardar el decòrum de la divinitat.
+
+Hi ha paraules que danyen, amb la seva estridència,
+
+aquesta sublim qualitat
+
+i que, per la seva viltat,
+
+cal deixar a la humana indecència.
+
+MERCURI
+
+Ben descansada m’ho dieu,
+
+mentre vós posseïu un luxe de carrossa
+
+que, amb dos cavalls de raça, neta i sense una brossa,
+
+com una fina dama us du pertot arreu.
+
+Però, amb mi, és tot un altre tema;
+
+jo, als poetes, no els puc desitjar mai prou mal,
+
+en aquest meu destí fatal:
+
+amb una impertinència extrema
+
+han imposat l’injust decret,
+
+que es veu que ja ningú desdenya,
+
+que cada déu tingui de fet
+
+un bon carruatge com a ensenya;
+
+jo, en canvi, haig de fer a peu el fet,
+
+com un trist correu d’espardenya.
+
+Jo, que soc, com ho saben inclús els semideus,
+
+el famós missatger del sobirà dels déus,
+
+i que, sense ser exagerat,
+
+just pels encàrrecs que ell em dona,
+
+més que cap déu o cap persona
+
+hauria d’anar encarrossat.
+
+LA NIT
+
+Ui, poetes i trobadors!
+
+Són gent de molta fantasia:
+
+no és pas l’única ximpleria
+
+que els he vist fer, jo, a aquests senyors.
+
+Però contra ells a tort el vostre cor s’expressa,
+
+que les ales dels peus són un do del seu cant.
+
+MERCURI
+
+Sí, és clar; però anar més de pressa
+
+us sembla que no cansa tant?
+
+LA NIT
+
+Deixem-ho estar, senyor Mercuri:
+
+què li voleu, doncs, a la Nit?
+
+MERCURI
+
+És Júpiter, com ja us he dit,
+
+qui el vostre vel de fosca prega que li perduri
+
+per un amor de bon auguri
+
+que tot just ara l’ha colpit.
+
+Crec que les seves pràctiques no us són desconegudes:
+
+ben sovint pels de terra es desentén dels seus;
+
+i no ignoreu, sens dubte, que a aquest senyor dels déus
+
+li agrada humanitzar-se per dones revingudes,
+
+i que coneix els trucs més breus
+
+per fer caure les més morrudes.
+
+Dels ulls d’Alcmena els fiblons ha sentit;
+
+i mentre al llarg i a l’ample de les beòcies planes,
+
+Amfitrió, que és el seu marit,
+
+comanda les tropes tebanes,
+
+ell n’ha pres la figura i està tot decidit
+
+a satisfer les seves ganes
+
+amb el gaudi total del plaer favorit.
+
+L’estat de la parella als seus focs és propici:
+
+l’himeneu els ha unit fa pocs dies només;
+
+i la jove escalfor d’aquests amors primers
+
+ha suggerit a Júpiter l’enginyós artifici
+
+per sortir-se’n sense un revés.
+
+Aquí l’estratagema pot resultar impecable,
+
+però amb més d’un cor requerit
+
+aquest transvestiment seria irremeiable:
+
+no sempre és l’aparença que es fa més desitjable,
+
+la de la cara del marit.
+
+LA NIT
+
+Admiro el rei dels déus, i no entenc les raons
+
+de les metamorfosis amb què sempre s’engresca.
+
+MERCURI
+
+Així pretén conèixer totes les condicions,
+
+i vol dir, doncs, que sap molt bé el que es pesca.
+
+Per molt que dels mortals fos respectat,
+
+jo el trobaria miserable
+
+si no deixava mai la cara formidable
+
+i al capdamunt del cel era a tota hora hissat.
+
+A parer meu, no hi ha condició més galdosa
+
+que viure empresonat en la pròpia esplendor;
+
+i, sobretot als jocs de l’amorós ardor,
+
+la qualitat divina resulta carregosa.
+
+Júpiter, que en plaers sabeu que es pinta sol,
+
+sap davallar del cim de la glòria suprema;
+
+i per entrar dins tot allò que vol
+
+surt d’ell mateix sense problema,
+
+i llavors, menys a Júpiter, s’assembla a qualsevol.
+
+LA NIT
+
+Suportaria veure’l de la seva alta classe
+
+a la dels homes davallar,
+
+sotmetre’s als transports que dona el cor humà
+
+i fer-se als jocs d’aquella raça,
+
+si, en les metamorfosis de la seva carcassa,
+
+a la natura humana es volgués limitar;
+
+però veure’l tornat serpent,
+
+brau, cigne, o alguna altra cosa,
+
+no ho trobo pas gaire escaient,
+
+i llavors no m’estranya si algun llengut s’hi posa.
+
+MERCURI
+
+Ja poden murmurar, els censors:
+
+aquests canvis tenen dolçors
+
+que depassen la seva coneixença.
+
+Aquest déu sap què es fa també en afers menors,
+
+i és que en les reaccions dels seus tendres ardors,
+
+les bèsties no ho són tant com algun bèstia es pensa.
+
+LA NIT
+
+Però tornem a aquesta de qui vol els favors.
+
+Si la seva estratègia es demostra sortosa,
+
+què més pot desitjar? Què pot voler de mi?
+
+MERCURI
+
+Que els cavalls, reduïts a pas lent de rossí,
+
+per satisfer-li els goigs de l’ànima amorosa,
+
+d’aquesta nit tan delitosa
+
+en facin una sense fi;
+
+que als seus transports concediu més durada,
+
+i retardeu la naixença del jorn
+
+que hauria d’avançar el retorn
+
+d’aquell a qui l’haurà robada.
+
+LA NIT
+
+Un encàrrec d’allò més fi,
+
+el que el Pare dels Déus em dona,
+
+i honrós el nom amb què es corona
+
+aquest servei que vol de mi.
+
+MERCURI
+
+Per ser una jove deessa,
+
+bé sembleu de l’antigor!
+
+Tal missió només fa fressa
+
+entre els de menys condició.
+
+Quan en un rang prou alt la fortuna ens emplaça,
+
+tot el que fem és bo, i ho reconeix tothom;
+
+i, només segons la classe,
+
+les coses muden de nom.
+
+LA NIT
+
+Sobre aquesta disciplina
+
+vós en sabeu més que jo;
+
+i doncs, per cedir el meu do,
+
+creuré en la vostra doctrina.
+
+MERCURI
+
+Un moment, missenyora Nit,
+
+anem a pams d’una vegada.
+
+Teniu renom, bé ho he sentit,
+
+de no ser pas tan primmirada.
+
+En cent climes diversos, us han fet confident
+
+d’una bella pila d’històries;
+
+i jo crec, si em deixeu que us parli francament,
+
+que hem de passar-nos d’oratòries.
+
+LA NIT
+
+Doncs bé, deixem-nos de posats
+
+i comportem-nos com Déu mana:
+
+no fem riure la raça humana
+
+retraient-nos les veritats.
+
+MERCURI
+
+Adeu: me n’haig d’anar a complir la missió,
+
+a llevar-me de sobre el rostre de Mercuri
+
+per poder adoptar l’espuri
+
+del servidor d’Amfitrió.
+
+LA NIT
+
+Jo, en aquest hemisferi, amb el meu fosc murmuri,
+
+faré una llarga detenció.
+
+MERCURI
+
+Bon dia, Nit.
+
+LA NIT Adeu, Mercuri.
+
+Mercuri baixa del núvol a terra,
+
+i la Nit s’enfila al carro.
+
+
+
+
+
+ACTE I
+
+
+
+
+
+ESCENA 1
+
+
+Sòsia
+
+SÒSIA
+
+Qui hi ha? Ai, com tremolo! Cada cop tinc més por.
+
+Senyors, que soc de prou confiança.
+
+Ja s’ha de ser valent a ultrança
+
+per córrer amb aquesta foscor!
+
+El meu amo, amb la seva glòria,
+
+quina una que me n’ha jugat!
+
+Ah, si pel seu proïsme sentís gens de pietat,
+
+m’hauria fet sortir en semblant nit mortuòria?
+
+Si em volia fer dir que tornaria aviat
+
+i el què i el com de la victòria,
+
+no podia esperar que ja hagués clarejat?
+
+Ah, Sòsia, a quina desventura
+
+el teu ofici està sotmès!
+
+La nostra sort és molt més dura
+
+quan som servents de gent de pes.
+
+Volen que la natura estigui sempre llesta
+
+a adaptar-se al seu propi pla.
+
+Dia o nit, fred o calda, tramuntana o tempesta,
+
+si obren la boca, tu, a volar!
+
+Vint anys servint nit i dia
+
+no ens valen ni un trist guardó;
+
+la més petita mania
+
+ja els encén com un fogó.
+
+I, amb tot, la nostra ànima ximple
+
+s’agafa a l’honor va de treballar per ells
+
+i a l’últim s’acontenta amb la convicció simple
+
+que la gent està certa que ens hi volem fer vells.
+
+A la jubilació en va el bon seny ens crida;
+
+en va el nostre despit algun cop hi consent:
+
+tot just veure’ls, ja la vida
+
+se’ns n’hi va, amb el cor content,
+
+i el més mínim favor d’una ullada amatent
+
+ja ens du a rengle de seguida.
+
+Però, per fi, en l’obscuritat
+
+distingeixo la casa, i ja em torna el coratge.
+
+Ara em caldria, pel missatge,
+
+algun discurs premeditat.
+
+Haig de fer als ulls d’Alcmena un retrat ben castrense
+
+del combat que ha abatut l’enemic al femer;
+
+però ¿com podré convèncer
+
+si jo, de fet, no hi vaig ser?
+
+No importa, parlaré de la pols i la palla,
+
+com a espectador ocular:
+
+¿quanta gent no t’explica detalls d’una batalla
+
+on en sa vida va anar?
+
+Per dir el meu paper sense esmena,
+
+me l’hauria de repassar.
+
+Això és la sala on entro com un correu de mena,
+
+i aquesta llanterna és Alcmena,
+
+que és a qui jo m’haig d’adreçar.
+
+(Deixa la llanterna a terra i li adreça el seu compliment.)
+
+«Missenyora, Amfitrió, l’amo… el vostre marit…
+
+(Bé, bon començament!) amb vós a la memòria,
+
+entre tots a mi m’ha escollit
+
+per donar-vos notícia de la seva victòria
+
+i del desig que el puny de restar amb vós reunit».
+
+«Ah, certament, oh Sòsia amable,
+
+reveure’t és una joia major».
+
+«Missenyora, això és massa honor,
+
+i el meu destí és ben envejable».
+
+(Que ben respost!) «I doncs, com es troba Amfitrió?».
+
+«Missenyora, amb gran enteresa
+
+a qualsevol encontre on el dugui l’empresa».
+
+(Excel·lent! Quina concepció!)
+
+«¿Quan tornarà amb el seu somriure gerd
+
+a omplir-me tota d’alegria?».
+
+«Tan aviat com podrà, missenyora, ben cert,
+
+però més tard del que el seu cor voldria».
+
+(Ah!) «Però, en quin estat la guerra l’ha posat?
+
+Què diu? Què fa? Consola aquest cor que l’enyora».
+
+«Diu menys que no fa, missenyora,
+
+i a munts els enemics abat».
+
+(Bèstia! D’on les dec treure, aquestes gentileses?)
+
+«Què fan els revoltats? Quina és la seva sort?».
+
+«No han pogut resistir el nostre atac pel nord,
+
+els hem trinxat com hamburgueses,
+
+el cabdill Pterelau l’hem mort,
+
+hem assaltat Telebes, i ja per tot el port
+
+ressonen les nostres proeses».
+
+«Ah, quin èxit! Oh, déus! Per guardar-ne memòria,
+
+explica’m fil per randa tot l’esdeveniment».
+
+«De bon grat, missenyora; que, sense vanaglòria
+
+dels detalls d’aquesta victòria
+
+en puc parlar amb coneixement. Imagineu doncs que Telebes
+
+és aquí, en aquest costat,
+
+(Assenyala els llocs a la pròpia mà o a terra.)
+
+Val a dir que és una ciutat
+
+tan gran, o quasi tant, com Tebes.
+
+El riu quedaria allà.
+
+Aquí, els nostres acampaven;
+
+i l’espai de més ençà
+
+els enemics l’ocupaven:
+
+dalt d’un puig, a aquest indret,
+
+tenien la infanteria;
+
+més avall, al cantó dret,
+
+tota la cavalleria.
+
+Després d’amansir els déus amb la nostra pregària,
+
+es va donar el senyal per començar l’estrall.
+
+Els enemics, pensant escapçar-nos l’amplària,
+
+van fer tres escamots amb la gent de cavall;
+
+però la seva empenta va ser ben reprimida,
+
+i ara veureu tot com va anar.
+
+Aquí hi ha l’avantguarda, a punt i decidida;
+
+els arquers de Creont, rei nostre, allà;
+
+i el gruix de l’host, ençà, guarnida,
+
+(se sent una mica de soroll)
+
+quan tot d’una…». Espereu. El gruix de l’host té por.
+
+He sentit un soroll, diria.
+
+
+
+
+
+ESCENA 2
+
+
+Mercuri, Sòsia
+
+MERCURI (Sota la forma de Sòsia, a part.)
+
+Amb l’aparença que el copia
+
+foragitem aquest corcó
+
+que als amants malmetria els transports de dolçor
+
+que frueixen com ambrosia.
+
+SÒSIA (A part.)
+
+Sembla que el cor ja se m’aturi;
+
+devia ser la por, només.
+
+Però, per tal d’evitar un mal auguri,
+
+entraré a casa a assajar, valdrà més.
+
+MERCURI (A part.)
+
+O tens més força que Mercuri,
+
+o no entraràs ni de través.
+
+SÒSIA (A part, sense veure Mercuri.)
+
+Aquesta nit s’allarga molt més que la darrera:
+
+amb l’estona que fa que segueixo el camí,
+
+o l’amo ha pres, confós, el vespre pel matí,
+
+o Febus s’ha adormit, amb una borratxera
+
+d’haver fet córrer massa vi.
+
+MERCURI (A part.)
+
+Ves amb quina irreverència
+
+parla dels déus, el bacó!
+
+Bé caldrà que amb decisió
+
+castiguem tanta insolència.
+
+M’hi penso divertir sense cap compassió,
+
+robant-li el nom, el cos i també la consciència.
+
+SÒSIA
+
+Ah, té, no anava pas errat:
+
+estic perdut, quina malaventura!
+
+Davant de casa hi ha plantat
+
+un home que per la figura
+
+convida poc a l’amistat.
+
+Per representar indiferència
+
+em posaré a cantar per mi.
+
+(Canta; i mentre Mercuri parla, la veu se li afebleix de mica en mica.)
+
+MERCURI
+
+¿Qui és aquest poca-solta que es permet la llicència
+
+de bramar tant i atabalar-me així?
+
+Ja veig que deu voler que el repassi una mica.
+
+SÒSIA (A part.)
+
+A aquest home, ja es veu, no li plau la musica.
+
+MERCURI
+
+Ja fa més d’una setmana
+
+que no trobo ningú per masegar-li el cos.
+
+El vigor d’un bon braç es perd amb el repòs,
+
+i necessito un talòs
+
+per tornar a la vida sana.
+
+SÒSIA (A part.)
+
+Qui coi és, aquest pixaví?
+
+De tanta esgarrifança, tinc l’ànima escruixida.
+
+Però, per què haig d’empal·lidir?
+
+A la millor, ell també té l’ànima oprimida
+
+i el molt pinta enraona així
+
+per amagar la por amb audàcia fingida.
+
+Sí, sí, no haig de permetre passar per un pardal:
+
+ja que no soc valent, haig de fer-ne l’efecte.
+
+Me n’haig de fer un quadro ideal;
+
+ell va sol; jo soc fort, tinc un amo perfecte
+
+i som davant del seu casal.
+
+MERCURI
+
+Qui hi ha, aquí?
+
+SÒSIA
+
+Jo.
+
+MERCURI
+
+Qui, jo?
+
+SÒSIA Jo.
+
+(A part.)
+
+Au, que ja s’aplana!
+
+MERCURI
+
+Quin és el teu estat?
+
+SÒSIA Soc home, i sé parlar.
+
+MERCURI
+
+Ets amo o ets servent?
+
+SÒSIA El que em dona la gana.
+
+MERCURI
+
+Cap on menes els passos?
+
+SÒSIA Cap on em plau anar.
+
+MERCURI
+
+Ah, això ja no m’agrada.
+
+SÒSIA Doncs, així, he fet diana.
+
+MERCURI
+
+D’una vegada, per força o de grat,
+
+m’hauràs de dir, si no vols canya,
+
+què fas, d’on tornes tan aviat,
+
+on vas i a quina casa pots pertànyer.
+
+SÒSIA
+
+Faig el bé i faig el mal, per la meitat;
+
+vinc d’allà i vaig allà; soc de qui no m’enganya.
+
+MERCURI
+
+Ah, sembles eixerit, i veig que vols provar
+
+de fer-te amb mi el fatxenda i l’home d’importància.
+
+Doncs ara em venen ganes, per estar en consonància,
+
+de ventar-te un bolet per començar.
+
+SÒSIA
+
+A mi?
+
+MERCURI A tu mateix: i de primera mà.
+
+(Li clava un bolet.)
+
+SÒSIA
+
+Ah, això va de debò!
+
+MERCURI No: només és per riure
+
+i respondre als teus espinguets.
+
+SÒSIA
+
+Redeu! Només per un somriure,
+
+com els deixeu anar, els bolets!
+
+MERCURI
+
+Doncs aquests són els cops menors,
+
+petits calbots de cada dia.
+
+SÒSIA
+
+Si fos tan decidit com vós,
+
+quin daltabaix no s’armaria!
+
+MERCURI
+
+Tot això és encara poc
+
+perquè calgui fer una pausa:
+
+ja en tindreu més bona causa,
+
+prosseguim el nostre joc.
+
+SÒSIA
+
+Jo deixo la partida.
+
+(Va per anar-se’n.)
+
+MERCURI (Aturant-lo.) On vas?
+
+SÒSIA I què t’importa?
+
+MERCURI
+
+Doncs vull que em diguis on vas.
+
+SÒSIA
+
+Vaig a fer-me obrir la porta.
+
+Per què m’atures el pas?
+
+MERCURI
+
+Si goses acostar-t’hi ni que sigui una passa,
+
+et caurà a sobre un xàfec de xarop de bastó.
+
+SÒSIA
+
+¿Pretens amb aquesta amenaça
+
+que no entri a casa del patró?
+
+MERCURI
+
+A casa del patró?
+
+SÒSIA Ja ho he dit.
+
+MERCURI Ah, canalla!
+
+D’aquest casal et dius veí?
+
+SÒSIA
+
+I tant. No és d’Amfitrió, el senyor sense falla?
+
+MERCURI
+
+Ben cert! Però això, què hi vol dir?
+
+SÒSIA
+
+Jo en soc el criat.
+
+MERCURI
+
+Tu?
+
+SÒSIA Jo.
+
+MERCURI Criat seu?
+
+SÒSIA Com sona.
+
+MERCURI
+
+El criat d’Amfitrió?
+
+SÒSIA D’Amfitrió, el gran heroi.
+
+MERCURI
+
+I et dius…?
+
+SÒSIA
+
+Sòsia.
+
+MERCURI Com dius?
+
+SÒSIA Sòsia.
+
+MERCURI Té, enhorabona:
+
+t’ha tocat una tunda que en quedaràs cofoi.
+
+SÒSIA
+
+I a què ve, aquesta ràbia, aquesta mala cosa?
+
+MERCURI
+
+¿Qui t’ha donat, a veure, tanta temeritat
+
+per prendre, alegre, el nom de Sòsia?
+
+SÒSIA
+
+És que jo no l’he pres: de sempre l’he portat.
+
+MERCURI
+
+Ah, mentida podrida, descaradura extrema!
+
+Goses, doncs, sostenir que et dius Sòsia de nom?
+
+SÒSIA
+
+I tant: així ho sostinc, simplement per tal com
+
+així ho ha fet dels déus la voluntat suprema,
+
+i jo no tinc prou barra per fer creure a tothom
+
+que no soc jo, amb tota la flema.
+
+(Mercuri l’estova.)
+
+MERCURI
+
+En mil cops de garrot et puc ajustar el preu
+
+per ignomínia tan sonada.
+
+SÒSIA
+
+Justícia, ciutadans! Que em claven garrotada!
+
+MERCURI
+
+Què, vols cridar, galifardeu?
+
+SÒSIA
+
+¿Tu m’atonyines com un reu
+
+i jo haig d’estar boca tancada?
+
+MERCURI
+
+Ja t’ensenyaré, jo…
+
+SÒSIA Atura’t, fatxender:
+
+tu fas abús de l’avantatge
+
+que et dona sobre mi el meu plebeu coratge;
+
+i això ja saps que no està bé.
+
+És pura fanfarroneria
+
+voler-se aprofitar d’aquella covardia
+
+que descobrim en el rival.
+
+Pegar a un home indefens no és d’una ànima digna;
+
+i el més noble esperit s’indigna
+
+contra ànima tan immoral.
+
+MERCURI
+
+Encara ets Sòsia, doncs? Vinga, parla, insensat!
+
+SÒSIA
+
+Les teves garrotades no han obrat cap miracle;
+
+l’única diferència que trobo en l’espectacle
+
+és que ara soc Sòsia estovat.
+
+MERCURI
+
+Tornem-hi? Mil cops més per la reincidència.
+
+SÒSIA
+
+Si et plau, atura aquest perpal.
+
+MERCURI
+
+Atura tu, doncs, la insolència.
+
+SÒSIA
+
+Faré tot el que vulguis; callaré per prudència;
+
+el pols entre nosaltres és massa desigual.
+
+MERCURI
+
+Encara ets Sòsia, mala peça?
+
+SÒSIA
+
+Ara seré el que tu voldràs;
+
+pots disposar de mi segons plagui al teu braç:
+
+se n’ha fet l’amo ben de pressa.
+
+MERCURI
+
+Et deies Sòsia, doncs, segons que m’ha semblat?
+
+SÒSIA
+
+Fins avui, certament, creia la cosa clara,
+
+però els arguments de la vara
+
+m’han fet veure que anava errat.
+
+MERCURI
+
+Doncs bé, Sòsia soc jo, tot Tebes ho proclama:
+
+Amfitrió no coneix cap més Sòsia que jo.
+
+SÒSIA
+
+Tu, Sòsia?
+
+MERCURI Sí, jo, Sòsia; i si algú se n’exclama
+
+que vagi alerta de debò.
+
+SÒSIA (A part.)
+
+Així, ¿haig de renegar fins la meva persona
+
+i permetre que el nom me’l robi un cap calent?
+
+Ja té una sort ben rodona
+
+que jo sigui tan valent!
+
+Si no, ja t’asseguro…
+
+MERCURI Entre dents, jo diria
+
+que remugaves no sé què.
+
+SÒSIA
+
+No, però en nom dels déus, permet-me l’alegria
+
+de parlar amb tu un moment de re.
+
+MERCURI
+
+Parla.
+
+SÒSIA Però amb la promesa
+
+que de garrots cap ni un.
+
+Fem una treva.
+
+MERCURI Admesa.
+
+Et concedeixo aquest punt.
+
+SÒSIA
+
+Qui t’ha dut a embrancar-te en aquesta mentida?
+
+Quin profit en vols treure d’arrabassar-me el nom?
+
+Ni que fossis un déu, ¿com podries fer, com,
+
+que jo no sigui Sòsia, que jo mudi de vida?
+
+MERCURI (Aixecant el garrot.)
+
+Ja hi tornes?
+
+SÒSIA A poc a poc:
+
+hem quedat que cap més cop.
+
+MERCURI
+
+Què? Sapastre, impostor, brètol…
+
+SÒSIA D’insults i ofenses,
+
+digue’n fins que en tinguis prou:
+
+em fan menys mal del que et penses,
+
+i ni el més gruixut em cou.
+
+MERCURI
+
+Et tens per Sòsia?
+
+SÒSIA Sí. No sé pas quina faula…
+
+MERCURI
+
+Doncs au, trenco la treva, retiro la paraula.
+
+SÒSIA
+
+Tant és. Pel teu capritx no m’haig pas d’esfumar,
+
+i consentir un discurs tan fora de criteri.
+
+Per ser el que ara soc jo, de veres tens imperi?
+
+I jo, puc de ser jo plegar?
+
+S’ha sentit a dir mai cosa tan fora mida?
+
+I qui pot desmentir cent proves concloents?
+
+Somio amb l’ànima adormida?
+
+Tinc el cervell girat per febres recurrents?
+
+No estic despert i ple de vida?
+
+No tinc un seny dels més prudents?
+
+El meu amo Amfitrió ¿potser no m’ha enviat
+
+fins aquí per trobar Alcmena, muller seva?
+
+¿No li haig de fer, potser, lloant-la sense treva,
+
+un relat de les gestes del nostre bell combat?
+
+No he arribat, doncs, del port encara no fa una hora?
+
+No duc, potser, una llanterna a la mà?
+
+No t’he trobat a casa, a la porta de fora?
+
+No t’he parlat, potser, amb un seny ben humà?
+
+¿No et vals tu de la meva covardia
+
+per privar-me d’entrar al casal?
+
+No m’has ben mesurat l’esquena amb ferotgia?
+
+No m’has baldat a cops de pal?
+
+Ah, tot això no és pas sinó ben veritable,
+
+i el Cel volgués que no ho fos tant!
+
+Plega, doncs, de burlar-te d’un pobre miserable,
+
+i deixa que el meu deure pugui portar endavant.
+
+MERCURI
+
+Prou d’això, si no vols que et faci el cos a miques
+
+en un atac de fúria que no hi valdran xarops.
+
+Tot això que ara m’expliques
+
+val per mi, llevat dels cops.
+
+SÒSIA
+
+Si he sortit del vaixell, esporuguit, d’albada,
+
+ho pot dir la llanterna que m’ha volgut seguir.
+
+Amfitrió, des del camp, ¿a la muller enyorada
+
+no m’ha enviat, potser?
+
+MERCURI Ja tornes a mentir:
+
+és a mi que Amfitrió envia prop d’Alcmena,
+
+soc jo qui del port Pèrsic arriba en aquest cas;
+
+soc jo qui ve a anunciar el valor del seu braç,
+
+que ens ha valgut el premi d’una victòria plena,
+
+i el cabdill enemic ha menat al traspàs;
+
+que jo soc Sòsia, en fi, tot detall ho delata:
+
+fill de Davos, pastor bover;
+
+germà d’Arpagos, mort en país estranger;
+
+marit de Cleantis, beata,
+
+que té un humor de carreter;
+
+que a Tebes he rebut un raig de cops de tralla,
+
+que he resistit com un heroi,
+
+i en públic m’han marcat amb una flor a l’espatlla
+
+per haver estat massa bon noi.
+
+SÒSIA (A part, en veu baixa.)
+
+Doncs té raó. Si no fos Sòsia
+
+no podria saber tot el que diu;
+
+i amb tanta confusió que el cervell m’indisposa,
+
+jo i tot començo a creure’l, amb cor dubitatiu.
+
+I ara que el considero amb més calmat criteri
+
+veig que és igual que jo de cos i de posat.
+
+Fem-li un examen complicat
+
+per mirar d’aclarir el misteri:
+
+(en veu alta)
+
+a veure, entre el botí que hem pres a l’enemic,
+
+quina part Amfitrió s’ha quedat en reserva?
+
+MERCURI
+
+Cinc grossos diamants en un pom molt bonic,
+
+que el seu cabdill lluïa com a cosa superba.
+
+SÒSIA
+
+I a qui el té destinat, aquest luxós present?
+
+MERCURI
+
+A la seva muller, la dels dos ulls de brasa.
+
+SÒSIA
+
+I ara, on és endreçat, en aquest just moment?
+
+MERCURI
+
+En un cofre, tancat amb el segell de casa.
+
+SÒSIA (A part.)
+
+En tot això que ha dit no hi ha ni una mentida,
+
+i ja de mi començo a dubtar amb confusió.
+
+Per la força, ja és Sòsia, m’ha guanyat la partida:
+
+i ara ho podria ser també per la raó.
+
+I amb tot, si em palpo el cos i penso en temps enrere,
+
+em sembla que encara soc jo.
+
+¿On podria trobar una bona manera
+
+de destriar el que és de debò?
+
+Allò que he fet tot sol, sense ningú a la vista,
+
+si no és pas jo mateix, no ho pot saber ningú:
+
+li faré una pregunta que trobarà imprevista
+
+i el deixarà confós; veurem qui és cadascú.
+
+(En veu alta.) Al ple de la batalla, ¿què feies a les tendes,
+
+on havies buscat cobert?
+
+MERCURI
+
+Doncs d’un pernil…
+
+SÒSIA (A part, en veu baixa.)
+
+Exacte!
+
+MERCURI que havia descobert,
+
+me’n tallava amb coratge set llesques estupendes
+
+que em vaig cruspir com un expert;
+
+i afegint-hi un vinet d’aquells de bon solatge
+
+que, ja abans de tastar-lo, els ulls se m’enaiguaven,
+
+vaig prendre un xic de coratge
+
+pels companys que batallaven.
+
+SÒSIA
+
+Si ha sortit d’aquesta embrolla
+
+no ha estat pas a l’endeví;
+
+i no hi tinc res més a dir,
+
+si no és que era dins l’ampolla.
+
+(En veu alta.)
+
+Poc podria negar, després de tantes proves,
+
+que Sòsia siguis tu, i ho dono doncs per bo.
+
+Però si l’ets, pots dir-me qui vols que sigui jo?
+
+Perquè una cosa o altra bé l’haig de ser, no trobes?
+
+MERCURI
+
+Quan Sòsia no el seré, aquell dia
+
+sigue’l tu, ja hi estic d’acord;
+
+però el que és mentrestant, pots donar-te per mort,
+
+si et reprèn aquesta mania.
+
+SÒSIA
+
+L’embolic m’ha deixat el cap com un timbal,
+
+i la raó al que veu s’oposa.
+
+Però haig de decidir-me a emprendre alguna cosa;
+
+i el més senzill per ara serà que entri al casal.
+
+MERCURI
+
+Ja veig que hi has pres gust, beneit, a l’allisada!
+
+SÒSIA
+
+Ah, què passa? Grans déus! Si em torna a pegar fort,
+
+em quedarà l’esquena un mes o dos baldada.
+
+Deixem estar aquest ximple, i tornem doncs al port.
+
+A fe que m’hi he lluït, amb aquesta ambaixada!
+
+MERCURI
+
+Per fi l’he fet fugir; i amb el meu tractament
+
+de moltes malifetes haurà pagat la pena.
+
+Però, té, ja veig Júpiter, que molt polidament
+
+acompanya la dolça Alcmena.
+
+
+
+
+
+ESCENA 3
+
+
+Júpiter, Alcmena, Cleantis, Mercuri
+
+JÚPITER
+
+No permeteu, Alcmena, que s’acostin els llums.
+
+M’ofereixen el goig de veure-us, estimada,
+
+però descobririen també aquesta arribada,
+
+que val més ocultar entre fums.
+
+El meu amor, travat pels esforços constants
+
+on la glòria guerrera lligat em mantenia,
+
+al deure del meu càrrec ha robat els instants
+
+que al vostre encís ara obsequia.
+
+Aquest furt que el meu cor a vós ha consagrat
+
+faria murmurar la boca del dimoni
+
+i doncs no en vull per testimoni
+
+sinó qui pot saber-me’n grat.
+
+ALCMENA
+
+Jo, Amfitrió, comparteixo la joia de la glòria
+
+que les vostres grans gestes us vessen al damunt;
+
+i l’esplendor de la victòria
+
+sap tocar en el meu cor el més sensible punt;
+
+però quan veig que aquest honor fatal
+
+de qui jo estimo em distancia,
+
+ja no puc evitar, per tendra gelosia,
+
+de desitjar-li un xic de mal,
+
+i d’oposar el meu cor a la gran senyoria
+
+que dels tebans us feia general.
+
+No hi ha cosa més dolça, després d’una victòria,
+
+que la glòria que adorna el front de l’estimat;
+
+però entre els molts perills que comporta la glòria,
+
+el més sinistre, ai las!, passa amb facilitat.
+
+Per quants esveraments no em veig esgarrifada,
+
+al més petit combat que sento dir!
+
+¿Com veure, entre els horrors d’una semblant passada,
+
+consol que em pugui redimir
+
+del temut cop que em té glaçada?
+
+Per més que el vencedor es coroni de llor,
+
+per més que participi en honor tan perfecte,
+
+¿pot valer, això, el que costa a l’escalfor d’un cor
+
+que, a cada punt, tremola per qui li té l’afecte?
+
+JÚPITER
+
+Tot el que veig en vós el meu ardor augmenta:
+
+cada detall em mostra un cor ben arborat;
+
+no hi ha goig més intens, ni joia més violenta
+
+que trobar tant d’amor en l’objecte estimat.
+
+Però, deixeu-m’ho dir, una aprensió em refrena
+
+davant el tendre afecte que vós em feu sentir;
+
+i per fruir-lo bé, amor meu, bella Alcmena,
+
+vull estar cert que el deure no us empenyi a fingir:
+
+que sols al vostre ardor, i a la meva persona
+
+degui jo les tendreses que en vós hagi gaudit,
+
+i que la qualitat de ser el vostre marit
+
+no sigui la que me les dona.
+
+ALCMENA
+
+Però és per aquest títol que l’ardor que m’inflama
+
+té dret a sortir a la claror,
+
+i no comprenc l’escrúpol que tant us desinflama,
+
+en entrebanc del vostre amor.
+
+JÚPITER
+
+Ah, el que per vós jo sento d’ardor i de tendresa
+
+és molt més que no en cap marit,
+
+i vós no sabeu pas, al més dolç de la nit,
+
+que gran és tal delicadesa.
+
+Vós no podeu concebre que un cor enamorat
+
+per cent petites coses s’amoïni amb constància
+
+i encara, a més, pateixi d’ànsia
+
+per gaudir la felicitat.
+
+Vós, en mi, encisadora Alcmena,
+
+hi veieu un marit, i hi veieu un amant,
+
+però l’amant, per mi, és el més important,
+
+i, prop de vós, jo sento que el marit el refrena.
+
+Aquest amant, gelós de tot vostre desig
+
+vol veure com a ell sol aquest cor s’abandona,
+
+el seu foc no accepta l’esquitx
+
+tan sols del que el marit li dona.
+
+Vol de la font més pura obtenir el vostre ardor,
+
+i no vol res vingut del llaç del matrimoni,
+
+res del deure enutjós que fa fingir l’amor
+
+i enverina tothora el més tendre favor
+
+amb el gust agre del dimoni.
+
+Doncs, amb aquest escrúpol que el té mig abatut,
+
+ell vol, per satisfer la seva exquisidesa,
+
+que el distingiu de l’altre que amb ell viu a dispesa,
+
+que el marit només sigui per la vostra virtut,
+
+i que del vostre cor, en bondat invençut,
+
+l’amant guanyi sencers l’amor i la tendresa.
+
+ALCMENA
+
+Bon Amfitrió, de veritat,
+
+no sembleu vós, parlant de tal manera,
+
+i si algú us escoltés d’aquí darrere
+
+us creuria, sens dubte, trastocat.
+
+JÚPITER
+
+El que us dic és més raonable,
+
+Alcmena, del que imagineu;
+
+però si m’entretinc pecaré de culpable,
+
+i cal que torni al port, on m’esperen arreu.
+
+Adeu: la crueltat estranya del meu deure
+
+m’arrenca a vós amb un grunyit;
+
+però, almenys, bella Alcmena, quan veieu el marit
+
+penseu en l’amant. A reveure.
+
+ALCMENA
+
+Jo no vull separar el que uneixen els déus,
+
+i el marit i l’amant, tots dos me’ls sento meus.
+
+CLEANTIS (A part.)
+
+Oh déus, quin munt d’exquisideses
+
+pot dir un espòs afavorit!
+
+I el cap de trons del meu marit
+
+que poc en sap de boniqueses!
+
+MERCURI (A part.)
+
+Ja puc anar a avisar la Nit
+
+que plegui veles i cistelles;
+
+i, per dissoldre les estrelles,
+
+el Sol ja es pot llevar ara mateix del llit.
+
+
+
+
+
+ESCENA 4
+
+
+Cleantis, Mercuri
+
+(Mercuri va per anar-se’n.)
+
+CLEANTIS
+
+És així com em vens a veure?
+
+MERCURI
+
+¿Que vols que deixi de racó
+
+les obligacions del meu deure
+
+i no vagi darrere els passos d’Amfitrió?
+
+CLEANTIS
+
+¿Però què és això d’escapar-se,
+
+brètol, amb tanta brusquedat?
+
+MERCURI
+
+I per això cal enfadar-se?
+
+Com si no hi hagués temps per estar al teu costat!
+
+CLEANTIS
+
+Però ¿on s’és vist marxar de cop, a la francesa,
+
+sense dir-me tan sols un mot de gentilesa!
+
+MERCURI
+
+Ostres! Vols que el teu cap de brot
+
+comenci a fer-te cacanòries?
+
+Quinze anys de matrimoni t’acaben les eufòries,
+
+i al cap de tant de temps ja ens ho hem dit ben bé tot.
+
+CLEANTIS
+
+Fixa’t, ximplet, en Amfitrió,
+
+com s’encén per Alcmena i la té dalt la trona,
+
+i avergonyeix-te tu per la poca passió
+
+que mostres per la teva dona.
+
+MERCURI
+
+Cleantis, filla, encara estan enamorats!
+
+Només hi ha una edat per l’audàcia;
+
+i allò que escau tan bé a tots els noucasats,
+
+en els que ho som de temps seria una desgràcia.
+
+Ves tu si, arrambadets, no en faríem de gràcia,
+
+murmurant-nos mots ensucrats!
+
+CLEANTIS
+
+Doncs què vols dir, sapastre? ¿Que no puc esperar
+
+que per mi sospiri un cor lliure?
+
+MERCURI
+
+No, és que no et vull donar malviure;
+
+jo ja soc massa vell per gosar sospirar,
+
+que faria petar de riure.
+
+CLEANTIS
+
+No et mereixes, bergant, la inefable dolçor
+
+de tenir per muller una dona d’honor.
+
+MERCURI
+
+Déu meu, massa i tot, ho ets, d’honesta!
+
+L’honor aquest no em va ni em ve.
+
+No siguis tan dona de bé
+
+i esguerra’m un xic menys la festa.
+
+CLEANTIS
+
+Què? Per ser massa bona em goses criticar?
+
+MERCURI
+
+La discreció, en la dona, és el que més m’agrada;
+
+i la teva virtut cantada
+
+m’eixordarà de tant cridar.
+
+CLEANTIS
+
+A tu et caldria el cor ple de falses tendreses
+
+d’una d’aquestes dones d’engrescadors encants
+
+que enceguen el marit amb mil exquisideses
+
+perquè no vegi els tràfecs que té amb els seus galants.
+
+MERCURI
+
+Et dic la meva opinió llisa?
+
+El què diran només amoïna el talòs;
+
+i saps què vull jo, per divisa?
+
+«Molt menys honor, i més repòs».
+
+CLEANTIS
+
+Així, ¿consentiries sense més repugnància
+
+que estimés un galant amb tota petulància?
+
+MERCURI
+
+Sí, si amb això els teus crits no em deixen abatut
+
+i canvies l’humor per un de més amable.
+
+Val més un vici confortable
+
+que una fatigosa virtut.
+
+Adeu, Cleantis, dolça dama:
+
+haig d’anar-me’n amb Amfitrió.
+
+(Se’n va.)
+
+CLEANTIS
+
+¿Per què, per castigar l’infame,
+
+el meu cor no té prou resolució?
+
+Déu sap que en aquesta ocasió
+
+ser dona honesta ja m’escama!
+
+
+
+
+
+ACTE II
+
+
+
+
+
+ESCENA 1
+
+
+Amfitrió, Sòsia
+
+AMFITRIÓ
+
+Vine’m aquí, bergant. ¿Ja t’adones, bacó,
+
+que amb tot el que m’has dit n’hi ha per apallissar-te?
+
+¿I que per aquest tracte que friso per donar-te
+
+l’únic que em falta és un bastó?
+
+SÒSIA
+
+Si us ho preneu així, senyor,
+
+a mi no em queda ni una carta
+
+i vós sempre tindreu raó.
+
+AMFITRIÓ
+
+Doncs què, ¿que potser esperes que passin la duana,
+
+aquestes ximpleries de tan baixíssim preu?
+
+SÒSIA
+
+No: jo soc el criat, i vós l’amo que mana;
+
+no serà res, senyor, sinó el que vós vulgueu.
+
+AMFITRIÓ
+
+Doncs ara vull calmar la ira que m’atrona
+
+i escoltar ben sencera la teva relació.
+
+Abans d’anar a veure la dona
+
+haig de desembrollar aquesta confusió.
+
+Refés els teus sentits, que ara és una hora bona,
+
+i respon-me amb detall cada interrogació.
+
+SÒSIA
+
+Digueu-me, abans, per caritat,
+
+per evitar la incongruència,
+
+com us estimeu més que això sigui tractat.
+
+¿Haig de parlar, senyor, en perfecta consciència,
+
+o bé com amb tot amo sol fer-ho tot criat?
+
+¿Haig de dir, doncs, la veritat,
+
+o bé servir-me de llicència?
+
+AMFITRIÓ
+
+No: l’únic que has de procurar
+
+és donar-me de tot una versió sincera.
+
+SÒSIA
+
+Doncs així ja sé la manera.
+
+No heu de fer més que preguntar.
+
+AMFITRIÓ
+
+Què vas fer, en rebre l’ordre que et vaig donar amb criteri…?
+
+SÒSIA
+
+Me’n vaig anar, amb un cel més negre que un pecat,
+
+dient pestes de vós enmig d’aquell temperi
+
+i maleint vint cops l’ordre que heu esmentat.
+
+AMFITRIÓ
+
+Com dius, bergant?
+
+SÒSIA Senyor, useu el vostre imperi
+
+i mentiré, si us és més grat.
+
+AMFITRIÓ
+
+Així és com els criats us demostren afecte.
+
+Deixem-ho. I pel camí, digues, què va passar?
+
+SÒSIA
+
+Que qualsevol petit objecte
+
+de por em feia escagarrinar.
+
+AMFITRIÓ
+
+Covard!
+
+SÒSIA Mare Natura ens modela amb malícia
+
+i li plau concedir-nos diversa inclinació:
+
+els uns en exposar-se hi troben gran delícia;
+
+jo en trobo en la conservació.
+
+AMFITRIÓ
+
+I has arribat a casa…
+
+SÒSIA Arran de carretera
+
+he volgut assajar una mica entre mi
+
+en quin to i de quina manera
+
+el magnífic combat podria referir.
+
+AMFITRIÓ
+
+I llavors?
+
+SÒSIA M’han vingut a torbar per l’esquena.
+
+AMFITRIÓ
+
+Qui?
+
+SÒSIA Doncs un Sòsia, un jo, servent meticulós,
+
+que del port vós mateix enviàveu a Alcmena
+
+i dels nostres secrets té coneixença plena,
+
+com el jo que ara parla amb vós.
+
+AMFITRIÓ
+
+Romanços!
+
+SÒSIA No, senyor, és la veritat pura.
+
+El tal jo abans que jo a casa s’ha plantat;
+
+jo hi era, veieu qui us ho jura,
+
+abans que jo hi fos arribat.
+
+AMFITRIÓ
+
+¿Es pot saber què hi ha darrere
+
+d’aquest embull descomunal?
+
+És somni? És mera borratxera?
+
+¿És alienació mental
+
+o una facècia barroera?
+
+SÒSIA
+
+No: és la cosa tal com és,
+
+no pas esbojarrada faula.
+
+Jo soc home d’honor, us en dono paraula,
+
+i m’heu de creure, sense més.
+
+Pensant ser un únic Sòsia, com ho era cada dia,
+
+arribo a casa i en som dos;
+
+i del parell de jos, picats de gelosia,
+
+l’un és a dins de casa, i l’altre és aquí amb vós;
+
+i el jo que ara veieu, que de fatiga queia,
+
+ha trobat l’altre jo ben fresc i descansat
+
+i endut per l’única taleia
+
+d’atonyinar sense pietat.
+
+AMFITRIÓ
+
+Ja cal tenir, a la cervellera,
+
+un seny ben ponderat, ben dret i ben calmós,
+
+per sofrir que un criat m’ompli així de quimera.
+
+SÒSIA
+
+Si us torneu a posar furiós
+
+s’acaba el pacte entre jo i vós:
+
+no em costarà fer-me endarrere.
+
+AMFITRIÓ
+
+No: sense esverament provaré d’escoltar;
+
+ho he promès. Però digues, en serena consciència,
+
+en aquest nou misteri que em vens a reportar,
+
+hi ha cap ombra de coherència?
+
+SÒSIA
+
+No: si teniu raó i és cosa que a tothom
+
+ha d’aparèixer incomprensible.
+
+És una feta indigerible,
+
+un conte extravagant, ridícul, sense nom:
+
+no se li veu el què ni el com,
+
+però és un fet indiscutible.
+
+AMFITRIÓ
+
+I com es fa per creure-ho, i no acabar insensat?
+
+SÒSIA
+
+Ni jo no m’ho he cregut sense una pena extrema:
+
+de ser dos m’he sentit el senderi llampat,
+
+i he tractat aquest jo d’impostor i de problema.
+
+Però sí, a reconeixe’l a l’últim m’ha forçat.
+
+He vist clar que era jo i no un estratagema;
+
+des del cap fins als peus com jo mateix és fet,
+
+ben plantat, l’aire noble, les maneres amables;
+
+ni dues gotes de llet
+
+serien més comparables;
+
+i el que és jo, si les mans les tingués més afables,
+
+n’estaria satisfet.
+
+AMFITRIÓ
+
+Rellamps, quina paciència! La sang ja se m’altera!
+
+En fi, però has entrat a dins de casa o no?
+
+SÒSIA
+
+Sí…, entrar! De quina manera?
+
+Que us penseu que he volgut escoltar cap raó?
+
+I que no m’he fet fora, rabiós com una fera?
+
+AMFITRIÓ
+
+I com ha estat?
+
+SÒSIA Amb un bastó:
+
+encara en tinc baldats l’esquena i el darrere.
+
+AMFITRIÓ
+
+T’han estovat?
+
+SÒSIA
+
+Ja ho crec.
+
+AMFITRIÓ I qui?
+
+SÒSIA Jo.
+
+AMFITRIÓ Tu, estovar-te?
+
+SÒSIA
+
+Sí, jo: no pas el jo d’aquí,
+
+sinó el jo d’allà dins, que mai no se n’afarta.
+
+AMFITRIÓ
+
+Ah, que el Cel et confongui d’enraonar-me així!
+
+SÒSIA
+
+Ah, no ho prenguéssiu per muntatge.
+
+El jo que he trobat pel meu mal
+
+té sobre el jo que us parla un immens avantatge:
+
+té el braç molt fort i el cor més alt;
+
+en duc un bon testimoniatge,
+
+que aquest murri de jo m’ha atonyinat com cal:
+
+és un pinta de gran coratge.
+
+AMFITRIÓ
+
+Au, acabem. Has vist Alcmena?
+
+SÒSIA No.
+
+AMFITRIÓ Per què?
+
+SÒSIA
+
+Per una raó bastant forta.
+
+AMFITRIÓ
+
+Com es pot ser tan brètol? Explica-me’n el què.
+
+SÒSIA
+
+Ho hauré de repetir potser amb la boca torta?
+
+Jo, o aquest jo més fort que jo i amb més poder,
+
+aquest jo que amb la força s’ha emparat de la porta,
+
+és el jo que em fa tocar el dos, el que vol ser jo en exclusiva,
+
+el jo de jo mateix gelós,
+
+el jo valent que al jo plorós
+
+ha fet conèixer la deriva,
+
+en fi, aquest jo que és a redós,
+
+el jo que és l’amo allà on arriba,
+
+el jo que m’ha deixat galdós.
+
+AMFITRIÓ
+
+Aquest matí, sens dubte, a còpia de molt beure,
+
+se t’ha girat l’enteniment.
+
+SÒSIA
+
+Que em pengin per la gola si falto al jurament:
+
+només aigua, em podeu ben creure!
+
+AMFITRIÓ
+
+Doncs se t’han adormit els sentits fatigats
+
+i un somni enterbolit, amb màgiques maneres,
+
+t’ha fet percebre les quimeres
+
+que tu em dones per veritats.
+
+SÒSIA
+
+No us ho penséssiu! Ni m’he endormiscat,
+
+ni en tinc gens de ganes, encara.
+
+Us parlo ben espavilat;
+
+i espavilat estava aquest matí com ara,
+
+i igual estava el Sòsia que em copia la cara
+
+en el moment que m’ha estovat.
+
+AMFITRIÓ
+
+Segueix-me. I prou d’impertinència:
+
+per la pau del meu cor tot això és excessiu.
+
+Ja prou ximple que soc de tenir la paciència
+
+d’escoltar d’un criat els disbarats que diu.
+
+SÒSIA
+
+Els discursos són grans bestieses
+
+si venen d’un plebeu només.
+
+Serien grans exquisideses
+
+si fos un noble el que parlés.
+
+AMFITRIÓ
+
+Au, vinga, entrem-hi amb posat tendre.
+
+Però ja surt Alcmena amb tots els seus encants.
+
+Ara no pot comptar que me li faci a mans,
+
+i veure’m la deurà sorprendre.
+
+
+
+
+
+ESCENA 2
+
+
+Alcmena, Amfitrió, Cleantis, Sòsia
+
+ALCMENA
+
+Anem pel meu marit, Cleantis, a l’altar
+
+a oferir els nostres homenatges
+
+i a dar gràcies als déus del triomf sobirà
+
+pel qual Tebes, avui, manté els seus avantatges.
+
+Oh déus!
+
+AMFITRIÓ Permeti el Cel que Amfitrió vencedor
+
+sigui rebut amb plaer per Alcmena
+
+i que aquest dia propici a l’estrena
+
+als meus ulls us retorni amb el mateix amor,
+
+que jo hi retrobi tant d’ardor
+
+com la meva ànima us en mena.
+
+ALCMENA
+
+Ja sou aquí de nou?
+
+AMFITRIÓ Doncs en un dia així
+
+em deu del vostre ardor ben prim testimoniatge,
+
+i aquest «De nou ja sou aquí?»
+
+no és, en tals ocasions, francament, el llenguatge
+
+d’un cor encès d’amor diví.
+
+Jo em deia, amb l’ànima torbada,
+
+que massa lluny de vós havia estat.
+
+L’espera d’un retorn ardentment desitjat
+
+dona a tots els instants una extrema durada
+
+i l’absència de l’estimada,
+
+per mica que s’allargui, ja és massa que ha durat.
+
+ALCMENA
+
+No veig pas…
+
+AMFITRIÓ No, no, Alcmena, amb frisosa impaciència
+
+es calculen els dies en ocasions així;
+
+i vós compteu els moments de l’absència
+
+com qui estima amb el cor mesquí.
+
+Quan s’estima de veritat,
+
+tota separació ens tortura
+
+i qui ens duria la ventura
+
+mai no retorna prou aviat.
+
+D’un rebement així, amb franquesa,
+
+es plany el meu amor amb desconfort,
+
+jo esperava del vostre cor
+
+ben altres goigs de joia i de tendresa.
+
+ALCMENA
+
+No puc entendre sobre què
+
+baseu aquest discurs que us he sentit emprendre;
+
+i si de mi us queixeu de ple,
+
+ja no sé pas, en bona fe,
+
+què més cal per semblar-vos tendra,
+
+que em penso que ahir al vespre, en tornar vencedor,
+
+em vau veure mostrar-vos una alegria encesa,
+
+i correspondre-us la passió
+
+com esperar podíeu de la meva tendresa.
+
+AMFITRIÓ
+
+Com?
+
+ALCMENA ¿No vaig, per ventura, davant vostre esclatar
+
+amb tot l’exaltament d’una bella alegria?
+
+I l’èxtasi d’un cor ¿es pot més bé expressar
+
+pel retorn del marit que s’estima amb follia?
+
+AMFITRIÓ
+
+Què voleu dir, amb això?
+
+ALCMENA Vull dir que al vostre torn
+
+vau mostrar-vos eufòric amb la meva acollida;
+
+i que, havent-me deixat just a punta de jorn,
+
+no veig per què d’aquest sobtat retorn
+
+no puc estar-ne encuriosida.
+
+AMFITRIÓ
+
+Potser és que del retorn que jo he precipitat
+
+un somni, aquesta nit, Alcmena, en el cor vostre,
+
+ha previngut la veritat.
+
+I com que, bo i dormint, potser m’heu ben tractat,
+
+amb el meu foc l’ànima vostra
+
+fa com qui els deutes ja ha pagat.
+
+ALCMENA
+
+Potser és que alguna droga de gran malignitat,
+
+esmunyida, Amfitrió, al cor vostre,
+
+el retorn d’ahir al vespre del cap us ha esborrat.
+
+I de la benvinguda que us donava de grat
+
+ara al meu foc l’ànima vostra
+
+vol discutir l’honestedat.
+
+AMFITRIÓ
+
+Aquesta droga que m’encolomeu
+
+resulta una miqueta estranya.
+
+ALCMENA
+
+Així, deu ser digna companya
+
+del somni que m’imagineu.
+
+AMFITRIÓ
+
+Si no és un somni, doncs, us assabento
+
+que res pot excusar això que vós m’heu dit.
+
+ALCMENA
+
+Si no és alguna droga que us torba l’esperit
+
+res més pot disculpar això que de vós sento.
+
+AMFITRIÓ
+
+Deixem estar la droga aquesta, Alcmena.
+
+ALCMENA
+
+Deixem estar el somni aquest, Amfitrió.
+
+AMFITRIÓ
+
+El mal és que en el tema en discussió
+
+el riu de les paraules massa lluny sempre mena.
+
+ALCMENA
+
+Ja ho crec, i en dona prova plena
+
+que començo a sentir un xic de commoció.
+
+AMFITRIÓ
+
+¿Vol dir això, per ventura, que voleu reparar
+
+aquest acolliment de què jo ara em planyia?
+
+ALCMENA
+
+¿Vol dir això que amb tal bogeria
+
+voleu distreure-us i xalar?
+
+AMFITRIÓ
+
+Ah, prou d’aquest color, us ho demano, Alcmena,
+
+i ara parlem seriosament.
+
+ALCMENA
+
+Amfitrió, massa dura aquest divertiment:
+
+acabem ja la nostra escena.
+
+AMFITRIÓ
+
+Doncs, què, ¿goseu tornar-me a dir a la cara
+
+que abans d’aquesta estona m’heu pogut veure aquí?
+
+ALCMENA
+
+Doncs, què, ¿voleu negar amb tota la cara
+
+que ahir, a l’hora del vespre, a casa vau venir?
+
+AMFITRIÓ
+
+Jo, venir ahir?
+
+ALCMENA Ben cert, i abans de trencar el dia
+
+de nou havíeu ja marxat.
+
+AMFITRIÓ
+
+Déus del cel! S’ha vist mai una tal fantasia?
+
+¿I qui no n’ha d’estar perplex, de tot plegat?
+
+Sòsia!
+
+SÒSIA Amb sis grans d’el·lèbor el remei li faria.
+
+Senyor, té el cap ben trastocat.
+
+AMFITRIÓ
+
+Alcmena, en nom de tots els déus!
+
+Aquest discurs sembla una faula:
+
+recobreu els sentits més greus
+
+i repenseu cada paraula.
+
+ALCMENA
+
+Per més que ho faig tot el matí,
+
+els de casa us van veure al punt de l’arribada.
+
+Ignoro quin motiu us porta a actuar així,
+
+però si cal que sigui la cosa demostrada,
+
+si és cert que la memòria ens pot fer talment frau,
+
+¿de qui puc jo saber, sinó de vós, la nova
+
+del combat que ha conclòs la pau?
+
+¿I aquells cinc diamants que duia Pterelau,
+
+que ha fet baixar a l’eterna cova
+
+la vostra potència de brau?
+
+Qui podria voler més bon testimoniatge?
+
+AMFITRIÓ
+
+Què dieu? ¿Que us he ja donat
+
+el pom de diamants que em vaig guanyar amb coratge
+
+i que us havia destinat?
+
+ALCMENA
+
+Ben cert. I no és empresa complicada
+
+convence’us-en d’un cop.
+
+AMFITRIÓ Ah, sí?
+
+ALCMENA Aquí el teniu.
+
+AMFITRIÓ
+
+Sòsia!
+
+SÒSIA Senyor, se us rifa: és aquí dins, captiu;
+
+no hi val engany ni ensarronada.
+
+AMFITRIÓ
+
+El segell està intacte.
+
+ALCMENA És, doncs, una visió?
+
+Teniu. Aquesta prova us semblarà prou bona?
+
+AMFITRIÓ
+
+Ah, déus! Oh, déus del Cel!
+
+ALCMENA Deixeu-ho estar, Amfitrió,
+
+ja està bé de burlar-vos de la dona:
+
+tot plegat us hauria de causar confusió.
+
+AMFITRIÓ
+
+Trenca el segell, de pressa!
+
+SÒSIA (Després d’obrir l’arqueta.)
+
+Buit a la llum del dia!
+
+Ha d’haver estat per màgia que l’hagin agafat,
+
+o que ell hagi vingut tot solet, sense guia,
+
+amb aquella a qui ha vist que anava destinat.
+
+AMFITRIÓ
+
+Oh déus que sobre el món teniu la senyoria,
+
+què és aquesta aventura? ¿Com en trec l’entrellat
+
+sense enfollir de gelosia?
+
+SÒSIA
+
+Si diu la veritat, compartim igual sort,
+
+senyor, i com ho era jo, també vós ja sou doble.
+
+AMFITRIÓ
+
+Calla, tu!
+
+ALCMENA Però, i doncs, què us ha agafat tan fort?
+
+D’on surt l’angoixa que us acobla?
+
+AMFITRIÓ
+
+Oh déus, quin estrany desgavell!
+
+Contemplo uns incidents que burlen la natura
+
+i el meu honor es tem una aventura
+
+que no comprèn el meu cervell.
+
+ALCMENA
+
+¿Encara teniu esma, amb prova tan sensible,
+
+de contradir-me el vostre retorn precipitat?
+
+AMFITRIÓ
+
+No. Però ara digneu-vos contar-me, si és possible,
+
+aquest retorn com ha passat.
+
+ALCMENA
+
+Si em demaneu que us conti com s’ha escaigut la cosa,
+
+AMFITRIÓ
+
+Perdoneu, però tinc com una nosa
+
+que m’empeny a reviure’n algun detall curiós.
+
+ALCMENA
+
+Les importants cabòries de l’alt comandament
+
+us deuen esborrar de pressa la memòria.
+
+AMFITRIÓ
+
+Ja pot ser; però, en fi, em faríeu content
+
+si em contàveu tota la història.
+
+ALCMENA
+
+La història no és pas llarga. Us em vaig acostar,
+
+tota sorpresa i engrescada;
+
+tendrament us vaig abraçar,
+
+i el meu goig vau sentir prou més d’una vegada.
+
+AMFITRIÓ (A part.)
+
+De tan dolça acollida, prou me n’hauria estat.
+
+ALCMENA
+
+Primer em vau fer el regal de tanta refulgència
+
+que del botí de guerra m’havíeu destinat.
+
+El vostre cor, amb vehemència,
+
+del seu foc m’expressava sencera la violència,
+
+i els maldecaps absurds que l’havien lligat,
+
+la joia de reveure’m, els turments de l’absència,
+
+totes les ànsies que tanta impaciència
+
+per tornar li havia causat;
+
+i mai el vostre amor, en semblant ocurrència,
+
+no havia estat tan tendre ni tan apassionat.
+
+AMFITRIÓ (A part.)
+
+Com es pot veure un home més ben assassinat?
+
+ALCMENA
+
+Tanta passió, tanta dolça tendresa,
+
+no em van desplaure gens, com bé deveu saber;
+
+i si us haig de parlar amb franquesa,
+
+el meu cor, Amfitrió, se’n va fer un bell plaer.
+
+AMFITRIÓ
+
+I què més? I què més?
+
+ALCMENA De paraula en paraula,
+
+vam anar responent cada nostre neguit.
+
+A l’hora de sopar, vam seure sols a taula;
+
+i un cop havent sopat ens en vam anar al llit.
+
+AMFITRIÓ
+
+Tots dos plegats?
+
+ALCMENA I és clar! Veieu quina pregunta!
+
+AMFITRIÓ (A part.)
+
+Ah, vet aquí, a la fi, el cop més dolorós,
+
+aquell que més temia el meu ardor gelós.
+
+ALCMENA
+
+Doncs què he dit, que els cabells se us han posat de punta?
+
+Potser vaig fer mal fet, ficant-me al llit amb vós?
+
+AMFITRIÓ
+
+No, però no era jo, per la meva desgràcia:
+
+i qui digui que ahir vam estar aquí plegats
+
+diu de totes les falsedats
+
+la més podrida de fal·làcia.
+
+ALCMENA
+
+Amfitrió!
+
+AMFITRIÓ
+
+Maleïda!
+
+ALCMENA Ah, quin enfuriment!
+
+AMFITRIÓ
+
+No, no: prou de tendresa i prou de concordança,
+
+això tira per terra la meva gran confiança;
+
+i el meu cor no respira, en aquest mal moment,
+
+res més que ràbia i que venjança.
+
+ALCMENA
+
+De qui us voleu venjar? ¿He faltat de debò
+
+perquè vulgueu tractar-me de culpable?
+
+AMFITRIÓ
+
+No us ho sé dir, però no era pas jo;
+
+i em desespera tant que ara vull ser implacable.
+
+ALCMENA
+
+Fugiu, marit indigne: tot fos clar com això!
+
+Quina impostura intolerable!
+
+Ja prou d’aquesta acusació
+
+i d’infidelitat sentir-me condemnada.
+
+Si el que busqueu, amb tanta confusió,
+
+és del vell himeneu fer a trossos la llaçada
+
+que a vós em té ben aferrada,
+
+no calia tanta remor;
+
+el que és jo, estic determinada
+
+a trencar avui mateix els vincles de la unió.
+
+AMFITRIÓ
+
+Després d’aquest afront que m’ha tocat conèixer,
+
+no us queda altre remei, ja us podeu preparar:
+
+és el menys que es pot fer, tot i que de merèixer,
+
+molt més us mereixeu pagar.
+
+El deshonor és cert, la desgràcia, visible,
+
+i el meu amor en va ho voldria endolcir;
+
+però el detall encara no m’és ben comprensible,
+
+i el meu recte furor ho pretén aclarir.
+
+El vostre bon germà pot altament respondre
+
+que fins a aquest matí ni un moment l’he deixat:
+
+me’n vaig, doncs, a buscar-lo per tal de descompondre
+
+la història del retorn que així m’heu imputat.
+
+Després ja burxarem ben al fons d’un misteri
+
+fins al dia d’aquí inoït;
+
+i entre les turbulències d’un irritat temperi,
+
+tremoli qui m’haurà traït!
+
+SÒSIA
+
+Senyor…
+
+AMFITRIÓ No m’acompanyis pas;
+
+val més que et quedis a esperar-me.
+
+CLEANTIS (A Alcmena.)
+
+Potser?…
+
+ALCMENA No, que haig de concentrar-me:
+
+Deixa’m i no m’entrebanquis el pas.
+
+
+
+
+
+ESCENA 3
+
+
+Cleantis, Sòsia
+
+CLEANTIS (A part.)
+
+Alguna cosa estranya li ha girat el senderi;
+
+però el germà en un instant
+
+resoldrà per fi el misteri.
+
+SÒSIA (A part.)
+
+Aquest ha estat, per l’amo, un cop desesperant,
+
+talment un cruel encanteri.
+
+I ara jo, amb la de casa, alguna de semblant
+
+temo que hagi passat, o, si no, leri-leri…
+
+CLEANTIS (A part.)
+
+Vejam si una hora o altra se’m gosarà acostar!
+
+Però mentre s’ho pensa, jo em faré la badoca.
+
+SÒSIA (A part.)
+
+Saber ben bé la cosa de vegades trastoca
+
+i em fa bona ànsia preguntar.
+
+¿No seria millor no voler-ho esbrinar
+
+i fer-hi cara de tanoca?
+
+Però, vinga, no hi puc fer re,
+
+que més pot la tafaneria.
+
+És feblesa humana voler
+
+conèixer bé la fesomia
+
+d’allò que més val no saber.
+
+Déu te guardi, Cleantis!
+
+CLEANTIS Ah, per fi et decideixes
+
+a venir a casa, renegat!
+
+SÒSIA
+
+Déu meu! Què et passa? Sempre fas el mateix posat
+
+i per no re te m’enfureixes.
+
+CLEANTIS
+
+Què entens tu per no re?
+
+SÒSIA Doncs jo entenc per no re
+
+el que se’n diu no re tant en vers com en prosa;
+
+i no re, com bé deus saber,
+
+vol dir no re, o ben poca cosa.
+
+CLEANTIS
+
+Malvat, no sé què em descamina
+
+d’esgarrapar-te aquests dos ulls,
+
+i ensenyar-te on arriba la ràbia femenina.
+
+SÒSIA
+
+Ei! Què és aquesta fúria amb què tot just m’aculls?
+
+CLEANTIS
+
+Així, tu en dius no re, de tota aquesta història
+
+del teu comportament barrut?
+
+SÒSIA
+
+Quina?
+
+CLEANTIS Que et fas el rampellut?
+
+¿Que, seguint l’amo de memòria,
+
+potser em voldràs fer creure que tampoc has vingut?
+
+SÒSIA
+
+No, jo estic segur de la inversa;
+
+però més no me’n facis dir:
+
+vam traguejar de no sé pas quin vi,
+
+que m’ha fet oblidar fins i tot la conversa.
+
+CLEANTIS
+
+Sí, bona excusa té el malalt mullat…
+
+SÒSIA
+
+Em pots ben creure, aquesta és tota.
+
+Llavors potser vaig fer qui sap quin disbarat
+
+que avui m’hauria enrojolat,
+
+i que ara no recordo gota.
+
+CLEANTIS
+
+¿De debò no recordes la pèssima manera
+
+com vas gosar tractar-me, en arribar del port?
+
+SÒSIA
+
+Gens ni mica. Ja pots fer-me’n tot el report:
+
+amb la franquesa més sincera
+
+em penso condemnar jo mateix, si he fet tort.
+
+CLEANTIS
+
+Doncs bé, com que Amfitrió em va necessitar
+
+fins que vinguessis tu, em vaig quedar desperta;
+
+però no s’ha vist mai una fredor tan certa:
+
+fins vaig haver de dir-te que em tenies allà;
+
+i quan et vaig voler besar
+
+em vas girar la cara amb expressió soferta.
+
+SÒSIA
+
+Bé!
+
+CLEANTIS
+
+Com, bé?
+
+SÒSIA Déu del Cel! Cleantis, el perquè
+
+no entenies d’aquell llenguatge:
+
+havia menjat all, i et feia l’homenatge
+
+d’allunyar-te una mica la fortor de l’alè.
+
+CLEANTIS
+
+Jo bé que t’expressava els sentiments del cor;
+
+però tu no vas moure ni un pèl de les pestanyes;
+
+ni una paraula de confort
+
+et va sortir de les entranyes.
+
+SÒSIA
+
+Vaja!
+
+CLEANTIS Per fi, el meu foc es va desvergonyir
+
+i en tu el seu cast ardor va topar una gelera;
+
+en mesquina resposta, tant el vas menystenir
+
+que et vas negar a colgar-te al lloc de capçalera
+
+que el deure conjugal t’obliga a mantenir.
+
+SÒSIA
+
+Què? No vaig jeure amb tu?
+
+CLEANTIS No, brètol.
+
+SÒSIA És possible?
+
+CLEANTIS
+
+Massa que ho és, caragirat.
+
+De tots els teus afronts és l’afront més sensible;
+
+i, lluny aquest matí d’haver-lo reparat,
+
+encara te m’has separat
+
+amb raons carregades d’un menyspreu ben visible.
+
+SÒSIA
+
+Visca Sòsia!
+
+CLEANTIS Aquest és l’efecte que t’ha fet?
+
+Et fa riure el teu poc coratge?
+
+SÒSIA
+
+Ah, com em sento satisfet!
+
+CLEANTIS
+
+És així que es demostra recança per l’ultratge?
+
+SÒSIA
+
+Mai no m’hauria dit capaç de tant mestratge.
+
+CLEANTIS
+
+En lloc de penedir-te de tan indigne fet,
+
+la cara se t’encén d’alegria salvatge!
+
+SÒSIA
+
+Si et plau, atura el carro! Si se’m veu tan content,
+
+has de pensar que en tinc una raó ben forta,
+
+i que, sense voler, no he estat mai més atent
+
+que en aquesta ocasió que tant et desconforta.
+
+CLEANTIS
+
+Et vols riure de mi, traïdor?
+
+SÒSIA
+
+No, que et parlo amb tota franquesa.
+
+Estava en un estat d’estranya commoció,
+
+que les teves paraules m’han guarit amb dolcesa.
+
+Però, amb l’esverament, tenia mitja por
+
+d’haver-te fet cap idiotesa.
+
+CLEANTIS
+
+A veure, doncs, si em dius per què tanta aprensió.
+
+SÒSIA
+
+Diuen els metges que quan t’embriagues,
+
+de la pròpia muller t’has d’abstenir,
+
+que en un estat semblant només poden sortir
+
+criatures neulides que espatllen les nissagues.
+
+Doncs imagina’t, si fredor no saps fingir,
+
+en quines aventures t’embarques i naufragues.
+
+CLEANTIS
+
+Els metges, colla de bergants!
+
+Quants romanços i mauleries!
+
+Que apedacin les avaries
+
+dels malalts de debò, i deixin viure els sans.
+
+Bé es fiquen on ningú els demana,
+
+volent-nos retenir els ardors controlats;
+
+quan la canícula ens aplana
+
+ens tornen a venir a regir-nos la gana
+
+amb romanços alambinats.
+
+SÒSIA
+
+No tant!
+
+CLEANTIS Doncs jo sostinc que això té un mal final:
+
+surten de caps de suro, tantes raons i frases.
+
+No hi ha ni vi ni temps que pugui ser fatal
+
+a l’hora de complir amb l’amor conjugal;
+
+i tots els metges són uns ases.
+
+SÒSIA
+
+No els guardis, t’ho suplico, tant d’odi rancorós:
+
+tot i la mala fama, són bona gent honrada.
+
+CLEANTIS
+
+Tu no fugis d’estudi ni et facis el melós:
+
+aquesta excusa teva és ben equivocada;
+
+em venjaré alguna hora d’aquest tracte galdós
+
+amb què contínuament em sento menyspreada.
+
+Dels mots d’abans en guardo record meticulós,
+
+i creu que faré ús, maridet lleganyós,
+
+d’aquesta llibertat que em tens adjudicada.
+
+SÒSIA
+
+Què?
+
+CLEANTIS ¿Potser no em vas dir que no et feia ben re,
+
+que n’estimés un altre, infame?
+
+SÒSIA
+
+En això vaig errar-me, a fe.
+
+Me’n desdic. No tinguéssim drama:
+
+ja et guardaràs de no mossegar el fre.
+
+CLEANTIS
+
+Ah, si sabés per un moment
+
+del meu cor deslligar la brida…
+
+SÒSIA
+
+Au, posa a les paraules mida:
+
+ves que Amfitrió ja torna, i sembla ben content.
+
+
+
+
+
+ESCENA 4
+
+
+Júpiter, Cleantis, Sòsia
+
+JÚPITER
+
+Vinc a veure si puc calmar una mica Alcmena,
+
+esvair-li els neguits que guarda dins el cor,
+
+i donar al meu ardor la dolcíssima esmena
+
+de retrobar tot el goig del confort.
+
+Segur que Alcmena deu ser dalt.
+
+CLEANTIS
+
+Sí, i no sé què la desconsola
+
+que m’ha dit que vol estar sola,
+
+i m’ha prohibit inclús seguir-la pel casal.
+
+JÚPITER
+
+Per molt que sigui una ordre expressa,
+
+no deurà pas valer per mi.
+
+CLEANTIS
+
+Ja veus l’enuig d’aquest matí
+
+si no se li ha esbravat de pressa.
+
+
+
+
+
+ESCENA 5
+
+
+Cleantis, Sòsia
+
+SÒSIA
+
+¿Què te’n sembla, Cleantis, d’aquest somriure actual,
+
+després d’allò tan formidable?
+
+CLEANTIS
+
+Que si totes féssim com cal,
+
+donaríem els homes al diable.
+
+Que el més bo ni per llavor val.
+
+SÒSIA
+
+Això es diu quan s’està furiós;
+
+però bé que amb els homes aneu sempre enganxades;
+
+a fe que ja estaríeu totes ben arreglades,
+
+si a l’infern fossin complidors!
+
+CLEANTIS
+
+Això…
+
+SÒSIA Callem. Venen tots dos.
+
+
+
+
+
+ESCENA 6
+
+
+Júpiter, Alcmena, Cleantis, Sòsia
+
+JÚPITER
+
+Que em voleu fer desesperar?
+
+Prou, si us plau, estimada Alcmena!
+
+ALCMENA
+
+No, amb l’autor de la meva pena
+
+no hi vull tenir res a parlar.
+
+JÚPITER
+
+Si us plau…
+
+ALCMENA
+
+Deixeu-me estar.
+
+JÚPITER Què…?
+
+ALCMENA Que vull estar sola.
+
+JÚPITER
+
+Els seus plors em commouen, i el seu dolor em desola.
+
+Permeteu que el meu cor…
+
+ALCMENA No, no em seguiu arreu.
+
+JÚPITER
+
+On voleu anar, doncs?
+
+ALCMENA Allà on vós no sereu.
+
+JÚPITER
+
+Vana esperança és la que us mena.
+
+A la vostra bellesa visc massa ben lligat
+
+per poder ni un moment estar-ne separat:
+
+us seguiré pertot, Alcmena.
+
+ALCMENA
+
+Jo us fugiré pertot, ingrat.
+
+JÚPITER
+
+Si que em trobeu, doncs, avorrible!
+
+ALCMENA
+
+Als meus ulls, més que esgarrifós.
+
+Sí, us veig talment un monstre indescriptible,
+
+un monstre cruel i rabiós,
+
+que quan s’acosta trobo horrible
+
+i em fa venir greus tremolors.
+
+El meu cor té, de veure-us, una pena insofrible;
+
+és una tortura que em fibla;
+
+i no veig sota el cel gloriós
+
+res tan terrible ni espantós
+
+que més que vós no trobés preferible.
+
+JÚPITER
+
+La vostra boca, ai, ai, quantes coses ha dit!
+
+ALCMENA
+
+I encara moltes més n’estatja;
+
+per expressar-se bé, aquest cor té el despit
+
+de no trobar tan sols llenguatge.
+
+JÚPITER
+
+Doncs, ¿què us ha fet la meva flama,
+
+que com un monstre, Alcmena, em voleu fer passar?
+
+ALCMENA
+
+Ah, déus del Cel, i això m’ho goseu demanar?
+
+No n’hi ha per fer desesperar una dama?
+
+JÚPITER
+
+Ah, si us poguéssiu amansir…!
+
+ALCMENA
+
+No, no, de cap manera, no us vull sentir ni veure.
+
+JÚPITER
+
+Teniu la gosadia, doncs, de tractar-me així?
+
+Tal és l’amor que em fèieu creure
+
+que duraria tant, ahir quan vaig venir?
+
+ALCMENA
+
+No, és clar que no; les vostres injúries maleïdes
+
+ben altrament ho han capgirat.
+
+És mort, aquell amor tendre i apassionat;
+
+vós mateix, al meu cor, amb cent vives ferides,
+
+l’heu cruelment assassinat.
+
+Al seu lloc hi ha una còlera inflexible,
+
+un viu ressentiment, un despit invencible.
+
+El desesper d’un cor justament animat,
+
+que es disposa a odiar-vos, pel vostre afront sensible,
+
+tant com abans de cor us havia estimat:
+
+i això vol dir odiar al màxim possible.
+
+JÚPITER
+
+El vostre amor tenia una magra natura,
+
+si per tan poca cosa se’l pot veure morir!
+
+El que era només joc ha d’acabar en ruptura?
+
+I per una facècia cal irritar-se així?
+
+ALCMENA
+
+És justament això el que em té vexada,
+
+i no perdona el meu cor ardorós.
+
+Si de debò es tractés d’un cop de sang gelós
+
+no estaria tan agreujada.
+
+La gelosia té unes impressions
+
+d’un poder tal que sovint se’ns emmena;
+
+i el més serè esperit, en semblants ocasions,
+
+passa sens dubte molta pena
+
+per controlar les emocions;
+
+l’enfuriment d’un cor que es pot haver enganyat
+
+bé ha de guanyar-se l’ànima a qui ha causat ofensa;
+
+i és en l’amor que li dona naixença
+
+que troba, almenys, malgrat la seva fúria intensa,
+
+raons per veure’s excusat;
+
+semblants exaltacions contra un ressentiment
+
+tenen el que les feia néixer com a dispensa
+
+i bé es perdona fàcilment
+
+el que un tot sol ja no pot vèncer.
+
+Però que d’un joiós ardor
+
+es passi a la follia d’una fúria que brama,
+
+que sense causa es pugui, i amb tantíssim rigor,
+
+ferir la tendresa i l’honor
+
+d’un cor que dolçament ens ama,
+
+ah, això és un cop massa dur, massa infame,
+
+que no oblidarà mai el meu dolor.
+
+JÚPITER
+
+Sí, teniu vós raó, Alcmena, i m’haig de retre:
+
+aquesta acció, sens dubte, és un crim horrorós;
+
+cap més defensa vull emetre;
+
+però deixeu que em faci un mèrit davant vós
+
+dient-vos a qui heu d’escometre
+
+per aquest fet tan injuriós.
+
+Si us n’haig de fer confessió veritable,
+
+Alcmena, és el marit qui ha fet el mal;
+
+és el marit qui us cal considerar culpable.
+
+L’amant no hi té art ni part en aquest joc brutal,
+
+que, pel seu cor, ofendre-us és del tot impensable:
+
+sent per vós, aquest cor, per gosar-hi pensar,
+
+massa reverència i tendresa;
+
+i si de fer cap cosa que us pogués agreujar
+
+hagués tingut la culpable feblesa,
+
+amb cent trets, davant vostre, el voldria atacar.
+
+El marit ha faltat al respecte cortès
+
+que amb vós hauria de ser un deure;
+
+amb la seva conducta cruel s’ha fet malveure,
+
+i pel dret d’himeneu s’ho ha cregut tot permès;
+
+és ell, sense cap dubte, qui és criminal amb vós.
+
+Sols ell ha ofès la vostra benvolguda persona:
+
+detesteu el marit galdós,
+
+l’amant mateix us l’abandona.
+
+Però, Alcmena, salveu l’amant dels greus furors
+
+que tota aquesta ofensa us dona;
+
+no li carregueu el retret,
+
+deslligueu-lo un xic del culpable;
+
+i finalment, per ser equitable,
+
+no el vulgueu castigar per allò que no ha fet.
+
+ALCMENA
+
+Ah, aquest munt de subtilitats
+
+no són res més que dèbils faules,
+
+i pels esperits irritats
+
+és ben inoportú aquest raig de paraules.
+
+És ridícul i inútil, tot aquest truc farsant:
+
+no hi distingeixo res, en aquell que m’ultratja,
+
+en ell tot em resulta repugnant,
+
+i en el meu arborat coratge
+
+són barrejats el marit i l’amant.
+
+Tots dos d’igual manera em tenen sublevada,
+
+i els seus retrats em pinta la meva ànima irada
+
+amb els mateixos mals colors:
+
+tots dos són criminals, tots dos me l’han jugada,
+
+els odio igualment tots dos.
+
+JÚPITER
+
+Molt bé, doncs, ja que així ho voleu,
+
+m’hauré de carregar el delicte.
+
+Us dono la raó quan em sacrifiqueu
+
+a la vostra rancúnia per víctima convicta;
+
+un despit merescut contra mi el cor us dicta,
+
+i tota aquesta ràbia que davant meu mostreu
+
+no m’infligeix res més que una condemna estricta;
+
+és de justícia que jo angúnia us faci
+
+i d’esquivar-me com un gos
+
+la vostra fúria m’amenaci;
+
+jo us haig de resultar l’objecte més odiós,
+
+i m’heu de desitjar un mal esgarrifós;
+
+és cosa natural que el meu greuge no passi,
+
+que així haver-vos ofès a vós
+
+és pels homes i els déus un crim ben horrorós,
+
+i sé prou que mereixo, per castigar l’audàcia,
+
+que contra mi el vostre odi emplaci
+
+dels seus dards el més dolorós.
+
+Però el meu cor demana gràcia;
+
+postrat als vostres peus us la vull implorar,
+
+i ara ho faig en el nom de la flama més viva
+
+amb què una ànima sensitiva
+
+pugui mai més per vós cremar.
+
+Si el vostre cor, gallarda Alcmena,
+
+em refusa la gràcia que goso requerir,
+
+que el pitjor mal de mala mena
+
+m’arrabassi, fent-me morir,
+
+als aspres rigors d’una pena
+
+que no podria resistir.
+
+Sí, aquest estat em desespera:
+
+Alcmena, no us penséssiu pas
+
+que, adorant com adoro el vostre encís vivaç,
+
+pugui viure un sol dia amb la vostra quimera.
+
+Ja dels presents instants la durada inclement
+
+fa sucumbir amb mortals punyides
+
+aquest meu pobre cor planyent;
+
+i d’un vol de voltors les salvatges ferides
+
+no es poden comparar al meu dolor candent.
+
+Doncs, Alcmena, no ho heu sinó de declarar:
+
+si no hi ha cap perdó que jo pugui esperar,
+
+aquesta aguda espasa, d’un sol cop favorable,
+
+partirà, davant vostre, el cor d’un miserable.
+
+Aquest cor de traïdor, ben digne d’expirar
+
+si ha pogut torbar així un objecte adorable:
+
+feliç seré, en baixar al sojorn de la mort,
+
+si la vostra rancúnia el meu traspàs esmena,
+
+i no deixa, dins vostre, després del desconfort,
+
+cap rastre d’odi ni de pena
+
+quan de mi us revingui el record!
+
+És tot el que demano com a darrera estrena.
+
+ALCMENA
+
+Ah, marit impietós!
+
+JÚPITER Digueu, parleu, Alcmena.
+
+ALCMENA
+
+¿Encara preteneu que us tingui més bondats,
+
+quan us veig ultratjar-me amb tals indignitats?
+
+JÚPITER
+
+Per molt ressentiment que ens encengui un ultratge,
+
+pot més que la recança d’un cor ben inflamat?
+
+ALCMENA
+
+Un cor encès de flama prefereix l’esclavatge
+
+abans que donar enuig a l’objecte estimat.
+
+JÚPITER
+
+També com més s’estima, menys la corda s’estira…
+
+ALCMENA
+
+No, no me’n parleu més: mereixeu la meva ira.
+
+JÚPITER
+
+M’odieu, doncs, encara?
+
+ALCMENA Jo bé ho intento fort;
+
+i em fa ràbia de veure que la vostra insolència
+
+no pugui excitar encara fins a tal penitència
+
+tota la fúria del meu cor.
+
+JÚPITER
+
+¿I doncs per què tanta violència,
+
+si us he ofert, en venjança, la meva justa mort?
+
+No heu de fer una altra cosa que dir el mot decisori.
+
+ALCMENA
+
+Qui no sap pas odiar pot voler que algú mori?
+
+JÚPITER
+
+El que és jo, no puc viure si no us allibereu
+
+d’aquesta còlera irritable,
+
+i no accediu a dar-me el perdó favorable
+
+que ara us imploro com un reu.
+
+D’un cop haureu de decidir:
+
+o castigar, o bé, doncs, absoldre.
+
+ALCMENA
+
+Ah, déus! El que jo puc resoldre
+
+més del que vull sembla exigir.
+
+Per voler sostenir l’enuig que m’esborrona,
+
+el cor bé ha hagut de simular:
+
+dir que un cor no sap pas odiar
+
+no és ja dir que també perdona?
+
+JÚPITER
+
+Ah, per fi, bella Alcmena, quina gran alegria…
+
+ALCMENA
+
+Fugiu: tanta feblesa no sé si m’esgarria.
+
+JÚPITER
+
+Au, Sòsia, afanya’t a enllestir:
+
+ves, ara que tinc l’ànima de dolcesa encantada,
+
+a buscar els capitans de la tropa acampada,
+
+i els invites a sopar amb mi.
+
+(A part.) Mentre allunyo aquest pocatraça,
+
+Mercuri ocuparà la plaça.
+
+
+
+
+
+ESCENA 7
+
+
+Cleantis, Sòsia
+
+SÒSIA
+
+Ja has vist, Cleantis, aquesta parella.
+
+¿Seguim l’exemple del veí
+
+i fem també les paus per tot allò d’ahir
+
+i ja desarruguem la cella?
+
+CLEANTIS
+
+I un be negre, què et penses! Això no acaba així.
+
+SÒSIA
+
+Què vols dir? Que no?
+
+CLEANTIS No.
+
+SÒSIA Tampoc m’importa gaire.
+
+Pitjor per tu.
+
+CLEANTIS Au, torna, té.
+
+SÒSIA
+
+No, dimonis!, no tornaré.
+
+També jo em vull emparrar ben enlaire.
+
+CLEANTIS
+
+Ves, traïdor, deixa’m fer al meu aire.
+
+Una es cansa, a vegades, de ser dona de bé.
+
+
+
+
+
+ACTE III
+
+
+
+
+
+ESCENA 1
+
+
+Amfitrió
+
+AMFITRIÓ
+
+Sens dubte, la fortuna a dretes me l’amaga,
+
+i ja, d’anar rodant, me’n començo a cansar.
+
+No hi ha un fat tan cruel ni una sort tan atziaga:
+
+anant d’un cantó a l’altre no he aconseguit trobar
+
+aquell de qui vaig a la saga,
+
+i, en canvi, veig tothom que voldria esquivar.
+
+Mil pesats inclements, que ni menys coneixia,
+
+per la nostra victòria em surten tot el dia
+
+a fer la gara-gara, com per fer-me enfurir.
+
+En la cruel frisança del neguit que em malmena,
+
+les seves abraçades i els seus cops a l’esquena
+
+a la ràbia que tinc es venen a afegir.
+
+En va d’esquitllar-me tinc cura,
+
+fugint de les persecucions,
+
+que la seva porfídia pertot arreu m’atura;
+
+i alhora que a l’ardor d’aquelles expressions
+
+jo hi responc amb mirada dura,
+
+els engego en veu baixa deu mil malediccions.
+
+Que poc val l’afalac de lloances, d’honor,
+
+i de tot el que dona una brillant victòria,
+
+quan l’ànima es consum d’un penetrant dolor!
+
+I que de bona gana donaries la glòria
+
+per tornar al cor la serenor!
+
+La gelosia, amb greu nyic-nyic,
+
+em fa present la malaurança;
+
+i com més el cervell hi dansa,
+
+menys puc desembullar el funest embolic.
+
+Que els diamants volessin no és el que m’obsessiona:
+
+un segell es pot treure que ni es coneix després;
+
+però que ahir en fes do jo mateix en persona,
+
+això sí que em rosega i em fa perdre els papers.
+
+La natura imagina sovint coincidències
+
+que alguns desaprensius saben aprofitar;
+
+però és absurd concebre que amb semblants assistències
+
+un home pel marit es pugui fer passar.
+
+I en tots aquests exemples hi ha massa diferències
+
+perquè una dona honesta no se’n pugui adonar.
+
+A Tessàlia, la bruixeria
+
+ha estat sempre famosa, segons corre la veu;
+
+però les meravelles que se’n conten arreu
+
+jo les he tingut sempre per pura ximpleria;
+
+ja fora de la sort un ben estrany rigor
+
+que, en sortir d’una gran victòria,
+
+hagués de creure aquesta història
+
+a costa del meu propi honor.
+
+Li vull tornar a parlar d’aquest feixuc misteri
+
+i veure si no ha estat només un somni eteri
+
+que al seu cervell torbat hagi guanyat terreny.
+
+Ah, vulgui el Cel incontestable
+
+que aquest cas sigui el veritable,
+
+i que ella, per sort meva, hagi perdut el seny!
+
+
+
+
+
+ESCENA 2
+
+
+Mercuri, Amfitrió
+
+MERCURI (Al balcó del casal d’Amfitrió, sense ser vist.)
+
+Com que l’amor, aquí, no m’ofereix esplai,
+
+me n’haig de buscar algun de diferent manera.
+
+Veuré de divertir-me amb Amfitrió, això rai;
+
+em costarà ben poc treure’l de polleguera.
+
+Ja sé que no escau gaire a un déu de caritat;
+
+però a mi, aquest escrúpol, ben poquet m’importuna,
+
+no hi puc fer res si la fortuna
+
+em vol avui entremaliat.
+
+AMFITRIÓ
+
+A què ve que, a aquesta hora, hàgiu tancat la porta?
+
+MERCURI
+
+Ei! A poc a poquet! Qui truca?
+
+AMFITRIÓ Jo.
+
+MERCURI Qui, jo?
+
+AMFITRIÓ
+
+Au, vinga, obre!
+
+MERCURI Com, que obri? ¿I qui ets tu, de debò,
+
+que mous tant de soroll amb una veu tan forta?
+
+AMFITRIÓ
+
+Que potser no em coneixes?
+
+MERCURI No.
+
+I veure’t per aquí em molesta.
+
+AMFITRIÓ
+
+Per ventura tothom ha perdut la raó?
+
+Que potser hi ha una passa? Sòsia, Sòsia, contesta!
+
+MERCURI
+
+Sí que em dic Sòsia, sí, corcó!
+
+Tens por que em fugi de la testa?
+
+AMFITRIÓ
+
+Que m’has vist bé?
+
+MERCURI Oi tant! ¿I es pot saber a què ve
+
+aquest terrabastall salvatge?
+
+Què preguntes des del carrer?
+
+AMFITRIÓ
+
+Que què pregunto jo, malviatge?
+
+MERCURI
+
+Que no preguntes tu, també?
+
+Parla, si és que saps cap llenguatge.
+
+AMFITRIÓ
+
+Prepara’t, bord, que amb el bastó
+
+t’ensenyaré el meu diccionari:
+
+veurem si gosaràs tornar-hi,
+
+quan pugi jo fins al balcó.
+
+MERCURI
+
+Compte! Si per entrar emprens gens de violència
+
+et penso fer enviar un missatger pudent.
+
+AMFITRIÓ
+
+Déus del Cel! S’ha vist mai una tal insolència?
+
+S’ha sentit mai tal cosa en boca d’un servent?
+
+MERCURI
+
+Doncs, què? Ja m’has ben vist, o potser només bades?
+
+Amb els ulls tan oberts m’has prou considerat?
+
+Ai, com els esbatana, i sembla esparverat!
+
+Si mosseguessin les mirades
+
+ja m’hauria ben esqueixat.
+
+AMFITRIÓ
+
+Jo mateix ja tremolo pensant la que t’espera,
+
+al final d’aquest tracte immund.
+
+Quina tempesta et busques, i de quina manera!
+
+La mà de garrotades que et plouran al damunt!
+
+MERCURI
+
+Amic meu, si d’aquí no t’esfumes des d’ara,
+
+el que pots és guanyar-t’hi alguna contusió.
+
+AMFITRIÓ
+
+Ah, prou t’ensenyaré, per molla i per crostó,
+
+el que es guanya un criat que a l’amo planta cara.
+
+MERCURI
+
+Tu, el meu amo?
+
+AMFITRIÓ I és clar! No em coneixes, encara?
+
+MERCURI
+
+El que és jo, no conec altre amo que Amfitrió.
+
+AMFITRIÓ
+
+I el teu amo Amfitrió, no té la meva cara?
+
+MERCURI
+
+Amfitrió?
+
+AMFITRIÓ Tal com sona.
+
+MERCURI Ah, ves quina visió!
+
+Au, digues, si ets servit, en quina tavernota
+
+t’has escalfat així el cervell.
+
+AMFITRIÓ
+
+Encara hi tornes?
+
+MERCURI Era un vi de bona nota?
+
+AMFITRIÓ
+
+Oh, déus!
+
+MERCURI Era vell, o novell?
+
+AMFITRIÓ
+
+Quan t’atrapi…!
+
+MERCURI El novell et deixa sempre idiota,
+
+si el beus sense aigua del cubell.
+
+AMFITRIÓ
+
+Et tallaré la llengua amb un sol cop d’espasa.
+
+MERCURI
+
+Amic meu, marxa, creu-me a mi:
+
+que no et senti ningú de casa.
+
+Et tindré en compte el mam: au, ves-te’n, fuig d’aquí,
+
+i deixa estar Amfitrió amb el goig que l’abrasa.
+
+AMFITRIÓ
+
+Què vols dir? Que Amfitrió és a dins?
+
+MERCURI Justament.
+
+I, cobert dels llorers d’una victòria plena,
+
+és amb la seva bella Alcmena,
+
+fruint la meravella d’un tendre parlament.
+
+Després d’haver arreglat una qüestió amorosa,
+
+ara es donen al goig de l’amor retrobat.
+
+Guarda’t de destorbar la seva intimitat,
+
+si no vols que ell, amb mà furiosa,
+
+t’estovi sense cap pietat.
+
+
+
+
+
+ESCENA 3
+
+
+Amfitrió, tot sol
+
+AMFITRIÓ
+
+Ah, quina sotragada, quin cop insuportable!
+
+Quina angoixa cruel em deixa a l’esperit!
+
+I si les coses són com aquest ximple ha dit,
+
+com queda el meu honor? I el meu foc inefable?
+
+Quin partit m’aconsella el seny que més em val?
+
+L’esbombament o el secret, he de prendre?
+
+I, amb l’ardor de la ràbia, ¿he d’atiar o suspendre
+
+el deshonor del meu casal?
+
+Però, calen consultes, en semblant circumstància?
+
+No hi val cap diplomàcia, no hi ha res a arreglar;
+
+ara, doncs, tota la meva ànsia
+
+en la revenja haig de centrar.
+
+
+
+
+
+ESCENA 4
+
+
+Sòsia, Nàucrates, Pòlides, Amfitrió, al fons del teatre
+
+SÒSIA (A Amfitrió.)
+
+Senyor, el que he pogut fer no és gaire extraordinari:
+
+només us he trobat aquests senyors d’aquí.
+
+AMFITRIÓ
+
+Ah, mi-te’l, ell!
+
+SÒSIA Senyor.
+
+AMFITRIÓ Insolent, temerari!
+
+SÒSIA
+
+Què?
+
+AMFITRIÓ Que t’ensenyaré a tractar l’amo així.
+
+SÒSIA
+
+Què hi ha, doncs? Què teniu?
+
+AMFITRIÓ (Empunyant l’espasa.) Que què tinc, miserable?
+
+SÒSIA
+
+Senyors, si us plau, feu-me costat.
+
+NÀUCRATES (A Amfitrió.)
+
+Ei, si us plau, atureu-vos.
+
+SÒSIA De què m’he fet culpable?
+
+AMFITRIÓ
+
+I ho preguntes, caragirat?
+
+(A Nàucrates.)
+
+Deixeu-me satisfer una còlera justa.
+
+SÒSIA
+
+Quan van a penjar algú li diuen el perquè.
+
+NÀUCRATES
+
+Digneu-vos, almenys, dir aquest crim que us disgusta.
+
+SÒSIA
+
+Senyors, guardeu la meva fe.
+
+AMFITRIÓ
+
+Doncs ha tingut la gosadia
+
+de tancar-me la porta al nas,
+
+i amenaçar-me amb alegria
+
+amb mil insults de soldat ras.
+
+(Empunyant l’espasa.)
+
+Bergant!
+
+SÒSIA (Deixant-se caure de genolls.)
+
+Soc home mort.
+
+NÀUCRATES (A Amfitrió.)
+
+Calmeu aquest desfici.
+
+SÒSIA
+
+Senyors.
+
+PÒLIDES (A Sòsia.) Què hi ha?
+
+SÒSIA No m’ha tocat?
+
+AMFITRIÓ
+
+No, vull que cobri el benefici
+
+dels mots que fa una estona com si res m’ha prestat.
+
+SÒSIA
+
+¿Com pot ser, això, si en exercici
+
+de la vostra ordre, jo era ben lluny d’aquí ocupat?
+
+Aquests senyors us poden donar testimoniatge
+
+que tot just els acabo de convidar al dinar.
+
+NÀUCRATES
+
+És cert que ens ha vingut a donar aquest missatge
+
+i ja no ens ha volgut deixar.
+
+AMFITRIÓ
+
+Qui t’ha donat tal ordre?
+
+SÒSIA Vós.
+
+AMFITRIÓ
+
+Quan?
+
+SÒSIA Quan la pau heu tingut feta,
+
+amb l’emoció de l’ànima finalment satisfeta
+
+d’haver calmat d’Alcmena el cor furiós. (S’aixeca.)
+
+AMFITRIÓ
+
+Oh, déus! Cada pas, cada instant
+
+afegeix un turment al meu cruel martiri;
+
+i, enmig d’un torbament tan gran,
+
+jo ja no sé què creure ni què dir-hi.
+
+NÀUCRATES
+
+Això que del casal tot just ens ha contat
+
+contradiu talment la natura
+
+que abans d’emprendre res amb cor enfurismat,
+
+hauríeu d’aclarir tota aquesta aventura.
+
+AMFITRIÓ
+
+Doncs, som-hi: així em podreu donar un xic de suport,
+
+que és evident que el Cel a ajudar-me us envia.
+
+Vejam quina fortuna m’ha d’escaure aquest dia:
+
+aclarim el misteri i sapiguem la sort.
+
+Coneixe-la ja em desficia,
+
+però la temo com la mort.
+
+
+
+
+
+ESCENA 5
+
+
+Júpiter, Amfitrió, Nàucrates, Pòlides, Sòsia
+
+JÚPITER
+
+Qui és que la casa m’atropella?
+
+Qui truca com si l’amo fos?
+
+AMFITRIÓ
+
+Déus del Cel, què haig de veure!
+
+NÀUCRATES Oh, estranya meravella!
+
+Com és que d’Amfitrions en puguem veure dos?
+
+AMFITRIÓ
+
+Oh, déus, tinc l’ànima esmortida;
+
+s’ha acabat l’aventura, ja no hi cal ni un sol mot:
+
+la meva sort està aclarida,
+
+que el que ara he vist ho explica tot.
+
+NÀUCRATES
+
+Com més de prop me’ls miro, i més atentament,
+
+més l’un a l’altre em sembla igual i comparable.
+
+SÒSIA (Passant pel costat de Júpiter.)
+
+Senyors, ell és el veritable;
+
+l’altre és un impostor ben digne d’escarment.
+
+PÒLIDES
+
+Amb semblança tan admirable
+
+no puc jutjar correctament.
+
+AMFITRIÓ
+
+Ja és massa que ens enganyi un brètol execrable:
+
+només cal, amb l’espasa, trencar l’encantament.
+
+NÀUCRATES
+
+Atureu-vos.
+
+AMFITRIÓ Deixeu-me.
+
+NÀUCRATES Déu meu! Voleu tornar-hi?
+
+AMFITRIÓ
+
+Vull cobrar a un impostor les covardes traïcions.
+
+JÚPITER
+
+Calma! L’enfuriment és ben innecessari;
+
+que quan algú s’irrita fins a arribar al desvari,
+
+més aviat fa creure que té males raons.
+
+SÒSIA
+
+Sí, només un bruixot d’ofici estrafolari
+
+pot prendre les semblances dels patrons.
+
+AMFITRIÓ
+
+Veuràs, després d’aquest ultratge,
+
+la mà de garrotades que t’esperen a tu.
+
+SÒSIA
+
+L’amo és un home de coratge,
+
+i no consentirà que m’estovi ningú.
+
+AMFITRIÓ
+
+Deixeu-me, doncs, que esbravi el delit de venjança
+
+i que renti l’afront amb la sang d’un malvat.
+
+NÀUCRATES (Aturant Amfitrió.)
+
+No podem consentir l’extravagant combat
+
+d’Amfitrió amb ell mateix matant-se.
+
+AMFITRIÓ
+
+Mereix el meu honor semblant maltractament?
+
+I els meus amics, d’un brètol abracen la defensa?
+
+En lloc de ser els primers de venjar tanta ofensa,
+
+ells mateixos s’oposen al meu ressentiment?
+
+NÀUCRATES
+
+¿Com voleu que en aquesta empresa
+
+puguem prendre resolucions,
+
+si davant de dos Amfitrions
+
+tota la nostra empenta de cop queda suspesa?
+
+De bon grat lluitaríem contra aquest desgavell,
+
+però temem errar-nos, i no saber conèixer.
+
+Cert que vós no ens sembleu d’Amfitrió desmerèixer,
+
+el cabdill dels tebans en terra i en vaixell;
+
+però alhora també creiem veure-l’hi en ell,
+
+i no sabem, dels dos, quin ens cal reconèixer.
+
+El nostre ànim no és gens dubtós,
+
+i l’impostor volem que mossegui la terra;
+
+però aquesta semblança l’amaga entre tots dos;
+
+i és un cas massa perillós
+
+per no escometre’l amb mà esquerra.
+
+Volem amb calma decidir
+
+a quina banda pot ser la impostura;
+
+i tan bon punt haurem aclarit l’aventura,
+
+quin és el nostre deure ningú ens ho haurà de dir.
+
+JÚPITER
+
+És cert, teniu raó; i aquesta retirança
+
+a dubtar de tots dos us pot autoritzar.
+
+No m’ofenc pas de veure-us ballant a la balança:
+
+jo soc més raonable, i us ho vull excusar.
+
+L’ull no pot entre els dos descobrir discordança,
+
+i veig que fàcilment un s’hi pot enganyar.
+
+No m’heu vist pas encendre’m en colèric temperi,
+
+ni posar-me l’espasa al puny:
+
+no és el millor mitjà d’aclarir aquest misteri,
+
+i jo en puc trobar algun sense anar gaire lluny.
+
+Un, d’entre els dos, és Amfitrió;
+
+i, als vostres ulls, tots dos ens ho podem merèixer.
+
+A mi em toca acabar aquesta confusió;
+
+i vull que tan bé tots em puguin reconèixer
+
+que, a la claror diàfana que a mi em farà aparèixer,
+
+ell mateix reconegui que no em pot desconèixer
+
+i ja no hi digui res en cap altra ocasió.
+
+I és davant dels tebans, que, lleials com em són,
+
+vull de la veritat descobrir la substància;
+
+i la cosa sens dubte és de prou importància,
+
+per requerir la circumstància
+
+que ho aclareixi als ulls del món.
+
+Alcmena bé l’espera, aquest testimoniatge:
+
+la seva gran virtut, que aquest desordre ultratja,
+
+vol ser justificada, i jo així ho penso fer.
+
+El meu amor per ella m’exigeix aquest gatge,
+
+i dels cabdills més nobles convoco l’arbitratge
+
+pel desembrollament que al seu honor convé.
+
+Esperant de vosaltres testimoni sensat,
+
+ara vull, en una paraula,
+
+que vingueu a honorar la taula
+
+on el bon Sòsia us ha invitat.
+
+SÒSIA
+
+Senyors, jo no m’errava. Això sol dilucida
+
+la nostra espinosa qüestió: aquí, el veritable Amfitrió
+
+és aquest que a dinar ens convida.
+
+AMFITRIÓ
+
+Déus! Podria mai veure’m més fondament vexat?
+
+¿M’he de quedar a escoltar, pel meu propi martiri,
+
+tot el que l’impostor pugui encara afegir-hi,
+
+i, per molta violència que aquest discurs m’inspiri,
+
+quedar-me amb el braç aturat?
+
+NÀUCRATES
+
+Sense raó us planyeu. Primer, esperar caldria
+
+l’aclariment que tornaria
+
+de prou justícia aquest rancor.
+
+No sé pas si és una posa,
+
+però parla de la cosa
+
+com si tingués la raó.
+
+AMFITRIÓ
+
+Aneu, febles amics, i ajudeu la impostura:
+
+a Tebes prou en tinc molts altres de millors;
+
+i els que sabré trobar, coneixent la conjura,
+
+prestaran el seu braç als meus justos furors.
+
+JÚPITER
+
+Doncs, au, aquí els espero, i decidiré així
+
+la discòrdia en presència seva.
+
+AMFITRIÓ
+
+Tu, amb això, maleït, et penses evadir;
+
+però no et salvaràs de la venjança meva.
+
+JÚPITER
+
+A aquests absurds estirabots
+
+ara no em digno ni respondre:
+
+ben aviat podré descompondre
+
+aquesta fúria amb quatre mots.
+
+AMFITRIÓ
+
+Ni els déus et salvaran, perquè penso tornar-hi,
+
+i fins dintre l’Infern et vindré a perseguir.
+
+JÚPITER
+
+Això no serà necessari,
+
+i es veurà ben aviat que no penso fugir.
+
+AMFITRIÓ
+
+Anem, correm, abans no fugi per la porta,
+
+a reunir uns quants amics que em defensin l’honor,
+
+per tornar a casa amb la mà forta
+
+i trinxar-lo amb tot el vigor.
+
+JÚPITER
+
+Vinga, deixem-nos d’oratòria
+
+i entreu a casa sense por.
+
+NAUCRATES
+
+Certament, tota aquesta història
+
+confon el seny i la raó.
+
+SÒSIA
+
+Doneu treva, senyors, a les vostres sorpreses,
+
+i taulegeu amb joia fins que sigui demà.
+
+(Tot sol.) Jo trauré el pap de pena, i em posaré a assajar
+
+per lluir les nostres proeses!
+
+Ja em deleixo per les grandeses,
+
+i de fam no me’n faltarà.
+
+
+
+
+
+ESCENA 6
+
+
+Mercuri, Sòsia
+
+MERCURI
+
+Atura’t! Ara, així, ¿vens aquí a ficar el nas,
+
+descarat tafaner de cuina?
+
+SÒSIA
+
+Si et plau, anem a pams!
+
+MERCURI Ja hi tornes, grandolàs?
+
+Vols la mateixa medecina?
+
+SÒSIA
+
+Calma’t, jo generós i fi,
+
+i aquesta còlera asserena.
+
+Sòsia, tingues de Sòsia pena.
+
+I no vulguis pegar-te creient pegar-me a mi.
+
+MERCURI
+
+Per dur aquest nom amb presumpció,
+
+qui t’ha pogut donar llicència?
+
+¿Que no t’ho vaig prohibir amb extrema eloqüència,
+
+sota pena de rebre uns quants cops de bastó?
+
+SÒSIA
+
+És un nom que tots dos podem alhora dur
+
+servint l’amo que ens pot merèixer.
+
+Com a Sòsia pertot la gent em sol conèixer;
+
+jo consento que ho siguis tu:
+
+consent que jo m’hi pugui reconèixer.
+
+Deixem, doncs, els dos Amfitrions
+
+que es barallin per gelosia:
+
+i enmig d’aquelles discussions,
+
+fem que els dos Sòsies visquin ja sense antipatia.
+
+MERCURI
+
+No res: amb un n’hi ha prou. No vull portar la creu
+
+de saber-me dos personatges.
+
+SÒSIA
+
+Sigues el gran dels Sòsies, amb tots els avantatges;
+
+jo seré el cabaler, i tu seràs l’hereu.
+
+MERCURI
+
+Tenir un germà petit no m’ha fet mai el pes,
+
+i jo el que vull és ser fill únic.
+
+SÒSIA
+
+Oh cor bàrbar, fenici, púnic!
+
+Consent almenys que sigui la teva ombra.
+
+MERCURI No res.
+
+SÒSIA
+
+Amb un xic de clemència el teu ànim allisa;
+
+en qualitat de tal, deixa’m amb tu venir:
+
+jo sabré ser pertot una ombra tan submisa,
+
+que quedaràs content de mi.
+
+MERCURI
+
+No hi ha quarter: la llei és per complir.
+
+Si d’esquitllar-te a dins encara tens l’audàcia,
+
+dels cops t’hauràs de ficar al llit.
+
+SÒSIA
+
+Ah, a quina extravagant desgràcia,
+
+pobre Sòsia, et veus reduït!
+
+MERCURI
+
+¿La teva boca encara gosa
+
+tornar a donar-te el nom que saps que et tinc vedat?
+
+SÒSIA
+
+No és a mi que m’he anomenat.
+
+De qui jo parlo és d’un vell Sòsia
+
+amb qui vaig estar emparentat,
+
+i brutalment, com una nosa,
+
+a l’hora de dinar va ser foragitat.
+
+MERCURI
+
+Guarda’t de tornar a caure en tota aquella cosa
+
+si no vols abans d’hora tastar l’eternitat.
+
+SÒSIA
+
+Com t’apallissaria, si tingués prou coratge,
+
+fill de la gran reputa, orgullós malparit!
+
+MERCURI
+
+Què dius?
+
+SÒSIA Re.
+
+MERCURI No se t’ha escapat cap ultratge?
+
+SÒSIA
+
+Té, pregunta-ho: ni un mot, he dit.
+
+MERCURI
+
+Amb tot, un fill de no sé què
+
+m’ha esclatat com un tro a l’orella,
+
+tan cert com no n’estic de re.
+
+SÒSIA
+
+Deu ser un lloro enfadat amb la seva parella.
+
+MERCURI
+
+Adeu. Si mai l’esquena et tornés a picar,
+
+ja saps que visc ben a la vora.
+
+SÒSIA
+
+Ja és gros que a l’hora de menjar,
+
+justament, del casal hagin de fer-me fora!
+
+Cedim, doncs, a la sort amb tota l’aflicció,
+
+i per avui seguim-ne la cega fantasia;
+
+i ara, aplegats en justa unió,
+
+que el pobre Sòsia faci via
+
+amb el no menys pobre Amfitrió.
+
+Té, ja el veig que s’acosta en bona companyia.
+
+
+
+
+
+ESCENA 7
+
+
+Amfitrió, Argatifòntides, Posicles, Sòsia
+
+AMFITRIÓ
+
+Atureu-vos, senyors; seguiu-me d’un tros lluny,
+
+i no tragueu la valentia
+
+fins que reclami el vostre puny.
+
+posicles
+
+Comprenc que ha d’haver estat per vós un cop infame.
+
+AMFITRIÓ
+
+T’ho miris com t’ho miris, és mortal, el dolor:
+
+tant sofreix l’amorosa flama
+
+com ho fa el trontollat honor.
+
+posicles
+
+Si aquesta retirança és tan gran com s’ha dit,
+
+Alcmena, sense ser culpable…
+
+AMFITRIÓ
+
+Ah, sobre el cas que em té obsedit,
+
+l’error més simple es gira en un crim veritable,
+
+i, sense consentir-hi, la innocència ha desdit.
+
+Aquests errors, per més voltes que el cap hi doni,
+
+toquen indrets molt delicats,
+
+i ni que la raó els perdoni,
+
+mai l’amor ni l’honor els volen perdonats.
+
+ARGATIFÓNTIDES
+
+No és pas a ronsejar que aquest cas em convida,
+
+i odio aquests senyors que esperen per esplai;
+
+és un procediment que m’amarga la vida
+
+i que un home de cor no aprovaria mai.
+
+Quan algú ens sol·licita perquè no té sortida,
+
+cal socorre’l sense desmai.
+
+El que és jo, Argatifòntides, no estic pas per acords.
+
+Escoltar d’un amic raonar l’adversari,
+
+per un home d’honor no és cosa de pensar-hi:
+
+és la venjança l’únic que ha d’escoltar, llavors.
+
+A aquest procés jo hi soc contrari;
+
+un ha de començar, al pic dels seus transports,
+
+per ferir, sense ni rumiar-hi,
+
+amb l’espasa al bell mig dels cors.
+
+Ja veureu que, en aquesta empresa,
+
+el vostre Argatifòntides tal com diu ho farà;
+
+vull de vosaltres la promesa
+
+que l’impostor no morirà
+
+sinó per la meva escomesa.
+
+AMFITRIÓ
+
+Anem.
+
+SÒSIA Als vostres peus, senyor meu poderós,
+
+vull rebre el càstig just a una audàcia inoïda.
+
+Pegueu-me, apallisseu-me, tracteu-me com un gos,
+
+mateu-me entre els vostres furors:
+
+sé que no mereixo la vida,
+
+i no diré ni mitja paraula contra vós.
+
+AMFITRIÓ
+
+Aixeca’t. Què ha passat?
+
+SÒSIA M’han fet fora, en concret;
+
+i, pensant atipar-me, almenys, de llonganissa,
+
+no sospitava que, de fet,
+
+m’hi empassaria una pallissa.
+
+Sí, l’altre jo, criat de l’altre vós, ha fet
+
+de nou la seva trencadissa.
+
+El rigor d’un semblant destí,
+
+senyor, a tots dos ens estalona;
+
+talment em des-Sosia a mi
+
+com a vós us des-Amfitriona.
+
+AMFITRIÓ
+
+Segueix-me.
+
+SÒSIA No seria millor espiar una estona?
+
+
+
+
+
+ESCENA 8
+
+
+Cleantis, Nàucrates, Pòlides, Sòsia, Amfitrió, Argatifòntides, Posicles
+
+CLEANTIS
+
+Déu meu!
+
+AMFITRIÓ I què t’espanta així?
+
+Fins i tot l’amo t’esparvera?
+
+CLEANTIS
+
+És que sou allà dalt, i en canvi us veig aquí!
+
+NÀUCRATES (A Amfitrió.)
+
+Un moment, que ja el veig venir
+
+per donar les clarícies que aquí tothom espera
+
+i que, si ens hem de creure això que ell assevera,
+
+us deurà alliberar del mal que us fa patir.
+
+
+
+
+
+ESCENA 9
+
+
+Mercuri, Cleantis, Nàucrates, Pòlides, Sòsia, Amfitrió, Argatifòntides, Posicles
+
+MERCURI
+
+Ara el veurà tothom; i tindreu coneixença
+
+que és el gran sobirà dels déus
+
+qui, sota els trets amics d’una tal aparença,
+
+Alcmena ha fet baixar dels territoris seus;
+
+i, quant a mi, jo soc Mercuri,
+
+que, no sabent què fer, he dat algun cop lleu
+
+a qui li he pres el rostre espuri:
+
+però ell ja pot trobar un consol de relleu,
+
+que les garrotades d’un déu
+
+fan honor a qui les enduri.
+
+SÒSIA
+
+Com hi ha món, senyor déu, soc el vostre servent:
+
+però em podia estar de tanta cortesia.
+
+MERCURI
+
+De ser Sòsia li torno el dret que pretenia:
+
+ja estic fart de portar un rostre tan pudent,
+
+i ara me’n vaig al cel, on un bany d’ambrosia
+
+me’l deixarà net i lluent.
+
+(S’envola cap al cel.)
+
+SÒSIA
+
+Que el Cel de tornar amb mi t’esborri la mania!
+
+El teu braç m’ha deixat prou i massa madur.
+
+No he trobat mai, ni el trobaria,
+
+un déu més dimoni que tu.
+
+
+
+
+
+ESCENA 10
+
+
+Júpiter, Cleantis, Nàucrates, Pòlides, Sòsia, Amfitrió, Argatifòntides, Posicles
+
+JÚPITER (Des d’un núvol, dalt de l’àguila, armat amb el llamp, envoltat de trons i llampecs.)
+
+Contempla bé, Amfitrió, qui és el teu impostor,
+
+i mira, amb el teu rostre, Júpiter comparèixer:
+
+amb tals proves tu el pots fàcilment reconèixer;
+
+i això és prou per tornar-te al cor la serenor
+
+que no has deixat mai de merèixer,
+
+i restablir dins teu la pau i la dolçor.
+
+El meu nom, que pertot arreu la terra adora,
+
+ofegarà els rumors que sens dubte han sorgit.
+
+Haver amb Júpiter compartit
+
+cap home mortal deshonora;
+
+i res sinó orgullós t’has de sentir entre els teus
+
+de saber-te el rival del sobirà dels déus.
+
+No hi veig, pel teu amor, cap causa de tortura,
+
+i soc jo, en aquesta aventura,
+
+qui, déu i tot com soc, m’haig de sentir gelós.
+
+Alcmena és tota teva, això res no ho altera,
+
+i ha de ser pel teu cor un goig ben poderós
+
+de veure que per plaure-li no hi ha millor manera
+
+que adoptar els teus propis fulgors,
+
+que Júpiter, ornat de glòria i meravella,
+
+no ha pogut per ell sol vence-li el cor segur,
+
+i que tot el que ha rebut d’ella
+
+el seu cor ple de flama no ho ha dat sinó a tu.
+
+SÒSIA
+
+En sap, el senyor Júpiter, d’ensucrar la pastilla.
+
+JÚPITER
+
+Surt doncs dels desconforts que ja tens tan soferts.
+
+I apaga aquest ardor que t’encén i t’aïlla:
+
+us naixerà un fill, Hèrcules, que com estel que brilla
+
+omplirà dels seus fets tot el vast univers.
+
+L’esclat d’una fortuna en tot de béns fecunda
+
+farà saber a tothom que jo et dono suport,
+
+i de la forma més rotunda
+
+el món t’envejarà la sort.
+
+Des d’ara tu ja et pots gloriar
+
+d’aquesta esperança donada:
+
+i no en gosessis pas dubtar:
+
+la paraula del Sobirà
+
+pel destí és sempre executada.
+
+(Es perd entre els núvols.)
+
+NÀUCRATES
+
+Certament, han estat proves corprenedores…
+
+SÒSIA
+
+Senyors, voleu seguir el meu parer prudent?
+
+No us embarqueu alegrement
+
+en joies tan engrescadores:
+
+seria un mal embarcament,
+
+que d’una i d’altra banda, per un tal compliment,
+
+les frases són enganyadores.
+
+El gran Pare dels Déus ens ha fet molt d’honor,
+
+i la seva bondat és sens dubte profunda;
+
+ens promet l’evident prova d’amor
+
+d’una fortuna en tot de béns fecunda,
+
+i al casal farà néixer un fill de gran vigor:
+
+tot plegat fa un goig com no abunda;
+
+però deixem-nos de sermons,
+
+i que tothom se’n torni on té el llit i la taula.
+
+Que, en aquest tipus de qüestions,
+
+val més callar i no dir paraula.
+
+
+
+
+
+JEAN-BAPTISTE POQUELIN, més conegut com a MOLIÈRE (París, 15 de gener del 1622 - 17 de febrer del 1673), fou un dramaturg i actor francès.
+
+Considerat com el mestre de la Comédie Française, segueix sent l’autor amb més obres representades per aquesta institució. Inflexible amb la pedanteria dels falsos savis, les mentides dels metges ignorants i les pretensions dels rics burgesos, Molière estimava la joventut i la volia alliberar de tan absurdes càrregues i prejudicis.
+
+En les 30 comèdies que va escriure després del seu retorn a París mostra un coneixement pregon de les incongruències de la vida humana i de la societat francesa del seu temps. Hi és capaç de tractar temes seriosos, i àdhuc tràgics, sense renunciar a l’alegria i a l’exuberància de la comèdia. Va ser un mestre en el maneig dels diàlegs i en l’ús de l’argot.
+
+Molt lluny dels rigors de la devoció o de l’ascetisme, el seu paper de moralista tenia els límits que ell mateix es va imposar: «No sé si no és millor treballar per rectificar i per suavitzar les passions dels homes que voler suprimir-los completament», i el seu objectiu era sobretot «fer riure la gent honesta». D’aquesta manera, feia seva la divisa que usaven els comediants italians dels anys 1620 a França: Castigat ridendo mores (corregeix els costums pel riure).
+
+Les principals obres de Molière són: El metge ambulant (1645), La gelosia del compromès (1650), L’atabalat o els contratemps (1655), El despit amorós (1656), El doctor enamorat (1656), Les precioses ridícules (1659), Sganarelle o el cornut imaginari (1660), Don Garcia de Navarra o el príncep gelós (1661), L’escola dels marits (1661), L’escola de les mullers (1662), La crítica de l’«Escola de les dones» (1663), La gelosia del gran René (1663), La princesa d’Elida (1664), Tartuf o l’impostor (1664), El casament per força (1664), Don Joan o el festí de pedra (1665), L’amor metge (1665), El misantrop (1666), El metge per força (1666), Melicerta (1666), El sicilià o l’amor pintor (1667), Amfitrió (1668), Jordi Dandí o el marit confós (1668), L’avar (1668), El senyor de Pourceaugnac (1669), Els amants magnífics (1670), El burgès ennoblit (1670), Psyché (1671), Les trapelleries de Scapin (1671), La comtessa d’Escarbanyes (1671), Les dones sàvies (1672), El malalt imaginari (1673).
+
+
+
+
+
