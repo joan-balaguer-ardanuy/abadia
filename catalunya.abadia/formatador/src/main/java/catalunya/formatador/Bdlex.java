@@ -37,13 +37,11 @@ import java.util.Set;
  * <li>"]": a l'aparèixer aquest caràcter per primera vegada, vol dir que la clau del
  * diccionari ja ha sigut llegida per complet.</li>
  * <li>" ": un espai de separació</li>
- * <li>La clau és tota la resta: fins a la següent aparició de "DIEC1	", és a dir:<br/>
- * "a¹ [pl. as] f. Nom de la lletra a A. | no saber ni la a No saber ni els rudiments d'una cosa."</li>
+ * <li>El valor és tota la resta: fins a la següent aparició de "DIEC1	", és a dir:<br/>
+ * "a¹ [pl. as] f. Nom de la lletra a A. | no saber ni la a No saber ni els rudiments d'una cosa.<tt>'\n'</tt>"</li>
  * </ul>
- * <br/>
- * <h1>Format per línia:</h1>
- * <tt>
- * [inici de iteració]:<br/>
+ * <h1>Procés per línia:</h1>
+ * <tt>[inici de iteració]:<br/>
  * &gt; CODI_FONT &gt;<br/>
  * &nbsp;&nbsp;&gt; aparició de caràcter d'obertura '[' &gt;<br/>
  * &nbsp;&nbsp;&nbsp;&nbsp;&gt; CLAU &gt;<br/>
@@ -51,8 +49,7 @@ import java.util.Set;
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; un espai blanc ' '&gt; <br/>
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; VALOR (fins darrera aparició de<br/>
  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'\n' des del final de la mateixa línia)&gt;<br/>
- * :[fi de iteració]<br/>
- * </tt>
+ * :[fi de iteració]</tt><br/>
  */
 public class Bdlex {
 
@@ -420,7 +417,7 @@ public class Bdlex {
 //			DIEC1 diec1 = new DIEC1(entrada);
 //			diec1.escriu();
 //			Bdlex.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/diec1.xml", diec1.extreuDocument());
-			// Extracció de DIEC1
+			// Extracció de DGFP
 			String entrada = Bdlex.llegeix("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/registre/dgfp.txt");
 			DGFP dgfp = new DGFP(entrada);
 			dgfp.escriu();
