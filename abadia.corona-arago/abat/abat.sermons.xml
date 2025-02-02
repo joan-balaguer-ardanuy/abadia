@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/xml">
+	<nom>Sermó a la SM.IAS</nom>
+	<clau>
+		<clau></clau>
+		<valor></valor>
+	</clau>
+	<valor>
+		<clau></clau>
+		<valor></valor>
+	</valor>
+	<anyell>
+		<nom>Sermó a l'Abstracció de Catalunya</nom>
+		<clau></clau>
+		<valor></valor>
+	</anyell>
+</abadia>

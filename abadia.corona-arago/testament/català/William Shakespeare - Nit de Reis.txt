@@ -1,0 +1,5320 @@
+Nit de Reis és la comèdia dels errors. És més agra que dolça, perquè els desitjos es projecten en la persona equivocada i, tot i així, els personatges insisteixen a topar una i altra volta contra el mateix mur de l’equivocació, l’aparença i el malentès. Viola es disfressa d’home —vés a saber per què—, passa a dir-se Cesari i entra al servei del Duc d’Orsino, de qui s’enamora perdudament; però el Duc d’Orsino (que no es fixa en Cesari perquè és un home) està enamorat perdudament d’Olívia, però Olívia ha perdut pare i germà tant recentment que no vol saber-ne res, de l’amor. Fins que es troba amb Cesari, i es deixa emportar per la passió d’un amor a primera vista. Però Cesari, en realitat, està enamorat d’Orsino. A casa d’Olívia hi viu l’Oncle Tobies, que enganya el seu amic Andreu fent-li creure que podrà aconseguir l’amor d’Olívia. El majordom d’Olívia, Malvolí, que té un excés d’amor propi, també és enganyat a la vegada per Maria, la serventa, l’Oncle Tobies, i l’idiota Andreu: fan creure a Malvolí que la senyora Olívia l’estima. Per si l’embolic era poc, Sebastià, el bessó d’Olívia, també arriba a Il·líria: un mariner del vaixell, Antoni, l’ha salvat del naufragi i li ha donat tots els seus diners. Evidentment ho ha fet perquè l’estima. Però Sebastià és una còpia exacta de Cesari, i resulta que Olívia els confon, i es casa amb Sebastià, creient que era Cesari, que en realitat no és més que una dona disfressada d’home…
+
+Sempre he imaginat que Il·líria és una illa, un correlat del que podria perfectament ser el nostre món, i que ens serveix per observar detalladament els comportaments —caòtics i sense lògica, la majoria de les vegades— dels seus habitants. O el que és el mateix: poder veure’ns a nosaltres mateixos caient en un dels defectes més pronunciats encara avui dia entre els homes i les dones: que ens costa d’acceptar allò què som i el lloc que ens toca ocupar. Que preferim fingir el que no som.
+
+Iban Beltran. Músic i director escènic.
+
+
+
+
+
+William Shakespeare
+
+
+
+
+
+Nit de Reis
+
+
+o El que vulgueu
+
+
+
+ePUB v2.0
+
+Calamanga 19.11.13
+
+
+
+
+
+Títol original: Twelfth Night, or What You Will
+
+William Shakespeare, 1602
+
+Traducció: Carles Capdevila, 1907
+
+Edició digital: Calamanga (v1.0)
+
+Segona edició: EpubCat (v2.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+Nota de la traducció
+
+
+La traducció literal del títol d’aquesta comèdia Twelfth night és La nit dotzena emperò nosaltres hem traduït La festa dels reis atenent-nos a que la nit a la qual se refereix el títol és la que fa dotze a comptar de Nadal, o siga la de la Festa dels reis.
+
+
+
+
+
+Nota de la transcripció
+
+
+S’ha respectat l’ortografia, una mica irregular, d’aquesta edició, que data de 1907. Únicament s’han corregit alguns errors evidents d’impressió.
+
+
+
+
+
+Nota de l’edició
+
+
+Per facilitar-ne la lectura, s’han normalitzat alguns termes i formes gramaticals al català modern. Cal tenir en compte que la traducció original de Carles Riba és prèvia a la normalització de Pompeu Fabra. També s’ha adaptat al títol a Nit de Reis, tal com es representa en l’actualitat aquesta obra teatral.
+
+
+
+
+
+PERSONATGES
+
+
+ORSINO Duc de Il·líria.
+
+OLÍVIA Comtessa.
+
+VIOLA Germana de Sebastià, enamorada del Duc.
+
+SEBASTIÀ Germà de Viola.
+
+ANTONI Capità de vaixell, amic de Sebastià.
+
+Un CAPITÀ de vaixell Amic de Viola.
+
+VALENTÍ Gentilhome al servei del Duc.
+
+CURI Gentilhome al servei del Duc.
+
+SIR TOBIAS BELCH Oncle d’Olívia[1]
+
+SIR ANDREU AGUE-CHEEK [2]
+
+MALVOLÍ Majordom d’Olívia.
+
+FABIÀ Servent d’Olívia.
+
+FESTA Joglar d’Olívia.
+
+MARIA Cambrera d’Olívia.
+
+Nobles, sacerdots, agutzils, músics i altra gent.
+
+L’acció transcorre a Il·líria.
+
+
+
+
+
+ACTE I
+
+
+
+
+
+ESCENA I.
+
+EN EL PALAU DEL DUC
+
+
+(Entren el DUC, CURI i senyors; se sent una orquestra).
+
+DUC:
+
+Si la musica és l’aliment de l’amor, toqueu, toqueu sens parar mai, amareu-me’n, fins que ma passió n’emmalalteixi i assadollada en mori. Un altre cop aquesta passada! Té un caient tant Dolcíssim! Ha lliscat per la meva orella com l’oreig suau que roba i escampa’l penetrant perfum d’un marge de violes!… Prou! No seguiu més. S’és perduda la dolçor d’aquella passada! Oh esperit de l’amor! Que penetrant i sublim és ton poder! Encara que en tu, com en la mar tot hi càpiga, no hi entra res, per esforçat i valuós que siga, que als pocs minuts en força i en valer no minvi: tant fantasiosa és la passió, aquesta suprema fantasia.
+
+CURI:
+
+Senyor, voleu sortir a cacera?
+
+DUC:
+
+De què, Curi?
+
+CURI:
+
+Del cérvol, senyor.
+
+DUC:
+
+La del més noble de tots, és mon únic anhel ara. Oh! Quan mos ulls veieren a Olívia, va semblar-me que amb son alè purificava l’aire; d’aquell instant vaig esdevenir una presa, i d’aleshores que mos desitjos, com afamats mastins, sens repòs me deixen.
+
+
+
+Entra VALENTÍ.
+
+Què t’ha respost?
+
+VALENTÍ:
+
+No us enutgeu, senyor; no he pogut aconseguir que em rebés; més us porto la resposta que m’ha tramès sa cambrera; en set anys ni la llum del sol veurà son rostre descobert, car com monja de clausura, constantment un tupit vel taparà son rostre, i cada dia ruixarà de llàgrimes sa cambra, per la memòria d’un germà difunt, record que vol servar eternament en son pensament entristit.
+
+DUC:
+
+La del més noble de tots, és mon únic anhel ara. Oh! Quan mos ulls veieren a Olívia, va semblar-me que amb son alè purificava l’aire; d’aquell instant vaig esdevenir una presa, i d’aleshores que mos desitjos, com afamats mastins, sens repòs me deixen.
+
+(Se’n van.)
+
+
+
+
+
+ESCENA II.
+
+PLATJA
+
+
+(Entren VIOLA, un CAPITÀ de vaixell i mariners).
+
+VIOLA:
+
+Quin país és aquest, amic?
+
+CAPITÀ:
+
+Il·líria, senyora.
+
+VIOLA:
+
+I què hi podré fer jo a Il·líria? Mon germà és al fons de l’Elysseu!… Potser la sort haurà volgut que se salvés també. Què us sembla, bons mariners?
+
+CAPITÀ:
+
+Vós mateixa deveu la vida a una afortunada casualitat.
+
+VIOLA:
+
+Pobre germà meu! Qui sap si ell també s’haurà salvat per un sortós atzar?
+
+CAPITÀ:
+
+Bé podria esser, senyora; i si us és consol lo probable, us diré que al esberlar-se nostre vaixell i en el moment que anant a fons, vós i aquesta gent heu entrat a la barca, he vist el vostre germà agafar-se coratjosament a un tros de pal que surava damunt la mar esvalotada, i, com Arió sobre l’esquena del dofí, defensar-se de les ones fins que ha desaparegut a mon esguard.
+
+VIOLA:
+
+Pren aquest or per tes paraules. Que fou possible sa salvació, la meva ho assegura i tes paraules encara n’augmenten l’esperança. Coneixes aquest país?
+
+Capità:
+
+Sí, madona; perquè a tres hores d’aquí hi ha el poble on vaig nàixer i m’he criat.
+
+VIOLA:
+
+Qui governa aquesta terra?
+
+CAPITÀ:
+
+Un duc tant noble de nom com de cor.
+
+VIOLA:
+
+Com se diu?
+
+CAPITÀ:
+
+Orsino.
+
+VIOLA:
+
+Orsino! Jo he sentit aquest nom per boca de mon pare. Encara era solter aleshores.
+
+CAPITÀ:
+
+I encara ho és ara, o al menys fa poc que ho era, car jo tant sols he estat un mes fora d’aquí. Corria aleshores la veu (ja sabeu, senyora, que és feina dels xics comentar les voluntats i les fetes dels grans) que sol·licitava l’amor de l’hermosa Olívia.
+
+VIOLA:
+
+I qui és aquesta Olívia?
+
+CAPITÀ:
+
+Una honesta donzella, filla d’un comte, que va deixar-la a cura d’un germà d’ella, mort fa poc també, i per aital desgracia és per lo que diuen que ha renunciat al món i a la vista dels homes.
+
+VIOLA:
+
+Doncs jo voldria entrar al servei d’aquesta dama, amagant ma condició fins que fos madurat mon determini.
+
+CAPITÀ:
+
+Ben difícil us serà això perquè no rep a ningú, ni als mateixos enviats del Duc.
+
+VIOLA:
+
+Capità, encara que molt sovint la perversitat pren bella aparença, ton rostre revela bondat, i crec que ton cor no desdiu en res de ton rostre. Jo et demano, i t’ho recompensaré, que no diguis a ningú qui soc i m’ajudis a triar la disfressa que més convingui a mon projecte. Vull entrar al servei del Duc; tu m’hi presentaràs com amic; i creu que no seran en va tos passos, car jo sé cantar i bé podria afegir la meva habilitat a sos esbarjos i fer així mos oferiments acceptables. El temps s’encarregarà de lo demés; mentrestant, ajusta ton silenci a ma prudència.
+
+CAPITÀ:
+
+El seu eunuc sigueu, que jo seré el vostre mut: que mai més vegi la llum si surt de ma boca una paraula de més.
+
+VIOLA:
+
+Mercès, capità, i guia.
+
+
+
+(Se’n van.)
+
+
+
+
+
+ESCENA III.
+
+A CASA D’OLÍVIA
+
+
+(SIR TOBIAS i MARIA).
+
+SIR TOBIAS:
+
+Però, per quins cinc sous, la meva neboda s’ha de prendre així la mort del seu germà? Bé massa sé que la tristesa és el pitjor enemic de la vida.
+
+MARIA:
+
+Creieu-me, Sir Tobias, hauríeu de retirar més d’hora a la nit; la senyora, vostra neboda, té molt que dir de les vostres hores tant fora de llei.
+
+SIR TOBIAS:
+
+Bah! Val més per ella que tingui que dir, que no que doni que dir.
+
+MARIA:
+
+Sí, però us estaria més bé que us mantinguessin en els modestos límits d’una vida ordenada.
+
+SIR TOBIAS:
+
+M’estaria més bé! No haig de menester que res m’estigui més bé; me sembla que per beure, aquest vestit ja me n’està prou de bé i aquestes botes dos quartos del mateix, i si no ho estan, que es pengin amb les seves mateixes corretges.
+
+MARIA:
+
+Aquests trincaments vos portaran a una mala fi. Ahir mateix vaig sentir a la senyora que en parlava, igualment que d’aquest poca-solta de cavaller que un vespre vareu portar-li perquè li fes de galant.
+
+SIR TOBIAS:
+
+Qui? Sir Andreu Galtaencesa?
+
+MARIA:
+
+El mateix.
+
+SIR TOBIAS:
+
+És tant home com el que més ho siga a Il·líria.
+
+MARIA:
+
+I què hi fa?
+
+SIR TOBIAS:
+
+Eh! Té’ls seus tres mil ducats de renda a l’any!
+
+MARIA:
+
+Sí, però no els tindrà més d’un any, perquè és un boig que té la mà foradada.
+
+SIR TOBIAS:
+
+Pfé! Això ho dieu vos! Toca’l contrabaix, parla tres o quatre llengües, mot per mot i sense llibre, i té tots els dons amb que la natura pot afavorir a un home.
+
+MARIA:
+
+Oh! Sí; és cert; a un home idiota, perquè a més de esser un ruc, és un busca-raons, i si no tingués el do de la covardia per temperar el seu esbojarrament provocatiu, asseguren els savis que no trigaria gaire a tenir el do del sepulcre.
+
+SIR TOBIAS:
+
+Per aquesta mà us dic que són uns xerraires i uns bescantadors els que parlen així d’ell. Qui són?
+
+MARIA:
+
+Els que, sense mirar-s’hi gaire, afegeixen que cada vespre s’emborratxa en companyia vostra.
+
+SIR TOBIAS:
+
+És clar; de tant beure a la salut de la meva neboda; tinc fet el propòsit de beure a la seva salut, mentre li quedi un xic de passadís a la meva gorja i hi hagi beguda a Il·líria. Covard i mala pècora ha de esser el qui, a la salut de la meva neboda, no begui fins que el cap li rodi com una baldufa. I prou, mossota. Castiliano volto!, perquè ara veig que ve Sir Andreu Galtaencesa.
+
+
+
+(Entra SIR ANDREU DE ROSTRE-ENCÈS).
+
+SIR ANDREU:
+
+Sir Tobias! Com va això, Sir Tobias?
+
+SIR TOBIAS:
+
+Amable sir Andreu!
+
+SIR ANDREU: (a Maria)
+
+Que Déu vos guardi, formosa trapacera
+
+MARIA:
+
+I a vós també, cavaller.
+
+SIR TOBIAS:
+
+Acosteu-vos-hi, Sir Andreu, acosteu-s’hi.
+
+SIR ANDREU:
+
+Què és això?
+
+SIR TOBIAS:
+
+La cambrera de la meva neboda.
+
+SIR ANDREU:
+
+Amable senyora. Acosteu-vos-hi, el meu gust seria poder conèixer-vos més profundament.
+
+MARIA:
+
+El meu nom és Maria, cavaller.
+
+SIR ANDREU:
+
+Amable senyora Maria Acosteu-vos-hi…
+
+SIR TOBIAS:
+
+Ho haveu mal entès, cavaller. Us he dit acosteu-s’hi; és dir: apropeu-vos-hi, encareu-s’hi, parleu-li, escometeu-la, festegeu-la.
+
+SIR ANDREU:
+
+Us asseguro que això sí que no ho voldria fer amb companyia. Aquest és el significat del mot acosteu-s’hi?
+
+MARIA:
+
+Adéu-siau, cavallers.
+
+SIR TOBIAS:
+
+Que mai més pugueu treure-us l’espasa si la deixeu marxar així!
+
+SIR ANDREU:
+
+Que mai més pugui treure’m l’espasa si us en aneu així. Us creieu, l’hermosa, que hi teniu alguns ximples entre mans?
+
+MARIA:
+
+No us hi tinc pas per la mà, senyor!
+
+SIR ANDREU:
+
+Oh! Perquè no voleu: aquí teniu la mà.
+
+MARIA:
+
+Cadascú, senyor, pot pensar com li sembli; jo penso que podríeu posar la mà a la plata de la mantega i deixar-li en remull.
+
+SIR ANDREU:
+
+Per què, cor dolç? Quin significat té aquesta metàfora?
+
+MARIA:
+
+Teniu la mà tan eixuta!
+
+SIR ANDREU:
+
+Ja ho crec; no soc tant ase que no sàpiga tenir les mans eixutes. Però, expliqueu-me aquesta broma.
+
+MARIA:
+
+És una broma eixuta, senyor.
+
+SIR ANDREU:
+
+I en teniu gaires d’aquesta mena?
+
+MARIA:
+
+Sí, senyor, ne tinc les mans plenes; però, veieu, així que us deixo anar la vostra, no me n’hi queda cap.
+
+
+
+(Se’n va Maria).
+
+SIR TOBIAS:
+
+Ah! Cavaller, te convindria una copa de Canàries. Mai t’he vist tant amoïnat.
+
+SIR ANDREU:
+
+Mai, fora de que m’amoïnés el Canàries. De vegades me sembla que no allargo més que un cristià o un qualsevol; menjo molt bou i jo crec que això em castiga la vivesa.
+
+SIR TOBIAS:
+
+És clar.
+
+SIR ANDREU:
+
+Si n’estigués segur, mai més ne menjava… Demà agafo el cavall i men torno a casa, Sir Tobias.
+
+SIR TOBIAS:
+
+Pourquoi, estimat cavaller?
+
+SIR ANDREU:
+
+Què vol dir pourquoi? Que me’n vagi o que no me’n vagi? Tant de bo jo hagués aplicat a l’estudi de les llengües el temps que he dedicat a l’esgrima, a la dansa i als combats d’óssos. Ah! Que jo no m’hagi dedicat a les arts!
+
+SIR TOBIAS:
+
+Avui tindries un cap perfecte.
+
+SIR ANDREU:
+
+Com? Hi hauria guanyat la meva cabellera?
+
+SIR TOBIAS:
+
+No cal dir-ho; ja veus que els cabells no se t’enrotllen pas per natural.
+
+SIR ANDREU:
+
+Però m’escauen molt, veritat?
+
+SIR TOBIAS:
+
+I tant! Pengen com el cànem d’una filosa; encara vull veure com algun dia una comare se’t posa entre’ls genolls i te’ls fila.
+
+SIR ANDREU:
+
+En bona fe, demà men torno a casa; la vostra neboda no es vol deixar veure, i encara que ho volgués, me jugo quatre contra un que tampoc estaria per mi. El Duc mateix, que viu per aquests volts, la festeja.
+
+SIR TOBIAS:
+
+No el vol de cap manera, al Duc. No es casarà amb cap home que, pels mèrits, l’edat o l’estament, no sigui igual que ella. Jo l’hi he sentit jurar i us asseguro que ja podeu pujar-hi de peus.
+
+SIR ANDREU:
+
+Me quedaré un altre mes. Sóc l’home més estrany del món. De vegades me dóna per passar-me-la tranquil·lament en balls i comparses.
+
+SIR TOBIAS:
+
+Però, tu ets entès en aquestes foteses, cavaller?
+
+SIR ANDREU:
+
+Tant com el qui més a Il·líria, sigui qui sigui; s’entén, exceptuant als meus superiors; això no vol dir que vulgui comparar-me als homes venerables.
+
+SIR TOBIAS:
+
+I de dansa, com estas?
+
+SIR ANDREU:
+
+Salto com un cabrit.
+
+SIR TOBIAS:
+
+Cabrit? Jo salto quan el veig a taula.
+
+SIR ANDREU:
+
+I estic segur que no hi ha qui em guanyi a fer tombarelles.
+
+SIR TOBIAS:
+
+I per què ha de restar amagat tot això? Per què guardes totes aquestes gracies darrere el teló? Tens por de que se les mengi la pols, com al retrat de Mistres Mall? Per què no vas a missa amb un pas de contradansa i no en tornes amb una farandola? Si jo fos de tu, el meu caminar natural seria un contrapas; no voldria anar mai allà a on no em puc estar d’anar-hi, que no ho fes amb punts de ball rodó. Que has perdut el seny? Per ventura vivim en un món que els mèrits facin nosa? Jo diria, per l’excel·lent conformació de pantorrilla que veig que tens, que vas nàixer baix l’estrella de la dansa.
+
+SIR ANDREU:
+
+Sí; és ferma i fa molt goig amb una mitja de color de foc. Armarem alguna xala, eh?
+
+SIR TOBIAS:
+
+I doncs? Per ventura no hem nascut baix el signe de Toro?
+
+SIR ANDREU:
+
+Toro? Influeix en el cor i a les costelles.
+
+SIR TOBIAS:
+
+Ca! En les cames i les cuixes. Veiam, vull veure’t fer un saltiró, ah! Més amunt! Més! Més!…
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA IV.
+
+EN EL PALAU DEL DUC
+
+
+(Entren VALENTÍ I VIOLA, vestida de patge).
+
+VALENTÍ:
+
+Si el Duc continua dispensant-vos sos favors, Cesari, aviat obtindreu sa absoluta confiança; fa tres dies que us coneix i ja no sou pas un estrany per ell.
+
+VIOLA:
+
+Temeu sos capritxos o mon descuit, que poseu en dubte la persistència de sa simpatia? És inconstant en ses afeccions, el Duc?
+
+VALENTÍ:
+
+No.
+
+
+
+(Entren el DUC, CURI i cavallers).
+
+VIOLA: (a VALENTÍ)
+
+Mercès… Ara ve el Duc.
+
+DUC:
+
+Qui ha vist a en Cesari?
+
+VIOLA:
+
+Aquí el teniu, senyor, a les vostres ordes.
+
+DUC: (a sos cavallers)
+
+Aparteu-vos.
+
+(A VIOLA)
+
+
+
+Cesari, tu ho saps tot; jo t’he obert el llibre secret de mos pensaments; retorna, doncs, bon jovencell, a veure-la, i si se’t nega, digues que tos peus trauran arrels davant sa porta, en tant no obtinguis audiència.
+
+VIOLA:
+
+Més si és cert, senyor, com diuen, que tant entregada al dolor se troba, ben difícil serà fer que m’atengui.
+
+DUC:
+
+Traspassa tots els límits de la bona criança; fes terratrèmol, ans que tornar sens resposta.
+
+VIOLA:
+
+I suposant que jo pugui parlar-hi, què li diré, senyor?
+
+DUC:
+
+Oh! Aleshores revela-li ma passió; meravella-la amb la pintura de la devoció que li porto. Tu li representaràs mon sofrir, com ningú ho faria; i li seran de més grat escoltar les paraules de jova boca, que no les d’un altre més venerable nunci.
+
+VIOLA:
+
+Molt temo que no sigui així, senyor.
+
+DUC:
+
+No ho creguis, estimada criatura; seria fer greuge a ta feliç edat el dir-te home; els llavis de Diana no són pas ni més roigs ni més suaus que els teus; ta veu és aguda i clara, com la d’una donzella, i tens tota la gracia d’una dona. Jo sé que el destí et té designat per aquesta tasca…
+
+(Als cavallers)
+
+
+
+Que quatre o cinc de vosaltres l’acompanyin; tots si voleu, car la soledat és ma millor companyia. Tu compleix aquesta dolça missió, i ta llibertat serà igual a la meva i teva serà tota ma fortuna.
+
+VIOLA:
+
+Faré tot lo que pugui per ablanir-li el cor…
+
+(Apart).
+
+
+
+Lluita terrible! Ésser missatgera d’un cor per qui el meu desesperadament sospira!
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA V.
+
+A CASA D’OLÍVIA
+
+
+(Entren MARIA i FESTA).
+
+MARIA:
+
+Si no em dius on has estat no descloure els llavis d’un gruix de cabell per a disculpar-te. La senyora et farà penjar per haver-te’n anat.
+
+FESTA:
+
+Que em faci penjar! Qui estigui ben penjat no ha de témer els colors.
+
+MARIA:
+
+Per què?
+
+FESTA:
+
+Qui no veu els colors, no els ha de témer.
+
+MARIA:
+
+Brava resposta! I no saps on no s’han de témer els colors?
+
+FESTA:
+
+A on, bona Maria?
+
+MARIA:
+
+A la guerra; els colors enemics. Allí se’n pot riure tant com se vulgui.
+
+FESTA:
+
+Bé! Que Déu afini l’enginy a els que en tinguin, i els rucs que gastin el que tinguin.
+
+MARIA:
+
+Però per això no deixaran de penjar-te per haver estat tant temps fora, i si no et pengen te despatxaran, que serà lo mateix que deixar-te penjat.
+
+FESTA:
+
+Val més estar ben penjat que mal casat i si em despatxen mentre duri l’estiu, rai!
+
+MARIA:
+
+És a dir, que estas ben resolt?
+
+FESTA:
+
+No; però ho estic respecte a dos punts.
+
+MARIA:
+
+Dos punts d’agulla; si l’un se trenca l’altre ja s’aguantarà i si se trenquen tots dos, calces avall.
+
+FESTA:
+
+Bé, molt bé!… Vaja, que Déu te guiï; el dia que Sir Tobias deixi de beure seràs el tros de carn d’Eva més eixerit que hi haurà a Il·líria.
+
+MARIA:
+
+Prous contemplacions. Ara ve la senyora, i si em vols creure demana-li perdó humilment.
+
+
+
+(Se’n va).
+
+FESTA:
+
+Esmolam la llengua, enginy, si et plau. Molt sovint aquells que creuen tenir-te no són més que uns totxos, i jo que estic segur de no tenir-te puc ben passar per enginyós. Perquè, què diu Quinepalus? «Val més esser un boig savi que un savi tonto».
+
+
+
+(Entren OLÍVIA i MALVOLÍ).
+
+Que Déu us beneeixi, missenyora
+
+OLÍVIA:
+
+Que el treguin, no vull boigs aquí.
+
+FESTA:
+
+Que sóu sords? Emporteusen a la senyora; fòra boigs d’aquí.
+
+OLÍVIA:
+
+Aneu, que sou un Festa ben magre; fins us torneu malcriat.
+
+FESTA:
+
+Dos defectes, missenyora, que els bons talls i els bons consells podran esmenar: Perquè, engreixeu al Festa, i el Festa ja no estarà magre; dieu al malcriat que s’esmeni i si s’esmena deixarà d’esser malcriat, i si no s’esmena que el sastre l’adobi! Tot lo que és adobat és apedaçat. La virtut que s’extravia és apedaçada de vici; el vici que s’esmena és apedaçat de virtut. Si aquest senzill sil·logisme pot passar, millor, i si no, què hi farem? Així com l’únic banyut veritable és la dissort, així també la bellesa és una flor. La comtessa diu que no vol boigs aquí: doncs jo torno a dir que treguin a la comtessa.
+
+OLÍVIA:
+
+És a vós a qui he dit que traguessin.
+
+FESTA:
+
+A mi em voleu enganyar? Senyora, Cuculus non fecit monacum, lo que vol dir que el meu cervell no és tant bigarrat com la meva roba. Missenyora, permeteu-me que us demostri que esteu boja.
+
+OLÍVIA:
+
+I podries demostrar-ho?
+
+FESTA:
+
+Ben fàcilment, missenyora.
+
+OLÍVIA:
+
+Prova-ho.
+
+FESTA:
+
+Haig de fer com si us preguntés la doctrina. Responeu-me, ratolinet de virtut.
+
+OLÍVIA:
+
+Ja que no tinc altre entreteniment, afrontaré la prova. Pregunteu.
+
+FESTA:
+
+Per què esteu tant apesarada, missenyora?
+
+OLÍVIA:
+
+Per la mort del meu germà, bon Festa.
+
+FESTA:
+
+Me sembla que son ànima és a l’infern, missenyora.
+
+OLÍVIA:
+
+Jo sé que son ànima és al cel, Festa.
+
+FESTA:
+
+Doncs sou ben boja de desesperar-vos, perquè l’ànima del vostre germà sigui al cel, missenyora… Que se l’emportin, fora boigs d’aquí, cavallers!
+
+OLÍVIA:
+
+Què us en sembla del Festa, Malvolí? Sembla que s’esmena, veritat?
+
+MALVOLÍ:
+
+És cert, i jo crec que s’anirà esmenant com ara, fins que les ansies de la mort l’estremeixin. La malaltia que apaga les facultats del savi, augmenta sempre l’estupidesa dels ximples.
+
+FESTA:
+
+Que Déu us enviï aquesta malaltia ben aviat per a millorar vostra ruquesa. Poc li costaria a Sir Tobias jurar que jo no sóc una fura; però no es jugaria pas dos sous a que vós no sigueu un beneit.
+
+OLÍVIA:
+
+Què responeu, Malvolí?
+
+MALVOLÍ:
+
+M’admiro de que vostra senyoria s’entretingui amb la conversa d’aquest miserable coquí. L’altre dia el vaig veure quedar-se amb un pam de boca oberta davant d’un pobret Festa que te’l cap dur com pedra. Teniu, veieu? Ja no sap què respondre. Si no rieu i no li doneu amb que fer riure ja el teniu fet un badoc. La veritat, considero a la gent que es diverteix amb les migrades sortides d’aquests ximples, com Festes d’aquests pobres beneits.
+
+OLÍVIA:
+
+Ah, Malvolí! l’amor propi us corca el goig de l’alegria i tot ho passeu pel garbell d’un gust estregat. Quan s’és franc, generós, senzill, se pren per trets de sarbatana lo que a vós us semblen bales de canó. No hi ha res d’injuriós en les burles d’una festa familiar, que sols procura l’entreteniment, com tampoc hi ha res d’agradable en un home pretensiosament discret que no faci altra cosa que censurar.
+
+FESTA:
+
+Que Mercuri et doni’l do de mentir per haver parlat tant bé de nosaltres.
+
+
+
+(Entra MARIA).
+
+MARIA:
+
+Senyora, ha arribat un jove gentilhome dient que us vol parlar.
+
+OLÍVIA:
+
+És un missatger del Duc?
+
+MARIA:
+
+No ho, sé, senyora; és un galant donzell; i ve molt ben acompanyat.
+
+OLÍVIA:
+
+I qui és que l’en priva d’entrar?
+
+MARIA:
+
+Sir Tobias, vostre oncle.
+
+OLÍVIA:
+
+Dieu-li que es retiri; sembla que hagi perdut el seny!
+
+
+
+(Se’n va MARIA).
+
+Aneu, Malvolí; si és alguna demanda del Duc, dieu que estic malalta, o que no hi soc o lo que vulgueu, però doneu-li comiat.
+
+
+
+(Se’n va MALVOLÍ).
+
+Ja veus, Festa, com se marceixen les teves agudeses i com no plauen a la gent.
+
+FESTA:
+
+Has parlat de nosaltres com si el teu hereu fos Festa. Que Júpiter li atapeeixi el crani de cervell, que ara veig que ve un parent teu a qui n’hi falta molt per tenir-lo ple.
+
+
+
+(Entra SIR TOBIAS).
+
+OLÍVIA:
+
+Oh! Juraria que està mig ebri!… Qui hi ha a la porta, oncle?
+
+SIR TOBIAS:
+
+Un gentilhome.
+
+OLÍVIA:
+
+Un gentilhome? Però quin gentilhome?
+
+SIR TOBIAS:
+
+Un gentilhome així…
+
+
+
+(Eructa).
+
+Mala pesta de sardines escabetxades!… Què hi ha, ase?
+
+FESTA:
+
+Bon Sir Tobias!
+
+OLÍVIA:
+
+Oncle, com és que a aquestes hores ja esteu entregat a aquesta indolència?
+
+SIR TOBIAS:
+
+Indolència? Avorreixo la indolència… A la porta hi ha un home que vol entrar.
+
+OLÍVIA:
+
+Sí, ja ho sé; i qui és?
+
+SIR TOBIAS:
+
+Que sigui en Banyeta, poc m’hi paro. Creieu-me que tant se me’n dóna.
+
+
+
+(Se’n va).
+
+OLÍVIA:
+
+A què s’assembla un ebri, Festa?
+
+FESTA:
+
+A un ofegat, a un imbecil i a un boig; un glop de massa el fa un imbecil, un altre el fa boig i un altre l’ofega.
+
+OLÍVIA:
+
+Vés i avisa al jutge que vingui a alçar el cadàver, perquè ja és al tercer grau d’embriaguesa: ja s’ha ofegat. Vetlla’l.
+
+FESTA:
+
+No; només és boig encara.
+
+
+
+(Festa va a vetllar al boig. Se’n va).
+
+(Entra MALVOLÍ).
+
+MALVOLÍ:
+
+Aquell murri, senyora, jura que us parlarà. Li he dit que estàveu malalta, i m’ha respost que ja ho sabia i que per això volia parlar-vos. Li he dit que dormíeu i m’ha dit que ja li havia semblat i que per això havia de parlar-vos. Què se li ha de dir? És fet a prova de refusos.
+
+OLÍVIA:
+
+Dieu-li que no em parlarà.
+
+MALVOLÍ:
+
+Això és lo que se li ha dit, però ha respost que mal que s’hagi de plantar com una estaca davant de la porta, us parlarà.
+
+OLÍVIA:
+
+Però quina espècie d’home és?
+
+MALVOLÍ:
+
+De l’espècie humana.
+
+OLÍVIA:
+
+Bé, però de quina mena?
+
+MALVOLÍ:
+
+De la pitjor mena; diu que us parlarà tant si com no.
+
+OLÍVIA:
+
+Com és? Quina edat representa?
+
+MALVOLÍ:
+
+No és prou fet pera dir-se’n un home, ni prou jove pera dir-ne un noi; és com la tavella abans de que hi apunti’l pèsol, com la poma a punt de fer-se. S’aguanta entre la infantesa i la virilitat. Té un bell rostre, i parla molt impertinentment: sembla que encara jugaria a la falda de sa mare.
+
+OLÍVIA:
+
+Que entri; crideu a la meva cambrera.
+
+MALVOLÍ:
+
+Cambrera, la senyora us demana.
+
+
+
+(Entra MARIA).
+
+OLÍVIA:
+
+Dóna’m el vel i tapa’m la cara; tornarem a escoltar un altre missatge del Duc.
+
+
+
+(Entra VIOLA, amb l’acompanyament).
+
+VIOLA:
+
+L’honorable mestressa d’aquesta casa, qui és?
+
+OLÍVIA:
+
+Parleu, jo respondré per ella. Què voleu?
+
+VIOLA:
+
+Dieu-me, perfecta, incomparable i claríssima bellesa, si soc davant de la mestressa d’aquesta casa, perquè jo mai l’he vista. Molt me doldria que es perdés el meu discurs, car a més d’esser fet amb força galant traça, m’ha fet passar Déu sap els treballs per aprendre-me’l de cor. Amable damisel·la, no em refuseu lo que us demano, perquè el més xic desdeny és metzina per mi.
+
+OLÍVIA:
+
+D’on veniu?
+
+VIOLA:
+
+No sé gaire més de lo que he après, i aquesta pregunta no entra en el meu paper. Gentil damisel·la, dieu-me blanament si sou vós qui jo cerco, per començar mon discurs.
+
+OLÍVIA:
+
+Sou comediant?
+
+VIOLA:
+
+No, us ho dic amb tot el cor, i no obstant us juro per les mateixes urpes de la mentida, que no soc qui represento. Sou vós la mestressa d’aquesta casa?
+
+OLÍVIA:
+
+Si no em faig un frau a mi mateixa, puc dir-vos que sóc jo a qui cerqueu.
+
+VIOLA:
+
+Si ho sou ja en cometeu un, perquè lo que teniu per donar-ho no ho teniu per guardar-vos-ho. Però no és aquesta la meva missió. Us diré l’endreça en vostre elogi, i us obriré el cor del meu missatge.
+
+OLÍVIA:
+
+Aneu a lo important: us faig mercè de l’elogi.
+
+VIOLA:
+
+Ai, senyora, tant que m’ha costat aprendre’l, i tant poètic que és!
+
+OLÍVIA:
+
+Això li traurà sinceritat; guardeu-vos-el, us ho prego. He sabut lo poc correctament que us haveu portat al demanar audiència i si he autoritzat la vostra entrada ha estat més per conèixer-vos que per escoltar-vos. Si no teniu el seny cabal, retireu-vos, i si haveu de dir-me quelcom, sigueu breu, perquè no estic d’humor pera tenir part en un diàleg tant poc corrent.
+
+MARIA:
+
+Voleu prendre vela, company? Mireu, aquest és vostre camí.
+
+VIOLA:
+
+No, marinereta, no. Penso aguantar-me una estoneta més per aquestes aigües.
+
+
+
+(A OLÍVIA, per MARIA).
+
+Aplaqueu vostre gegant, senyora.
+
+OLÍVIA:
+
+Dieu-me, què voleu?
+
+VIOLA:
+
+Jo sóc un missatger…
+
+OLÍVIA:
+
+Segurament que deu tenir molt de basardós lo que haveu de dir, perquè veig que us costa molt començar. Expliqueu-me’l vostre missatge.
+
+VIOLA:
+
+Tant sols pot escoltar-lo vostra orella. No porto ni declaració de guerra ni reclamació d’homenatge: vinc amb l’olivera a la mà; totes mes paraules són de pau.
+
+OLÍVIA:
+
+Malgrat això el pream bol ha estat ferm. Qui sou? Què desitgeu?
+
+VIOLA:
+
+Això és un joc d’escena, que jo he afegit al meu paper. Qui soc i lo que vull, són coses tant delicades com una virginitat; paraula sacratíssima per vostra orella, profana per qualsevulla altra.
+
+OLÍVIA:
+
+Deixa’ns sols, Maria; escoltarem aquesta paraula sagrada.
+
+
+
+(Se’n va MARIA).
+
+I dieu, quin és el vostre text?
+
+VIOLA:
+
+Bellíssima damisel·la…
+
+OLÍVIA:
+
+Doctrina confortadora i de la que hi hauria molt que dir. A on és el vostre text?
+
+VIOLA:
+
+En el pit del Duc Orsino.
+
+OLÍVIA:
+
+En el seu pit? I en quin capítol del seu pit?
+
+VIOLA:
+
+Per a respondre-us amb tota llei, us diré en el primer capítol de son cor.
+
+OLÍVIA:
+
+Oh! Ja l’he llegit; és pura heretgia. No m’haveu de dir altra cosa?
+
+VIOLA:
+
+Deixeu que us vegi el rostre, gentil dama.
+
+OLÍVIA:
+
+Que potser teniu orde del vostre amo, de mercadejar el meu rostre? Us haveu allunyat un xic del vostre text, però alçarem la cortina i us ensenyarem el quadro.
+
+
+
+(S’alça el vel).
+
+Mireu.
+
+
+
+(Torna a tirar-se’l vel).
+
+Tal com era ara mateix.
+
+
+
+(S’alça el vel).
+
+Què us en sembla?
+
+VIOLA:
+
+Excel·lent, si tot és obra de Déu.
+
+OLÍVIA:
+
+És de bona fusta; resistiria la pluja i el vent.
+
+VIOLA:
+
+És una bellesa admirablement treballada; aquest roig i aquest blanc hi han sigut posats per la mà exquisida i sàvia de la naturalesa mateixa. Senyora, sereu la més cruel de totes, si us emporteu totes aqueixes gracies a la tomba, sens deixar-ne alguna copia als que vindran.
+
+OLÍVIA:
+
+Oh! No tindré tant mal cor. Repartiré en llegats la meva bellesa; se’n farà inventari i cada particularitat, cada detall serà anotat en el meu testament; per exemple: ítem, dos llavis passadorament roigs; ítem, dos ulls foscos, amb ses corresponents parpelles; ítem, un coll, una barba; i així tot lo demés. Us han enviat pera posar-me preu?
+
+VIOLA:
+
+Ja veig que l’orgull és el vostre flac, però encara que fóssiu el diable en persona, serieu igualment formosa. Mon amo i senyor us estima. I us estima amb tal amor, que l’hauríeu de correspondre encara que us coronessin com la més perfecta bellesa.
+
+OLÍVIA:
+
+I com m’estima?
+
+VIOLA:
+
+Amb adoració, amb llàgrimes fecundes, amb sanglots que fulminen d’amor, amb sospirs de foc.
+
+OLÍVIA:
+
+Qui us envia sap bé prou que jo no puc estimar-lo. Altrament, jo el suposo virtuós; sé que és noble, amb una joventut fresca i sens tara; generós, valent, i per l’aire i la figura, una gentil persona, emperò jo no puc, estimar-lo, i això molt temps fa que ja ho hauria de saber.
+
+VIOLA:
+
+Si jo us estimés amb el foc amb que us estima ell, amb les angoixes d’una vida tant amargament cruel, no podria avenir-me al vostre refús ni el podria entendre mai.
+
+OLÍVIA:
+
+Què faríeu, doncs?
+
+VIOLA:
+
+Bastiria una cabana de salcers al peu de vostra porta i faria prendre born a la meva ànima vers la casa vostra; escriuria fervents esparses sobre’l meu amor desdenyat i les cantaria a plena veu en mig l’obagor de la nit; cridaria el vostre nom en els tornaveus de les muntanyes, obligant a la murmuradora veu dels vents, a repetir per sempre: Olívia! Olívia! Oh! No us deixaria en repòs amb aquests dos elements; l’aire i la terra, fins que sentíssiu pietat de mi.
+
+OLÍVIA:
+
+Molt podríeu si féssiu tot això. Quina és vostra naixença?
+
+VIOLA:
+
+Superior a la meva fortuna i la meva fortuna és prou. Sóc gentilhome.
+
+OLÍVIA:
+
+Aneu a casa el Duc; ja sap que jo no puc estimar-lo, i dieu-li que no m’envii cap més missatger… fora de que torneu vós mateix a dir-me l’efecte que li han fet les meves paraules. Aneu i mercès. Preneu això per vós.
+
+
+
+(Li dóna una bossa).
+
+VIOLA:
+
+Senyora, no venc els meus missatges; guardeu-vos vostres diners, que no és a mi a qui cal paga: altra persona és a qui vostres mercès haurien de retribuir. Que l’amor faci tornar de pedra el cor de qui estimeu, i la fredor sigui el premi de vostre anhel, tal com vós pagueu el fervorós afany del meu amo. Adéu-siau, cruel bellesa.
+
+
+
+(Se’n va).
+
+OLÍVIA:
+
+«Quina és, vostra naixença?». «Superior a la meva fortuna i la meva fortuna és prou. Soc gentilhome». Oh! Juraria que ho ets. El teu parlar, la teva cara, la teva figura, el teu enginy i seny, te fan cinc vegades noble… Més, calma, calma… Que l’amo no sigui el criat!… I bé, què? Tant contagiosa és l’amorosa plaga? Me sembla sentir com les perfeccions d’aquest home, d’amagat de mos ulls, prenen el camí del meu cor!… I bé, sigil·li… Malvolí!
+
+
+
+(Entra MALVOLÍ).
+
+MALVOLÍ:
+
+Sempre al vostre servei, senyora.
+
+OLÍVIA:
+
+Corre a trobar aquest home que el Duc ha enviat; contra la meva voluntat ha deixat aquí aquest anell; torna-li i diga-li que no el vull. Fes-li entendre que no doni cap esperança al seu amo; no vull res d’ell. Si aquest jove vol passar per aquí demà, jo li explicaré els motius que tinc pera obrar així. Cuita, Malvolí.
+
+MALVOLÍ:
+
+Està bé.
+
+
+
+(Se’n va).
+
+OLÍVIA:
+
+No se’l que faig; més, temo que potser mos ulls massa fàcilment han enlluernat mon cor. Destí, disposa. Ningú es pot vèncer. Lo que està escrit ha de complir-se; doncs, sigui.
+
+
+
+(Se’n va).
+
+
+
+
+
+ACTE II
+
+
+
+
+
+ESCENA I.
+
+UNA BARRACA A LA PLATJA
+
+
+(Entren ANTONI i SEBASTIÀ).
+
+ANTONI:
+
+No voleu quedar-vos més temps, ni voleu que us acompanyi?
+
+SEBASTIÀ:
+
+No, amic meu. La claror que llença sobre meu la meva estrella es massa sinistra. La malignitat de mon destí, podria minvar la teva fortuna. Te prego, doncs, que em deixis esser sol a portar el pes de les meves desgracies. Seria ben cruel paga a la teva bona amistat, el fer-te company de les meves dissorts.
+
+ANTONI:
+
+Dieu-me, doncs, al menys, a on vos dirigiu.
+
+SEBASTIÀ:
+
+No, company; l’atzar me farà de guia. Però veig que el teu modo de procedir és fill de la delicadesa; no em vols fer dir lo que vull callar i això sol m’obliga, en justa correspondència, a parlar-te amb tota franquesa. Sàpigues, doncs, que el meu nom és Sebastià, encara que em faci nomenar Roderic. El meu pare era un tal Sebastià de Messalina, del qui sens dubte ja hauràs sentit parlar. Va deixar dos fills bessons, jo i una germana meva. Déu hagués volgut acabar en un mateix moment aquelles dues vides, començades en una mateixa hora! Però tu, amic meu, ho has disposat d’altra manera, perquè una hora abans de que tu em salvessis, la meva germana havia mort engolida per les ones.
+
+ANTONI:
+
+Oh, quin dia!
+
+SEBASTIÀ:
+
+Ella tenia fama de gran bellesa, tot i que la semblança entre ella i jo deien que era extraordinària; però si jo no em puc atrevir a donar per justa aquesta fama, puc afirmar, sens cap recel, que tenia un cor que l’enveja mateixa es veia forçada a trobar noble. Ella s’ha negat en l’amargant aigua del mar, però jo cal que ofegui son record en altra aigua molt més amargant encara!
+
+ANTONI:
+
+Perdoneu, senyor, la pobresa de la meva hospitalitat.
+
+SEBASTIÀ:
+
+Ets tu que has de perdonar-me per les molèsties que t’he fet passar.
+
+ANTONI:
+
+Si no voleu que em cregui l’home més desgraciat, deixeu-me esser vostre servent.
+
+SEBASTIÀ:
+
+Si no voleu desfer lo que haveu fet, és a dir, si no voleu matar a qui haveu salvat, no insistiu. Adéu, una vegada per totes; el meu cor està tant adolorit, i el record de la meva mare està tant viu en mi, que poc els hi costaria a els meus ulls trair-me. Adéu, vaig al palau del Duc Orsino.
+
+
+
+(Se’n va).
+
+ANTONI:
+
+Que tots els déus t’afavoreixin! Molts enemics tinc en la cort d’Orsino… Aviat te tornaria a veure si no fos això… Més, tal és el meu afecte per tu, que succeeixi lo que succeeixi, afrontaré gustós tots els perills.
+
+
+
+(Se’n va).
+
+
+
+
+
+ESCENA II.
+
+UN CARRER
+
+
+(Entra VIOLA; després MALVOLÍ).
+
+MALVOLÍ:
+
+No sou vós el qui estava, no fa gaire, a casa la comtessa Olívia?
+
+VIOLA:
+
+Certament; fa poc que n’he sortit.
+
+MALVOLÍ:
+
+Doncs ella us retorna aquest anell; si us l’haguéssiu endut vós mateix m’hauríeu estalviat aquest camí. M’ha ordenat que us digués que doneu al vostre amo la seguretat més absoluta de que ella no l’estima, i a més m’ha dit que no us atreviu a tornar amb cap més ambaixada d’ell, fora que sigui per dir-li vós mateix l’efecte que han produït aquestes paraules al Duc. Preneu això.
+
+VIOLA:
+
+Ella ha acceptat aquest anell; no el puc admetre.
+
+MALVOLÍ:
+
+Vaja! Sou vós qui amb impertinent insistència l’haveu llençat a sos peus, i ella vol que amb iguals formes us sigui retornat. Si val la pena de que us ajupiu pera collir-lo, davant vostre mateix el llenço, i si no que sigui de qui primer el trobi.
+
+
+
+(Se’n va).
+
+VIOLA:
+
+Jo no li he deixat cap anell. Què voldrà, aquesta dona? L’haurà enamorat la meva figura? La sort vulgui que no. Ha posat sos ulls amb tanta atenció sobre mi, que talment semblava que el mirar li esgarriés la paraula: parlava a bots i com abstreta. Sens dubte s’ha enamorat de mi; això és un tret d’enamorada: m’envia aquest estúpid criat per a dir-me que torni a casa seva. Ella no vol l’anell del Duc, i el Duc no n’hi ha enviat cap; a mi és a qui vol. Si fos així (i ho es), pobra comtessa! Més li valdria haver-se enamorat d’un somni. Vestit, ja veig que ets un vulgar engany que llestament aprofita l’enemic dels homes. Que fàcil els és, als galans mentiders, gravar en el tendre cor de les dones sa polida imatge! La culpa la té nostra flaquesa, no nosaltres: tals som, perquè tals ens va fer la naturalesa. Quina fi tindrà això? El Duc l’estima bojament, i jo, pobra de mi!, estimo bojament al Duc. Què esdevindrà? Com a home no puc pensar en obtenir l’amor de qui m’és amo: com a dona, ai!, quants inútils sospirs arrencaré del pit de la desafortunada Olívia! Oh, temps! Tu ets qui ha d’aclarir ho tot i no jo. És massa enredat aquest nus pera que jo puga desfer-lo.
+
+
+
+(Se’n va).
+
+
+
+
+
+ESCENA III.
+
+A CASA D’OLÍVIA
+
+
+(Entren SIR TOBIAS i SIR ANDREU).
+
+SIR TOBIAS:
+
+Acosteu-vos, sir Andreu. Qui a les dotze no és al llit, és com si hagués matinejat; i deliculo surgere, ja saps…
+
+SIR ANDREU:
+
+No; en bona fe que no sé res d’això. Però lo que sé, és que ficar-se al llit tard és ficar-se al llit tard.
+
+SIR TOBIAS:
+
+Conclusió falsa, que m’exaspera tant com una ampolla buida. Vetllar fins a mitja nit i anar-se’n a dormir després, és anar-se’n al llit d’hora, lo que vol dir que ficar-se al llit més tard de les dotze, és anar-se’n a dormir aviat. La nostra existència no es compon de quatre elements?
+
+SIR ANDREU:
+
+Així ho diuen; però jo crec que es compon del menjar i beure.
+
+SIR TOBIAS:
+
+Ets un savi! Mengem i bevem, doncs. Eh! Maria, vinga un got de vi.
+
+SIR ANDREU:
+
+Mireu, juraria que ve en Festa.
+
+
+
+(Entra en FESTA).
+
+FESTA:
+
+Què tal, companys? No haveu vist mai l’imatge del nostre tercet?[3]
+
+SIR TOBIAS:
+
+Déu te guard, ase. Vinga una cançó.
+
+SIR ANDREU:
+
+En Festa té una bona gargamella. Donaria quaranta lliures per tenir la cama i la veu que té’l Festa. A fe que em vares guanyar el cor ahir amb aquella sortida, parlant de Pigronitus i dels Vapians passant per l’equinocci de Queubus; te juro que vaig riure de debò. Te vaig enviar un vint-i-dos, perquè te’l gastessis amb el teu tracte. Te l’han donat?
+
+FESTA:
+
+Ja l’he embutxacat; perquè el nas d’en Malvolí no és pas un mànec de fuet; la mestressa té la mà blanca i els mirmidons no són pas tavernes.
+
+SIR ANDREU:
+
+Magnific! No hi ha res com això per a riure. Ara, vinga la cançó.
+
+SIR TOBIAS:
+
+Vinga. Aquí va un ral; canta’ns una cançó.
+
+SIR ANDREU:
+
+Vet-en-aquí un altre. Si un cavaller dóna un…
+
+FESTA:
+
+Voleu una cançó d’amor o una cançó moral?
+
+SIR TOBIAS:
+
+Una cançó d’amor, una cançó d’amor!
+
+SIR ANDREU:
+
+Sí, sí, d’amor; tant se me’n dóna de la moral a mi.
+
+FESTA:
+
+Cantant
+
+
+
+A on aneu dolça estimada
+
+lluny de vostre amant fidel?
+
+Atureu-vos que ell arriba;
+
+atureu-vos i escolteu,
+
+que cançons de tota mena
+
+us cantarà amb totes veus.
+
+Sempre al fi de la jornada
+
+a l’amor hi trobareu.
+
+Qui vulga passar per savi
+
+tinga sempre això present.
+
+SIR ANDREU:
+
+Excel·lent!
+
+SIR TOBIAS:
+
+Molt bé!
+
+FESTA:
+
+Cantant
+
+
+
+L’amor no és joia futura.
+
+El d’ara és el goig més cert
+
+el que m’uneix la rialla
+
+amb l’alegria present.
+
+Poc avença qui s’espera;
+
+lo futur és sempre incert.
+
+Veniu, doncs, ma dolça amiga,
+
+no deixeu que us fugi el temps;
+
+beseu-me vint cops els llavis,
+
+que joventut aviat es perd.
+
+SIR ANDREU:
+
+Veu melosa, paraula de cavaller!
+
+SIR TOBIAS:
+
+Dolcíssim accent!
+
+SIR ANDREU:
+
+Melós i dolcíssim, a fe!
+
+SIR TOBIAS:
+
+Si se’l sent amb el nas, embafa de tanta dolçor. Però, què us sembla, si beguéssim fins que el cel ens ballés? O bé que despertéssim al mussol amb un trio capaç d’encisar tres ànimes de teixidor? Què m’hi dieu?
+
+SIR ANDREU:
+
+Si m’estimeu, fem-ho. Jo hi sóc un llebrer, en això d’agafar les tonades.
+
+FESTA:
+
+Per la Verge, senyor, que hi ha llebrers que en saben d’agafar.
+
+SIR ANDREU:
+
+Ja ho crec!; cantem allò de: Tanca la boca, coquí…
+
+FESTA:
+
+Tanca la boca, coquí? Us hauré de dir coquí, sir Andreu?
+
+SIR ANDREU:
+
+No serà la primera vegada que hauré obligat a algú a dir-me coquí. Comença, Festa: Tanca la boca…
+
+FESTA:
+
+Si tanco la boca no començaré mai.
+
+SIR ANDREU:
+
+Bona, Festa! Va, comença.
+
+
+
+Canten tots tres.
+
+Entra MARIA.
+
+MARIA:
+
+Què és aquest temperi? Que mai més se’m tingui per honrada, si a hores d’ara la senyora no ha dit a en Malvolí que us faci passar la porta.
+
+SIR TOBIAS:
+
+La senyora és una ximple i nosaltres, homes de respecte; en Malvolí és un enze i nosaltres som tres alegres companys.[4]
+
+No li sóc parent, jo? No sóc de la família de la senyora, jo? Tururut, minyona!
+
+
+
+(Canta).
+
+Diu que un home a Babilònia,
+
+dama, la dama.[5]
+
+FESTA:
+
+Malviatge! El cavaller porta una empenta que Déu n’hi do!
+
+SIR ANDREU:
+
+Fa rotllo quan s’hi posa; jo també, per això. Ell ho fa amb més gracia, però jo amb més naturalitat.
+
+SIR TOBIAS:
+
+
+
+(Cantant).
+
+El dotze de desembre…
+
+MARIA:
+
+Per Déu, calleu!
+
+
+
+(Entra en MALVOLÍ).
+
+MALVOLÍ:
+
+Què sou boigs, missenyors, o què? Què no teniu ni formes ni vergonya pera armar aquest terratrèmol de calderers, a aquestes hores de la nit? Què us penseu que és una taverna aquesta casa, pera baladrejar-hi com a drapaires? No teniu respecte al lloc ni a les persones. Què vol dir aquesta conducta tant fora de to?
+
+SIR TOBIAS:
+
+Fora de to? Me sembla que no havem desafinat ni mica. Aneu al dimoni!
+
+MALVOLÍ:
+
+Sir Tobias, dec parlar-vos amb tota claredat. La senyora m’envia pera dir-vos que si pel parentiu que us lliga amb ella us ha admès a casa seva, està molt lluny d’aprovar vostres desordes. Si podeu reprimir vostres excessos sereu ben vingut a aquesta casa; altrament, està disposada a acceptar vostre comiat.
+
+SIR TOBIAS:
+
+
+
+(Cantant).
+
+Adéu cor meu, que d’aquí m’allunyen!
+
+MARIA:
+
+Sir Tobias, per Déu!
+
+FESTA:
+
+
+
+(Cantant).
+
+Sos ulls me diuen que sa mort s’atansa.
+
+MALVOLÍ:
+
+Sembla impossible! No acabarem.
+
+SIR TOBIAS:
+
+
+
+(Cantant).
+
+Jo mai m’acabaré.
+
+FESTA:
+
+Això no és veritat, Sir Tobias.
+
+MALVOLÍ:
+
+Us fa molt honor això!
+
+SIR TOBIAS:
+
+
+
+(Cantant).
+
+Li hauré de dir que se’n vagi?
+
+FESTA:
+
+Digueu-li encara que li amargui.
+
+SIR TOBIAS:
+
+Que se’n vagi i no torni mai més?
+
+FESTA:
+
+Oh, no, no, no gosareu dir-li res.
+
+SIR TOBIAS:
+
+
+
+(A MALVOLÍ)
+
+Nosaltres desafinem, company? Mentida. Ets alguna cosa més que un majordom? Te creus que, perquè tu ets virtuós, ja s’han d’haver acabat els panellets i l’aiguardent al món?
+
+FESTA:
+
+Per santa Anna, és cert, i el cumí ens escalfarà la boca.
+
+SIR TOBIAS:
+
+Tens raó.
+
+
+
+(A MALVOLÍ)
+
+Vés, vés, i neteja’t les cadenes amb molla de pa. Un got de vi, Mariagna.
+
+
+
+MALVOLÍ:
+
+Maria, si us interessa la consideració en que us té la senyora, no vulgueu saber-hi res en aquesta disbauxa. La senyora sabrà tot això; us juro que ho sabrà tot.
+
+
+
+(Se’n va).
+
+MARIA:
+
+Aneu a espolsar-vos les orelles.
+
+SIR ANDREU:
+
+Seria una cosa tant lloable com el beure quan se té gana, el desafiar-lo, faltar a la cita i deixar-lo amb un pam de nas.
+
+SIR TOBIAS:
+
+Fes-ho, cavaller; jo et redactaré un cartell o jo mateix li faré saber la teva indignació.
+
+MARIA:
+
+Preneu paciència pera aquesta nit, sir Tobias; la visita del patge del Duc ha deixat molt agitada a la senyora. En quant al senyor Malvolí, deixeu-me’l per mi, que si jo no li jugo una passada de la que se’n recordi tota la vida i no el faig esser la riota de tothom, ja podeu dir que ni per ajaurem al llit sóc bona, ja ho veureu.
+
+SIR TOBIAS:
+
+Conta, conta. Què hi ha?
+
+MARIA:
+
+Aquest home se’ns torna un purità.
+
+SIR ANDREU:
+
+Oh, si jo ho sabés del cert el bastonejaria com a un gos.
+
+SIR TOBIAS:
+
+Si fos un purità? Per què? Quina delicada raó tens per a això?
+
+SIR ANDREU:
+
+De delicada no en tinc cap; però en tinc de sobres.
+
+MARIA:
+
+Ben mirat, més que un purità, no és altra cosa que un baix adulador, que sap mudar de lliurea quan li convé; és un ase carregat d’afectació, que s’ha après quatre cerimoniosos compliments pera anar-los repetint petulantment; se creu tant farcit de perfeccions, que està convençut de que no hi ha ningú que veient-lo una sola vegada ja no l’estimi. En aquest flac és on pegarà falconada la meva venjança.
+
+SIR TOBIAS:
+
+Què penses fer?
+
+MARIA:
+
+Tiraré una misteriosa carta d’amor per on ell se passeja, i que per les al·lusions que faré al color de la seva barba, a la forma de les seves pantorrilles, al seu posat, a l’expressió dels seus ulls i del seu front, se veurà que és a ell a qui va adreçada. La meva lletra s’assembla tant a la de la senyora, que quan ens cau a les mans un escrit que tracti d’alguna qüestió esborrada de nostra memòria, amb prou feines podem posar en clar sa veritable procedència.
+
+SIR TOBIAS:
+
+Excel·lent! Ja he flairat la farsa.
+
+SIR ANDREU:
+
+Jo també l’he ensumada.
+
+SIR TOBIAS:
+
+Creurà que les cartes que tu tiraràs són de l’Olívia que està enamorada d’ell.
+
+MARIA:
+
+Aquest és el meu cavall de batalla.
+
+SIR ANDREU:
+
+Un cavall que el farà tornar un ase.
+
+MARIA:
+
+Un ase del tot.
+
+SIR ANDREU:
+
+Oh, serà admirable!
+
+MARIA:
+
+Una exquisida llaminadura, jo us ho asseguro. Estic certa que aquesta medecina farà l’efecte que esperem. Jo us diré on tiraré la carta, perquè us hi poseu a l’aguait, junt amb el Festa, i així me podreu explicar la interpretació que li donarà. Aneu a descansar pera aquesta nit i penseu en lo que ens espera.
+
+
+
+(Se’n va).
+
+SIR TOBIAS:
+
+Bona nit, Penthesilea.
+
+SIR ANDREU:
+
+Us dic que és una admirable xicota.
+
+SIR TOBIAS:
+
+És una llebrera de bona mena i que m’adora. Què et sembla?
+
+SIR ANDREU:
+
+A mi també se’m va adorar una vegada.
+
+SIR TOBIAS:
+
+Anem-nos-en a dormir, cavaller. Faries molt santament si enviaves a cercar diners.
+
+SIR ANDREU:
+
+Si no puc aconseguir la mà de vostra neboda, no sé pas com men sortiré.
+
+SIR TOBIAS:
+
+Envia a cercar diners, cavaller, creu-me; i si a l’ultim no obtens la seva mà, diga’m que sóc una ròssa.
+
+SIR ANDREU:
+
+No us fieu de mi si no surto amb la meva; feu lo que vulgueu.
+
+SIR TOBIAS:
+
+Vaja, anem; vaig a escalfar un xic de vi. Ara ja és massa tard pera anar al llit; vine, cavaller, vine.
+
+
+
+
+
+ESCENA IV.
+
+EN EL PALAU DEL DUC
+
+
+(Entren el DUC, VIOLA, CURI i altres).
+
+DUC:
+
+Doneu-me musica!… Bon dia, amics. Cesari, canta una estança tant sols; aquella antiga cançó que vas cantar ahir vespre. Més consolava mon cor aquella cançó que no pas tots aquells aires, fàcils i lleugers, plens de rebuscats i subtils conceptes. Una estança només, Cesari.
+
+CURI:
+
+Perdoneu, Altesa, qui la cantava no es troba pas aquí…
+
+DUC:
+
+Qui era, doncs?
+
+CURI:
+
+Festa, el joglar, milord; el joglar predilecte del pare d’Olívia. No deu esser lluny d’aquí.
+
+DUC:
+
+Busqueu-lo vós, i en tant els instruments comencin la cançó.
+
+
+
+(Se’n va CURI. Música).
+
+(A VIOLA).
+
+Acosta’t, patge. Si alguna vegada estimessis, recorda’t de mi en tes dolces penes; perquè tots els enamorats són igual que jo: en tot, inquiets i volubles, llevat en honrar a tothora la cara imatge de sa estimada, T’agrada la cançó?
+
+VIOLA:
+
+Dolçament ressona allà on l’amor hi té el soli.
+
+DUC:
+
+Has parlat sàviament. Juraria que amb tot i esser jove, ja has posat amb tendresa tos ulls en algun rostre. No és cert, patge?
+
+VIOLA:
+
+Potser és veritat, Altesa.
+
+DUC:
+
+Com és aquesta dona?
+
+VIOLA:
+
+Té el vostre aspecte.
+
+DUC:
+
+No és parella per tu, doncs. Digues: quina edat té?
+
+VIOLA:
+
+La vostra.
+
+DUC:
+
+Com hi ha món, doncs, és vella! La dona sempre ha de triar home amb més anys que ella, perquè així més fàcilment s’avé amb les seves inclinacions i té més segur el domini del seu cor. Creu-me, patge, encara que nosaltres, els homes, vulguem negar-ho, nostres passions són més violentes, més vacil·lants, més insegures, més fulminants, però també s’apaguen i s’esborren més aviat que les de les dones.
+
+VIOLA:
+
+Així ho crec, senyor.
+
+DUC:
+
+Procura, doncs, que ta amada sigui més jova que tu, o debades s’esforçarà la voluntat perquè duri l’amor, car en la dona, com en la rosa, tot just neix sa bellesa que ja marcida s’esllangueix.
+
+VIOLA:
+
+Cert que és així. Més, trista sort la d’elles! Perquè el destí ha de condemnar-les a la ruïna, a assolir la perfecció?
+
+
+
+(Entren CURI i FESTA).
+
+DUC:
+
+
+
+(A FESTA).
+
+Vine, amic; canta aquella cançó que cantaves ahir vespre. Escolta-la bé, Cesari; és antiga i senzilla. La canten al sol, les velles, tot filant i fent mitja, i les fadrines l’acompanyen amb el soroll dels boixets; és una ingènua cançó que parla de la innocència de l’amor com en els temps passats.
+
+FESTA:
+
+Començo, senyor?
+
+DUC:
+
+Comença.
+
+FESTA:
+
+
+
+(Cantant).
+
+Acosta’t, mort, acosta’t,
+
+i a l’ombra d’un xiprer colgueu mon cos.
+
+Vola, ma vida, vola,
+
+ma bella amada sens pietat m’ha mort.
+
+La blanca mortalla amb teixos guarnida
+
+amaniu ben prest.
+
+Tant justa l’escena de deixar la vida
+
+com jo, ningú ha fet.
+
+
+
+* * *
+
+
+
+Ni flor, ni llor que dugui
+
+a l’aire aroma, al meu damunt planteu.
+
+Ni amic, ni amic saludi
+
+el clot on mos ossos llençareu.
+
+perquè mon plany fini, haureu d’enterrar-me
+
+en lloc erm i sol
+
+on mai puga venir a despertar-me
+
+d’un amant el plor.
+
+DUC:
+
+
+
+(Llençant una borsa a en FESTA).
+
+Té això, pel treball.
+
+FESTA:
+
+No és treball per a mi el cantar; és un plaer, senyor.
+
+DUC:
+
+Doncs jo et pago el plaer.
+
+FESTA:
+
+I és just, senyor, perquè el plaer, tard o d’hora, ha de pagar-se.
+
+DUC:
+
+Vés-te’n ara.
+
+FESTA:
+
+Que el déu de la melangia et protegeixi, i que el sastre et faci un vestit de tornassol, car ton ànima és un òpal. Els homes constants com tu haurien d’esser mariners, pera trafiquejar amb tot i mudar de camí amb el vent; seria el millor medi de fer un bon viatge… per res! Adéu.
+
+
+
+(Se’n va).
+
+DUC:
+
+Deixeu-nos sols.
+
+
+
+(Se’n van CURI i altres cavallers).
+
+(A VIOLA).
+
+Cesari, retorna a casa de ma cruel sobirana i diga-li que mon amor més noble que l’univers, no es paga amb quantitats de llorda terra; digues que aquests béns amb que l’ha afavorida la sort, són per mi tant menyspreables com la mateixa fortuna, i que, qui m’ha fet l’ànima presonera de son amor, ha estat la meravella de sa esplendent a bellesa, amb que l’ha embellida la natura.
+
+VIOLA:
+
+I si ella no pot estimar-vos, senyor?
+
+DUC:
+
+No puc admetre aquesta resposta.
+
+VIOLA:
+
+És forçós admetre-la. Suposem que una dama (i això és possible) passa per vostre amor penes tant grans com les que vós sentiu per l’amor d’Olívia; vós no podeu amar-la i li dieu. No ha d’admetre, doncs, la vostra resposta?
+
+DUC:
+
+Cap pit de dona podria resistir l’abrandat flam que l’amor ha posat en el meu cor; no hi ha cor de dona amb prou espai per contenir tanta passió. Ai! l’amor de la dona és més capritx que altra cosa; no és afany que naix de les entranyes; és desig fill del paladar, i per això fàcil d’apaivagar-se, o subjecte al cansament i al fàstic. Mon amor és ben al contrari; està afamat com la mar i pot engolir tant com aquella sens que minvi son afany. No comparis l’amor que per mi pot sentir una dona, amb el que jo sento per l’Olívia.
+
+VIOLA:
+
+Cert, però jo sé…
+
+DUC:
+
+Què saps tu?
+
+VIOLA:
+
+Sé tot l’amor que pot sentir una dona per un home. Sa fermesa no desdiu de la nostra. Una filla del meu pare estimava a un home, tal com jo, si fos dona, podria estimar-vos a vós, Altesa.
+
+DUC:
+
+La història d’això?
+
+VIOLA:
+
+És un full en blanc, senyor. Mai va confessar son amor; va deixar que el secret, com cuc que rosega son capoll, marcís les roses de ses galtes, i va anar acabant-se adolorida i trista, i pàl·lida va colltorçar-se, damunt la tomba, com l’imatge de la Resignació somrient al Dolor. No era amor això? Podrem els homes parlar més, jurar més, però també és cert que les nostres paraules van més enllà dels nostres fets, perquè nosaltres, mal que ens pesi, som més pròdigs de paraules que d’amor.
+
+DUC:
+
+Però va morir d’amor aquesta germana teva?
+
+VIOLA:
+
+Jo sóc tota la família del meu pare i tota la seva descendència que jo sàpiga. Voleu que vagi a casa d’Olívia?
+
+DUC:
+
+Sí, això és lo que apressa. Corre; dona-li aquesta joia i diga-li que mon amor no pot fer-se un sol pas enrere, ni admetre son refús.
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA V.
+
+EN EL JARDÍ D’OLÍVIA
+
+
+(Entren SIR TOBIAS, SIR ANDREU i FABIÀ).
+
+SIR TOBIAS:
+
+Vine, vine, Fabià.
+
+FABIÀ:
+
+I tant si vinc! Si em deixo perdre ni un picotí d’aquesta bromada, que em quedi cuit de tristesa per tota la vida.
+
+SIR TOBIAS:
+
+No t’agradaria veure com ens trumfem d’aquest maco-tonto, d’aquest murri?
+
+FABIÀ:
+
+Ja ho crec! Ja sabeu que em va desbancar del favor de la comtessa, perquè un dia vaig armar un combat d’óssos aquí.
+
+SIR TOBIAS:
+
+Doncs, ara tindrem un altre ós per exasperar-lo i fer-lo per tenir fins que es torni groc i verd de rabia. No és veritat, Sir Andreu?
+
+SIR ANDREU:
+
+I si no ho féssiu, pitjor per nosaltres.
+
+
+
+(Entra MARIA).
+
+SIR TOBIAS:
+
+Aquí tenim el nostre espatotxí.
+
+MARIA:
+
+Amagueu-vos tots tres darrera dels boixos. En Malvolí ve per aquest caminal; fa una hora que s’està al sol estudiant reverencies amb la seva ombra. Per l’amor de la traceria, observeu-lo; fixeu-s’hi bé, perquè estic segura que aquesta carta el farà tornar un estúpid contemplatiu. En nom de la farsa, calleu i amagueu-vos!
+
+
+
+(S’amaguen. Maria llença la carta).
+
+Tu queda’t aquí. Ara ve el lluç que pescarem tot fent-li pessigolles.
+
+
+
+(Se’n va).
+
+(Entra MALVOLÍ).
+
+MALVOLÍ:
+
+No cal més que una mica de sort; tot és qüestió de sort. La Maria va dir-me que ella em tenia simpatia, i jo mateix li he sentit dir que si mai s’enamorava seria d’un home del meu estil. Altrament a mi me tracta amb més miraments que a els demés criats. Què haig de pensar?
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Vet-aquí un murri vanitós!
+
+FABIÀ:
+
+
+
+(Apart).
+
+Psit, silenci! La contemplació el posa fet un galant indiot. Com se gronxa fent el vano!
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Valga’m Déu! Com el bufetejaria a aquest bergantàs!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Quietud!
+
+MALVOLÍ:
+
+Esser comte, en MALVOLÍ!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Ah, gallofa!
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Una pistola, una pistola!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Quietud, quietud!
+
+MALVOLÍ:
+
+Ja n’hi ha exemples d’això: la senyora d’Etrachi va maridar-se amb el seu servent guarda-roba.
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Arri d’aquí, per Jezabel!
+
+FABIÀ:
+
+
+
+(Apart).
+
+Ah, quietud! Ja està enfonsat en el seu somni; com l’estarrufa la vanitat!
+
+MALVOLÍ:
+
+Tres mesos després d’haver-m’hi casat, assegut sota el dosser…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Oh! Una fona, que li tiraré una pedra a l’ull!
+
+MALVOLÍ:
+
+… cobert amb una túnica de vellut ramejat, faig venir el meu servei; acabo de saltar del llit on hi he deixat l’Olívia endormiscada…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Foc i sofre!
+
+FABIÀ:
+
+
+
+(Apart).
+
+Quietud, quietud!
+
+MALVOLÍ:
+
+… prenc un aire altiu, i després de passejar un esguard greument reposat per damunt de tots ells, com dient-los que jo sé ben bé quin és el meu lloc i que no admetria que mai se’ls oblidés quin ha d’esser el llur, els dic que vagin a cercar al meu parent Tobias…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Forques i destrals!
+
+FABIÀ:
+
+
+
+(Apart).
+
+Quietud! Quietud! Quietud! Ara, ara.
+
+MALVOLÍ:
+
+Set del meu servei van a cercar-lo, amb una servicial correguda. Mentre l’espero, poso el rostre ferreny, i potser dono corda al rellotge o jugo amb alguna altra joia qualsevol. En Tobias s’acosta, me fa una reverencia…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+I l’hem de deixar viu?
+
+FABIÀ:
+
+
+
+(Apart).
+
+Encara que ens enganxin mules per arrencar-nos del silenci, callem.
+
+MALVOLÍ:
+
+… li allargo la mà així, temperant el meu somriure familiar amb una severa mirada d’autoritat…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+I aleshores, Sir Tobias, no et clava un cop de puny sota les barres?
+
+MALVOLÍ:
+
+… dient-li: cosí Tobias, la fortuna, donant-me la mà de la vostra neboda, m’ha concedit també el dret de dir-vos…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+El què? El què?
+
+MALVOLÍ:
+
+… que cal que us desfeu d’aquest vici que teniu d’emborratxar-vos.
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Arri, ronyós!
+
+FABIÀ:
+
+
+
+(Apart).
+
+Paciència, o sinó fareu malbé els fils d’aquest teixit.
+
+MALVOLÍ:
+
+Altrament, perdeu el tresor del temps amb un cavaller ximple…
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Sóc jo; ja ho veureu.
+
+MALVOLÍ:
+
+Un tal Sir Andreu.
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Ja sabia jo que parlava per mi, perquè molta gent m’hi té per ximple.
+
+MALVOLÍ:
+
+Què hi ha aquí?
+
+
+
+(Cull la carta).
+
+FABIÀ:
+
+
+
+(Apart).
+
+Ja tenim l’ocell al parany.
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Quietud! Que el geni de la farsa l’inspiri l’idea de llegir-la amb veu alta.
+
+MALVOLÍ:
+
+Juraria per ma vida que aquesta lletra és de la comtessa; li reconec les Q, les R i les Z; i així fa, també, les P majúscules. No hi ha dubte, és lletra seva.
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Les cus? Les erres? Les zetes? Què vol dir això?
+
+MALVOLÍ:
+
+
+
+Llegint.
+
+«A l’amant desconegut adreço aquesta carta amb la més rendida voluntat». Just, les seves paraules! Amb el vostre permís serà. Poc a poc… Per segell, la Lucrècia amb que ella acostuma a segellar!… És de la comtessa. Per qui serà?
+
+
+
+(L’obre).
+
+FABIÀ:
+
+
+
+(Apart).
+
+L’ham li ha arribat fins a les entranyes.
+
+MALVOLÍ:
+
+
+
+(Llegint).
+
+El cel sap que t’estimo amb tot el meu cor. A qui? Ningú ha de conèixer mon secret amor.
+
+«Ningú ha de conèixer mon secret amor…». Veiam què segueix? El ritme canvia: «mon secret amor». Si fossis tu, Malvolí!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Que et pengin, ruc.
+
+MALVOLÍ:
+
+
+
+(Llegint).
+
+Jo puc manar a qui mon cor adora.
+
+Silenci em mata sens mostrar ferida,
+
+com a Lucrècia l’arma venjadora.
+
+M, O, A, I, disposa de ma vida.
+
+FABIÀ:
+
+
+
+(Apart).
+
+Meravellós enigma!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Us dic que és una mossa molt eixerida.
+
+MALVOLÍ:
+
+«M, O, A, I, disposa de ma vida». Veiam, veiam, veiam, primer mirem això.
+
+FABIÀ:
+
+
+
+(Apart).
+
+Quin plat de metzines més ben servit!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+I amb quin delit s’hi llença’l golafre!
+
+MALVOLÍ:
+
+«Jo puc manar a qui mon cor adora». Cert, ella pot manar-me. Jo la serveixo, doncs ella és la meva mestressa. El més negat ho entén això. En aquest punt no hi ha cap dubte. Veiam l’acabament. Què significa aquesta combinació de lletres? Si jo en pogués treure alguna solució que tingués relació amb mi… Veiam, poc a poc! M, O, A, I…
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+Oh! Sí; veiam si en treus l’entrellat. Ja ha perdut el rastre.
+
+FABIÀ:
+
+
+
+(Apart).
+
+Però per això no pararà de lladrar tot buscant-lo encara que fos més pudent que una guilla.
+
+MALVOLÍ:
+
+M… Malvolí! Amb M comença’l meu nom.
+
+FABIÀ:
+
+
+
+(Apart).
+
+No he dit que ell se’n sortiria? El llebrer té bon nas.
+
+MALVOLÍ:
+
+M… Però lo que segueix no lliga; no surt bé perquè hauria d’esser una A, i hi ha una O.
+
+FABIÀ:
+
+
+
+(Apart).
+
+I em sembla que acabarà amb un: Oh!
+
+SIR TOBIAS:
+
+
+
+(Apart).
+
+O si no jo les hi mesuraré per fer-li dir: Oi!
+
+MALVOLÍ:
+
+I darrera una I.
+
+FABIÀ:
+
+
+
+(Apart).
+
+Si darrera hi tinguessis lo que dius, veuries més befa a la teva esquena que felicitat davant teu.
+
+MALVOLÍ:
+
+M, O, A, I. Això no és tant clar com lo altre, però forçant una mica el sentit, sens dubte que arribaria a una conclusió favorable, perquè totes aquestes lletres entren en el meu nom. Calma. Veiam. Aquí segueix la prosa.
+
+
+
+Llegint.
+
+«Si aquesta carta cau en tes mans, medita. El destí m’ha fet superior a tu, però no t’espanti la grandesa. Hi ha qui neix amb grandesa; altres que assoleixen les grandeses i altres a qui la grandesa se’ls imposa malgrat llur voluntat. La sort t’obre els braços; entrega-hi amb valor i amb fe, i per començar a avesar-te a lo que hauràs d’esser, llença aquesta pell d’humilitat que et cobreix i presenta’t com cal. Sigues malcarat amb cert parent, i aspre amb els criats; no et treguis mai les raons d’estat de la boca i que el teu comportament s’allunyi de la vulgaritat. Això t’aconsella la que sospira per tu. Recorda qui és qui t’ha vantat les mitges grogues i t’ha demostrat desig de veure’t amb lligacames creuades; recorda-ho, te dic. Ara ja pots esser feliç si tu vols; sinó queda’t per sempre un miserable criat, indigne de tocar el cap del dit de la fortuna. Adéu. La que voldria servir-te en lloc de que tu la servissis. La feliç desafortunada»
+
+Això és més clar que la llum del dia; és evident. Seré orgullós, llegiré llibres de política: me les hauré amb Sir Tobias, i m’afranquiré de les meves amistats ordinàries; seré l’home perfecte. No són pas il·lusions; no em deixo enganyar per la fantasia, car tot me diu que la comtessa està enamorada de mi. Ella és qui, no fa gaires dies, va ventar-me les mitges grogues i era molt agradosa de les meves lligacames creuades. Amb aquesta subtilesa em revela el seu amor, i d’una manera molt discreta em diu que em posi aquest abillament que és tant del seu gust. Mercès a la meva bona estrella, sóc afortunat. Seré sorrut i estrany, i portaré mitges grogues i lligacames creuades, tot en un tancar i obrir d’ulls. Que Jehovà i la meva bona estrella siguen lloats! Ah! Hi ha una postdata.
+
+
+
+(Llegint).
+
+«És impossible que no em reconeguis. Si correspons al meu amor demostra-m’ho amb el teu somriure; hi escau tant el somrís en el teu rostre! Jo et demano, dolç amor meu, que somriguis en ma presencia». Oh, Déu, mercès! Somriuré i faré tot lo que voldràs.
+
+
+
+(Se’n va).
+
+FABIÀ:
+
+Ni per un passament de mil lliures assegurat pel tresor del Sophi, me vendria la part que em toca en aquesta trumfada.
+
+SIR TOBIAS:
+
+I jo seria home per casar-me amb aquesta mossa per haver-se enginyat aquesta traceria.
+
+SIR ANDREU:
+
+I jo també.
+
+SIR TOBIAS:
+
+I no li demanaria altre dot que una entremaliadura com aquesta.
+
+SIR ANDREU:
+
+I jo també.
+
+
+
+(Entra MARIA).
+
+FABIÀ:
+
+Ara ve la més gentil armadora de paranys.
+
+SIR TOBIAS:
+
+
+
+(A Maria).
+
+Vols posar-me el peu al coll?
+
+SIR ANDREU:
+
+O en el meu?
+
+SIR TOBIAS:
+
+Vols que em jugui la meva llibertat a cara o creu i que em faci el teu esclau?
+
+SIR ANDREU:
+
+I jo també.
+
+SIR TOBIAS:
+
+L’has enfonsat en un somni tal, que es tornarà boig del tot quan s’adoni que sols ha estat fantasia la visió.
+
+MARIA:
+
+Però, digueu-me: li ha fet efecte?
+
+SIR TOBIAS:
+
+Com l’aiguardent a una llevadora.
+
+MARIA:
+
+Doncs si voleu veure’ls fruits d’aquesta passada, procureu estar presents en la primera entrevista que tindrà amb la comtessa. Se li presentarà amb mitges grogues que és un color que ella té avorrit i amb lligacames creuades que és una moda que no pot sofrir. Ell somriurà al mirara i la seva alegria s’avindrà tant poc amb l’enuig de la senyora, que de segur se’l traurà del davant amb un reny. Si ho voleu veure, seguiu-me.
+
+SIR TOBIAS:
+
+Fins a les mateixes portes del Tàrtar te seguiria, admirable dimoni trapacer.
+
+SIR ANDREU:
+
+I jo també.
+
+
+
+(Se’n van).
+
+
+
+
+
+ACTE III
+
+
+
+
+
+ESCENA I.
+
+EN EL JARDÍ D’OLÍVIA
+
+
+(Entren VIOLA i FESTA amb un tamborí).
+
+VIOLA:
+
+Que Déu te guard, amic, i a la teva musica també. Vius de tocar el tamborí?
+
+FESTA:
+
+No; visc com qui toca a l’església.
+
+VIOLA:
+
+Ets d’església, doncs?
+
+FESTA:
+
+Ca! Res d’això. Toco a l’església, perquè jo visc a casa meva i casa meva és al mateix costat de l’església.
+
+VIOLA:
+
+Així també podries dir que el rei viu al costat d’un pobre, si un pobre visqués al costat del palau; o que l’església s’apuntala en el teu tamborí, si arrambessis el tamborí a la paret de l’església.
+
+FESTA:
+
+Vós ho haveu dit… Quin segle el nostre! Per un home llest una sentència és un guant. Que de pressa l’ha girada del dret al revés!
+
+VIOLA:
+
+És cert; els qui juguen massa subtilment els mots, fàcilment poden corrompre’ls.
+
+FESTA:
+
+Per això voldria que no tingués nom la meva germana.
+
+VIOLA:
+
+Per què, amic?
+
+FESTA:
+
+Perquè el seu nom és una paraula i jugant amb aquesta paraula podria quedar corromput el nom de la meva germana. Lo cert és que les paraules s’han tornat unes maules des de que els compromisos les han deshonrades.
+
+VIOLA:
+
+Per quina raó?
+
+FESTA:
+
+No puc donar-vos la raó sense paraules, però les paraules s’han tornat tan falses que em repugna fer-les servir per donar raons.
+
+VIOLA:
+
+Sembla, amic, que ets d’aquells que poc s’enquimeren per res.
+
+FESTA:
+
+Us enganyeu; prou hi ha coses que m’enquimeren. Lo que us juro és que no m’enquimero per vós; si això és no enquimerar-se per res, desitjaria que això us podés fer invisible.
+
+VIOLA:
+
+No ets el boig de madona Olívia?
+
+FESTA:
+
+No, certament; no li agrada pas la bogeria a madona Olívia; no tindrà boig fins que es casarà; els boigs, en comparança amb els marits, són com les sardines amb les arengades: els marits són els més grossos. La veritat, jo no sóc el seu boig; no més sóc el seu corruptor de mots.
+
+VIOLA:
+
+No fa gaire que t’he vist en el palau del Duc Orsino.
+
+FESTA:
+
+La follia, senyor, fa com el sol: volta el món; lluu per tot. Me doldria pel vostre amo que estigués amb tant boja companyia com molt sovint hi està missenyora. A mi em sembla haver vist vostra saviesa allà mateix.
+
+VIOLA:
+
+Si les emprens amb mi, te deixo. Té, per la despesa que has fet.
+
+
+
+(Li dóna una moneda).
+
+FESTA:
+
+Que Júpiter, en la vinent remesa de pèl, us enviï una barba!
+
+VIOLA:
+
+Te juro i no m’amago de dir-t’ho, que em moro per una barba, però que no la voldria pas en la meva. És a casa la comtessa?
+
+FESTA:
+
+
+
+(Mirant-se la moneda).
+
+No faria cria una parella d’aquestes?
+
+VIOLA:
+
+Segurament: posant-les en bon lloc i vigilant-les molt.
+
+FESTA:
+
+De bona gana faria el paper de mestre Pandarus, per donar una Crèssida a aquest Troilus.
+
+VIOLA:
+
+T’he entès, amic; això és captar amb traça.
+
+FESTA:
+
+No crec que sigui una gran cosa el que un pobre sàpiga captar: Crèssida no era altra cosa que una captaire. La comtessa és a casa, senyor. Vaig a explicar-li d’on veniu, perquè qui sou i què voleu són coses que no estan en la meva esfera; diria en el meu element però el mot és massa gastat.
+
+
+
+(Se’n va).
+
+VIOLA:
+
+Bé té prou clar l’enteniment, el bergant, per esser boig; discreció li cal per fer bé el seu ofici, puix té d’observar l’humor, estament i els mèrits d’aquell a qui escomet, aprofitant destrament, com el falcó feréstec, l’ocasió oportuna per llençar-se sobre’l virolat plomall que fereixi sa vista. Sens dubte que és tant difícil l’art del boig com el del savi; perquè al boig li cal enteniment pera fer-nos plaent l’agudesa, mentre que el savi que cau en la follia, perd l’enteniment.
+
+
+
+(Entren SIR TOBIAS I SIR ANDREU).
+
+SIR TOBIAS:
+
+
+
+(A VIOLA).
+
+Salut, gentilhome!
+
+VIOLA:
+
+Salut, cavaller.
+
+SIR ANDREU:
+
+
+
+(A VIOLA).
+
+Dieu vous garde, monsieur.
+
+VIOLA:
+
+Et vous aussi; votre serviteur.
+
+SIR ANDREU:
+
+Crec, senyor, que ho sou, com jo ho sóc vostre.
+
+SIR TOBIAS:
+
+Que voleu entrar? La meva neboda desitja que entreu si és que porteu quelcom per ella.
+
+VIOLA:
+
+A ella estic destinat, senyor; vull dir que ella és l’objecte del meu viatge.
+
+SIR TOBIAS:
+
+Poseu a prova les cames, cavaller; feu-les moure.
+
+VIOLA:
+
+Les meves cames entenen millor que jo lo que voleu dir, dient-me que les posi a prova.
+
+SIR TOBIAS:
+
+Vull dir que camineu, i que entreu, cavaller.
+
+VIOLA:
+
+Us respondré caminant i entrant. Però, mireu, ara me’n priven.
+
+
+
+(Entren OLÍVIA i MARIA).
+
+Perfecta i incomparable dama, que el cel faci ploure sobre vós totes ses aromes.
+
+SIR ANDREU:
+
+Aquest jove cavaller és un polit cortesà. «Ploure aromes». Molt bé!
+
+VIOLA:
+
+El meu missatge, senyora, sols té veu per vostra orella propicia i condescendent.
+
+SIR ANDREU:
+
+«Aromes, propicia, condescendent». M’apuntaré aquestes tres paraules.
+
+OLÍVIA:
+
+Que tanquin el reixat del jardí i que no entri ningú.
+
+
+
+(Se’n van SIR TOBIAS, SIR ANDREU i MARIA).
+
+Doneu-me la mà, cavaller.
+
+VIOLA:
+
+Rebeu ma humil salutació i ma rendida voluntat, senyora.
+
+OLÍVIA:
+
+Quin és vostre nom, cavaller?
+
+VIOLA:
+
+Cesari és el nom d’aquest servidor vostre, bella princesa.
+
+OLÍVIA:
+
+El meu servidor! No hi hagut més alegria en el món des de que de la baixa adulació ne diem finesa. Vós sou servidor del Duc Orsino?
+
+VIOLA:
+
+Ell ho és vostre i el d’ell, doncs, també ha d’esser-ho de vós. El servidor de vostre servidor, és servidor vostre, madona.
+
+OLÍVIA:
+
+No hi penso en ell; i més me plauria que ell no pensés en res, que no que pensés en mi.
+
+VIOLA:
+
+Doncs, jo, madona, vinc pera inclinar vostres pensaments en favor d’ell.
+
+OLÍVIA:
+
+Oh! Perdoneu-me, jo us ho prego! Us he demanat que no men parléssiu més. Emperò si voleu pledejar una altra causa, vostres paraules seran més dolces que musica d’arcàngels, per la meva orella.
+
+VIOLA:
+
+Senyora…
+
+OLÍVIA:
+
+Espereu. Després de l’encantament que haveu obrat aquí, he enviat una anell darrera vostre, enganyant així al meu criat, a mi i, fins potser, a vós mateix. Sens dubte que m’he exposat als vostres severs comentaris, obligant-vos per un artifici vergonyós a prendre lo que sabíeu bé prou que no era vostre. Què haureu pensat de mi? No és cert que haveu estacat el meu honor al pal de la vergonya i li haveu atiat els més injuriosos pensaments que poden brotar d’un cor inexorable? Temo que vostre subtil enteniment haurà trobat massa atreviment en mes paraules. Un vel finíssim i no un pit de carn és lo que cobreix el pobre cor meu. Ara, parleu.
+
+VIOLA:
+
+Us planyo.
+
+OLÍVIA:
+
+Ja és un pas cap a l’amor.
+
+VIOLA:
+
+Oh, no! L’experiència ensenya que molt sovint planyem als nostres enemics.
+
+OLÍVIA:
+
+Així, doncs, ja puc reprendre mon somrís. Oh!, amb quanta facilitat l’orgull s’apodera dels humils! Si es té d’esser presa, val més ser-ho del lleó que del llop.
+
+
+
+(Se senten tocar hores en un rellotge).
+
+El rellotge em retreu els temps que perdo inútilment. No temeu, jove cavaller, no us pretenc; més quan joventut i seny se us hagin madurat, la vostra muller tindrà la sort de trobar en vós l’home complet. Vostre camí més segur és dret a la porta.
+
+VIOLA:
+
+Marxo, doncs, a ponent. Que la gracia i la joia facin de corteig a vostra senyoria. No em dieu res pera qui m’envia, madona?
+
+OLÍVIA:
+
+Espera. Digues-me què penses de mi?
+
+VIOLA:
+
+Que us penseu no esser lo que sou.
+
+OLÍVIA:
+
+Si de mi penso això, també ho penso de vós.
+
+VIOLA:
+
+I penseu bé, senyora, perquè jo no sóc lo que sóc.
+
+OLÍVIA:
+
+El cel volgués que fóssiu lo que jo voldria!
+
+VIOLA:
+
+I hi guanyaria amb el canvi, madona? Si fos així l’admetria tot seguit, perquè fins ara no sóc més que la vostra riota.
+
+OLÍVIA:
+
+Oh, que bé hi escau el desdeny en el llavi irat i menyspreador! Més aviat se mostra l’amor que es vol tenir amagat, que el crim de l’assassí; la negra nit de l’amor és un assolellat migdia. Cesari, per les roses de la primavera, per la virginitat, per l’honor, per la fe, per tot lo que existeix en el món, te juro que t’estimo tant, que malgrat ton orgull, ni la raó ni el seny poden deturar ma passió. No aprofitis la flaquesa de confessar-te el meu amor, com argument per refusar-la; ans bé, tingues present que si és dolç l’amor implorat, l’amor que s’entrega és molt més dolç encara.
+
+VIOLA:
+
+Us juro per ma innocència i per ma joventut, que ni mon pensament ni mon cor, són de cap dona i que no els tindrà mai ningú més que jo. I ara, adéu, madona; mai més vindré a plorar a vostres peus les llàgrimes de qui em mana.
+
+OLÍVIA:
+
+No, vine. Potser tu podràs aconseguir que son amor sigui grat al meu cor que l’avorreix.
+
+
+
+Se’n van.
+
+
+
+
+
+ESCENA II.
+
+A CASA D’OLÍVIA
+
+
+(Entren SIR TOBIAS, SIR ANDREU i FABIÀ).
+
+SIR ANDREU:
+
+No; us juro que no em quedaré ni un minut més.
+
+SIR TOBIAS:
+
+I per quina raó, estimat sac de verí, per quina raó? Eh?
+
+FABIÀ:
+
+Cal que doneu una raó, sir Andreu.
+
+SIR ANDREU:
+
+Mal llamp! He vist que la vostra neboda estava molt més complimentosa amb el patge del Duc, que no pas ho està amb mi; ho he vist ara, en el jardí, ara mateix.
+
+SIR TOBIAS:
+
+I ella et veia mentre feia tot això, company? Digues-me.
+
+SIR ANDREU:
+
+Tant bé com jo us veig a vós.
+
+FABIÀ:
+
+Doncs, així us ha donat una gran prova d’amor.
+
+SIR ANDREU:
+
+Voto al dimoni! Que us penseu que sóc un ase?
+
+FABIÀ:
+
+Jo us demostraré la legitimitat de la meva afirmació, amb el veredicte del criteri i de l’enteniment.
+
+SIR TOBIAS:
+
+Que són els que sempre han format el més suprem tribunal, ja d’abans de que Noè s’embarqués.
+
+FABIÀ:
+
+Si ella, al davant vostre, s’ha mostrat amable amb aquest jove, ha estat no més que per exasperar-vos, per despertar-vos el valor que teniu endormiscat, per encendre-us les sangs i posar-vos sofre al fetge. Vós us hi havíeu d’acostar, i amb algunes mofes ben triades i noves, acabades de sortir de la forja, enfonsar en un mutisme absolut a aquell jove. Això és lo que ella esperava de vós i vós no ho haveu sabut fer. Haveu permès que el temps se mengés el doble full d’or de la oportunitat amb que se us presentava aquesta feliç ocasió, i ara vostre vaixell navega cap els mars gelats del sèu afecte, on us hi quedareu penjat, com un borralló a la barba d’un holandès, si no rescabaleu vostre prestigi, per una lloable gesta de valor o d’alta política.
+
+SIR ANDREU:
+
+Si té d’esser així, més m’estimo fer un acte de valor, perquè avorreixo la política. Tant me faria ésser brownista[6] com polític.
+
+SIR TOBIAS:
+
+Doncs fonamenta la teva fortuna sobre’l terreny del valor. Desafia al patge del Duc i fereix-lo en onze indrets; la meva neboda s’ho apuntarà, i tingues per cert que no hi ha res a el món que faci valer tant a un home, als ulls d’una dona, com la anomenada de valentia.
+
+FABIÀ:
+
+No teniu altra sortida, Sir Andreu.
+
+SIR ANDREU:
+
+Un de vosaltres li portarà el cartell?
+
+SIR TOBIAS:
+
+Vés, escriu-li amb mà ben marcial; sigues agut i breu. No hi fa res que no siguis enginyós i polit, mentre siguis eloqüent i original. Befa’l amb tota la llibertat de la teva tinta i tracta’l de tu, dues o tres vegades, que no hi estarà de més; diga-li que ment tantes vegades com t’hi càpiga en el paper, encara que sigui més gran que un llençol del llit de Ware[7] a l’Anglaterra. Enllesteix. Posa tanta fel com puguis al tinter i encara que escriguis amb ploma d’oca no hi fa res. A la feina!
+
+SIR ANDREU:
+
+A on us trobaré?
+
+SIR TOBIAS:
+
+Ja et vindrem a cercar a ton Cubícol. Vés.
+
+
+
+(Se’n va SIR ANDREU).
+
+FABIÀ:
+
+Us deu esser ben car aquest ninot, sir Tobias.
+
+SIR TOBIAS:
+
+Jo li surto car a ell; no trigaré gaire a costar-li dues mil lliures.
+
+FABIÀ:
+
+Me sembla que tindrem una carta ben divertida; però espero que no la cursareu?
+
+SIR TOBIAS:
+
+Ja ho crec! I faré tot lo pugui perquè aquest jove li respongui. Crec que ni amb tots el parells de bous, ni amb totes les cordes del món, se’ls podria fer topar. Per lo que toca a Sir Andreu, no més cal obrir-lo: si en el fetge se li troba prou sang per negar a una puça, jo em menjo el reste del cadàver.
+
+FABIÀ:
+
+I el seu jove contrari no fa pas posat de gran valentia, tampoc.
+
+
+
+(Entra MARIA).
+
+SIR TOBIAS:
+
+Ara ve el reietó més eixerit del niu.
+
+MARIA:
+
+Si patiu d’avorriment i voleu riure fins a rebentar, seguiu-me. El babau d’en Malvolí, s’ha convertit al paganisme; és un renegat, car és impossible que un cristià que vulga salvar-se pel camí que la llei de Déu mana, puga creure en tal munt de grolleres estranyeses: s’ha posat mitges grogues!
+
+SIR TOBIAS:
+
+Amb lligacames creuades?
+
+MARIA:
+
+Oh, sí, abominablement! Sembla un saberut d’aquells que posen escola en els pòrtics de l’església. L’he espiat com l’assassí a la víctima. Segueix punt per punt la carta que jo li he tirat pera enganyar-lo. La rialla li marca més arrugues en el rostre que ratlles no hi ha en el nou mapamundi augmentat de les Índies. Us asseguro que mai haveu vist res tant ridícul. Jo no sé com m’he aguantat de tirar-li tot pel cap. Estic certa que la comtessa li donarà una bufetada, I ell s’ho prendrà com una finesa i encara seguirà rient.
+
+SIR TOBIAS:
+
+Anem, porta’ns allà on és.
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA III
+
+UN CARRER
+
+
+(Entren ANTONI i SEBASTIÀ).
+
+SEBASTIÀ:
+
+Me doldria molt causar-vos el més petit perjudici, però ja que us preneu els perills com un joc, no us diré res més.
+
+ANTONI:
+
+No he pogut estar lluny de vós; el desig que tenia de veure-us, més agut que afilada daga, m’ha esperonat cap el vostre camí. No sols m’ha guiat aquí l’afany de veure-us, per més fort que hagi estat, sinó que també m’hi ha empès la inquietud que sentia al pensar en lo que us podia succeir en un país desconegut i que per un estranger sense guia i sens amics, sol esser esquerp i gens hospitalari. La temença d’aquests perills és lo que m’ha fet córrer darrera vostre.
+
+SEBASTIÀ:
+
+Sols puc donar-vos mercès, estimat Antoni; mercès i res més que mercès. Sovint els grans serveis se paguen amb aquesta moneda sense curs, però si ma fortuna fos tant gran com el meu desig, altre paga tindria vostra sol·licitud. Què farem? Visitarem els monuments antics de la ciutat.
+
+ANTONI:
+
+Esperarem a demà, senyor; val més que cerquem allotjament.
+
+SEBASTIÀ:
+
+No estic pas cansat i la nit és lluny encara. Donem gust als ulls contemplant els bells records que guarda la ciutat.
+
+ANTONI:
+
+Perdoneu-me; però és molt perillós pera mi passejar per aquests carrers. Temps enrere, en un combat naval contra les galeres del Duc, vaig fer serveis tant remarcables, que si ara em trobaven aquí, me farien pagar cara aquella feta.
+
+SEBASTIÀ:
+
+Vàreu matar molta gent del Duc?
+
+ANTONI:
+
+No és tant greu l’ofensa, encara que el motiu i els temps que durà la lluita foren prou pera costar la vida a algú. Després tot hauria pogut esmenar-se, tornant les preses que havíem fet, i que és lo que, mirant el profit de llur comerç, varen acordar tots els nostres. Jo vaig esser l’únic que no vaig voler entrar en el pacte i per això és que si ara em trobessin, m’ho farien pagar més car.
+
+SEBASTIÀ:
+
+Així, doncs, amagueu-vos.
+
+ANTONI:
+
+Serà lo més prudent. Aquí teniu la meva borsa. Ens allotjarem a l’Elefant, que és el millor hostal del barri del Sur. Mentre vós passegeu donant goig a la vista, jo vaig a encomanar el menjar. Ens trobarem allí.
+
+SEBASTIÀ:
+
+Però, per què em doneu els vostres diners?
+
+ANTONI:
+
+Com que crec que els pocs que teniu els haureu de menester, us dono els meus per si fos cas que us vinguessin ganes de comprar alguna de les foteses que veureu.
+
+SEBASTIÀ:
+
+Seré el vostre tresorer; tot seguit vindré a trobar-vos.
+
+ANTONI:
+
+A l’Elefant.
+
+SEBASTIÀ:
+
+Ja me’n recordaré.
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA IV.
+
+EN EL JARDÍ D’OLÍVIA
+
+
+(Entren OLÍVIA i MARIA).
+
+OLÍVIA:
+
+
+
+(Apart i abstreta).
+
+L’he enviat a cercar i ha respost que vindria. Què faré pera esser-li agradable? Què li podré donar? Més fàcil és comprar a un cor jove, que ablanir-lo amb llàgrimes i súpliques.
+
+
+
+(Per MARIA).
+
+Potser m’haurà sentit? A on deu esser en Malvolí? Un criat seriós i cortès com ell és el que em convé per aquest assumpte.
+
+
+
+(A MARIA).
+
+A on és en Malvolí?
+
+MARIA:
+
+Ja ve, senyora; però fa moltes estranyeses. Sembla esperitat.
+
+OLÍVIA:
+
+Què té? Desvarieja?…
+
+MARIA:
+
+No, senyora; no més fa que riure. Hauríeu de tenir algú a la vora si haveu de parlar-hi, perquè jo crec que se li ha girat el cervell.
+
+OLÍVIA:
+
+Fes-lo venir.
+
+
+
+(Apart).
+
+Els nostres mals s’assemblen, si semblança hi ha, entre follia alegra i trista bogeria.
+
+
+
+(Entra MALVOLÍ).
+
+Què tal, Malvolí?
+
+MALVOLÍ:
+
+
+
+(Somrient sempre d’una manera fantàstica).
+
+Madona, bella! Oh! Oh!
+
+OLÍVIA:
+
+Somrius? T’he enviat cercar en una ocasió molt trista.
+
+MALVOLÍ:
+
+Trista, madona? Jo també puc estar trist… Això de les lligacames creuades causa alguna obstrucció a la sang; però tant-se-val, perquè si elles plauen als ulls de certa persona, ja puc dir com el vers del sonet:
+
+
+
+El plaure a una és com el plaure a totes.
+
+OLÍVIA:
+
+Però, què és això, Malvolí? Què tens?
+
+MALVOLÍ:
+
+No tinc pas l’ànima negra encara que tingui les cames grogues…
+
+
+
+(Somriu).
+
+Tot ha arribat a qui anava i lo manat se complirà. Me sembla que hem reconegut la bella mà romana.
+
+OLÍVIA:
+
+Vols anar-te’n al llit, Malvolí?
+
+MALVOLÍ:
+
+Al llit? Sí, dolç amor, i m’hi tindràs al teu costat.
+
+OLÍVIA:
+
+Déu t’empari, Malvolí! Per què rius així i tires tants petons amb la mà?
+
+MARIA:
+
+Com esteu, Malvolí?
+
+MALVOLÍ:
+
+Respondre-us jo? Sí, com els rossinyols a les cucales.
+
+MARIA:
+
+Per què us presenteu amb aquesta ridícula impertinència davant de missenyora?
+
+MALVOLÍ:
+
+«No t’espanti la grandesa». Això estava ben escrit.
+
+OLÍVIA:
+
+Què vols dir amb això, Malvolí?
+
+MALVOLÍ:
+
+«Hi ha qui neix amb grandesa…»
+
+OLÍVIA:
+
+Què!
+
+MALVOLÍ:
+
+«Altres que assoleixen les grandeses…»
+
+OLÍVIA:
+
+Què dius?
+
+MALVOLÍ:
+
+«Altres a qui la grandesa se’ls imposa malgrat llur voluntat.»
+
+OLÍVIA:
+
+Déu te faci bé!
+
+MALVOLÍ:
+
+«Recorda qui és que t’ha vantat les mitges grogues…»
+
+OLÍVIA:
+
+Les meves mitges grogues?
+
+MALVOLÍ:
+
+«… i t’ha demostrat desig de veure’t amb lligacames creuades».
+
+OLÍVIA:
+
+Lligacames creuades!
+
+MALVOLÍ:
+
+«Ara ja pots esser feliç, si tu vols.»
+
+OLÍVIA:
+
+Puc esser feliç?
+
+MALVOLÍ:
+
+«Si no queda’t per sempre un miserable criat.»
+
+OLÍVIA:
+
+Oh! Això és una bogeria!
+
+
+
+(Entra un CRIAT).
+
+CRIAT:
+
+Madona, el jove patge del Duc ha tornat; molt he hagut de pregar per aconseguir-ho. Ara espera les ordes de vostra senyoria.
+
+OLÍVIA:
+
+Ja hi vaig.
+
+
+
+(Se’n va el CRIAT).
+
+Maria, que no deixin ni un instant a aquest bon home. A on es l’oncle Tobias? Que dos o tres criats se cuidin d’ell; per res del món voldria que li passés cap desgracia.
+
+
+
+(Se’n van OLÍVIA i MARIA).
+
+MALVOLÍ:
+
+Oh! Oh! Que s’acostin ara! I tot un personatge, com Sir Tobias, pera que es cuidi de mi! Això lliga admirablement amb lo que deia la carta; mel posa aprop perquè el pugui tractar amb insolència; és lo que ella m’aconsella en la carta. «Llença aquesta pell d’humilitat que et cobreix», diu ella; «sigues malcarat amb cert parent; aspre amb els criats; no et treguis mai les raons d’Estat dels llavis i que ton comportament s’allunyi de la vulgaritat». Després m’indica quin té d’esser el meu posat: rostre ferreny, l’aire respectable, la paraula lenta cóm personatge de significació, i d’acord amb això tot lo altre. Ara si que és ben meva! Però això és obra del cel; que ell en rebi, doncs, les mercès. Quan se n’anava deia: «Que no deixin un instant a aquest bon home». Bon home! No Malvolí, ni el títol del meu càrrec; sinó, bon home! Lo cert és que tot concorda admirablement. No cal tenir ni un gra d’escrúpol, ni un escrúpol d’escrúpol; ni un obstacle, ni una sola circumstancia inversemblant o dubtosa. Què podria passar-me? No és possible que puga interposar-se res entre jo i l’immens horitzó de les meves esperances. El cel és l’autor de tot això, i no jo; donem mercès a ell.
+
+
+
+(Entren SIR TOBIAS, FABIÀ i MARIA).
+
+SIR TOBIAS:
+
+Per tots el sants! Digueu-me on és. Encara que tots els dimonis de l’infern se li haguessin entaforat en el cos, encara que se n’hagi apoderat la mateixa legió, jo li parlaré.
+
+FABIÀ:
+
+És aquí, és aquí, Com us trobeu, senyor Malvolí? Com us va això, amic?
+
+MALVOLÍ:
+
+Aneu-se’n; no vull ningú aquí; deixeu-me fruir ma soledat; aneu-vos-en.
+
+MARIA:
+
+Ah! No sentiu com el dimoni respon, amb aquesta veu tant fonda, de dintre seu? No us ho deia, sir Tobias. La senyora ha dit que us cuidéssiu d’ell.
+
+MALVOLÍ:
+
+Ah! Ah! Ella ha dit això?
+
+SIR TOBIAS:
+
+Vaja, vaja; quietud, quietud, Se l’ha de tractar amb dolcesa; deixeu-me fer… Com us trobeu, Malvolí? Què tal? Vaja home, no us acovardiu; planteu-li cara al dimoni, Considereu que és l’enemic del llinatge humà.
+
+MALVOLÍ:
+
+Sabeu lo que us dieu?
+
+MARIA:
+
+Veieu com s’ho pren si se li parla mal del dimoni? Déu faci que no estigui embruixat!
+
+FABIÀ:
+
+Porteu-li els orins a casa una curandera.
+
+MARIA:
+
+Demà mateix, així que surti el sol, ho faré, si no em moro. La comtessa donaria qualsevol cosa per a salvar-lo.
+
+MALVOLÍ:
+
+Ah sí, senyora?
+
+MARIA:
+
+Oh, senyor!
+
+SIR TOBIAS:
+
+Calla; això no es fa així, no veus que l’exasperes? Deixeu-me sol amb ell.
+
+FABIÀ:
+
+Dolcesa i res més que dolcesa, i molt poc a poquet. El diable es feréstec i no vol que se’l tracti amb reganys.
+
+SIR TOBIAS:
+
+I doncs, que hi ha bona peça? Com te va això, vailet?
+
+MALVOLÍ:
+
+Sir Tobias!
+
+SIR TOBIAS:
+
+Vine aquí, manyaguet. Vaja, això de jugar a barrisca amb en Banyeta, no s’adiu gens amb un home seriós. A la forca, l’emmascarat carboner!
+
+MARIA:
+
+Feu-lo resar, sir Tobias; feu-li dir alguna oració.
+
+MALVOLÍ:
+
+Una oració, poques formes!
+
+MARIA:
+
+No ho veieu? No pot sentir parlar de res d’església.
+
+MALVOLÍ:
+
+Aneu i que us pengin! Dropos, que no serviu pera res. Alguna cosa hi va de vosaltres a mi; d’aquí una estona sabreu quelcom més.
+
+
+
+(Se’n va).
+
+SIR TOBIAS:
+
+Però és possible?
+
+FABIÀ:
+
+Si això ho veiéssim representat en el teatre, diríem que no pot esser.
+
+SIR TOBIAS:
+
+L’havem emmetzinat fins a l’ànima, company.
+
+MARIA:
+
+Seguim-lo; no deixem que es refredi i la broma se’n vagi tota en fum.
+
+FABIÀ:
+
+Acabarà per tornar-se boig de veres.
+
+MARIA:
+
+Així tots estaríem més tranquils.
+
+SIR TOBIAS:
+
+Veniu, que el lligarem i el tancarem en una cambra fosca. La meva neboda ja està convençuda de que és boig; així podrem allargar la farsa, pera gust nostre i castic d’ell, fins que cansats d’aquest entreteniment, ens faci llastima; llavores ho descobrirem tot i a tu et proclamarem la suprema metgessa dels boigs. Mireu qui ve, mireu.
+
+
+
+(Entra SIR ANDREU).
+
+FABIÀ:
+
+Un altre entreteniment per un matí de maig!
+
+SIR ANDREU:
+
+Aquí teniu el cartell, llegiu-lo; us asseguro que no hi falta ni sal ni pebre.
+
+FABIÀ:
+
+És coent?
+
+SIR ANDREU:
+
+Jo us en responc; només cal que el llegiu.
+
+SIR TOBIAS:
+
+Doneu.
+
+
+
+(Llegeix).
+
+«Jovencell: siguis qui siguis, no ets més que un murri i un mesell».
+
+FABIÀ:
+
+Bé i valent!
+
+SIR TOBIAS:
+
+«No et sorprenguis ni vulguis saber perquè et motejo així, car no et donaré cap raó».
+
+FABIÀ:
+
+Observació molt prudent i que us salva de les urpes de la llei.
+
+SIR TOBIAS:
+
+«Véns a casa la comtessa Olívia, i ella al meu davant te tracta amablement; però tu has mentit pel coll; no és per això que et desafio».
+
+FABIÀ:
+
+Molt breu i molt sense… sentit.
+
+SIR TOBIAS:
+
+«T’esperaré quan t’entornis, i si tens la sort de matar-me…»
+
+FABIÀ:
+
+Molt bé!
+
+SIR TOBIAS:
+
+«Me mataràs com un miserable traïdor».
+
+FABIÀ:
+
+Endavant; sempre guardant-vos de la llei.
+
+SIR TOBIAS:
+
+«A reveure, i que Déu vulga admetre en sa gloria a una de les nostres ànimes. Potser serà la meva, però l’esperança em diu que no serà així; amb això, vigila. Ton amic, segons com el tractaràs, o ton irreconciliable enemic, ANDREU ROSTREAIXUT». Si aquesta carta no el fa bellugar, serà que les cames no el podran dur. Jo mateix li donaré.
+
+MARIA:
+
+Ara tindreu una bona ocasió, perquè està prenent comiat de la comtessa.
+
+SIR TOBIAS:
+
+Vés, sir Andreu, amaga’t com un agutzil en un revolt del caminal i així que el vegis, desembeina, i, tot desembeinant, renega horriblement, perquè molt sovint un renec ben gros bramat amb veu de tro, dóna més fama de valent que el fet més coratjós, Endavant.
+
+SIR ANDREU:
+
+Ah, per renecs veniu a mi!
+
+
+
+(Se’n va).
+
+SIR TOBIAS:
+
+No, no la cursaré aquesta carta; perquè aquell jove sembla intel·ligent i ben educat, i que el Duc l’hagi triat per missatger d’amor n’és una prova. Aquesta carta, que tota ella traspua imbecil·litat, no l’espantaria gens ni mica i tot seguit coneixeria que qui l’ha escrita és un ençà. Lo que faré serà trametre’l cartell de paraula jo mateix; li explicaré prodigis de valentia del seu contrari, i donaré a aquest donzell —a qui la seva joventut i manca d’experiència, necessàriament han de fer cresol—, la més esgarrifosa idea de la rabia, de la destresa, de la valentia i de la feresa de l’altre. Degut a això se tindran tal basarda l’un de l’altre, que es mataran tant sols amb la mirada.
+
+
+
+(Entren OLÍVIA i VIOLA).
+
+FABIÀ:
+
+Ara ve amb la vostra neboda; espereu fins que ella es retiri i tot seguit empreneu-lo.
+
+SIR TOBIAS:
+
+Mentrestant vaig a rumiar-me un discurs ben horrorós.
+
+
+
+(Se’n van SIR TOBIAS, FABIÀ i MARIA).
+
+OLÍVIA:
+
+Massa he dit ja a un cor de pedra i massa he exposat el meu honor. Sento quelcom en mi que em retreu la meva lleugeresa; emperò aquest erro és tant tossut que es riu de totes les censures.
+
+VIOLA:
+
+Igual que a vós, la passió martiritza l’esperit del Duc.
+
+OLÍVIA:
+
+Teniu, porteu aquesta joia en recordança meva; no la refuseu, que no us cansarà amb ses paraules. Torneu demà, us ho prego. Demaneu-me tot lo que vulgueu, que jo no us negaré res de lo que l’honor pot concedir sens greu perjudici.
+
+VIOLA:
+
+Us demano tant sols una mercè: que doneu vostre amor al Duc.
+
+OLÍVIA:
+
+Com voleu que honradament li doni lo que ja us he donat a vós?
+
+VIOLA:
+
+Feu-ho i jo us absoldré.
+
+OLÍVIA:
+
+Adéu i fins a demà. Per un dimoni com tu, joiosa portaria l’ànima a l’infern.
+
+
+
+(Se’n va).
+
+(Entren SIR TOBIAS i FABIÀ).
+
+SIR TOBIAS:
+
+Que Déu vos guard, gentilhome.
+
+VIOLA:
+
+I a vós, cavaller.
+
+SIR TOBIAS:
+
+Defensa’t; de quina mena són els ultratges que li has fet, no ho sé; però el teu contrari, ple de ressentiment i sedejant de sang com un tigre, t’espera al cap-d’avall del jardí. Desembeina la espasa de pressa, perquè qui va a escometre’t és ferotge, és destre i és fort.
+
+VIOLA:
+
+Us deveu enganyar, senyor; estic cert de que no hi ha ningú en el món que pensi batre’s amb mi. No recordo haver ofès a ningú.
+
+SIR TOBIAS:
+
+Aviat sortireu del vostre erro, us ho asseguro. Així, doncs, si us estimeu la vida, poseu-vos en guarda, perquè el vostre contrari compta amb totes les avantatges que poden donar a un home la joventut, la destresa, la força i el coratge.
+
+VIOLA:
+
+Però, cavaller, digueu-me qui és.
+
+SIR TOBIAS:
+
+És un cavaller amb una espasa sens tara en un camp de catifa, però en el duel és un dimoni; ja ha desaparellat tres ànimes dels llurs cossos, i a hores d’ara és tant implacable l’ira que el domina, que sols els horrors de la mort i del sepulcre poden satisfer-lo: en qualsevol circumstancia aquest és el seu lema: vèncer o morir.
+
+VIOLA:
+
+Tornaré a entrar i demanaré auxili a la comtessa. No sóc amant de baralles. Sens dubte que aquest deu esser un d’aquells homes que busquen raons a qualsevol i sense motiu, amb el sol propòsit de passar per valents.
+
+SIR TOBIAS:
+
+No, cavaller; la indignació li pervé d’un ultratge molt gran; li haveu de donar, doncs, una satisfacció. No penseu en entrar i demanar auxili que primer no us les hagueu amb mi, pera provar que teniu pit per haver-vos-les amb ell. Trieu: o l’aneu a trobar o us poseu en guarda ara mateix, perquè és precís que us bateu o que renuncieu a portar espasa.
+
+VIOLA:
+
+Però això és tant inaudit com descortès i jo us prego, bon cavaller, que aneu a preguntar a aquest subjecte en que l’he ofès, que si és cert que ha rebut algun ultratge de mi, ha estat sens jo saber-ho.
+
+SIR TOBIAS:
+
+Amb molt gust. Senyor Fabià, quedeu-vos amb aquest jove fins que jo torni.
+
+
+
+(Se’n va).
+
+VIOLA:
+
+Digueu-me, senyor, sabeu quelcom d’aquesta qüestió?
+
+FABIÀ:
+
+Sé que aquest cavaller us té una rabia de mort, però no sé res més.
+
+VIOLA:
+
+Però, digueu-me: quina mena d’home és?
+
+FABIÀ:
+
+Pel seu aspecte no sembla que sigui lo terrible que és, I vós mateix ho haureu de reconèixer així que us hi encareu. És el contrari més cruel i més fatal que podíeu trobar a Il·líria. Voleu que l’anem a cercar? Procuraré que feu les paus, si m’és possible.
+
+VIOLA:
+
+Us ho agrairé amb tota l’ànima, perquè us asseguro que més a gust me trobo davant d’un capellà que davant d’un guerrer; i cregueu que poc me paro en que em titllin de covard.
+
+
+
+(Se’n van).
+
+(Entren SIR TOBIAS i SIR ANDREU).
+
+SIR TOBIAS:
+
+Oh company, us dic que és un dimoni de cap a peus! En ma vida he vist res que se li assembli. Jo he fet un punt, amb ell, amb l’espasa a la beina i me n’ha tirat una de tant mortal rapidesa que no hi ha ningú que la eviti, i al parar us respon amb un cop tant segur, com segur és que ara els peus us toquen a terra. Diuen que ha estat mestre d’armes del gran Sophi.
+
+SIR ANDREU:
+
+Diable! Doncs no hi vull saber res!
+
+SIR TOBIAS:
+
+Però el cas és que ell no s’entén de raons. En Fabià amb prou feines pot contenir-lo.
+
+SIR ANDREU:
+
+Mala negada!… Si jo hagués sabut que era tant valent i destre esgrimidor l’hauria enviat al dimoni ans que provocar-lo. Que deixi córrer aquesta qüestió i li regalaré el meu cavall gris Capulet.
+
+SIR TOBIAS:
+
+L’hi entaularé. Quedeu-vos aquí i no us acoquineu, que tot això s’acabarà sense que es perdi cap ànima.
+
+
+
+(Apart).
+
+No tinguis por! Jo li posaré la sella tant bé com a tu el bast.
+
+
+
+(Entren FABIÀ i VIOLA).
+
+SIR TOBIAS:
+
+
+
+(Baix a FABIÀ).
+
+M’ha donat el seu cavall pera que arreglés aquesta qüestió. Li he fet creure que aquest jove és una fera.
+
+FABIÀ:
+
+
+
+(Baix a SIR TOBIAS).
+
+Lo mateix pensa aquest de l’altre; està groc i tremola tot ell com si un ós l’empaités.
+
+SIR TOBIAS:
+
+
+
+(Baix a VIOLA).
+
+No hi ha remei, cavaller; vol batre’s per sostenir el jurament que ha fet. Després ha reflexionat més serenament sobre’l motiu de la quimera i creu que ni ha de parlar-se’n tant sols. Traieu-vos la espasa no més perquè pugui complir lo jurat; però diu que no us farà cap mal.
+
+VIOLA:
+
+
+
+(Apart).
+
+Déu me valga! Ben poc me costaria dir-los lo que se n’hi falta per esser un home jo!
+
+FABIÀ:
+
+
+
+(Baix a VIOLA).
+
+Si veieu que s’encega, fugiu.
+
+SIR TOBIAS:
+
+
+
+(Baix a SIR ANDREU).
+
+Vaja, sir Andreu, no s’hi pot fer res. Aquest cavaller vol tirar un cop, al menys, per mantenir la paraula; diu que segons les lleis del duel, això és necessari; però m’ha promès, amb paraula de cavaller i de soldat, que no us farà cap mal.
+
+—Va! En guarda!
+
+SIR ANDREU:
+
+
+
+(Apart).
+
+Déu faci que se’n recordi!
+
+
+
+(Desembeina).
+
+(Entra ANTONI).
+
+VIOLA:
+
+
+
+(A SIR ANDREU).
+
+Us juro que és contra la meva voluntat.
+
+
+
+(Desembeina).
+
+ANTONI:
+
+
+
+(A SIR ANDREU)
+
+Embeineu la espasa. Si aquest jove us ha ofès, jo mantinc la seva ofensa; si sou vós qui l’ha ofès a ell, sóc jo qui us desafia.
+
+SIR TOBIAS:
+
+Vós! I qui sou vós?
+
+ANTONI:
+
+Un home que per amistat a aquest jove, està disposat a fer més de lo que he dit.
+
+SIR TOBIAS:
+
+Oidà! Si us encarregueu dels afers d’altre, aquí em teniu.
+
+
+
+(Desembeina).
+
+(Entren dos AGUTZILS).
+
+FABIÀ:
+
+Atureu-vos, bon sir Tobias, que ve la justícia!
+
+SIR TOBIAS:
+
+
+
+(A Antoni).
+
+Des seguida estaré per vós.
+
+VIOLA:
+
+
+
+(A SIR ANDREU).
+
+Feu-me el favor, embeineu la espasa, cavaller, si us plau.
+
+SIR ANDREU:
+
+I tant si em plau! Compliré lo que us he promès; té un pas molt segur i és molt fi de boca.
+
+PRIMER AGUTZIL:
+
+
+
+(Assenyalant a ANTONI).
+
+És aquest.
+
+SEGON AGUTZIL:
+
+En nom del Duc Orsino, quedeu pres.
+
+ANTONI:
+
+Us enganyeu, senyor.
+
+PRIMER AGUTZIL:
+
+No; reconec vostres faccions encara que no porteu la gorra de mariner. Endueu-se’l; ja sap ell que jo el conec bé.
+
+ANTONI:
+
+Tinc d’obeir.
+
+
+
+(A VIOLA).
+
+Cercant-vos m’ha esdevingut aquesta desgracia; més ja està fet: ben car pagaré ara lo d’aleshores. Què fareu? La necessitat m’obliga a demanar-vos el meu diner. Més pena’m dóna el no poder-vos esser útil d’aquí endavant, que lo que em podrà succeir a mi. Veig que això us ha sobtat, però no us espanteu.
+
+SEGON AGUTZIL:
+
+Vaja, passeu; anem.
+
+ANTONI:
+
+Haig de demanar-vos que em retorneu una part d’aquell diner.
+
+VIOLA:
+
+Quin diner, senyor? En consideració a la viva simpatia que m’haveu demostrat ara mateix i veient lo aflictiu de la vostra situació, de bon grat faré per vós tot lo que puga. Pocs són els meus cabals, però me partiré amb vós les meves pobreses. Aquí en teniu la meitat.
+
+ANTONI:
+
+Que em voleu negar, potser? És possible que el meu afecte per vós tingui aquest pagament? No ajudeu a la meva desgracia, perquè temo que em faci perdre’l seny i no podré resistir la temptació de retreure-us els molts serveis que us he fet.
+
+VIOLA:
+
+No sé que me n’hagueu fet cap. No reconec ni la vostra veu ni el vostre rostre, i us juro que avorreixo més la ingratitud que la mentida, l’orgull, la vanitat i la embriaguesa, o qualsevulla altra repugnant tara que infecti nostra feble sang.
+
+ANTONI:
+
+Oh, Déu!
+
+PRIMER AGUTZIL:
+
+Vaja, anem, de pressa.
+
+ANTONI:
+
+Deixeu-me dir una paraula no més. A aquest jove, jo l’he arrencat de les urpes de la mort; jo li he donat socors amb la més fervorosa sol·licitud, i fins adoració m’ha inspirat son virtuós aspecte.
+
+PRIMER AGUTZIL:
+
+I què sens en dóna a nosaltres? Vaja, que el temps passa.
+
+ANTONI:
+
+Oh, i en quin miserable ídol s’ha transformat aquell déu! Sebastià, tu has deshonrat la noblesa del teu rostre. No hi ha en el món altra lletgesa com la de l’ànima; tant lletja és la malesa, com formosa la virtut. El vici cobert amb bella aparença no és més que un sepulcre que el dimoni engalana amb bonics i joies.
+
+PRIMER AGUTZIL:
+
+Aquest home es torna boig. Emporteu-vos-el… Anem, anem.
+
+ANTONI:
+
+Anem.
+
+
+
+(Se’n van ANTONI i els AGUTZILS).
+
+VIOLA:
+
+
+
+(Apart).
+
+Parlava amb tal convicció que semblava que fos veritat lo que deia. Si jo el tingués aquest convenciment! Ah, que siga certa ma sospita, i vulga’l cel que aquest home m’hagi pres per tu, germà meu!
+
+SIR TOBIAS:
+
+Vine aquí, cavaller, i tu també, Fabià. Tinguem consell i mirem que s’ha de fer.
+
+VIOLA:
+
+
+
+(Se’n va).
+
+Ha dit Sebastià!… En el meu mirall veig sempre la fidel imatge del meu germà; ell vestia com jo, igual color, iguals paraments, jo no faig més que copiar-lo en tot… Oh! Si això fos cert les tempestats serien misericordioses i manses i dolces les ones amargants.
+
+
+
+(Se’n va).
+
+SIR TOBIAS:
+
+És un miserable bergant aquest donzell i més covard que una llebre. Prova que no té ni un dit de vergonya el negar l’amistat a un amic en la desgracia; i tocant a covardia, pregunteu a en Fabià.
+
+FABIÀ:
+
+Un covard, devot i religiós de la covardia.
+
+SIR ANDREU:
+
+Maleït siga! Si l’atrapo se’n recordarà de mi.
+
+SIR TOBIAS:
+
+Sí, mesura-les-hi, però no et treguis la espasa…
+
+SIR ANDREU:
+
+Si no ho faig!…
+
+
+
+(Se’n va).
+
+FABIÀ:
+
+Anem a veure en què pararà tot això.
+
+SIR TOBIAS:
+
+M’hi jugo qualsevol cosa que tampoc passarà res.
+
+
+
+(Se’n van).
+
+
+
+
+
+ACTE IV
+
+
+
+
+
+ESCENA I.
+
+UNA PLAÇA DAVANT DE CASA D’OLÍVIA
+
+
+(Entren SEBASTIÀ i FESTA).
+
+FESTA:
+
+Potser me voleu fer creure que no m’han enviat a cercar-vos?
+
+SEBASTIÀ:
+
+Vés, vés; ets un boig; fuig-me del davant.
+
+FESTA:
+
+Feu molt bé el paper! No, no us conec, ni vinc de part de la comtessa a dir-vos que us ha de parlar; tampoc us dieu Cesari, ni aquest nas és el meu nas. Res de lo que és, és.
+
+SEBASTIÀ:
+
+Vés a esventar la follia en altre lloc; tu no em coneixes.
+
+FESTA:
+
+Esventar la follia! Ha sentit dir aquesta paraula d’algun personatge i ara me l’encaixa a mi. Esventar ma follia! A veure si ara sortiran amb que aquest gran talòs, el món, és un faldilletes. Fes-me’l favor de desfer-te d’aquesta estranyesa i diga’m què li tinc d’esventar a la comtessa. Li esventaré que véns?
+
+SEBASTIÀ:
+
+Te prego que em deixis, grec estúpid. Aquí tens això pera tu, però si no ten vas, te juro que et pagaré amb altra moneda que no t’agradarà gaire.
+
+FESTA:
+
+En bona fe que ets generós. Aquests savis que donen diners als necis, arriben a adquirir una bona reputació després de regatejar-la catorze anys.
+
+
+
+(Entren SIR ANDREU, SIR TOBIAS i FABIÀ).
+
+SIR ANDREU:
+
+
+
+(A SEBASTIÀ).
+
+Ah! Ja us tinc ara! Preneu això.
+
+
+
+Li pega.
+
+SEBASTIÀ:
+
+tu pren això altre y això y això!
+
+
+
+(Li pega).
+
+Tothom és boig aquí!
+
+SIR TOBIAS:
+
+Eh! Prou; prou o si no us llenço l’espasa a la teulada.
+
+FESTA:
+
+Corro a dir-ho a la comtessa. Ni per dos quartos voldria estar en les vostres pells.
+
+
+
+(Se’n va).
+
+SIR TOBIAS:
+
+
+
+(Deturant a SEBASTIÀ).
+
+Atureu-vos, atureu-vos!
+
+SIR ANDREU:
+
+No, deixeu-lo, que si a Il·líria hi ha justícia ja l’arreglaré d’altra manera, jo. Entaularé una causa per agressió violenta. Encara que hagi estat jo qui ha començat a pegar, no hi fa res.
+
+SEBASTIÀ:
+
+
+
+(A SIR TOBIAS).
+
+Deixam anar!
+
+SIR TOBIAS:
+
+Minyó, no us vull deixar anar. Vaja, soldadet tendre, embeineu l’espasa. Déu-n’hi-do dels punys que teniu! Vaja, anem!
+
+SEBASTIÀ:
+
+No em deixaràs anar? No?
+
+
+
+(Se desfà de SIR TOBIAS).
+
+Què vols ara? Treu l’espasa si goses!
+
+SIR TOBIAS:
+
+Ah! Ah! Us hauré de treure un parell d’unces d’aquesta sang tant insolenta que teniu.
+
+
+
+(Desembeina).
+
+(Entra OLÍVIA).
+
+OLÍVIA:
+
+Atura’t, sir Tobias, per ta vida atura’t!
+
+SIR TOBIAS:
+
+Senyora!
+
+OLÍVIA:
+
+Sempre sereu el mateix, groller poca-solta, nascut per viure en les muntanyes i en coves feréstegues on mai hi hagi entrat ni ombra de bona criança. Lluny de ma vista! Perdoneu, estimat Cesari. Murri, ves-te’n!
+
+
+
+(Se’n van SIR TOBIAS, SIR ANDREU i FABIÀ).
+
+(A SEBASTIÀ).
+
+Jo et prego, dolç amic meu, que sigui ton serè judici qui et guii per respondre en aquest injust i descortès atemptat al teu repòs. Vine amb mi, que quan coneixeràs les mil arrauxades comeses per aquell malvat, ten riuràs d’aquesta. Vine; és necessari, no m’ho refusis. Maleït ell, que al posar en perill ta vida, ha tirat contra la meva!
+
+SEBASTIÀ:
+
+
+
+(Apart).
+
+Què vol dir tot això? En quina mar navego? O jo estic boig o això és un somni. Doncs, que la il·lusió segueixi enfonsant mos sentits en el Leteu! Si això és somniar que no em desperti mai més.
+
+OLÍVIA:
+
+Anem, vine, jo t’ho prego, sigues dòcil a mos precs. Vols seguir-me?
+
+SEBASTIÀ:
+
+De bon grat, senyora.
+
+OLÍVIA:
+
+Oh diga-ho i fes-ho!
+
+
+
+(Se’n van).
+
+
+
+
+
+ESCENA II.
+
+A CASA D’OLÍVIA
+
+
+(Entren MARIA i FESTA).
+
+MARIA:
+
+Vaja, posa’t aquesta sotana i aquesta barba, i estrafés al senyor Topaci, el rector; enllesteix. Jo vaig a cercar a sir Tobias, mentrestant.
+
+
+
+(Se’n va).
+
+FESTA:
+
+
+
+(Posant-se la sotana).
+
+Vaja, me posaré això i m’amagaré aquí dins. Tant-de-bo fos jo el primer que s’amagués dintre d’un vestit d’aquests! No estic prou gras pera representar bé el meu paper, ni sóc prou magre pera semblar un savi, però val tant la fama d’home honrat i bon pare de família, com la d’home llest i de lletres. Aquí tenim als confederats.
+
+
+
+(Entren SIR TOBIAS i MARIA).
+
+SIR TOBIAS:
+
+Que Déu us beneeixi, senyor rector!
+
+FESTA:
+
+Bonos dies, sir Tobias; car com va dir molt bé el vell ermità de Praga, que no havia vist mai ni ploma ni tinter, a una filla del rei Gorboduc: lo que és, és. Així essent jo el senyor rector, sóc el senyor rector, perquè què és això, sinó això? Què és esser, sinó esser?
+
+SIR TOBIAS:
+
+
+
+(Assenyalant la cambra on està tancat en MALVOLÍ).
+
+És aquí, senyor rector.
+
+FESTA:
+
+
+
+(Fent la veu fosca).
+
+Hola, dic jo! Que la pau siga en aquesta presó.
+
+SIR TOBIAS:
+
+
+
+(Baix).
+
+El murri, l’estrafà be.
+
+MALVOLÍ:
+
+
+
+(Des de dins).
+
+Qui crida?
+
+FESTA:
+
+El senyor Topaci, el rector, que ve a veure a en Malvolí, el llunàtic.
+
+MALVOLÍ:
+
+Mossèn Topaci! Mossèn Topaci! Bon mossèn Topaci, aneu a trobar la comtessa.
+
+FESTA:
+
+Fora d’aquí, dimoni hiperbòlic! Com martiritzes a aquest home! No saps parlar d’altra cosa que de dones.
+
+SIR TOBIAS:
+
+Ben dit, senyor rector.
+
+MALVOLÍ:
+
+Mossèn Topaci, no ho cregueu que siga boig; mai cap home s’ha vist tant maltractat com jo. M’han tancat en aquestes esgarrifoses tenebres.
+
+FESTA:
+
+Calla, llord Satanàs! T’anomeno amb els termes més inofensius, perquè jo sóc d’aquells homes que fins el dimoni el tracten amb formes. Dius que aquesta cambra és tenebrosa?
+
+MALVOLÍ:
+
+Com l’infern, senyor rector.
+
+FESTA:
+
+Què dius ara! Té’ls batans de les finestres transparents com muralles, i les vidrieres dels costats lluen com l’èban, i encara’t planys de les tenebres?
+
+MALVOLÍ:
+
+Jo no sóc boig, mossèn Topaci, y us dic que aquesta cambra és tenebrosa.
+
+FESTA:
+
+I com t’enganyes, foll! Jo et dic que no hi han més tenebres que les de la ignorància en la que hi estas colgat com els egipcis en la boira.
+
+MALVOLÍ:
+
+Jo dic que aquesta cambra és tan tenebrosa com la ignorància, malgrat la ignorància sigui tant tenebrosa com l’infern; i dic que mai cap home ha estat tant maltractat com jo. Sóc tant boig com vós, o sinó feu-me la prova preguntant-me raonablement.
+
+FESTA:
+
+Quin és el parer de Pitàgores sobre’ls aucells feréstecs?
+
+MALVOLÍ:
+
+Que l’ànima de la nostra avia podria esser que es trobés en un aucell.
+
+FESTA:
+
+I què en penses tu d’aquesta doctrina?
+
+MALVOLÍ:
+
+Jo tinc una idea molt enlairada de l’ànima i no admeto aquesta doctrina.
+
+FESTA:
+
+Adéu; queda’t per sempre en les tenebres. No creuré que tinguis enteniment fins que sostindràs el parer de Pitàgores i et guardaràs de tirar ni a una becada per por d’expropiar l’ànima de la teva avia. Adéu.
+
+MALVOLÍ:
+
+Senyor rector, senyor rector!
+
+SIR TOBIAS:
+
+Estimat senyor rector!
+
+FESTA:
+
+
+
+(Baix).
+
+Ja veieu que sé nadar en totes les aigües.
+
+MARIA:
+
+Per a fer això no calia que et posessis ni la sotana ni la barba, perquè no t’ha vist.
+
+SIR TOBIAS:
+
+Parla-li amb el teu to natural de veu, i ja em diràs com el trobes. Voldria acabar d’una vegada aquesta broma. Si no hi ha perill en deixar-lo anar, ja el pots obrir, perquè estic tant malament amb la meva neboda, que no em vull exposar a cometre la imprudència de portar aquesta comèdia massa lluny. Vine a trobar-me a la meva cambra després.
+
+
+
+(Se’n van SIR TOBIAS i MARIA).
+
+FESTA:
+
+
+
+(Cantant).
+
+Ei! Robí, joiós Robí,
+
+diga’m que fa ta estimada?
+
+MALVOLÍ:
+
+Boig!
+
+FESTA:
+
+La dama no pensa en mi.
+
+MALVOLÍ:
+
+Boig!
+
+FESTA:
+
+Per què pobre et tracta així?
+
+MALVOLÍ:
+
+Boig! No em sents?
+
+FESTA:
+
+D’un altre està enamorada.
+
+Qui crida?
+
+MALVOLÍ:
+
+Si vols que tota la vida t’estiga agraït, bon Festa, porta’m llum, una ploma, paper i tinta; jo et juro que em recordaré d’aquest favor.
+
+FESTA:
+
+Mestre Malvolí!
+
+MALVOLÍ:
+
+Sí, bon Festa, sóc jo mateix.
+
+FESTA:
+
+Ai, pobre de mi! Com ha estat que haveu perdut l’enteniment?
+
+MALVOLÍ:
+
+Sóc l’home més ignominiosament maltractat, Festa. Tinc l’enteniment tant clar com tu, boig.
+
+FESTA:
+
+No més tan clar com jo? Així sí que sóu boig del tot si no teniu l’enteniment més bé que un foll.
+
+MALVOLÍ:
+
+M’han agafat i m’han tancat en aquestes tenebres, m’envien capellans rucs i fan tot lo que poden pera ferme perdre’l seny.
+
+FESTA:
+
+Aneu amb comte en lo que dieu; el senyor rector és aquí.
+
+
+
+(Canviant el to de veu).
+
+Malvolí, Malvolí, que Déu te’l torni. Procura dormir i deixa’t de xerrameques.
+
+MALVOLÍ:
+
+Senyor rector!
+
+FESTA:
+
+
+
+(Canviant les entonacions).
+
+No li respongueu, bon home.
+
+—Qui, jo, senyor rector? Si no li dic res. Que Déu vos guard, mossèn Topaci.
+
+—Amen, dic jo.
+
+—Està bé; sí, sí, entesos; ho faré així mateix.
+
+MALVOLÍ:
+
+
+
+(Cridant).
+
+Boig, boig, boig, me sents?
+
+FESTA:
+
+Tingueu un xic de paciència, home de Déu. Què dieu? Ja haveu sentit que em renyen si us parlo.
+
+MALVOLÍ:
+
+Bon Festa, jo et prego que em portis un llum i paper, que tinc el cervell tant bé com qualsevol a Il·líria.
+
+FESTA:
+
+Tant-de-bo fos veritat!
+
+MALVOLÍ:
+
+Te juro que ho és. Bon Festa, un full de paper, tinta i llum, i porta a la senyora lo que escriuré. Mai t’haurà valgut tant el fer de correu.
+
+FESTA:
+
+Ho faré perquè sou vós, però digueu-me la veritat: sou boig o el feu?
+
+MALVOLÍ:
+
+Creu-me, no sóc boig; això és la veritat.
+
+FESTA:
+
+Vaja, no creuré mai a cap boig que primer no li vegi el cervell. Vaig a cercar-vos el llum, el paper i la tinta.
+
+MALVOLÍ:
+
+Jo t’ho pagaré com poc t’ho penses, Festa. Vés, corre.
+
+FESTA:
+
+Ja hi vaig, senyor,
+
+i tot seguit
+
+torno aquí amb vós,
+
+com el joglar,
+
+aquell vell boig,
+
+que per entrar
+
+al cel de cop
+
+amb un punyal
+
+fet de llistó,
+
+cridava foll
+
+i rabiós:
+
+—Ah! Ah! Rosega’t les ungles, diable!—
+
+al dimoni amenaçant
+
+com si fos un foll infant.
+
+Adéu-siau, mestre dimoni.
+
+
+
+(Se’n va).
+
+
+
+
+
+ESCENA III
+
+EN EL JARDÍ D’OLÍVIA
+
+
+(Entra SEBASTIÀ).
+
+SEBASTIÀ:
+
+Sí, això és l’aire; això és la llum del sol gloriós; aquesta perla que ella m’ha donat la veig i la toco, i encara que lo extraordinari del fet me tinga en èxtasi, no és follia… Però on és l’Antoni? No l’he trobat a l’Elefant i allí m’han dit que se n’havia anat a córrer la ciutat cercant-me. Jo pagaria a pes d’or els seus útils consells ara, perquè la raó ajudada pel testimoni del sentits me diu que tot lo que em passa és fill d’un erro i no de la follia. Però fuig tant de lo natural lo que em succeeix i és tant estranya i inexplicable aquesta pluja de favors, que amb prou feines puc creure lo que els meus ulls veuen i estic temptat d’acusar a la meva raó de que no es convenci de si jo he perdut el seny, o de que aquesta dona siga boja. Però si ho fos, no podria pas portar la casa, ni governar als seus criats, ni cuidar-se dels seus afers i resoldre’ls, amb la claredat, la calma i serenitat de judici amb que he vist que ho feia; hi ha algun misteri en tot això… Ara ve la dama.
+
+
+
+(Entren OLÍVIA i un capellà).
+
+OLÍVIA:
+
+No censureu aquesta pressa. Si vostres intencions són honrades, veniu amb mi i aquest sacerdot a la capella i allí en sa presencia i sota aquell sagrat sostre, jureu-me la inviolabilitat de la fe vostra, pera retornar la calma a la meva ànima massa inquieta i gelosa. Ell servarà el secret d’aquesta unió fins que vós determineu ferla pública i aleshores ho celebrarem com al meu estament pertoca. Què responeu?
+
+SEBASTIÀ:
+
+Seguiré a aquest sant home i us acompanyaré allà on vulgueu i un cop us hagi jurat servos fidel, sols la mort podrà rompre mon jurament.
+
+OLÍVIA:
+
+Guieu-nos, pare, i que el cel amb sa llum esplendent segelli nostra eterna unió.
+
+
+
+(Se’n van).
+
+
+
+
+
+ACTE V
+
+
+
+
+
+ESCENA I.
+
+UNA PLAÇA DAVANT DE CASA D’OLÍVIA
+
+
+(Entren FESTA i FABIÀ).
+
+FABIÀ:
+
+Si em tens per amic, deixam veure la seva carta.
+
+FESTA:
+
+Concediu-me, doncs, una altra cosa, senyor FABIÀ.
+
+FABIÀ:
+
+Concedit lo que vulguis.
+
+FESTA:
+
+Que us demani que no em demaneu que us ensenyi aquesta carta.
+
+FABIÀ:
+
+Això és com si jo després d’haver-te regalat el meu goig te’l demanés com pagament del meu obsequi.
+
+
+
+Entren DUC, VIOLA i seguici del DUC.
+
+DUC:
+
+Serviu a madona Olívia, amics?
+
+FESTA:
+
+Sí, senyor; formem part dels seus objectes de luxe.
+
+DUC:
+
+Ah, ja et conec! Què tal te va, bon home?
+
+FESTA:
+
+En bona fe senyor, que més bé em va amb els enemics que amb els amics.
+
+DUC:
+
+Al revés; més bé amb els amics.
+
+FESTA:
+
+No; no, senyor; més malament amb els amics.
+
+DUC:
+
+Com pot ser això?
+
+FESTA:
+
+És així, senyor, perquè els meus amics m’alaben i alabant-me me fan tornar ase, i els meus enemics, al revés, me diuen net i clar que sóc un ase; de manera que amb els meus enemics hi guanyo en coneixement de mi mateix, i surto enganyat pels amics. Si en qüestions de lògica, com en qüestió de petons, quatre negacions valen dues afirmacions, tinc raó de dir que em va més bé amb els enemics que amb els amics.
+
+DUC:
+
+Ah, excel·lent!
+
+FESTA:
+
+Ca! Ben cert que no! Encara que tingueu el gust de comptar-vos entre els amics meus.
+
+DUC:
+
+Doncs, per la meva part no vull que hi surtis perdent: aquí tens aquest or.
+
+FESTA:
+
+Si no fos per obligar-vos a cometre una reincidència us demanaria que dobléssiu aquesta moneda.
+
+DUC:
+
+Me dónes un mal consell.
+
+FESTA:
+
+Fiqueu-vos la bondat a la butxaca, i que la sang i la carn obeeixin.
+
+DUC:
+
+Siga, doncs; cauré en el pecat de la reincidència. Aquí tens una altra moneda.
+
+FESTA:
+
+Primo, secundo, tertio; heus-aquí un bon joc. Hi ha una dita que diu que a la tercera coll a terra; el tríplex és un compas molt airós: el repic de les campanes de Sant Benet us ho recordarà, si ho necessiteu: una, dues, tres.
+
+DUC:
+
+No em trauràs cap més diner. Si vas i dius a madona que jo l’espero aquí i aconsegueixes que vingui, potser se desvetllarà un xic la meva generositat.
+
+FESTA:
+
+Bressoleu, doncs, aquesta generositat fins que jo torni. Vaig a fer lo que em dieu, senyor; però no voldria que prenguéssiu el meu afany d’arraconar, pel pecat de cobdícia. Mentrestant, deixeu fer una dormideta a la vostra generositat, que jo no trigaré gaire a despertar-la.
+
+
+
+(Se’n va).
+
+(Entren ANTONI i AGUTZILS).
+
+VIOLA:
+
+Senyor, aquest és l’home qui no fa gaire m’ha donat socors.
+
+DUC:
+
+Recordo bé aquesta cara; malgrat que l’ultima vegada que la vaig veure, el fum de la pólvora l’hagués deixat més negra que el rostre de Vulcà. Era el capità d’un miserable vaixell, de tant migrat aspecte i poc calatge, que feia llastima mirar-lo; més va abordar amb tant coratge amb un dels més ferms dels nostres bastiments, que el clam de la desfeta i l’enveja ben clar proclamaven, contra llurs voluntats, la gloria de son valor. Què passa?
+
+PRIMER AGUTZIL:
+
+Orsino, aquest és aquell Antoni que a Candia va fer-nos presa del Fènix amb tota sa carrega i el mateix que va comandar l’abordatge contra el Tigre, on hi va perdre la cama el nebot vostre. L’havem fet pres en el mateix instant en que es trobava al fort d’una baralla amb uns cavallers.
+
+VIOLA:
+
+M’ha emparat i ha tret l’espasa per defensar-me, senyor, però després m’ha dit no sé quines estranyes paraules que més semblaven follia que altra cosa.
+
+DUC:
+
+Ah gran pirata!; lladre marí! Quin temerari atreviment t’ha fet caure a les mans dels que amb ta terrible escomesa ten vas fer tos enemics irreconciliables?
+
+ANTONI:
+
+Orsino, noble Duc, permeteu que us digui que no admeto els noms que em doneu; el capità Antoni no ha estat mai ni lladre ni pirata, encara que hi hagi justificats motius, ho reconec, pera tenir-lo per l’enemic d’Orsino. Una màgica voluntat m’ha portat aquí; aquest jove que està al costat vostre, ingrat entre’ls ingrats, jo l’he arrencat de la gola rabiosa i escumejant de la mar. Surava, ja perdut com una desferra, per damunt de l’ona brava, quan jo li vaig donar la vida, i amb la vida mon afecte, sens reserva i sens límits, entregant-li tota la meva ànima. Per sola i vera amistat m’he exposat per ell als perills d’aquesta ciutat enemiga; he tret l’espasa pera defensar-lo quan l’escometien; m’han agafat, i aleshores la por li ha inspirat un covard recurs per no compartir les meves desgracies; m’ha negat vergonyosament i en un moment s’ha tornat per mi com un estranger que hagués passat vint anys sense veure’m, i fins m’ha negat els diners que encara no feia mitja hora li havia donat.
+
+VIOLA:
+
+Com és possible això?
+
+DUC:
+
+I quant va arribar aquí?
+
+ANTONI:
+
+Ahir, senyor. Hem viscut tres mesos plegats sense deixar-nos ni nit ni dia.
+
+
+
+(Entren OLÍVIA i el seu seguici).
+
+DUC:
+
+Veig que ve la comtessa: ara el cel camina per la terra. Tu, bon home, tes paraules són follia, car ja fa tres mesos que aquest donzell està al meu servei. Emperò després parlarem d’això amb més calma. Serveu-lo allunyat de nosaltres.
+
+OLÍVIA:
+
+Què és lo que desitja vostra senyoria y que no pot obtenir? En què pot servir-vos Olívia?
+
+
+
+(A VIOLA).
+
+Cesari, no compliu vostra promesa?
+
+VIOLA:
+
+Senyora!
+
+DUC:
+
+Graciosa Olívia…
+
+OLÍVIA:
+
+Què responeu, Cesari?
+
+
+
+(Al DUC).
+
+Altesa…
+
+VIOLA:
+
+Ma senyoria, el Duc vol parlar: el meu deure m’imposa silenci.
+
+OLÍVIA:
+
+Si lo que vostra senyoria me té de dir és la seva cançó de sempre, us asseguro que és per mi tant ingrata i enutjosa com el lladrar d’un ca després d’una dolça musica.
+
+DUC:
+
+Sempre cruel!
+
+OLÍVIA:
+
+Sempre constant, senyor.
+
+DUC:
+
+En què? En la perversitat. Dona implacable, en qual ingrat altar, jamai propici, la meva ànima ha clamat els vots fervents d’una adoració infinita, què més puc fer?
+
+OLÍVIA:
+
+Lo que vostra senyoria vulgui i sigui digne d’ell.
+
+DUC:
+
+Perquè, si tingués cor per fer-ho, no hauria d’immolar, com el bergant d’Egipte, a qui és mon amor, al exhalar jo l’ultim sospir? Oh salvatge gelosia que mil voltes fins a lo sublim t’aixeques! Més, escolteu això: ja que responeu amb desdenys a mes ofrenes, i se segur qui és el que em desbanca en vostre afecte, viviu essent lo que sou, tirà de cor de marbre; més jo arrencaré de vostres ulls on regna, per vergonya meva, aquest donzell que ameu i a qui jo també, ho juro, estimo amb tot el cor. Vine, patge, vine amb mi; ja és madurada la crueltat de mos intents; sacrificaré aquest estimat anyell pera venjar-me d’aquesta coloma amb entranyes de corb.
+
+
+
+(Va per anar-se’n).
+
+VIOLA:
+
+
+
+(Seguint-lo).
+
+I jo afrontaré de bon grat, amb alegria, mil morts que vinguin si elles us han de tornar la calma.
+
+OLÍVIA:
+
+On vas, Cesari?
+
+VIOLA:
+
+Vaig amb qui estimo més que a mos ulls, més que a ma vida, més, molt més de lo que jo mai pugui estimar a cap dona! Divines potestats, si dic mentida castigueu amb ma existència aquest ultratge a mon amor!
+
+OLÍVIA:
+
+Ah, desafortunada de mi! Com m’ha traït!
+
+VIOLA:
+
+Qui us ha traït? Qui us ha ultratjat?
+
+OLÍVIA:
+
+No recordes qui ets potser? Tant temps fa ja? Que vinga tot seguit aquell bon sacerdot.
+
+
+
+(Se’n va un criat).
+
+DUC:
+
+
+
+(A VIOLA).
+
+Vine.
+
+OLÍVIA:
+
+A on, senyor?… Cesari, espòs meu, espera!
+
+DUC:
+
+Vostre espòs?
+
+OLÍVIA:
+
+Sí, mon espòs. Com pot negar-ho?
+
+DUC:
+
+
+
+(A VIOLA).
+
+El seu espòs, traïdor?
+
+VIOLA:
+
+Jo, senyor? No.
+
+OLÍVIA:
+
+Ai! La baixesa de ta covardia és qui ofega ta dignitat; més no temis res, Cesari, enlaira ardit ta fortuna; tingues el valor d’esser el qui saps qui ets i seràs igual a qui tems.
+
+
+
+(Entren el SACERDOT i el CRIAT).
+
+Oh pare, benvingut sigueu! Jo us demano en nom de vostre sagrat ministeri, que aquí al davant de tothom digueu lo que haveu vist. Els esdeveniments ens obliguen a fer public lo que volíem tenir secret; digueu, doncs, lo que hi ha hagut entre aquest home i jo.
+
+SACERDOT:
+
+Un pacte inviolable d’amor etern confirmat per la mútua estreta de mans, segellat pel sant contacte de vostres llavis i fermat pel canvi d’anells; totes les cerimònies d’aquest acte han estat autoritzades pel testimoni sagrat del meu ministeri. Diu el rellotge que d’ençà que això ha passat, tant sols dues hores de camí he fet vers la tomba.
+
+DUC:
+
+
+
+(A VIOLA).
+
+Ah, novell hipòcrita! Que seràs quan els anys t’hagin blanquejat la testa? Guarda’t, que si ta fellonia creix amb tu, ella t’embolcallarà en ses pròpies xarxes! Adéu; pren-la, més dirigeix tos passos cap on tu i jo no ens podem trobar mai més.
+
+VIOLA:
+
+Oh! Senyor, però…
+
+OLÍVIA:
+
+Oh! No juris, i serva un xic d’honor, per gran que siga la covardia que t’inspira.
+
+
+
+(Entra SIR ANDREU ferit del cap).
+
+SIR ANDREU:
+
+Un cirurgià, per Déu! I envieu-me un altre tot seguit a sir Tobias.
+
+OLÍVIA:
+
+Què passa?
+
+SIR ANDREU:
+
+M’ha esberlat el cap i a sir Tobias també! Socorreu-me, per
+
+Déu! Donaria quaranta lliures pera trobar-me a casa!
+
+OLÍVIA:
+
+Qui us ha fet això, sir Andreu?
+
+SIR ANDREU:
+
+Un patge del Duc, un tal Cesari. Ens crèiem que era un covard, i és un dimoni de l’infern,
+
+DUC:
+
+Cesari, el meu patge?
+
+SIR ANDREU:
+
+Ah, maleït siga! Mireu-lo.
+
+
+
+(A VIOLA).
+
+M’haveu badat el cap per res. Jo he fet lo que sir Tobias m’ha fet fer.
+
+VIOLA:
+
+Per què em dieu això? Jo no us he fet cap mal. M’haveu escomès amb l’espasa, però jo us he parlat amb cortesia i no us he fet cap mal.
+
+SIR ANDREU:
+
+Si un trenc al cap fa mal, us dic que me n’haveu fet; sembla que per vós no sigui res trencar el cap a la gent.
+
+
+
+(Entra SIR TOBIAS ebri, acompanyat de FESTA).
+
+Mireu, ara ve sir Tobias ranquejant, ja us dirà alguna cosa. Si no hagués begut tant ja us ho hauria explicat d’una altra manera.
+
+DUC:
+
+
+
+(A SIR TOBIAS).
+
+I doncs, cavaller, què teniu?
+
+SIR TOBIAS:
+
+No és res; m’ha ferit, veus-ho-aquí.
+
+
+
+(A FESTA).
+
+Ase, has vist a en Dick, el cirurgià, ase?
+
+FESTA:
+
+Oh! Ja fa una hora que està borratxo; a les vuit del matí ja se li havia post el sol.
+
+SIR TOBIAS:
+
+És un gallofa; fora de la pavana o els punts del minuet, lo que tinc més avorrit són els borratxos.
+
+OLÍVIA:
+
+Emporteu-vos-el. Qui els ha fet això?
+
+SIR ANDREU:
+
+Jo us cuidaré, sir Tobias; us curaré a tots dos.
+
+SIR TOBIAS:
+
+Cuidar-me vós, cap de ruc, totxo, talòs, cara d’enze patètic, pallús!
+
+OLÍVIA:
+
+Que el portin al llit i que li curin les ferides.
+
+
+
+(Se’n van FESTA, SIR TOBIAS i SIR ANDREU).
+
+(Entra SEBASTIÀ).
+
+SEBASTIÀ:
+
+
+
+(A OLÍVIA).
+
+Molt me dol haver ferit a aquell parent vostre, senyora; emperò maldament hagués estat un germà meu m’hauria vist obligat a fer-ho en defensa de la meva persona. Ja veig que us he enutjat per l’estranyesa amb que em mireu. Però jo us en demano perdó, bella Olívia, en nom del jurament que fa poc que ens hem fet.
+
+DUC:
+
+
+
+(MIRANT a SEBASTIÀ i VIOLA).
+
+Una mateixa cara, una mateixa veu, un mateix vestit i dues persones! Evident il·lusió que és i no és certa.
+
+SEBASTIÀ:
+
+Antoni, estimat Antoni, quant cruelment m’han martiritzat les hores en el temps que has estat lluny de mi!
+
+ANTONI:
+
+Sou vós, en Sebastià?
+
+SEBASTIÀ:
+
+Podeu dubtar-ne, Antoni?
+
+ANTONI:
+
+Com us haveu pogut partir així? Les dues meitats d’una poma no se semblarien tant com aquestes dues criatures. Quin és en Sebastià?
+
+SEBASTIÀ:
+
+
+
+(Mirant a VIOLA).
+
+Sóc jo aquell d’allí? No he tingut cap germà ni la meva persona té el do de la ubiqüitat; sols tenia una germana, a la qual varen engolir despietadament les ones.
+
+
+
+(A VIOLA).
+
+Digueu-me, per caritat, quin parentiu teniu amb mi? Quina és vostre pàtria? El vostre nom? La vostra família?
+
+VIOLA:
+
+Sóc de Messalina. Sebastià es deia el meu pare i el mateix nom tenia un germà meu. Així vestia al davallar a la tomba liquida. Si als esperits els és possible prendre vestit i forma, vós sou un espectre que veniu a omplir-nos l’ànima de dubte.
+
+SEBASTIÀ:
+
+Cert, sóc un esperit; però cobert amb les grolleres formes amb que me va revestir la mare en ses entranyes. Tot s’ajusta tant a lo cert, que, si vós fóssiu dona, regaria vostra galta amb mes llàgrimes cridant: sigues per tres voltes benvinguda, negada Viola!
+
+VIOLA:
+
+El meu pare tenia un senyal al front.
+
+SEBASTIÀ:
+
+El meu també.
+
+VIOLA:
+
+Va morir el dia mateix que feia tretze anys que era nascuda sa filla Viola.
+
+SEBASTIÀ:
+
+Oh! Encara en servo el record en mon ànima! És cert, va acabar la vida el dia mateix que la meva germana feia tretze anys.
+
+VIOLA:
+
+Si l’únic obstacle que s’alça entre nostra mútua alegria, és aquest vestit d’home, no m’abraceu, fins que les circumstancies de lloc, de temps i de fortuna s’apleguin pera provar-vos que sóc jo, Viola. Per fer-ne la prova, veniu amb mi a casa d’un vell capità que em guarda mes robes de donzella. A ell és a qui dec la meva salvació. Després de tornada a la vida vaig entrar al servei del Duc, i des de aquell dia les hores se m’han passat entre madona Olívia i sa Altesa.
+
+SEBASTIÀ:
+
+
+
+(A OLÍVIA).
+
+Per lo que acabeu d’escoltar, comprenc que us havíeu enganyat, senyora; però la naturalesa ha esmenat sàviament vostre erro, guiant-se amb vostre instint. Vós, senyora, us volíeu casar amb una verge: doncs jo us juro que vostre desig no quedarà enganyat, car haveu pres home i verge tot alhora.
+
+DUC:
+
+No resteu confosa; noble sang corre per ses venes. Si tot això és cert, com la reflexió ho confirma, jo també tindré ma part en aquest afortunat naufragi.
+
+
+
+(A VIOLA).
+
+No has dit sempre que no estimaries a cap dona com a mi?
+
+VIOLA:
+
+I tot lo que he dit ho juro ara i aquest jurament la meva ànima el servarà tant fidelment, com fidelment l’esfera lluminosa serva la claror que distingeix el dia de la nit.
+
+DUC:
+
+Dóna’m la mà i portam on jo puga veure’t amb tos vestits de donzella.
+
+VIOLA:
+
+Els té el capità que m’ha portat a aquestes platges, mes se troba empresonat, no sé per quina causa, només sé que és per consell d’en Malvolí, el majordom de madona.
+
+OLÍVIA:
+
+Ell l’afranquirà… Que vagin a cercar a en Malvolí. Mes, ai! Ara recordo que ha esdevingut boig, pobre home!
+
+
+
+(Entren FESTA amb una carta i FABIÀ).
+
+La meva follia m’havia fet oblidar de la seva.
+
+
+
+(A FESTA).
+
+Com està, boig?
+
+FESTA:
+
+La veritat, madona, té’l dimoni tant lluny com qualsevulla home li pugui tenir en el seu cas. Us ha escrit una carta que jo us havia d’haver donat aquest matí, però com que les epístoles d’un boig no són pas l’evangeli, poc hi fa que no arribin a qui van dirigides.
+
+OLÍVIA:
+
+Obre-la i llegeix-la.
+
+FESTA:
+
+Quedareu ben divertits sentint a en Festa interpretant al boig.
+
+
+
+(Llegint amb to molt afectat).
+
+«Per Déu, senyora…»
+
+OLÍVIA:
+
+Què és això? Que ets boig?
+
+FESTA:
+
+No, madona, però llegeixo bogeries; si vostre senyoria vol que llegeixi com cal, és precís que hi cerqui l’entonació.
+
+OLÍVIA:
+
+Vaja, llegeix com és degut.
+
+FESTA:
+
+Ja ho faig; però per llegir degudament haig de llegir-ho així. Atenció, princesa; escolteu.
+
+OLÍVIA:
+
+
+
+(A FABIÀ).
+
+Llegiu-la vós, Fabià.
+
+FABIÀ:
+
+
+
+(Llegint).
+
+«Per Déu, senyora, que cometeu un tort amb mi i tothom ho sabrà. Encara que m’hagueu tancat en les tenebres i hagueu donat a l’ebri del vostre oncle el més absolut poder sobre meu, no per això tinc l’enteniment menys sencer que vostra senyoria. Tinc la carta vostra en la que em senyaleu quin ha d’esser el meu comportament i us juro que no me n’he apartat en lo més mínim; amb aquesta carta és amb lo que espero justificar-me completament i confondre-us com us mereixeu. Penseu de mi lo que us sembli. Poso per un moment la deferència de banda i parlo per lo que em dicta el ressentiment. —El furiosament maltractat, Malvolí.»
+
+OLÍVIA:
+
+Ell ha escrit això?
+
+FESTA:
+
+Sí, madona.
+
+DUC:
+
+Això no sembla pas d’un boig.
+
+OLÍVIA:
+
+Aneu, Fabià, que el treguin d’allà on és i feu-lo venir.
+
+
+
+(Se’n va FABIÀ).
+
+(Al DUC)
+
+Senyor, després de considerar tot lo que ha passat, preneu-me per germana amb la mateixa voluntat amb que em volíeu per esposa. I, si altra cosa no disposeu, celebrarem en un mateix dia aquesta doble unió.
+
+DUC:
+
+Accepto de tot cor l’oferiment.
+
+
+
+(A VIOLA).
+
+El Duc us dóna comiat; més en pagament dels serveis que li haveu fet, serveis tant allunyats del vostra sexe com indignes de la vostre tendre i delicada educació, i ja que per tant temps l’haveu tingut per amo, aquí teniu la seva mà! D’avui en endavant sereu la mestressa del vostre amo.
+
+OLÍVIA:
+
+I una germana meva… Voldreu ser-ho?
+
+
+
+(Entra FABIÀ amb MALVOLÍ).
+
+DUC:
+
+És aquest el boig?
+
+OLÍVIA:
+
+Sí, senyoria, ell mateix. Com us trobeu, Malvolí?
+
+MALVOLÍ:
+
+Senyora, m’haveu ultratjat, cruelment ultratjat.
+
+OLÍVIA:
+
+Jo, Malvolí? No!
+
+MALVOLÍ:
+
+Sí, vós mateixa, senyora. Passeu els ulls per aquesta carta; us ho prego. No negareu que sigui lletra vostra; escriviu amb altre estil i amb altres trets si podeu!, o bé negueu-me de que aquest siga vostre segell. No hi podeu respondre ni un mot a tot això! Confesseu-ho, doncs, i, pel vostre honor, expliqueu-me perquè m’haveu donat tant clares proves d’afecte i de distinció, dient-me que somrigués en presencia vostra, i me posés lliga-cames creuades amb mitges grogues i tractés amb supèrbia al vostre oncle sir Tobias, i a tothom del servei? I després quan jo he obeït ple de justa esperança, per què haveu permès que m’empresonessin, tancant-me en una cambra tenebrosa, i que m’enviessin sacerdots, convertint-me en la riota de tothom? Expliqueu-me, per què?
+
+OLÍVIA:
+
+Ai, Malvolí! Això no és pas lletra meva, si bé reconec que hi té gran semblança; sens dubte és de la Maria. I ara recordo que és ella qui m’ha dit que havies perdut el seny i aleshores t’has presentat rient i amb els posats que en la carta t’aconsellaven. Asserena’t, jo t’ho prego; has estat el protagonista d’una burla cruel, però jo et juro que quan sabrem els motius i els autors, tu mateix seràs jutge i part en ta pròpia causa.
+
+FABIÀ:
+
+Bona comtessa, vulgueu-me escoltar, i no permeteu que, ni baralles ni ressentiments, vinguin a enterbolir l’alegria d’aquest moment feliç que tant admirats ens ha deixat a tots. Amb aquesta esperança, us confessaré que jo mateix, junt amb sir Tobias, som els que havem jugat aquesta passada a en Malvolí, per venjança de les ofenses que ens havia fet amb son tracte superbiós i descortès. La Maria és qui, a instancies de sir Tobias, ha escrit la carta, i ell, en pagament d’aquest favor, l’ha presa per esposa. Pesant imparcialment els torts d’ambdues bandes, poc costarà el reconèixer que, per punyent que hagi estat la burla, més motius ha donat per fer esclatar la rialla que per covar la venjança.
+
+OLÍVIA:
+
+
+
+(A MALVOLÍ).
+
+Pobre Malvolí, com s’han rigut de tu!
+
+FESTA:
+
+
+
+(Encarant-se amb MALVOLÍ).
+
+És clar, «hi ha qui naix amb grandesa, altres que assoleixen les grandeses i altres a qui la grandesa se’ls imposa malgrat llur voluntat». En aquesta farsa jo hi representava un tal mossèn Topaci, senyor; però tant se val. «Per Déu, Festa, jo no sóc boig». Però no us recordeu d’això també? «No comprenc com vostra senyoria es pugui complaure amb la conversa d’aquest miserable coquí». I així és com rodant el temps la revenja ve tota sola.
+
+MALVOLÍ:
+
+Jo em venjaré de tota aquesta colla.
+
+
+
+(Se’n va).
+
+OLÍVIA:
+
+L’han befat cruelment.
+
+DUC:
+
+Atureu-lo i mireu d’aplacar-lo. Encara no ens ha dit res del capità. Quan això s’hagi aclarit i sigui arribada l’hora feliç, un llaç solemne unirà nostres ànimes. Mentrestant, dolça germana, no ens mourem d’aquí. Vine, Cesari, car aquest serà ton nom mentre siguis home, més quan vesteixis les robes que et pertoquen, aleshores seràs l’esposa d’Orsino i la regina dels seus pensaments.
+
+
+
+(Se’n van tots).
+
+FESTA:
+
+
+
+(Cantant).
+
+Quan encar jo era petit,
+
+Vinga vent i pluja, oidà!
+
+Prò tot m’era divertit;
+
+Pensava sempre plourà.
+
+I quan ja vaig ser fadrí
+
+Vinga vent i pluja, oidà!
+
+Tanqueu la porta al coquí;
+
+Pensaven sempre plourà
+
+Més ai!, al pendre muller
+
+Vinga vent i pluja, oidà
+
+Tot va anar com Déu volgué
+
+Pensava sempre plourà?
+
+I heus aquí que cada nit
+
+Vinga vent i pluja, oidà!
+
+Embriac me’n anava al llit,
+
+Pensava sempre plourà
+
+Fa molts anys que el món és nat
+
+Vinga vent i pluja, oidà
+
+La comèdia s’ha acabat
+
+Pensem que us agradarà.
+
+
+
+(Se’n va).
+
+FI
+
+
+
+
+
+WILLIAM SHAKESPEARE (Stratford-upon-Avon, Anglaterra 1564 - 1616). És considerat l’escriptor anglès més important de tots els temps i el millor escriptor de la literatura universal. Dramaturg i poeta, les seves obres teatrals es representen avui dia en els cinc continents. Els trets que més es valoren de la seva obra són el poder de commoure’ns, la capacitat de crear un ampli ventall de personatges d’una gran profunditat psicològica, l’habilitat de caracteritzar els personatges mitjançant un llenguatge variat i riquíssim i la modernitat amb què són tractats alguns temes universals com ara l’amor, la gelosia, el poder, l’ambició o la mort.
+
+Les seves obres teatrals són mundialment conegudes, tant si són obres dramàtiques com Romeu i Julieta (1597), Hamlet (1603), El rei Lear (1606), Otel·lo (1622), Macbeth (1623) o Juli Cèsar (1623), com si es tracta de comèdies com ara El somni d’una nit d’estiu (1595), El mercader de Venècia (1600) o Molt soroll per a res (1600). Autor també de poesia i sonets, les seves obres s’han representat milers de vegades i han estat portades al cinema nombroses ocasions.
+
+
+
+
+
+Notes
+
+
+[1] La traducció del nom d’aquest personatge seria sir Tobias Eructe. [Torna]
+
+
+
+[2] I la d’aquest Sir Andreu Galta-encesa. Per lo ingrat que resultaria a l’orella la traducció vulgar de la paraula BELCH i que al nostre entendre és la que se li hauria de donar, tenint en compte que aquest és l’habitual parella de l’altre esmentat personatge, hem decidit no traduir els seus cognoms. [Torna]
+
+
+
+[3] En aquell temps era popular una estampa en la qual hi havien representats dos caps de ruc i al peu hi deia, dirigit al lector: Heus-en aquí tres. [Torna]
+
+
+
+[4] Vers d’una cançó popular. [Torna]
+
+
+
+[5] Ídem. [Torna]
+
+
+
+[6] Partidari de Robert Brown, cèlebre sectari d’aquella època. [Torna]
+
+
+
+[7] Un document de l’any 1610 diu que aquest llit tenia vuit peus d’amplada i els seus matalassos eren de ploma de cigne. Ocupava la cambra principal del hostal del Cervo en la ciutat de Ware (Anglaterra). [Torna]
+
+
+
+
+

@@ -1,0 +1,602 @@
+El Llibre de les bèsties és una narració breu de caràcter politicosocial que forma part del Llibre de meravelles de Ramon Llull. És un sàtira de la vida cortesana mitjançant la faula de Na Renard i el seu adveniment al poder a través de l’engany i la por.
+
+
+
+
+
+Ramon Llull
+
+
+
+
+
+Llibre de les bèsties
+
+
+
+
+ePUB v2.0
+
+Masquin 03.02.16
+
+
+
+
+
+Títol original: Llibre de les bèsties
+
+Ramon Llull, 1289
+
+Edició digital: Masquin (v1.0)
+
+Segona edició: Epubqüest (v2.0)
+
+ePUBCat base r1.3
+
+
+
+
+
+Pròleg
+
+
+L’obra lul·liana constitueix l’elegia d’un paradís perdut. Un paradís que s’ajustava als principis més estrictes de la Creació. I, a la vegada, és la proposta d’un de nou. Un de nou que intenta de recuperar, per a la vida contemporània, decadent i desordenada, la puresa primitiva. Per a la realització d’aquests dos moviments, l’elegíac i l’utòpic, Llull posà en joc tots els recursos que tenia a l’abast: contactes personals amb les autoritats, apel·lació a les instàncies universitàries i intervenció en les grans convencions religioses, composició de tota mena d’obres, des d’autèntiques catedrals filosòfiques fins a pamflets periodístics o compendis de divulgació, tot passant per poemes, confessions personals… I novel·les. De fet, el Llibre de meravelles i el Romanç d’Evast e Blanquerna figuren entre les primeres mostres del gènere. Unes mostres que, a tres quarts de segle escassos de la famosa Queste del Saint Graal, incorporen un material narratiu absolutament insòlit: un material tret de la realitat quotidiana i, encara, de la realitat urbana: burgesa. En principi, hi ha, entre les dues, una colla de coincidències, que, examinades amb detall, potser podrien ajudar a establir uns criteris de datació o, almenys, de precedència de l’una envers l’altra. Abans de tot, l’organització externa dels materials. Una organització que, en totes dues, utilitza simbòlicament una sèrie de fórmules dogmàtiques o, en tot cas, catequístiques perfectament fixades: les virtuts cardinals, les benaurances, l’Ave Maria o el Glòria, etc. En segon lloc, els dos protagonistes, Fèlix i Blanquerna, són, com els herois del Sant Graal, personatges joves, bells i verges. I tots dos, com ells, són temptats carnalment per una dona/donzella que acompanyaven/menaven a llur destí. Altrament, Blanquerna figura, en la primera, com a ermità: com a l’únic ermità individualitzat amb un nom propi. I, en la segona, figura com a protagonista. Un protagonista que, després d’una pila d’atzars, aconsegueix, ja vell, de realitzar el seu ideal de joventut: abraçar la vida ermitana. A més, sembla que, en el Fèlix, hom pot advertir l’esbós d’algunes de les idees i personatges que, en el Blanquerna, són centrals. La idea de convertir en ofici activitats de tipus moral/religiós. És el cas, per exemple, del protagonista, Fèlix, l’ofici del qual consistia a meravellar-se de les meravelles del món. O el del pelegrí, l’ofici del qual era donar consol als afligits. El tipus de joglar al servei de Déu recorda un dels personatges més eminents del Blanquerna: el Joglar de Valor. O el tipus del Foll o, almenys, del Foll contrafet a l’espiritual, que fa pensar en Ramon lo Foll, company, a la cort pontifícia, del Joglar. I un personatge episòdic, per últim, podria sintetitzar la història d’Evast:
+
+En una ciutat havia un noble burgès molt ric; e con se morí lleixà tot quant havia a son fill. Aquell fill del burgès fo request per moltes persones: los uns li volien donar muller, los altres lo pregaven que entràs en orde. Aquell macip fo en volentat que venés tot quant havia, e que en faés un hespital e un pont.
+
+De tota manera, hi ha, entre les dues, notables diferències. En primer lloc, el Fèlix intenta d’explicar el món i, més en concret, Déu i els homes. I el Blanquerna, a partir d’aquests coneixements, intenta de proposar per a ell un nou ordre polític. En segon lloc, la filosofia. Una filosofia que, en la primera, s’identifica amb la vida contemplativa. I que, en la segona, pretén d’harmonitzar la contemplativa amb l’activa. Una harmonització jeràrquica, tanmateix. Car el protagonista, la vida, la corona amb la contemplació! I, per últim, la tria i l’articulació narrativa dels materials. Una tria i una articulació que, en la primera, són més primitives: més rudimentàries. L’acció principal de les dues gira al voltant dels protagonistes: Fèlix i Blanquerna. Ara: en la primera, és plantejada en termes didàctics, és a dir, de preguntes i respostes. I, en la segona, ho és en termes més imaginatius: biogràfics. Un plantejament que comença amb la vida dels pares i que, després d’un caramull d’aventures, acaba, quan ja és vell, amb l’acompliment del seu ideal. I que, en l’endemig, té incrustada la història d’un altre personatge: la de la noia que la mare li destinava per muller. Altrament, la primera transcorre en un paisatge de selves, boscos i muntanyes, amb una població d’ermitans i de pastors. O, en tot cas, de transeünts fugaços. I és, al capdavall, una acció tipificada i reduïda a la seva mínima expressió. La de la segona, en canvi, transcorre en un paisatge de boscos i muntanyes i, sobretot, en un d’urbà: burgès. I constitueix, a més, una acció plena d’alts-i-baixos, que insinua anàlisis psicològiques més o menys individualitzades. A més, totes dues, les amplia, Llull, amb una gran quantitat d’eximplis: d’anècdotes. Uns eximplis que, en la primera, són d’intenció didàctica i són, de fet, externs. I que estan, en la segona, perfectament articulats i compleixen una funció concreta: la de totalitzar el testimoni/proposta utòpica.
+
+El Llibre de meravelles constitueix una mena d’aprenentatge de la vida i, més concretament, de la ciència de la vida. En efecte: Llull hi descriu les aventures de Fèlix, que, per prescripció paterna, «anava per los boscatges, per munts e per plans, e per erms e per poblats, e per prínceps e per cavallers, per castells, per ciutats; e meravellava’s de les meravelles qui són en lo món; e demanava ço que no entenia, e recontava ço que sabia; e en treballs e en perills se metia per tal que a Déu fos feta reverència e honor» (Prefaci). Aquestes aventures, que, a la pràctica, són menys variades i incisives que les anunciades, consisteixen, de fet, en l’ànsia de saber que domina el protagonista i en els dubtes que la vida li planteja. I, sobretot, en l’exposició dels coneixements bàsics amb els quals una colla d’ermitans intenten de resoldre’ls. En pocs casos, realitza, Fèlix, i anava a dir que com a simple voyeur, aventures pròpiament dites. És el cas, per exemple, de l’aventura dels dos prínceps que reben una educació distinta, l’una intel·lectual i l’altra bèl·lica. O la de Diria-hom i Poc-me-preu: l’única que si no m’equivoco té lloc en un àmbit urbà. L’estructura de la novel·la, doncs, és un diàleg entre mestre(s)/deixeble i té, per tant, com ja remarcà el pare Batllori, un autèntic «parentiu amb la literatura escolàstica quodlibetal». I, més exactament, com assenyalà Martí de Riquer, amb una obra composta el 1220 per Cesari de Heisterbach: el Dialogus de miraculis. Una obra en la qual un monjo, ple de saviesa i d’experiència, dialoga amb un neòfit sobre diverses qüestions filosòfiques i religioses. I ho fa a través d’una pila d’eximplis.
+
+En principi, l’erudició, Llull la treu d’una de les obres més populars del seu temps: el Speculum naturale, de Vincent de Beauvais. I l’ordena en deu parts, que tracten, respectivament, de Déu, dels àngels, del cel, dels elements, de les plantes, dels metalls, de les bèsties, de l’home, del paradís i de l’infern. Ara: Llull, pel simple goig d’escriure i amb la idea de posar-la a l’abast d’un públic majoritari, transformà l’estructura enciclopèdica en una altra de més incisiva: novel·lística. En primer lloc, la matèria didàctica, l’adornà amb l’ús d’un tòpic, el del locum amoenum, amb el qual aconseguí instants d’una prodigiosa bellesa:
+
+Sesia lo fisolof sots un bell arbre carregat de fulles e de flors; una bella fontana regava aquell arbre, en lo qual havia molts aucells qui dolçament cantaven. Segons la disposició de l’arbre, e de la font, e dels aucells, contemplava lo fisolof la granea e la bonesa de Déu, qui en aquell arbre se representaven per manera de creador e de creatura.
+
+O amb exclamacions dels personatges que posen un toc de vibració emotiva a llurs constants raonaments:
+
+A, com és benuirat aquell qui llongament la vida met en servir Déu, e qui molt treballa per la sua amor! A, mort! No m’aucies, e lleixe’m llongament treballar en conèixer e en amar mon Déu gloriós. A, Déu gloriós! Posa en mon cor, pus l’has creat per amar, gran feix que port tots temps per la tua amor, e per donar de tu glòria e coneixença!.
+
+En segon lloc, inventà un emmarcament per a cada lliçó o, almenys, per a cada part. Un emmarcament que, a la vegada, és escenogràfic i psicològic. Així, per exemple, utilitza, en la primera part, el recurs d’un gènere trobadoresc, el de la pastorel·la, per a presentar la història d’una pastora solitària que havia posat la seva confiança en Déu i que, malgrat tot, havia estat devorada per un llop. Una història que planteja al protagonista seriosos dubtes sobre l’existència de Déu —«hac opinió que Déu no fos res», diu— i que el duu a buscar un mestre: un mestre que els hi resolgui. O, en la mateixa part, explica la d’una «folla fembra», amant d’un prelat, que n’hi planteja d’altres sobre l’eficàcia de l’acció redemptora de Crist. Una història, aquesta, que, amb l’ajut d’una segona dona, que li remou la carn i el fa caure en la temptació, introdueix el protagonista a l’ermita de Blanquerna. En tercer lloc, gràcies al mètode de preguntes i respostes, intercala en les explicacions científiques una gran quantitat d’eximplis i d’històries. Uns eximplis i unes històries que treu de l’experiència personal o de repertoris escolàstics, i que pretenen de subtilitzar la ment:
+
+—Sènyer —dix Fèlix al sant ermità—, molt me meravell de vostros eximplis, car vijares m’és que no facen res al prepòsit de què jo us deman.
+
+—Bells amics —dix l’ermità—, escientment vós fas aitals semblances per ço vostro enteniment exalcets a, entendre; car on pus escura és la semblança, pus altament entén l’enteniment qui aquella semblança entén.
+
+
+
+Uns eximplis i unes històries que són reduïts a simple argument. I que, ara i adés, són desenrotllats fins a adquirir plena autonomia. A vegades, Llull converteix els seus estats d’ànim o los seves obsessions personals —el seu negoci: la conversió dels infidels— en històries que traeixen una vibració especial. D’altres, utilitza un recurs de rang trobadoresc: el debat entre personificacions d’idees abstractes. I, amb aquest recurs, obté resultats prou remarcables. D’altres, són, les històries, d’una tenebrosa crueltat. O presenten deliciosos contrastos de la vida domèstica:
+
+En aquell dia que morí aquell ric hom, e foren venguts de l’esgleia sa muller e sos infants, qui en aquell dia hagren molt plorat per la mort del ric hom, un gat, denant ells, dementre sesien en una gran sala, jugava ab una ploma en tal manera que la muller, e los infants, e d’altres qui, per ells acompanyar estaven en la sala, se reïen del gat e de la ploma.
+
+D’altres, en fi, tracten de temes més delicats, com la del comportament sexual d’una dona casada que, de jove, havia estimat massa la seva virginitat. O descriuen alguns problemes de consciència més o menys tipificats i fins introdueixen l’acció terapèutica, o no, dels somnis:
+
+Era una dona qui havia un fill que molt amava. Aquell fill fo d’edat de vint anys e mori, e la dona fo en molt gran tristícia, dia e nit, per la mort de son fill. Aquella dona veé en visió que son fill visqués dos anys més, que ell auciria un hom, e fóra penjat e demnat en infern; mas car era enans mort, era bé mort, e era salvat. Con la dona se despertà, ella fo en molt gran goig, e depuixes no hac tristicia de la mort de son fill.
+
+El Llibre de les bèsties, incorporat de manera forçada al conjunt de l’obra, i compost, segons que sembla, amb absoluta independència, és la part més novel·lística: més imaginativa. De fet, és un apòleg animalístic a través del qual se satiritza la societat dels homes i, a la vegada, s’articula una mena de tractat de prínceps. Una sàtira i un tractat que, gràcies a la introducció, formada per un elogi de l’orde que pretenia de recuperar la puresa dels orígens, l’anomenada dels apòstols, adquireix una gran violència. En efecte: l’acció de l’apòleg i, més en concret, alguns dels seus episodis centrals, com l’elecció del rei o el procés de persuasió de l’Orifany i el Bou, són d’una gran vivacitat i colorit. Llull, per a la trama, per a molts dels personatges i dels eximplis amb què s’il·lustren els uns als altres, s’inspirà en una obra oriental que, al seu temps, havia conegut una notable difusió en àrab; el Kalila i Dimna. I, alhora, hi afegí algun personatge, com el protagonista, Na Renart, i algun episodi com la violació de la lloba Hersent, d’un dels cicles animalístics més fecunds de l’Edat Mitjana: el Roman de Renard. Amb tot, aquests materials, els refongué, amb d’altres procedents de fonts orientals, o no, en un cos coherent. Un cos en el qual alguns dels episodis més reeixits, com l’elecció del Lleó o l’actuació de l’home «pobrament vestit», són rigorosament originals. Llull, gràcies a l’apòleg i, sobretot, a bona part dels eximplis i al viatge dels animals a la societat dels homes, dóna una imatge amarga i pessimista d’aquests: «la pus mala bèstia e la pus falsa qui sia en est món, és hom», diu el Bou. I, entre els homes, del rei: el Lleopard, per exemple, «dic enfre si mateix, que ell anava més ésser bèstia racional, jassia que no sia res aprés sa mort, que si era rei dels hòmens, en qui fos tanta de colpa com era lo mal qui es seguia per malvat rei». Així, el Llibre, el convertí en una mena d’«advertiment de prínceps»: Fèlix, diu el colofó, l’
+
+aportà a un rei per tal que veés la manera segons la qual, en ço que fan les bèsties, és significat com lo rei dega regnar e es dega gordar de malvat consell o de falses hòmens.
+
+En el fons, Llull, format en plena crisi de la societat feudal, acceptava els seus usos jeràrquics i limità la critica als seus mecanismes: als seus mecanismes morals. L’Orifany, per exemple, diu a propòsit de l’ascensió social de Na Renart:
+
+en pauc anap no pot molt vi caber, ni en persona qui sia de vil lloc, no cap gran honrament ni gran lleialtat.
+
+O la Serpent, a propòsit dels judicis de Déu:
+
+Batalla fo atrobada per ço que veritat confusés e destrovis falsia. E Déus és veritat; per què tota persona qui mantenga falsedat, se combat ab Déu e ab veritat.
+
+Aquests usos, els desequilibren l’ambició i la traïdoria dels homes: dels consellers.
+
+Aquest rei a qui vosaltres sots trameses, és hom qui es confia massa en son consell, e ha àvol consell, e malvat, e de vils hòmens; e cascun de son consell cuida mills ésser rei, que el rei mateix, e ensems gasten son regne; e lo rei no n’ha cura, ni ha ànsia sinó de caçar, e de deportar, e de luxuriejar, e de fer vanitats.
+
+I, aleshores, sorgeixen les inhibicions, les injustícies, les violacions i exilis: i les execucions. Eliminats els culpables, tanmateix, la tranquil·litat torna a la terra dels animals —i, doncs, dels homes:
+
+E puis que Na Renart fo mort, fo sa cort en bon estament.
+
+En conjunt, el Llibre de meravelles, revela, malgrat la seva intenció, una prodigiosa capacitat de contar, és a dir, una prodigiosa capacitat d’observació de la realitat i d’ordir, amb el material recollit, unes històries més o menys possibles. Una realitat tipificada que, alhora, donava la cara més mecànica de cada dia i n’insinuava una altra: la més fonda de la consciència o la més vibrant del somni. I, a través de la fusió de les dues, articulà un autèntic retaule de la vida de l’època. Una vida desordenada que volia tornar a la puresa primitiva. A l’ideal pel qual havia estat creada!
+
+JOAQUIM MOLAS
+
+B., 2 de gener
+
+
+
+
+
+Nota sobre l’edició
+
+
+Donem el text segons el manuscrit de l’any 1367 conservat a la Societat Arqueològica Lul·liana de Ciutat de Mallorca, a través de l’edició que en féu Salvador Galmés per a «Els Nostres Clàssics» (Barcelona, 1931-1934). Hem tingut també en compte l’edició de Jeroni Rosselló i Mateu Obrador (Obras de Ramón Llull, Palma de Mallorca, 1901).
+
+L’ortografia ha estat regularitzada sempre que el canvi no pogués implicar una realització fonètica diferent de la que el manuscrit fa suposar. L’adaptació, doncs, es redueix a: regularització del vocalisme àton; simplificació de les consonants dobles; regularització de «ll» en posició inicial; eliminació de la «h» intervocàlica i final; desenvolupament de la «s» líquida; regularització de «d» i «t» en posició final i de «b» i «v»; canvi de «x» per «ix» intervocàlica o final; substitució de «y» per «i» o per «ï», segons els casos, i regularització de «s», «ss», «c» i «ç» quan és transcrit el so alveolar fricatiu sord. Han estat desenrotllades les elisions vocàliques en els pronoms febles i regularitzat l’ús del guionet i de l’apòstrof, aquest darrer cas amb una excepció: hem conservat la forma femenina de l’article definit davant l’indefinit «un».
+
+Les quantitats, que apareixien sempre en xifres romanes (àdhuc les formes «un» i «una»), han estat transcrites en lletres quan es tractava de numerals cardinals i respectades si eren ordinals. En els casos on eren possibles dues grafies, documentades en textos de l’època (p.e. «seixanta» o «xixanta»), hem adoptat la forma culta.
+
+La numeració per capítols, inexistent en el manuscrit pres com a base, és la del manuscrit de 1458 conservat a la mateixa societat que l’anterior.
+
+
+
+
+
+Comença lo VIIè llibre, qui és de les bísties.
+
+Can Fèlix hac pres comiat del fisolof, ell anava per una vall plena d’arbres e de fontanes. A l’eixida de la vall, ell encontrà dos hòmens qui havien grans barbes e grans cabells, e eren pobrament vestits. Fèlix saludà aquells dos hòmens, e ells saludaren Fèlix.
+
+—Bells senyors —dix Fèlix—, vosaltres, don venits?, ni de qual orde sots? Car, segons vostros vestiments, semblança havets que siats d’algun orde.
+
+—Sènyer —digueren los dos hòmens—, nós venim de llongues terres, e som passats per una plana que és prés d’ací. En aquella plana ha gran ajustament de bèsties salvatges que volen elegir rei. Nosaltres som apellats de l’«orde dels apòstols», e nostres vestiments e nostra pobretat signifiquen lo capteniment en què los apòstols eren dementre vivien en est món.
+
+Molt se meravellà Fèlix dels dos hòmens com havien empetrat tan alt orde com és cell dels apòstols; e dix aquestes paraules:
+
+—Orde d’apòstol és sobirà a tots ordes. E qui és en orde d’apòstol, no deu dubtar mort, e deu anar mostrar la via saludable als infeels qui són en error; e als crestians qui són en pecat deu dar doctrina de santa vida, per obra e per preïcació. Aital hom qui sia en orde d’apòstol, no deu cessar de pregar e de fer bones obres a tot son poder.
+
+Aitals paraules e moltes d’altres dix Fèlix als dos hòmens qui s’apellaven de l’orde dels apòstols.
+
+—Sènyer —digueren aquells dos hòmens—, nosaltres no som dignes que siam en tan alta vida com eren los apòstols; mas som figura de la conversació dels apòstols, la qual figura representem en nostres vestiments, e en nostra pobretat, e en lo descorriment que fem per lo món, de terra en terra. Nós havem esperança en Déu que ell trameta hòmens de santa vida en lo món, los quals sien de l’orde dels apòstols, e que aquells hagen ciències e llengatge on sàpien preïcar e convertir los infeels per ajuda de Déu, e als crestians donen bon eximpli per vida e per santes paraules; e per tal que Déus se’n moga a pietat, e que los hòmens crestians desigen l’aveniment d’aitals hòmens, representem en figura los apòstols.
+
+Molt plac a Fèlix ço que els dos hòmens li deïen, e ab ells ensems plorà llongament, e dix estes paraules:
+
+—Ai, sènyer Déus Jesucrist!: on és la santa fervor e devoció qui ésser solia en los apòstols, qui en vós amar e conèixer no dubtaven a sostenir treball ni mort? Bell senyor Déus, plàcia a vós que en breu venga temps en qui es complesca la santa vida que és significada en la figura de la vida d’aquests hòmens.
+
+Aprés aquestes paraules, Fèlix comanà a Déu los sants hòmens, e anà en aquell lloc on les bèsties volien elegir rei.
+
+
+
+
+
+I. De l’elecció de rei
+
+
+En una bella plana, per on passava una bella aigua, estaven moltes bèsties que volien elegir rei. Acord fo emprès per la major part, que el Lleó fos rei; mas lo Bou contrastava molt fortment a aquella elecció, e dix estes paraules:
+
+—Senyors, a noblesa de rei se convé bellesa de persona, que sia gran, humil, e que no dó damnatge a ses gents. Lo Lleó no és gran bèstia, ni és bèstia que viva d’herba, ans menja les bèsties. Lo Lleó ha paraula e veu que fa estremir de paor tots nosaltres, con crida. Mas, per mon consell, vosaltres elegirets lo Cavall a rei; car lo Cavall és gran bèstia, e bella, e humil: lo Cavall és bèstia lleugera, e no ha semblant ergullós, ni no menja carn.
+
+Molt plac al Cervo, al Cabirol, e al Moltó, e a totes les altres bèsties que vivien d’herbes, ço que el Bou deïa; mas Na Renart se denantà de parlar denant tots, e dix estes paraules:
+
+—Senyors —dix Na Renart—, con Déus creà lo món, no el creà per entenció que hom fos conegut ne amat, ans ho féu per ço que ell fos amat e conegut per hom; e segons aital entenció, Déus volc que hom fos servit per les bèsties, jatsia que hom viva de carn e d’herbes. E vosaltres, senyors, no devets esguardar a l’entenció del Bou, qui desama lo Lleó, per ço car menuja carn; ans devets seguir la regla e l’ordonança que Déus ha donades e posades en les creatures.
+
+De l’altra part al·legà lo Bou, ab sos companyons, contra ses paraules de Na Renart, e dix que per ço deïa ell que el Cavall fos rei: car lo Cavall menuja herba. Per què ell e sos companyons havien vera entenció a l’elecció de rei; car si falsa entenció hi havien, no dirien que el Cavall, qui menuga l’herba que ells menuguen, fos rei. Ni ells no devien creure Na Renart de l’elecció del rei; car Na Renart més vol que el Lleó sia rei, per ço car viu de les romanalles qui romanen del Lleó, con ha menjat en la caça que ha presa, que no fa per la noblesa del Lleó.
+
+Tantes de paraules hac de l’una part e de l’altra, que tota la cort se torbà, e l’elecció fo empatxada. E l’Ós, e el Lleopard, e l’Onça, qui havien esperança que fossen elets a rei, digueren que la cort s’allongàs tro a l’altre temps que haguessen determenat qual bèstia és pus digna d’ésser rei. Na Renart conec que l’Ós, e el Lleopard, e l’Onça allongaven l’elecció, per ço car cascun havia esperança d’ésser rei, e dix, en presència de tots, estes paraules:
+
+—En una esgleia catedral se faïa elecció, e era contrast, en aquell capítol de l’elecció del bisbe; car los uns canonges volien que fos bisbe lo sagristà d’aquella esgleia, lo qual era hom molt savi de lletres, e de virtuts era abundós. L’arquediaca cuidava ésser elet a bisbe, e lo cabiscol atrestal, e contrastaven de l’elecció del sagristà, e consentien que fos bisbe un canonge simple qui era bell de persona e no sabia neguna ciència. Aquell canonge era flac de persona e era molt luxuriós. Molt se meravellà tot lo capítol de ço que l’ardiaca e el cabiscol deïen. En aquell capítol havia un canonge qui dix aquestes paraules: «Si lo Lleó és rei, e l’Ós e l’Onça e el Lleopard han contrast a la sua elecció, tots temps seran en malvolença del rei; e si lo Cavall és rei, e lo Lleó fa negun falliment contra lo rei, com ne porà pendre venjança lo Cavall, qui no és tant fort bèstia com és lo Lleó?».
+
+Can l’Ós, e l’Onça, e el Lleopard hagueren oït l’eximpli que Na Renart havia dit, temeren fortment lo Lleó, e consentiren a l’elecció, e volgren que el Lleó fos rei. Per la força de l’Ós, e de les altres bèsties qui menjaven carn, mal grat de les bèsties qui menjaven herba, fo elet lo Lleó a ésser rei; lo qual Lleó donà llicència a totes les bèsties qui vivien de carn, que menjassen e visquessen de les bèsties qui mengen herba.
+
+Un dia s’esdevenc que lo rei estava en parlament, e tractava de l’ordonament de sa cort. Tot aquell dia, tro prés de la nit, estegueren en parlament lo rei e sos barons, que no hagueren menjat ni begut. Con hagueren tengut parlament, lo Lleó e sos companyons hagueren fam, e demanà al Llop e a Na Renart què porien menjar; e ells responeren e digueren tard era com poguessen percaçar vianda; mas prés d’aquell lloc havia un vedell, fill del Bou, e un pollí, fill del Cavall, de què porien menjar abundosament. Lo Lleó tramès en aquell lloc, e féu venir lo vedell e el pollí, e menjaren-los. Molt fo irat lo Bou de la mort de son fill, e sí es fo lo Cavall; ensems vengueren-se’n a l’hom, per tal que li servissen, e que los venjàs del falliment que llur senyor havia fet contra ells. Can lo Bou e el Cavall se foren presentats a hom per servir-lo, l’hom cavalcà lo Cavall, e féu arar lo Bou.
+
+Un jorn s’esdevenc que el Cavall e el Bou s’encontraren, e cascun demanà a l’altre de son estament. Lo Cavall dix que molt era treballat en servir son senyor, car tot jorn lo cavalcava, e el faïa córrer amunt e avall, e de jorn e de nits estava pres. Molt desijà lo Cavall que fos eixit de la servitud de son senyor, e tornara volenters ésser sotsmès al Lleó; mas per ço car lo Lleó menuga carn, e car hac alguna veu a ésser elet a rei, dubtà que tornàs en la terra en la qual lo Lleó regnava, e amà més ésser en treball sots senyoria d’hom, qui no menuga carn de cavall, que en paria del Lleó, qui menja carn de cavall.
+
+Can lo Cavall hac recontat son estament al Bou, lo Bou dix al Cavall que ell era en gran treball, tot jorn, d’arar, e del blat que la terra que ell arava, llevava, no li lleixava son senyor menjar, ans convenia que con era eixit e ujat de l’arada, que anàs pasturar les herbes que havien menjades les ovelles e les cabres, dementre que ell arava. Molt fortment se clamà lo Bou de son senyor, e el Cavall l’aconhortava aitant com podia.
+
+Dementre que enaixí lo Bou e lo Cavall parlaven, un carnisser venc gordar lo Bou si era gras, car lo senyor del Bou lo li havia tret venal. Lo Bou dix al Cavall, que son senyor lo volia vendre, e lo volia fer ociure e menjar als hòmens. Lo Cavall dix que mal gasardó li retia del servei que fet li havia. Llongament ploraren lo Cavall e el Bou: lo Cavall consellà al Bou que fugís, e que s’en tornàs a sa terra; car més li valia estar en perill de mort e ab treball, que ab senyor desconeixent.
+
+
+
+
+
+II. Del consell del rei
+
+
+Can lo Lleó fo elegit en rei, ell féu un bell sermó denant son poble, e dix aquestes paraules:
+
+—Senyors, volentat és estada de vosaltres que jo sia rei. Tots sabeu que ofici de rei és molt perillós, e és de gran treball: perillós és, car per los pecats del rei s’esdevé moltes vegades que Déus tramet en terra fam, e malauties, e mort, e guerres; e açò mateix fa per pecats de poble. E per açò és a rei perillosa cosa regnar, e son regnar és cosa perillosa a tot son poble. E cor sia gran treball a rei governar sí mateix e son poble, per açò vos prec tots ensems que em donets consellers qui m’ajuden e que em consellen en tal manera que sia salvament de mi e de mon poble. Aquells consellers que em darets, vos prec que sien hòmens savis e lleials, e tals que sien dignes d’ésser consellers, e en paria de rei.
+
+A tots los barons e al poble d’aquella cort plagueren les paraules que havia dites lo rei, e tots se tengueren per bé avenguts en l’elecció del rei. Acord fo emprés que l’Ós, e el Lleopard, e l’Onça, e la Serp, e lo Llop fossen consellers del rei. Tots aquests, en presència de la cort, juraren com al rei donassen lleial consell en tot ço que poguessen.
+
+Molt desplac a Na Renart, car no l’havien elegida en ésser conseller del rei; e en presència de la cort dix aquestes paraules:
+
+—Segons que es troba escrit en l’Evangeli, Jesucrist, que és rei del cel e de la terra, volc haver amistat e companyia d’homs simples e humils; e per açò elegí los apòstols, qui eren hòmens simples e pobres, a significança que en la sua virtut los exalçàs, e que ells ne fossen pus humils. A esmenda de tots vosaltres, dic que a mi seria semblant que el rei degués haver en son consell bèsties simples e humils, per ço que no s’ergullassen per poder ne per llinatge, ne que ab lo rei no se volguessen egolejar, e que a les bèsties simples e que viuen d’herba, fos eximpli d’esperança e d’humilitat.
+
+A l’Aurifany, e al Senglar, e al Boc, e al Moltó, e a les altres bèsties que vivien d’herba, parec bé ço que deïa Na Renart; e tots aquests consellaren al rei que Na Renart, que era bé parlant e havia gran saviesa, fos del consell del rei. E Na Renart consellà e tenc per bo que l’Orifany, e el Senglar, e el Boc, e el Moltó fossen del consell del rei.
+
+En gran consirer foren l’Ós, e el Lleopard, e l’Onça, con oïren que Na Renart fos del consell del rei; car gran paor hagren que Na Renart, ab sa parlària e mestria, no els faés venir en ira del rei, e majorment con Na Renart hagués més consellada l’elecció del rei, que neguna altra bèstia.
+
+—Sènyer —dix lo Lleopard al rei—, en vostra cort és lo Gall, qui és bell en persona, e és savi, que sap ésser senyor de moltes gallines. Aquell canta en l’alba molt clarament e bellament: molt mills se cové que ell sia de vostre consell que Na Renart. L’Aurifan dix que bo era que lo Gall fos del consell del rei, per ço que li donàs eximpli com degués regir e sotsmetre a si la regina, e per ço que el despertàs en l’alba, e que pregàs Déu; e Na Renart era bona a ésser conseller del rei, per ço car és sàvia bèstia e sap moltes coses.
+
+Lo Lleopard dix que no es cové a consell de rei ésser dues persones que per natura sien en malvolença, car per la mala volentat que han, se’n poria torbar lo consell del rei. De l’altra part parlà Na Renart, e dix que ab consell de rei se tanyia que hi fossen belles bèsties e grans, així com l’Orifany, e el Senglar, e el Boc, e el Moltó, e el Cero; car en presència del rei se cové bellesa de persona.
+
+En volentat fo lo rei que Na Renart e sos companyons fossen de la cort e de son consell; e fóra fet, mas que lo Lleopard dix al rei secretament estes paraules:
+
+—Sènyer, un comte havia guerra ab un rei; e car lo comte no era tant poderós com lo rei, ajudà’s ab mestria de la guerra del rei, ço és saber, que aquell comte secretament donà grans dons a l’escrivà del rei, per tal que li faés saber tots los ardits que el rei faria en sa guerra contra ell. E per ço aquell escrivà empatxava lo poder del rei, que no podia venir a fi de la guerra del comte.
+
+Con lo Lleopard hac finides ses paraules, e el Lleó hac entesa la semblança, ell dix que el Gall fos de sa cort, e no volc que Na Renart fos de sa cort, per ço que no faés a saber a l’Orifan, e a les bèsties qui vivien d’herba, l’ardit del rei ni de sos companyons.
+
+
+
+
+
+III. De la traïció que Na Renart tractà del rei
+
+
+Molt desplac a Na Renart e a sos companyons com no foren del consell del rei; e en aquell punt Na Renart concebé en son coratge traïció, e desijà la mort del rei. E dix a l’Orifany aquestes paraules:
+
+—D’aquí avant gran inamistat serà enfre les bèsties qui mengen carn e les bèsties qui mengen herba; car lo rei e sos consellers mengen carn, e vosaltres no havets en son consell neguna bèstia qui sia de vostra natura, ni que vostre dret mantenga.
+
+L’Aurifan respòs, e dix que en la Serp e en lo Gall havia esperança que raonarien son dret en la cort del rei, car eren bèsties qui no vivien de carn. Respòs Na Renart, e dix que en una terra s’esdevenc que un crestià havia un sarraí en qui molt se fiava, e al qual faïa molts de plers; e el sarraí, per ço cor era a ell contrari per lig, no li podia portar bona volentat, ans considerava tots jorns com l’auciés.
+
+—E per açò, sènyer Orifan —dix Na Renart—, tan són la Serp e el Gall d’estrany llinatge a vós e a vostros companyons, que jatsia açò que no mengen carn, per tot açò no us hi fiets, ans creats per cert que consintran en tot açò que sia damnatge de vós e de tots vostros companyons.
+
+En gran consirer entrà l’Orifan per les paraules que Na Renart li havia dites, e consirà llongament en lo damnatge que podia venir a ell e a sos companyons per l’elecció del rei e per sos consellers. Dementre que l’Orifan enaixí considerava, Na Renart li dix que no hagués temor del rei e de sos companyons, car si ell volia ésser rei, ella tractaria per què poria ésser rei. Mas l’Orifan dubtà en Na Renart que no el traís; car per natura més devia amar les bèsties que vivien de carn, que les bèsties que vivien d’herba. E dix a Na Renart estes paraules:
+
+—En una terra s’esdevenc que un milà portava una rata, e un ermità pregà Déus que aquella rata caigués en sa falda. Per les oracions del sant hom, Déus féu caser aquella rata en la falda d’aquell ermità, lo qual pregà Déus que en faés una bella donzella. Déus exausí los precs de l’ermità, e féu de la rata una bella donzella. «Filla», dix l’ermità, «vós volets lo sol per marit?». «Sènyer, no, car al sol tollen els nuus la claretat». E l’ermità demanà si volia per marit la lluna; e ella dix que la lluna no havia sa claredat per si mateixa, ans l’havia pel sol. «Bella filla, volets vós lo núvol per marit?». Respòs que no, car lo vent menava les nuus lla on se volia. La donzella no volc lo vent per marit, per ço car les muntanyes l’empatxaven a son moviment; ni volc les muntanyes, per ço car les rates les foradaven; ni volc hom per marit, per ço car auceïa les rates. A la fi la donzella pregà l’ermità que pregàs Déus que tornàs rata, enaixí com d’abans s’era, e que li donàs marit un bell rat.
+
+Can Na Renart hac oït l’eximpli, conec que l’Orifan hac sospita en ell, e temé’s que no la descobrís; e diguera volenters al Senglar que fos rei, enaixí com havia dit a l’Orifan. Mas per tal que molts no sabessen son coratge, volc tractar a totes passades que l’Orifan fos rei, e dix aquestes paraules:
+
+—En una terra s’esdevenc que un cavaller havia, d’una dona, un bell fill. Esdevenc-se que la muller d’aquell cavaller morí, e lo cavaller pres altra muller, la qual desamà molt lo donzell, que son marit molt amava. Con aquell donzell fo d’edat de vint anys, la dona cogità manera per la qual faés a son marit exel·lar de son alberg son fill, e dix a son marit que lo donzell l’havia demanada de follia. Tant fortment amava lo cavaller sa muller, que encontinent la creec de tot ço que dit li havia, e gità son fill de son hostal, e a aquell fo mandament que per null temps no fos en sa presència. Lo donzell fo fort mogut a ira contra lo pare, per ço car sens raon l’havia gitat de son hostal, e li havia tolta sa gràcia.
+
+Segons l’eximpli que Na Renart hagc dit, fo en partida consolat l’Orifany, e hac esperança en ço que Na Renart li hac dit, con fos rei; e dix a Na Renart com poria tractar que el rei morís, ni que ell fos elet a rei, com sia cosa que el rei sia tan forts de persona e haja tant savi consell, e com Na Renart sia tant poca bèstia e ab tant frèvol poder.
+
+Respongué Na Renart, e dix est eximpli:
+
+—En una terra s’esdevenc que totes les bísties se cordaren que donassen tots dies una bèstia al lleó, per ço que no les treballàs en son caçar; e el lleó les n’apellà quíties. Tots dies aquelles bísties gitaven sorts, e aquella bístia sobre a qui tanyia la sort, anava al lleó e menjava-la. Un dia s’esdevenc que caec la sort sobre una llebre, e aquella llebre trigà anar al lleó tro hora de mig dia, car temia morir. Molt fo irat lo lleó, car tant s’havia estat la llebre, car gran fam havia; e dix a la llebre per què havia tant estat. E la llebre s’escusà, e dix que prés d’aquell lloc havia un lleó qui deïa que era rei d’aquella terra, e qui l’havia cuidada pendre. Lo lleó fo molt irat, e cuidà’s que fos veritat ço que la llebre li havia dit, e dix que li mostràs lo lleó. La llebre se mès primera, e lo lleó la seguí. La llebre venc a un gran pèlag d’aigua, la qual era d’una bassa qui era environada, de totes parts, d’un gran mur. Con la llebre fo sobre l’aigua, e l’ombra de la llebre e del lleó aparegueren en l’aigua, dix la llebre al lleó: «Sènyer, veus lo lleó qui és en l’aigua, e vol menjar una llebre?». Lo lleó se cuidà de la sua ombra que fos lleó, e saltà en l’aigua, per ço que es combatés ab aquell lleó. Lo lleó morí en l’aigua, e la llebre ab sa sortesa aucís lo lleó.
+
+Con l’Orifan hac ausit l’eximpli, ell dix a Na Renart aquest eximpli:
+
+—Un rei havia dos donzells qui pensaven de sa persona. Un dia s’esdevenc que el rei seïa en sa cadira, e denant si estaven gran res d’altres barons e de cavallers. La un d’aquells donzells estava denant ell, e viu en una vestedura de sàmit blanc, que el rei vestia, estar una neira. Aquell donzell dix al rei que li plagués que ell s’acostàs a ell, e que presés una neira que estava en son mantell. Lo rei donà llicència al donzell que s’acostàs a ell; e lo donzell pres la neira, e lo rei volc veure la neira, e mostrà-la a sos cavallers, e dix que molt era gran meravella com tan poca bèstia se gosava a acostar a rei. Lo rei fé donar al donzell cent besants. L’altre donzell hac enveja de son companyó, e l’endemà posà un gran posoll en lo mantell del rei, e dix semblants paraules, al rei, que son companyó li havia dites. Lo donzell donà lo posoll al rei, e lo rei s’esquivà fortment, e dix que ell era digne de mort, per ço car sos vestirs no gordava de polls; e féu donar a aquell donzell cent assots.
+
+Na Renart conec que l’Orifan havia paor en ésser rei, e meravellà’s com en tant gran persona com la sua podia caber tanta de paor. E dix a l’Orifan estes paraules:
+
+—Reconta’s que la Serpent, en Eva, que era sola femna, féu venir en la ira de Déu Adam e tots sos conseqüents. Doncs, si la Serpent ab Eva tractà tant de mal, bé se pot esdevenir que jo, ab mon seny e ab ma sortesa, pusca tractar que lo rei venga en ira de son poble.
+
+En aquella hora que l’eximpli d’Eva li hac recontat Na Renart, concebé l’Orifan en la traïció del rei, e dix a Na Renart que ell seria volenters rei, tota hora que Na Renart hagués fet auciure lo rei. Na Renart dix a l’Orifan que ella tractaria que el rei morís, e l’Arifan promès a Na Renart grans dons e grans honraments, si ella tractava com fos rei.
+
+
+
+
+
+IV. En qual manera Na Renart fo porter del rei
+
+
+En la cort del rei fo ordonat que lo Gat fos cambrer del rei, e lo Ca fos porter. Lo Gat fo cambrer, per ço que menjàs les rates, qui destruen los draps, e per ço car era semblant al rei en figura; lo Ca fo porter, per ço car sentia lluny, e lladrava, e faïa saber al rei aquells qui a ell venien. Estant lo Gat e el Ca en llurs oficis, Na Renart anà cercar lo Bou e el Cavall, qui eren partits de la cort del rei; e atrobà lo Bou en la via, que se’n tornava a la cort del rei. En una bella plana s’atrobaren Na Renart e el Bou. Cascun saludà l’altre molt agradablement, e lo Bou contà a Na Renart son estament, ço és saber, com era vengut tot franc a hom, ne com hom l’havia tengut llongament en servitud, e, a la fi, com lo volc vendre a un carnisser qui el volia auciure. De l’altra part, Na Renart recontà al Bou l’estament de la cort, segons que ja damunt és dit.
+
+—Sènyer En Bou —dix Na Renart—, qual és vostra volentat?
+
+Lo Bou dix a Na Renart, que ell venia estar en la cort del rei, e fugia a l’hom, qui l’havia volgut vendre e fer auciure. Na Renart dix al Bou estes paraules:
+
+—En un regisme s’esdevenc que hac un rei molt mal acostumat, e hac molt malvat consell; e per la malícia del rei e de son consell estava tot aquell regisme en treball e en ira de Déu; car inasmable era lo mal que el rei e son consell faïen a les gents que estaven en aquell regnat. Tant longament durà lo mal que el rei e son consell faïen en aquella terra, que les gents no ho pogren soferir; e per la mala vida e mal eximpli del rei e de son consell, les gents desiujaren la mort del rei e de son consell.
+
+Lo Bou entès, segons que Na Renart li hac dit, que lo rei, e son consell, era malvat, e dubtà anar estar sots malvat regiment. E dix a Na Renart estes paraules:
+
+—En una ciutat havia un bisbe qui era molt contrari a son ofici, e per la malícia e la deshonestat del bisbe, e per lo mal eximpli que donava a son capítol e a les gents d’aquella ciutat, se seguia molt de mal, e es perdia molt de bé que fóra en aquella ciutat si el bisbe fos aquell que ésser degra, segons la regla e la doctrina que Jesucrist ne donà als apòstols e a sos consegüents. Esdevenc-se un dia que lo bisbe hac feta una gran injúria, e puixes anà cantar la missa. En tan gran abominació hac un canonge lo falliment que lo bisbe faïa, que s’eixí d’aquella ciutat, e anà participar ab los pastors en los boscatges; e dix que millor cosa era estar ab los pastors qui guarden les ovelles dels llops, que ab pastor que les sues ovelles auciu e dóna als llops.
+
+Can lo Bou hac dit l’eximpli, ell dix a Na Renart que s’eixiria de tota aquella terra, e que no es volia metre en causiment del rei ni de son consell, pus que era malvat en son regiment.
+
+—Sènyer En Bou —dix Na Renart—, havets vós oïda la demanda que un ermità féu a un rei?
+
+—E qual demanda fo aquella? —dix lo Bou. Na Renart dix que en una alta muntanya estava un sant ermità.
+
+—Aquell ermità era hom de santa vida, e oïa tots jorns molts clams del rei d’aquella terra, qui era hom pecador e de mal regiment; e les gents deïen-ne al sant hom molt de mal. Lo sant hom fo molt despagat del malvat estament qui era en lo rei, e hac devoció com lo rei pogués induir a bon estament. Lo bon hom davallà de son ermitatge, e venc en una bella ciutat on estava lo rei: «Sènyer», dix lo bon hom al rei, «qual cosa vos és semblant que sia a Déu pus agradable en est món: o vida ermitana, o vida de rei qui sia bé acostumat en réger son poble?». Llongament cogità lo rei en la demanda, ans que resposés; e a la fin dix que vida de rei en bones obres és ocasió de major bé, que vida d’ermità. «Sènyer», dix l’ermità, «molt me tenc per pagat de vostra resposta, segons la qual és significat que malvat rei dóna més de damnatge, que no és lo bé que negun ermità pusca fer en son ermitatge. E per açò jo són vengut a vós, e són davallat de mon ermitatge, e preposí a estar ab vós tan llongament, tro que vós e vostre regne siats en bon estament, dient a vós paraules de Déu, per les quals hajats a Déu amor, e hajats de Déu coneixença e temor». Aquell ermità estec llongament en la cort del rei dient bones paraules de Déu, per les quals lo rei esdevenc en bon estament, e tot son regne ne fo en bon regiment.
+
+Can Na Renart hac dit l’eximpli, ell dix al Bou estes paraules:
+
+—Sènyer En Bou, vós sots bèstia semblant a l’ermità, e, si us volets, jo us daré consell per lo qual porets induir lo rei, mon senyor e vostre, a bon estament, e seguir s’ha molt de bé de ço que vós farets.
+
+Lo Bou prometé a Na Renart que ell faria tot lo bé que fer poria, per tal que el rei e son poble ne fos en bon estament. Adoncs Na Renart consellà al Bou que estigués en una bella pradera, qui era prés d’aquell lloc on estava lo rei e sos barons, e que menjàs e sejornàs, per tal que fos bell a veer, e que fos fort a bruvolar.
+
+—Encontinent, can vós, sènyer En Bou, vós serets revengut e forts, vós bruvolats, com pus fortment puscats, tres vegades lo jorn, e tres vegades la nit; e enfre ço jo hauré parlat ab lo rei de vostro estament.
+
+Lo Bou estec en consell de Na Renart, e Na Renart se’n tornà a la cort del rei.
+
+Con lo Bou hac molt sejornat e fo forts, ell començà a bruvolar fortment. E adoncs que Na Renart oí que el Bou bruvolava, se n’anà denant lo rei, e estec denant ell, dementre que lo Bou bruvolava. En tanta de paor estava lo rei can lo Bou bruvolava, que no es podia tenir ni assegurar d’estremir; e havia vergonya de sos barons, car temia que no el tenguessen per volpei. Dementre que lo Lleó en així estava paorós, e nengun de sos barons no sabien percebre la paor que el rei havia, Na Renart s’acostà al rei; e lo Gall cantà, e lo Ca lladrà, per ço car Na Renart se fo acostada al rei. Al rei plac car Na Renart li fos de prés, e demanà-li si sabia aquella veu que oïa de quina bístia era, car molt li paria gran bèstia e forts, segons la veu que havia.
+
+—Sènyer —dix Na Renart—, en una vall hac un joglar posat son alduf, qui penjava en un arbre, e lo vent menava aquell tempe e faïa-lo ferir en les branques de l’arbre. Per lo feriment que el tempe faïa de si mateix en lo arbre, eixia de l’alduf una gran veu, la qual retendia tota aquella vall. Un simi havia en aquella vall qui oí lo so, e venc a aquell alduf; aquell simi se cuidà, que enaixí com la veu era gran, que enaixí l’alduf fos ple de mantega, o d’alcuna cosa que fos bona a menjar. Lo simi esquinçà l’alduf e atrobà’l tot buid. Enaixí, sènyer —dix Na Renart al Lleó—, podets vós pensar que aquesta veu que oïts és de bèstia qui és buida, e no ha la força que la veu significa; e estats forts e ardit de coratge, car a rei no li està bé con ha paor, ne con ha paor d’açò que no sap què és.
+
+Dementre que Na Renart aquestes paraules deïa al rei, lo Bou cridà e bruvolà molt fortment; en tal manera cridà, que tot aquell lloc on estava lo Lleó, féu retendir, e lo Lleó e sos companyons estremir. No es poc abstenir lo rei que no donàs senyal de paor, e dix que si la força d’aquella bèstia era segons la veu, mal estar lo feria en aquell lloc. Lo Bou bruvolà altra vegada, e lo Lleó e tots aquells de son consell hagueren temor; e Na Renart no féu negun semblant de paor en si, ans estec alegrament denant lo rei. Molt se meravellà lo rei de Na Renart que no havia paor, e sí es faeren tots los altres. E el rei dix a Na Renart estes paraules:
+
+—Renart —dix lo rei—, com pot ésser que tu no has paor d’aquesta veu tan gran e tant estranya? Ja veus que jo, qui són tant poderós, e l’Ós, e lo Lleopard e moltes d’altres bèsties, que som pus forts que tu, havem paor d’aquesta veu.
+
+Na Renart respòs al rei, e dix aquestes paraules:
+
+—Un corb faïa son niu en una roca, e tots anys una gran serpent menjava-li sos fills. Lo corb havia molt gran ira de la serpent qui sos fills li menjava, e no es gosava combatre ab la serpent, per ço cor no era tant poderós, que la pogués vençre per força d’armes. Aquell corb cogità que s’ajudàs ab mestria de la serpent, pus que força li fallia. Esdevenc-se un dia que la filla del rei jugava ab donzelles en un verger, e havia posada sa garlanda d’aur e d’argent e de peres precioses en la branca d’un arbre. Lo corb pres aquella garlanda e volà per l’aer llongament, tro que molts hòmens seguiren lo corb, per veser on posaria la garlanda que la filla del rei molt amava, e qui plorava molt fortment, car lo corb se’n portava la garlanda. Lo corb posà la garlanda en aquell lloc on estava la serpent; e los hòmens, con vengueren pendre la garlanda, veeren la serpent, e aucieren aquella. Enaixí lo corb ajudà’s ab altres, de la serpent, per art e per maestria. Enaixí, sényer —dix Na Renart al Lleó—, jo he tanta d’art e de maestria, que si s’esdevenia que no pogués vençre, per força d’armes, la bèstia qui ha aquesta veu tan forts, e tan terrible, aidar-me n’hia per art e per maestria, en tal manera que la feria morir a mala mort.
+
+Can Na Renart hac dit son eximpli, la Serpent, qui era un dels consellers del rei, dix aquest eximpli:
+
+—En un estany havia un agró acostumat de pescar llongament. Aquell agró enveí, e per vellesa perdia sa caça moltes de vegades. L’agró cogità art e manera com s’ajudàs ab art e ab mestria, per la qual art ell fo ocasió de sa mort.
+
+Lo Lleó dix a la Serpent que recontàs la manera per la qual l’agró fo ocasió de sa mort.
+
+—Sènyer rei —dix la Serpent—, aquell agró estec un dia tro a la nit que no volc pescar, e estava riba d’aquell estany, tot trist. Un cranc se meravellà de l’agró, que no pescava enaixí com pescar solia, e demanà a l’agró per què estava enaixí consiurós. L’agró se plorà, e dix que molt havia gran pietat del peix d’aquell estany, ab què havia viscut llongament, e molt planyia llur mort e llur damnatge; car dos pescadors pescaven en un estany, e proposaven de venir en aquest estany, com hauran pescat en aquell estany. «Aquells pescadors són savis mestres de pescar, car null peix no els pot escapar, e penran tot lo peix d’aquest estany». Lo cranc, qui oí aquestes paraules, hac gran paor, e dix-ho als peixs qui eren en aquell estany. Tots els peixs s’ajustaren, e vengueren denant l’agró, lo qual pregaren que els donàs consell. «No hi ha altre consell», dix l’agró, «màs un: ço és saber, que jo us aport tots, d’un a un, en un estany qui és prés d’ací una llegua. En aquell estany ha moltes canyes, e ha gran fanga, per què los pescadors no us hi poran donar damnatge». Tots los peixs ho tengueren per bo, e tots dies l’agró prenia aitants peixs com se volia, e faïa semblant que els aportàs a un estany; e en un puig ell se posava, e menjava lo peix que aportava, e puixes tornava per atrestant. Açò hac tengut l’agró llongament: enaixí vivia sens treball de pescar. Esdevenc-se un jorn que lo cranc pregà l’agró que l’aportàs en aquell estany. L’agró estès son coll, e lo cranc se pres al coll de l’agró ab dues ses mans. Dementre que l’agró enaixí volava ab lo cranc que aportava en son coll, lo cranc se meravellava com no veia l’estany al qual se cuidava que l’agró l’aportàs. Can l’agró fos prés d’aquell lloc on solia menjar los peixos, lo cranc viu les espines dels peixs que l’agró havia menjats, e conec l’engan que l’agró faïa. Lo cranc dix: «Dementre que has temps, t’és mester que t’ejuts d’aquest traïdor que et preposa menjar». Adoncs lo cranc estrenc tant fortment lo coll a l’agró, que l’hi trencà, e l’agró caec mort en terra. E lo cranc se’n tornà a sos companyons, als quals recontà la traïció que l’agró los faïa; per la qual traïció l’agró fo ocasió de sa mort.
+
+—Sènyer —dix Na Renart—, en aquell temps, con Déus gità Adam de paradís, malaí Déus la Serpent, qui havia consellat a Eva que menjàs del fruit que Déus havia vedat a Adam; e d’aquell temps a ençà són totes les serpents horribles a veser, e són verinoses, e per la serpent són venguts tots los mals qui són en lo món; e per açò un savi hom féu gitar una serp del consell del rei, la qual serp lo rei molt amava.
+
+Lo Lleó dix a Na Renart que contàs aquell eximpli.
+
+—Sènyer —dix Na Renart—: un rei havia oït parlar d’un sant hom qui havia molt gran saviesa, e tramès-lo querir. Aquell sant hom venc al rei, e lo rei pregà’l que estigués ab ell, e que el consellàs con pogués governar son regne, e que lo reprenés d’alguns vicis, si gens li’n coneixia. Lo sant hom estec ab lo rei per entenció que li consellàs a fer bones obres, e esquivàs lo mal. Un jorn s’esdevenc que lo rei tenia consell sobre un gran fet que s’era esdevengut en son regisme. Prop d’aquell rei estava una gran serpent, ab la qual lo rei s’aconsellava pus fortment que ab tots los altres. Aquell sant hom, con viu la serpent, demanà al rei qual cosa significa rei en est món; e el rei dix: «Rei és establit en est món a significança de Déu, ço és saber, que rei tenga en terra justícia, e que govern lo poble que Déu li ha comanat». «Sènyer», dix lo savi, «qual bèstia fo a Déu pus contrari, adoncs con hac creat lo món?». E el rei dix que la serpent. «Sènyer rei», dix lo savi, «segons la responsió que vós havets feta, se segueix que vós auciats la serpent; e gran pecat fets com la tenits en vostra cort; car si vós representats la imatge de Déu, en quant rei, vós devets aïrar tot ço que Déus aïra, e majorment ço que Déus pus fort aïra». Per les paraules que el sant hom hac dites al rei, el rei aucís la serpent, sens que la serpent no hac art ne maestria que es sabés ajudar de la mort.
+
+Con Na Renart hac contat l’eximpli, lo Bou cridà e bruvolà tant fortment, que tot aquell lloc féu estremir, e el Lleó e tots los altres hagueren gran paor. Sí, que Na Renart dix al rei, que si ell ho volia, iria a la bèstia de qui la veu tant estranya eixia, e veuria si aquella bèstia poria amenar al rei, que fos de sa companyia. Al Lleó e a tots los altres plac que Na Renart anàs veer aquella bèstia qui cridava. Na Renart pregà lo rei que si tant era que s’esdevengués que aquella bèstia, a qui anava, pogués amenar a sa cort, que fos salva e segura en sa cort, que negun no li donàs damnatge a sa persona, ni li faés vilania. E lo Lleó denant tot son consell, autrejà a Na Renart tot ço que demanat li havia.
+
+Na Renart venc en aquella praderia on estava lo Bou en sejorn; e el Bou, con la viu, hac gran plaser de sa venguda. Ambdosos se saludaren bellament, e Na Renart recontà al Bou tot ço que li era esdevengut depús que era d’ell partit.
+
+—Bell amic —dix Na Renart—, vós irets denant lo rei, e serets ab semblant humil, e en vostros gests darets semblant de gran saviesa; e jo diré que vós havets haüda gran contricció, con tant llongament havets estat fora la senyoria del rei, e vós, denant tots, demanats perdó al rei, com vós anàs estar ab hom, ne vós vos mesés sots altra senyoria. En tal manera, bell amic —dix Na Renart—, parlats e estats denant el rei e sa cort, que el rei e tot son consell s’asaut de vostres paraules e de vostros gests; e recontats al rei dels estaments dels hòmens, e consellats al rei que haja amistat ab lo rei dels hòmens.
+
+Lo Bou e Na Renart se’n vengueren a la cort del rei. Con lo rei e sos barons veeren venir lo Bou e Na Renart, lo rei e tots los altres conegueren lo Bou, e tots se tengueren per pecs de la paor que havien haüda del Bou; e lo rei se meravellà com lo Bou poc haver tant gran e tant alta veu e tant terrible. Lo Bou féu a son senyor aquella reverència qui es tany a rei; lo rei lo demanà de son estament; lo Bou li contà tot ço que li era esdevengut dementre estava en la servitud de l’hom. Lo rei dix al Bou que ell se meravellava com ell havia canviada sa veu, e el Bou dix que ell cridava ab temor e ab contricció, per ço car se tenia per mal mirent al rei e a tota sa cort, en quant llongament l’havia lleixat per altre senyoratge. E car temor e contricció faïa tremolar son coratge, per açò havia canviada sa veu, que significava temor, terribilitat e espaordiment, per ço car eixia de cors on estava coratge temorós e penident. Lo Bou demanà al rei perdó, e lo rei li perdonà en presència de tota sa cort. Lo rei demanà al Bou de l’estament del rei dels hòmens. Lo Bou li dix que ver havia dit la Serpent, que la pus mala bèstia e la pus falsa que sia en est món és hom. Lo Lleó dix al Bou que li contàs la raon per què la Serpent havia dit que hom és la pus mala bèstia e la pus falsa que sia en lo món.
+
+—Sènyer —dix lo Bou—, una vegada s’esdevenc que un ós, e un corb, e un home, e una serpent caigueren en una sija. Per aquell lloc on era la sija, passava un sant hom qui era ermità, e gordà en aquella, e viu-los estar en aquella sija tots quatre, e no podia eixir de la sija. Tots ensems pregaren aquell sant hom que els tragués de la sija, e cascun li’n promès bon lloguer. Aquell hom trasc de la sija l’ós, e el corb, e la serpent, e quant ne volc traure l’hom, la serpent dix que no faés, car si ho faïa, mal gasardó ne cobraria. L’ermità no volc creure la serpent del consell que li donava, e trasc aquell hom de la siuja. L’ós aportà al sant hom un buc d’abelles, qui era ple de bresques. Con l’ermità hac menjades de les bresques a tota sa volentat, ell se n’anà a una ciutat on volia preïcar. A l’entrant de la ciutat, lo corb li aportà una preciosa garlanda, que era de la filla del rei, a la qual havia llevada del cap. L’ermità pres la garlanda, e hac gran goig, car molt valia. Per aquella ciutat hac un hom qui anava cridant, e deïa que tot hom qui hagués aquella garlanda que la retés a la filla del rei, e que li’n daria gran gasardó; e si la garlanda tenia amagada e hom ho podia saber, que en portaria pena molt gran. Lo bon hom ermità venc en una carrera, on estava aquell hom que ell havia gitat de la sija, lo qual hom era argenter. Lo sant hom comanà la garlanda a l’argenter secretament, e l’argenter la portà a la cort, e acusà lo sant hom. Aquell sant hom fo pres, batut e encarcerat. La serp que lo sant hom havia gitada de la sija, venc a la filla del rei, qui dormia, e mordé-la en la mà. La filla del rei cridà e plorà, e hac sa mà inflada molt fortment. Lo rei fo molt irat de la malaltia de sa filla, qui sa mà havia inflada e entuixegada, e féu cridar per tota la ciutat, que a tot hom daria grans dons qui li pogués garir sa filla. La serpent venc en dorment al rei, e a la orella dix-li que en lo carçre de sa cort havia un hom pres qui havia una herba ab què garria la filla del rei. Aquella herba havia donada la serpent al bon hom, e havia’l adoctrinat com la posàs en la mà de la filla del rei, e com demanàs al rei que faés justícia de l’argenter, qui tan mal gasardó li havia retut. Enaixí fo fet com la serpent ho hac ordenat; e lo sant hom fo deslliure del carçre, e lo rei féu justícia de l’argenter.
+
+Molt plagué al Lleó e a tot son consell l’eximpli que el Bou hac dit contra hom, e dix al Bou si li era semblant que ell degués haver temor del rei dels hòmens; e el Bou dix al Lleó que molt és perillosa cosa ésser inamistat del rei dels hòmens; car d’hom mal, poderós, e maestre, nulla bèstia no s pot defendre.
+
+Molt estec consirós lo Lleó d’açò que lo Bou li hac dit, e Na Renart conec que lo Lleó hac paor del rei dels hòmens, e dix al rei estes paraules:
+
+—Sènyer, la pus ergullosa bèstia, e cella on més ha d’avarícia que en altra bèstia, és hom; e per açò, si paria bo a vós e a vostro consell, seria bé que vós trametéssets missatgers e joies al rei dels hòmens, que de part vostra li recontassen la bona volentat que vós li havets, e que li donassen vostres joies; e el rei concebria amor en son coratge a amar vós e vostro poble.
+
+Lo rei e son consell tenc bo ço que deïa Na Renart, mas lo Gall hi contrastà, e dix estes paraules:
+
+—En una terra s’esdevenc que força e maestria se contrastaren denant un rei. Força deïa que ella havia senyoria per natura sobre maestria; e maestria deïa lo contrari. Lo rei volc saber qual d’ambdós devia haver senyoria la una sobre l’altra; e féu-les ambdues combatre, e la maestria vencé e sobrà força. E, per açò, sènyer rei —dix lo Gall—, si vós havets amistança ab lo rei dels hòmens, e li trametets missatgers, e ell vos tramet sos missatgers, aquells missatgers que ell vos trametrà, coneixeran en vostra persona e en vostres barons, que segons gin ni art, vós no us porets defendre al rei dels hòmens, qui combaten ab art e ab engín, ab què apoderen, tots aquells qui per força se combaten sens art e maestria.
+
+D’altra part al·legà Na Renart, e dix que Déu fa ço que fa ab poder sens art e sens maestria; e per açò cové que, segons natura, sien pus poderoses en la batalla tots aquells qui combaten ab semblants armes d’aquelles de Déu.
+
+Molt plac al Lleó l’eximpli de Na Renart, e volc a totes passades trametre joies e missatgers al rei dels hòmens. Lo rei demanà quals missatgers consellaven que anassen al rei dels hòmens, ni quals joies li trametria; e Na Renart dix al rei que lo Bou lo’n devia aconsellar, per ço car ell sabia la costuma dels hòmens, ni quals coses eren aquelles de què ells s’altaven pus fortment. Lo rei dix al Bou que ell volia estar a son consell, dels missatgers e de les joies que volia trametre al rei dels hòmens; e adoncs lo Bou li dix estes paraules:
+
+—Sènyer rei —dix lo Bou—, natura és dels reis dels hòmens, con trameten llurs missatgers, que els trameten de llur consell e dels pus nobles qui sien en son consell. Los pus nobles consellers que vós havets, m’és semblant que sien l’Onça e lo Lleopard. De l’altra part lo Gat és en semblança de vostra imatge, e lo rei tindrà-s’ho a gran gràcia, si vós li trametets per joies lo Gat e lo Ca: lo Gat per ço com és a vós semblant, e lo Ca per ço que en caç, car los hòmens s’alten molt de caça.
+
+Com lo Bou ho hac dit, ho féu lo Lleó, e tramès l’Onça e lo Lleopard, al rei, per missatgers, e lo Ca el Gat per joies. Con los missatgers foren partits de cort, lo rei féu lo Bou cambrer de sa cambra, e Na Renart tenc l’ofici que el Ca solia tenir.
+
+
+
+
+
+V. Dels missatgers que el Lleó tramès al rei dels hòmens
+
+
+Lo Lleó adoctrinà lo Lleopard e l’Onça, con deguessen fer la missatgeria, e dix estes paraules.
+
+—Saviesa de senyor és significada en missatgers savis, bé parlants, bé aconsellants, bé acordants; e noblesa de senyor és significada en missatgers que facen honradament massió, e que sien ben vestits, e hagen companya ben nodrida, e bé arreada, e que los missatgers ni llur companya no hagen avarícia, ni nulla luxúria, supèrbia, ira, ni negun altre vici. Totes aquestes coses e moltes d’altres són necessàries a missatgers de noble príncep, per tal que la missatgeria sia agradable al príncep, e a sa cort, a qui són trameses los missatgers.
+
+Con lo Lleó hac adoctrinats sos missatgers com deguessen parlar ab lo rei, ni com se deguessen captenir, e els missatgers foren partits de sa cort, los missatgers anaren llongament per moltes terres e diverses. Tant anaren los missatgers, tro que vingueren en una ciutat on lo rei tenia gran parlament. A l’entrant d’aquella ciutat s’esdevenc que estaven folles fembres de bordell, e en presència dels missatgers pecaven ab los homens. Molt se meravellaven los missatgers, con ho veeren; e lo Lleopard dix a son companyó estes paraules:
+
+—Un burgès havia una dona de muller, que molt amava. Aquell burgès llogava un hostal que era prop son alberg, a una folla fembra. La muller del burgès veïa sovent entrar los folls hòmens a aquella folla fembra, e pres-li volentat que usàs de luxúria. Aquella dona fo llongament en pecat de luxúria. Un dia s’esdevenc que son marit la trobà ab un hom qui pecava ab ella. Molt fo irat lo burgès del falliment de sa muller; a sa muller dix a son marit estes paraules: «Una vegada s’esdevenc que en una pradera se combatien dos bous salvatges, e per los grans colps que es donaven eixia’ls sang del front. Aquella sang casia en la bella herba que era en aquella plaça on se combatien; una volp llepava aquella sang. Esdevenc-se que los dos bous s’aürtaren, e trobaren en lo mig la volp, e feriren aquella per los costats. Tant gran fo lo colp que donaren a la volp, que la volp ne morí; e dementre moria dix que ella era ocasió de sa mort».
+
+—Lleopard, sènyer —dix lo Ca—, gran meravella és com los hòmens, qui creen Déu, no han consciència com lleixen pecar aquelles folles fembres en presència de les gents que ixen e entren en aquesta ciutat. Semblant és que el senyor d’esta ciutat, e los habitadors de la ciutat sien luxuriosos, e que, enaixí com los cans, desvergonyadament usen de luxúria.
+
+Dient lo Ca estes paraules, entraren-se’n en la ciutat, e vengueren a hostal; e puixes anaren al rei lo Lleopard e l’Unça ab les joies que aportaven.
+
+Molts dies estigueren los missatgers en aquella ciutat, abans que poguessen parlar ab lo rei; car aquell rei havia en costuma que no es lleixava veer mas a tard, e per significança de noblesa tenia’s car. Un dia s’esdevenc que els missatgers hagren estat tot aquell dia a la porta del rei, que no pogren parlar ab lo rei. Aquells missatgers foren molt despagats del rei, e foren enujats d’estar en sa cort. Un hom injuriat, qui havia estat llongament en aquella cort, que no havia pogut parlar ab lo rei, dix en presència dels missatgers aquestes paraules:
+
+—Humil és Déus, qui és rei del cel e de la terra e de tot quant és, car totes les vegades que hom lo vol veer e parlar ab ell, lo pot hom veer e li pot hom dir ses necessitats. Aquest rei no ha porters a qui hom haja a donar diners, ni ha consellers qui per diners facen malvestat ni engan, ni creu null hom de llausangeries, ni fa veguers, jutges, ni batlles, ni precuradors qui sien ergullosos, vanagloriosos, avars, luxuriosos, injuriosos. Beneït sia aital rei, e tots aquells qui ell amen, e el coneixen, e l’honren, e el serveixen, sien beneïts!
+
+En les paraules que aquell hom deïa conegueren los missatgers que el rei era hom injuriós, e dix l’Onça al Lleopard estes paraules:
+
+—Un rei volc donar sa filla per muller a un altre rei, e secretament tramès un cavaller en la terra d’aquell rei, pera demanar les condicions del rei. Aquell cavaller demanà als pagesos e al poble de l’estament del rei, e tuit li’n digueren mal. Un dia s’esdevenc que aquell cavaller encontrà dos joglars qui venien de la cort del rei, lo qual hac donats diners e vestedures a aquells joglars. Lo cavaller demanà als joglars de les costumes del rei, e ells li digueren que el rei era llarg, e caçador, e amador de dones; e de moltes d’altres coses lloaren lo rei. En les quals llaors, e per lo blasme que lo rei havia de son poble, conec lo cavaller que el rei era hom mal e de vils costumes. Lo cavaller recontà a son senyor ço que havia oït dir del rei; e lo rei no volc a aquell rei donar sa filla, car consciència hac en donar sa filla a hom mal acostumat.
+
+Entraren los missatgers denant lo rei, e donaren-li les joies que el Lleó li trametia; e una lletra li donaren de part de llur senyor, en la qual se contenien estes paraules: «En una província havia un rei qui havia molts honrats barons, qui eren hòmens de gran poder. Lo rei, per tal que sos barons lo temessen, e per tal que pogués tenir pau e justícia en sa terra, procurà com fos en gran amistat de l’emperador. Aquell emperador amava molt aquell rei, per los plaers que lo rei li faïa, e per les bones costumes que havia; e los barons de l’emperador, no gosaven desobeir a llur senyor de nulla cosa que ell los manàs; e enaixí estaven plants, e havia lo rei pau en sa terra». Con lo rei hac oïdes les lletres que el Lleó li trametia, e hac preses les joies, ell donà lo Gat a un draper qui denant li estava, e donà lo Ca a un cavaller qui volenter caçava. Molt desplac als missatgers com lo rei hac donat lo Gat al draper, qui no era honrat hom, lo qual Gat li tramès lo Lleó a significança de sa semblança. Con los missatgers foren tornats a l’hostal, e ab lo rei hagueren parlat llongament de la missatgeria per què eren venguts, lo Ca venc a llur hostal, e dix-los que ell era molt despagat com lo rei l’havia donat a aquell cavaller, car ell ne preposava caçar contra lo poble menut del Lleó; e per açò havia consciència com faés cosa contra lo senyor de qui era estat.
+
+Lo rei convidà un dia los missatgers, e tenc aquell dia gran cort. En una bella sala menjà lo rei e la regina ab molts de cavallers e de dones, e denant lo rei menjaren los missatgers. Dementre que el rei e la regina menjaven, joglars anaven cantant e sonant esturments per la sala, amunt e avall, e deïen cantars deshonests e contraris a bons nodriments. Aquells joglars lloaven ço que faïa a blasmar, e blasmaven ço que faïa a lloar; e lo rei e la regina e tots los altres reïen, e havien plaser d’açò que aquells joglars faïen.
+
+Dementre que lo rei e tots los altres tenien solaç d’açò que als joglars faïen e deïen, un hom pobrament vestit, ab gran barba, venc en aquella sala, e dix en presència del rei e de la regina e de tots los altres, aquestes paraules:
+
+—No s’oblit lo rei, ni la regina, ne sos barons, ne tots los altres, grans e petits, qui mengen en esta sala, com Déus ha creades tantes creatures qui són en la taula del rei e de tots los altres; les quals ha creades diverses e delitables a menjar, e ha fetes aquelles venir de llongues terres, per tal que sien a servici d’hom, e que hom servesca a Déu. No es cuit lo rei ni la regina que Déus oblit la deshonestat ni el desordonament que és en esta sala, en la qual és Déu deshonrat; car no és qui reprena ço que fa a rependre, ni qui llou ço que fa a lloar, ni qui a Déu faça gràcies de l’honor que Déus ha feta en aquest món al rei, e a la regina, e a tots los altres.
+
+Con lo bon hom hac dites aquestes paraules, un savi escuder s’ajonollà denant lo rei, e pregà-lo que li donàs ofici en sa cort, con lloàs ço que faïa lloar, e blasmàs ço que faïa a blasmar. No volc lo rei consentir a la volentat de l’escuder, car havia paor que l’escuder no el blasmàs dels falliments que havia acostumats de fer, en los quals se s’adelitava, e estar proposava tro a la fi de sos dies, en la qual fi preposava pendre penitència de sos pecats.
+
+Dementre que l’escuder pregava lo rei que li donàs l’ofici, e lo rei li’n deïa de no, lo veguer d’aquella ciutat entrà denant lo rei, a qui presentà un hom qui havia mort un cavaller a gran tort. Aquell rei manà penjar l’hom que havia mort lo cavaller, e l’hom dix al rei aquestes paraules:
+
+—Sènyer rei, costuma és de Déu que perdó, pus que hom li clama mercè: vós, qui sots en terra tinent lloc de Déu, a vós deman perdó, e vós devets perdonar, per què Déus vos perdona.
+
+E lo rei respòs, dient aquestes paraules:
+
+—Déus és just e misericordiós. Justícia fa si perdona a aquell qui no fa falliment a escient, e can ha errat per algun accident o per alguna ventura, adoncs se penet e demana perdó, e la misericòrdia de Déu li perdona. Mas, la justícia de Déu no hauria concordança ab misericòrdia, si perdonava misericòrdia a hom qui preposa fer pecat, e puixes ha esperança en demanar perdó. E car tu preposets a auciure lo cavaller, e puixes haguist esperança an mi que et perdonàs, per açò no és digne que et perdó.
+
+En les paraules que hac dites lo rei, conegueren los missatgers que el rei deïa contra les paraules que l’escuder li havia dites, en ço que no li hac volgut donar l’ofici que li queria.
+
+Con lo rei e tots los altres hagueren menjat, e foren eixits de la sala, los missatgers se’n vengueren a llur hostal, e la un deïa a l’altre que gran era la noblesa de la cort, e gran poder havia de gents e de tesaur, ab què fos hom savi e tement de Déu. Ambdosos los missatgers vengueren a llur hostal, on atrobaren l’hoste qui plorava molt fortment e menava gran dol.
+
+—Sènyer hoste —dixeren los missatgers—, vós, per què ploras?, ne què havets?
+
+—Senyors missatgers —dix l’hoste—, en esta ciutat ha tengut lo rei gran parlament, on ha fet ajustar moltes gents qui són venguts de llongues terres. Les messions que el rei ha fetes són grans, e per açò ha manada una questa fer en esta ciutat, qui serà molt gran, e costarà a mi mil sols, los quals hauré a manllevar de jueus.
+
+—Sènyer hoste —deïen los missatgers—, lo rei no ha tesaur?
+
+L’hoste respòs, e dix que lo rei no havia tesaur, mas que manllevava de ses gents, e faïa questes con faïa corts, les quals corts faïa tots anys dues vegades; e en així destrovia ses gents, que a les corts faïen grans messions, e tota sa terra empobria per la gran messió que faïa.
+
+—Bell amic —dix l’Unça—, qual utilitat se segueix de les corts que el rei fa tots anys?
+
+L’hoste respòs e dix que no neguna, ans se’n seguia gran damnatge; car les gents s’empobriren, e per la paubretat que havien, faïen molts d’engans e de defalliments, e lo rei n’era en ira de tot son poble; car tant donava e gostava a les corts, que no hi podia abastar sa renda, e tollia als uns e donava als altres; e con hom se cuidava que el rei digués algunes novelles e hagués algun gran fet a tractar, e ell no deïa res, e parteixen-se del rei tuit despagats, e tuit n’escarneixen e en menyspreen lo rei.
+
+Can los missatgers hagueren oïdes aitals paraules del rei e tots los hòmens, adoncs menysprearen lo rei e tots los hòmens de la terra; e el Lleopard dix a l’hoste estes paraules:
+
+—Gran damnatge és d’esta terra, car no ha senyor bé acostumat qui tenga justícia e pau en sa terra.
+
+—Sènyer —dix l’hoste—, no poria hom aesmar lo damnatge qui es segueix per malvat príncep: la un és per lo mal que fa; l’altre és per lo bé que fer poria, lo qual no fa. E enaixí, per malvat príncep se segueix damnatge en dues maneres, segons que havets oït. Aquest rei a qui vosaltres sots trameses, és hom qui es confia massa en son consell, e ha àvol consell, e malvat, e de vils hòmens; e cascun de son consell cuida mills ésser rei, que el rei mateix, e ensems gasten son regne; e lo rei no n’ha cura, ni ha ànsia sinó de caçar, e de deportar, e de luxuriejar, e de fer vanitats.
+
+Con lo rei hac dormit, los missatgers foren venguts al palau del rei, e no pogueren entrar parlar ab lo rei tro que hagueren llogats los porters. Can los missatgers foren denant lo rei, lo rei honrà més lo Lleopard que l’Onça, en ço que li féu pus plasent esgard, e el féu asseure pus prés de si que l’Onça. L’Onça hac d’açò enveja, e fo irada contra el rei; car l’Unça creïa que el rei la degués aitant o pus honrar que lo Lleopard. Dementre que el rei estava ab los missatgers, quatre ciutats trameteren huit prohòmens al rei, al qual faïen clams dels oficials que tenia en aquelles ciutats, los quals eren hòmens mals e pecadors, e destrovien sa terra. Los huit prohòmens pregaren lo rei, per tota la universitat de les ciutats, que els donàs bons oficials; e lo rei tramès-los a son consell, e dix que son consell proveiria a llurs demandes. Con los huit prohòmens foren denant lo consell del rei e hagueren mostrada llur raon, lo consell del rei los reprès fortment, con en aquell consell havien amics los oficials de les quatre ciutats, qui ab llur consell faïen lo mal que faïen, e dels diners que malament gonyaven los faïen part. Aquells huit prohòmens se’n tornaren sens que ab lo rei res no acabaren.
+
+—Sènyer rei —dix lo Lleopard—, què volets vós dir a mon senyor lo rei?
+
+Lo rei dix al Lleopard que li saludàs lo rei, e que li digués de sa part que li trametés un bell ós e un llop, car ell havia un senglar molt fort, lo qual volia que es combatés ab un ós tot lo pus fort que ell pogués atrobar; e havia un alà ab lo qual volia que es combatés un llop tot lo pus mal que fos en la cort del Lleó. Ambdosos los missatgers preseren comiat del rei, e partiren mal pagats de sa cort, per ço car llongament los hi hac tenguts e no els hac donat nulla cosa, ne no tramès al rei, llur senyor, negunes joies, ans féu semblant als missatgers que el rei volgués subjugar a si llur senyor lo Lleó.
+
+En la via per la qual los missatgers se’n tornaren en llur terra, s’encontraren ab los huit prohòmens, qui se’n tornaven molt irats e despagats del rei e de tot son consell. Aitant com los missatgers anaren ab los prohòmens, foren en les paraules del rei, e de son consell, e de son capteniment; e los uns e los altres digueren mal del rei e de son consell. El Lleopard féu als prohòmens aquesta demanda:
+
+—Senyors —dix lo Lleopard—, és-vos semblant si lo rei ha colpa del damnatge qui es segueix per son malvat regiment?
+
+La un dels huit prohòmens respòs, e dix aquestes paraules:
+
+—En una ciutat havia un noble burgès molt ric; e con se morí lleixà tot quant havia a son fill. Aquell fill del burgès fo request per moltes persones; los uns li volien donar muller, los altres lo pregaven que entràs en orde. Aquell macip fo en volentat que venés tot quant havia, e que en faés un hespital e un pont. L’hespital preposà fer per ço que hi albergassen los pelegrins qui per aquella ciutat passaven con venien d’Ultramar; lo pont proposà fer per ço que los pelegrins ne passassen, e que en l’aigua no negassen; car aquella aigua era a l’entran d’aquella ciutat, e havia-hi negats molts pelegrins qui venien e anaven en Jerusalem. Con lo fill del burgès hac fet l’hespital e el pont, una nit, con fo adormit, ell somniava que de tot quant bé faria per l’hospital e el pont, hauria mèrit denant Déu.
+
+En les paraules que lo Lleopard hac oïdes, conec que el rei hauria pena en infern, aitan gran com era lo damnatge que es seguiria tots temps en les males costumes que son malvat consell metia en la terra; e dix que la pena que estava aparellada al rei e a son consell, era enesmable; e dix enfre si mateix, que ell amava més ésser bèstia irracional, jassia que no sia res aprés sa mort, que si era rei dels hòmens, en qui fos tanta de colpa com era en lo mal qui es seguia per malvat rei. Los missatgers e els prohòmens se partiren agradablement, e preseren comiat. Lo Lleopard dix als prohòmens que es confiassen en Déu, que en breu de temps los donàs bon senyor qui hagués bon consell e bons oficials, e no es desesperassen de Déu; car Déus no sofer que malvat príncep pusca viure llongament, per ço que no faça tant de mal com se faria si llongament vivia.
+
+En lo començament que lo Lleó hac trameses sos missatgers e ses joies al rei dels hòmens, Na Renart, qui era porter del rei, dix al rei que lo Lleopard havia la pus bella bèstia a muller que fos en tot lo món. Tant lloà Na Renart al rei Na Lleoparda, que el rei s’enamorà de la Lleoparda, e pres aquella per muller, mal grat de la regina e de tot son consell, lo qual consell hac gran paor de Na Renart, con veeren que hac empetrat ab lo rei tan gran cosa com fo lo falliment que el rei havia fet contra sa bona muller, e contra lo Lleopard, qui era son lleial servidor.
+
+—Bell amic —dix lo Bou a Na Renart—, gran temor he que lo Lleopard no us aucia, con sabrà que vós havets empetrat com lo rei haja forçada sa muller.
+
+E Na Renart dix al Bou estes paraules:
+
+—Una vegada s’esdevenc que una donzella féu una falsia contra la regina ab qui estava, e aquella donzella havia gran cuidança ab lo rei, per la qual cuidança la regina temia la donzella, e per paor del rei no es gosava venjar de la donzella.
+
+Can los missatgers foren venguts e hagren recontat llur missatgeria, lo Lleopard avenc a son hostal, on cuidava trobar sa muller, que molt amava. La Mostela e tots los altres qui eren de l’hostal del Lleopard, foren en gran tristícia con veeren llur senyor; e recontaren al Lleopard la deshonor que el rei li havia feta con li hac forçada sa muller. A gran meravella fo irat lo Lleopard contra lo rei, e demanà a la Mostela si sa muller fo irada o pagada del rei con la pres a son servici.
+
+—Sènyer —dix la Mostela—, la Lleoparda fo molt irada de l’acostament del rei, e plorà llongament, e planyia con se partia de vós, car sobre totes coses vos amava.
+
+Al Lleopard creix sa ira, per ço car sa muller forçadament anà al servici del rei; car si en fos pagada, no n’hagra tant de desplaser. Estant lo Lleopard en aquesta ira, cogità com se pogués venjar del Lleó, qui tant gran traïció li havia feta.
+
+
+
+
+
+VI. De la batalla del Lleopart e de l’Unça
+
+
+En la cort del rei venc lo Lleopard; e Na Renart, qui el viu venir, dix al rei, secretament, estes paraules:
+
+—Sènyer, per l’acostament vostre e de la Lleoparda, són caüda en ira del Lleopard. On, si vós, denant lo Lleopard, no m’honrats, e no em fets honor que us estia pus prop que negun altre, lo Lleopard creu que m’auciurà.
+
+En aquella hora lo Lleó féu Na Renart de son consell, e lo faïa estar prop de si, per ço que lo Lleopard no la gosàs ferir ne auciure; e, per consell de Na Renart, féu porter del Paó, qui sent fortment. A tot lo consell del rei e a tots los barons qui estaven en aquella plaça, desplac l’honor que lo rei faïa a Na Renart; e sobre tots desplac al Lleopard, al qual hagren dit que Na Renart era estada ocasió del maridatge de sa muller e del rei.
+
+Denant lo rei fo lo Lleopard, e hac molts d’altres honrats barons, en presència dels quals lo Lleopard reptà lo rei de traïció, e dix que el rei falsament havia presa sa muller; e si en sa cort havia negun baró que lo rei volgués esdir de traïció, que ell li ho combatria, e que el faria dir que el rei era traïdor. E adoncs lo Lleopard fermà la batalla, e donà son gatge al rei. Con lo Lleopard hac reptat lo rei de traïció denant tot son poble, molt fo irat lo rei contra lo Lleopard, e hac gran vergonya de ses gents, com fo’n apellat traïdor. Lo rei dix a sos barons:
+
+—Qual de vosaltres vol pendre la batalla contra lo Lleopard, qui em repta de traïció?
+
+Tots los cavallers callaren, tro que Na Renart digué aquestes paraules:
+
+—Traïció és cosa qui és a Déu molt desagradable, e gran deshonor és a tot lo poble del rei, que llur senyor sia apellat de traïció. Enaixí com lo Lleopard fa gran deshonor a son senyor, e per fer deshonor se vol metre en perill de mort, enaixí farà honor tot bo baró qui escondesca lo rei de traïció; e qui, per salvar sa honor, se metrà en la batalla, trobar n’ha del rei gran gasardó.
+
+Per la gran deshonor que el rei prenia can lo Lleopard lo reptava de traïció, e car l’Unça aïrà lo Lleopard quan lo rei dels hòmens l’havia honrat més que a ella, per açò l’Unça près la batalla e escondí lo rei de traïció. Emperò consciència havia, car sabia que lo rei havia feta malvestat e engan contra lo Lleopard qui lleialment lo havia servit tot los temps de sa vida.
+
+En lo camp foren lo Lleopard e l’Unça, e tot lo poble dix:
+
+—Ara aparrà qui vençrà, o veritat o falsetat.
+
+Adoncs lo Gall demanà a la Serpent qual li parria que degués vènçre la batalla, e la Serpent dix aquestes paraules:
+
+—Batalla fo atrobada per ço que veritat confusés e destrovís falsia. E Déus és veritat; per què tota persona qui mantenga falsedat, se combat ab Déu e ab veritat.
+
+Aquestes paraules que la Serp deïa secretament al Gall, enteseren lo Lleopard e l’Onça, per les quals paraules fo lo Lleopard molt consolat, e l’Unça ne fo en consciència e en tristícia, e hac paor que los pecats del rei no fossen ocasió de sa deshonor e de sa mort.
+
+Tot aquell dia, tro a hora de completa, durà la batalla del Lleopard e de l’Unça; e l’Unça se defenia molt fortment contra lo Lleopard, lo qual hagra vençut e mort; mas consciència la destrenyia, e lo Lleopard, veritat e ira que havia contra lo rei, l’esforçaven e el revenien con cuidava defallir. Tant era forts lo Lleopard, per l’esperança que havia en son bon dret, que no li era semblant que per res pogués ésser vençuts. E a la fi vencé l’Unça, e fo-li dit denant tota la cort que lo rei son senyor era fals e traïdor. Molt fo lo rei confús e envergonyit d’aquella batalla; e lo Lleopard aucís l’Unça, e tot lo poble hac vergonya de la deshonor de llur senyor.
+
+En tant gran vergonya e confusió estec lo rei denant son poble, e tant fo irat contra lo Lleopard, que a tan gran deshonor l’hac fet venir, que no es poc tenir, e denant tots va lo Lleopard auciure, lo qual Lleopard no es poc defendre al Lleó per ço car era’n ujat. Tots quants foren en la plaça del rei foren despagats del falliment que el rei havia fet, e cascun desiujà ésser en senyoria d’altre rei; car és molt perillosa cosa subjugació de poble qui sia sotsmès a rei injuriós, irós, traïdor.
+
+Tota aquella nit estec lo rei molt irat e despagat. L’endemà matí ell ajustà son consell, e demanà consell sobre açò que lo rei dels hòmens havia tramès a dir, ço és saber, que li tramesés un ós e un llop.
+
+—Sènyer —dix la Serpent, qui era lo pus savi conseller que el rei hagués—, molts óssos e molts llops ha en vostra terra. D’aquells podets triar, a vostre plaser, tal ós e tal llop qui sien a vós a trametre.
+
+De l’altra part parlà Na Renart e dix que lo rei dels hòmens és lo pus noble e lo pus poderós rei que sia en tot lo món.
+
+—E per açò és cosa necessària que vós, senyor, trametats lo pus savi e lo pus forts ós e llop que hajats; car si no ho fets, podria-us ésser blasme e perill.
+
+Lo rei dix a Na Renart qual era lo pus savi e lo pus forts ós e llop que fos en son regne; e Na Renart respòs, e dix que pus que l’Ós e el Llop eren de son consell, que semblant era que fossen cascun pus savi e pus forts que negun ós ni negun llop qui fos en son regne.
+
+Lo rei tenc per bo que tramesés l’Ós e lo Llop qui són de son consell; e l’Ós ni el Llop no se’n volgueren escusar, per ço car amaven honrament e temien, que si s’escusaven, que no els fos jutjat a volpellatge. Na Renart dix al rei, que enaixí com trametia al rei dels hòmens les pus nobles persones de tota sa terra, que enaixí era raó que li trametés lo pus savi missatge de sa cort, qui menàs l’Ós e el Llop per presentalles. Lo rei ho tenc per bo, e dix a la Serpent que ella fasés la missatgeria.
+
+Ans que la Serpent eixís de la cort del rei, ni fasés sa missatgeria, dix aquestes paraules:
+
+—Una vegada s’esdevenc que una volp trobà, en una bella pradera, una freixura, en la qual estava un ham, que un pescador hi havia mès per ço que presés la volp, si menjava aquella freixura. La volp, que viu aquella freixura, no la volc tocar, e dix aquestes paraules: «No és aquesta freixura posada en aquesta pradera sens ocasió de tot treball e perill».
+
+Lo Lleó, depuis que fo en pecat e hac mort lo Lleopard, no hac tanta de sobtilesa ni engín com d’abans havia, e no entès ço que les paraules que la Serpent hac dites, significaven; e dix a la Serpent que li esposés les paraules, con ell no les entenia. La Serpent dix que depuis que lo Bou e Na Renart foren de sa cort, no fo sa cort sens treball e tribulació; e per açò no era sens ocasió de treball e de tribulació del rei e de sa cort, l’honrament que lo Lleó havia fet al Bou e a Na Renart.
+
+Can lo Bou oi que la Serpent l’hac acusat al rei, ell s’escusà al rei, en presència de sa cort, e dix que ell no li era de neguna cosa mal mirent, ni no era semblant que ell degués fer neguna res de mal estant contra lo rei ni sa cort, cor lo rei lo tenia honrat; e car era bèstia bona a menjar de rei, e lo rei no el volia menjar, per ço devia gardar e salvar al rei tota sa honor. E adoncs el Bou s’escusà al rei en totes ses maneres, e dix com Na Renart li consellà que cridàs tres vegades la nit e tres vegades lo jorn, e que vengués a la cort per tractar ab lo rei molt de bé.
+
+En tal manera s’escusà lo Bou al rei, que Na Renart n’hac desplaser, e en son cor concebé mala volentat contra lo Bou. Un dia s’esdevenc que hac molt nevat, e fet gran fred, e lo Lleó ni aquells de sa cort no hagren què menjar, e hagueren gran fam. Lo Lleó demanà a Na Renart, què porien menjar. Na Renart dix que no es sabia, mas que iria al Paó, e que li demanaria si sentia neguna bèstia a prés d’aquell lloc, que pogués lo rei menjar ab sos companyons. Lo Paó, qui viu venir Na Renart, hac gran paor, car molt temia Na Renart. Na Renart dix al Paó, que si el rei li demanava si sentia neguna bèstia que pogués menjar, que digués al Lleó que ell no sentia neguna bèstia que el rei degués menjar, mas que sentia que al Bou pudia l’alèn, e que sentia que el Bou en breu de temps devia morir per malautia. Lo Paó, per ço car temia Na Renart, e per ço car lo Bou menjava lo blat que el Paó devia menjar, consentí en la mort del Bou, e dix al Lleó ço que Na Renart li hac dit.
+
+Con lo Lleó hac demanat al Paó què poria menjar, e lo Paó hac dit al Lleó que no es sabia, mas que sentia que lo Bou devia morir en breu de temps, segons que son mal alèn corromput significava, lo Lleó hac en volentat de menjar lo Bou, mas hac consciència que l’auciés, per ço car li havia promesa lleialtat, e car lo Bou l’havia servit llongament, e en ell se fiava. Can Na Renart viu que el rei dubtava a menjar lo Bou, ell s’acostà al rei, e dix-li per què no menjava lo Bou, pus que el Bou devia en breu de temps morir per malaltia, segons que el Paó coneixia, e, majorment, com sia volentat de Déu que rei haja ses necessitats en sos sotsmesos totes les vegades que menester hi sia. Lo Lleó respòs a Na Renart, e dix que per res no trencaria sa fe al Bou, que li havia promesa.
+
+—Sènyer —dix Na Renart—, menjarets vós lo Bou, si jo us fas dir a ell mateix que el mengets, e si ell vos apella quiti de la fe que li havets promesa?
+
+E lo Lleó li prometé que oc.
+
+Adoncs Na Renart se n’anà a un Corb, qui havia gran fam, al qual dix aquestes paraules:
+
+—Lo Lleó ha fam, e jo tractaré com aucia lo Bou, qui és molt gras, e bastarà a tuit, con gran bèstia és. E si lo Lleó diu, denant tu, que ell ha fam, tu t’ofir al rei, e digues-li que et menge. Mas ell no et menjarà, cor jo t’escusaré a ell, e ell no eixirà de mon consell, car tot ço que jo li consell, fa; e si jo m’ofir al rei que ell me menug, tu digues que jo no són bo a menjar, e que la mia carn és mal sana.
+
+Con Na Renart hac així adoctrinat lo Corb, ell anà al Bou, e dix-li que el rei lo volia menjar, car lo Paó li havia dit que ell sentia en son alèn que en breu de temps morria per malaltia. Molt hac gran paor lo Bou, e dix que vera era la paraula que el pagès dix al cavaller.
+
+—E com fo això? —dix Na Renart. E lo Bou li dix aquestes paraules:
+
+—Un ric pagès desiujava honrament, e donà sa filla per muller a un cavaller qui amà la riquesa del pagès. E l’honrament convertí a si la riquesa, e la riquesa no poc haver tant gran poder en lo pagès, que en pogués haver honrament; mas l’honrament del cavaller tirà a si la riquesa del pagès, en tal manera que el pagès fo pobre e no fo honrat, e lo cavaller fo ric e honrat. E adoncs lo pagès dix al cavaller que en cuidança de cavaller e de pagès, està pobresa e treball de pagès, e honrament de cavaller. Enaixí —dix lo Bou—, en cuidança de bou e de lleó està mort de bou e sadollament de lleó.
+
+Na Renart dix al Bou que lo Lleó li havia promesa feeltat, e que no li faria traïció; e consellà al Bou que ell s’oferís al Lleó que el menjàs, si li era necessitat; e adoncs, que lo Lleó li n’hauria molt de grat, e per lo grat que li hauria de la proferta, e per lo deute en què és ab ell, no li faria negun mal.
+
+—E, encara, que jo us ajudaré en tal manera que lo Lleó no us farà vilania ni tort.
+
+Con Na Renart hac totes aquestes coses ordonades, ell venc denant lo Lleó, ab lo Bou e lo Corb; e el Corb se presentà al Lleó e dix-li que ell coneixia que el Lleó havia fam, e dix-li que el menjàs. Na Renart respòs e escusà lo Corb, e dix que no havia carn que es convengués a menjar de rei. Après estes paraules Na Renart dix al rei que la menjàs, car no havia alre que li donàs a menjar mas si mateix, e lo Corb dix al Lleó que la carn de Na Renart era mal sana a menjar. Adoncs lo Bou, per semblants paraules, se proferí al Lleó, e dix que lo Lleó lo menjàs, car ell era gran e gras, e havia bona carn a menjar. Adoncs lo Lleó aucís lo Bou, e menjaren del Bou lo rei e Na Renart e el Corb a tota llur volentat.
+
+Con lo Bou fo mort, lo Lleó demanà al Gall e a Na Renart, qui seria son cambrer; e el Gall volc parlar primer, mas Na Renart li féu un esgard irós, per lo qual dubtà a parlar tro que Na Renart hagués parlat. Na Renart parlà al rei, e dix que lo Conill havia asalta semblança, e era bèstia humil, e que estaria bé en l’ofici en lo qual solia estar lo Gat e el Bou. Lo Lleó demanà-ho al Gall, e lo Gall no gosava dir contra ço que Na Renart havia consellat, car molt ho temia; e consellà al rei ço que Na Renart li havia aconsellat. Lo Lleó féu cambrer lo Conill, e Na Renart hac gran poder en la cort, car lo Gall e el Paó e lo Conill lo temien, e lo Lleó la creïa de tot cant Na Renart li deïa.
+
+Un dia s’esdevenc que lo rei hac a entendre en un gran fet que es fo esdevengut en son regne, e aconsellà’s ab lo Gall e ab Na Renart. Lo Gall dix al rei que no era suficient a consellar lo rei, en tants grans afers, sens altres companyons; e consellà al rei que es cregués de consell, car no era honor de rei que es minvàs de consell, del qual consell s’era aminvat puixes que en fo menys la Serpent e el Lleopard e l’Unça e el Llop. Per bo tenc lo rei que faés consellers, e hagra’ls fets, tro que Na Renart dix aquestes paraules:
+
+—En una terra s’esdevenc que havia un hom, a qui Déus havia dada tanta de ciència, que entenia tot ço que deïen les bèsties e los aucells. Aquella ciència havia Déus donada a aquell hom sobre tal condició, que de res que oís ni entenés de ço que dirien les bèsties ni los aucells, no digués a neguna persona, e aquell dia que ho diria, que morís. Aquell hom havia un hort, en què un bou tirava aigua d’una sínia, e un ase aportava los fems on hom femava aquell hort. Esdevenc-se un vespre que lo bou fo enujat, e l’ase l’aconsellà que lo vespre no menjàs la civada, per ço que l’endemà no el mesés hom a tirar la sénia, e que pausàs. Lo bou estec al consell de l’ase, e no menjà lo vespre la civada. L’hortolà cuidà’s que el bou fos malalte, e mès l’ase en son lloc a tirar la sénia. Tot aquell dia tirà l’ase la sénia ab molt gran treball. Can venc a la nit, ell venc a l’establa, on atrobà lo bou que jasia e sejornava. L’ase plorà denant lo bou, e dix aquestes paraules: «Lo senyor», dix l’ase, «ha en volentat que et vena a un carnisser, car cuida’s que sies malalte, e per ço, ans que no t’aucia, és bo que tu torns a ton ofici, e no dons semblant que sies malalte». Aquestes paraules dix l’ase al bou, per ço que hom no el tornàs a tirar la sínia, que li era de major treball que los fems que aportava. Lo bou hac paor de morir, e menjà aquella nit la civada, e fo semblant que fos garit. Aquell hom, qui era senyor del bou e de l’ase, entès ço que havien dit lo bou e l’ase, lo qual hom se ris denant sa muller de ço que l’ase e el bou deïen. La muller d’aquell hom volc saber son marit de què es reïa, e ell no li ho volc dir. Sa muller li dix que no menjaria ni beuria, e que es lleixaria morir, si son marit no li ho deïa. Tot aquell dia e tota la nit endurà la mala muller que no volc menjar ni beure. Lo marit, que molt l’amava, dix que li ho diria, e féu son testament; e aprés lo testament, volc dir a sa muller ço de què s’era ris. Mas, jo oí ço que el ca dix al gall, e ço que el gall respòs al ca.
+
+—E com fo açò? —dix lo Lleó a Na Renart.
+
+Na Renart recontà al Lleó, e dix que dementre l’hom faïa son testament, lo gall cantà, e lo ca reprès lo gall, que cantava, pus que son senyor devia morir. Molt se meravellà lo gall com lo ca l’havia reprès de son cantar, e lo ca li recontà com son senyor devia morir, e volia morir, per ço que sa muller visqués. Respòs lo gall, e dix que bé estava que morís, car àvol hom era, car no sabia ésser senyor d’una fembra. Adoncs lo gall cridà deu gallines que havia, e totes les féu ajustar an un lloc, e faïa d’elles ço que es volia. Açò féu lo gall en significança que lo ca s’aconsolàs de la mort de son senyor. Ambdosos se consolaren de la mort de son senyor, e lo gall cantà, e lo ca s’alegrà. «Companyó», dix lo ca al gall, «si tu haguesses tant folla muller com ha mon senyor, què li faeres, si es fos aventura que en aquest cas t’aportàs de mort, en què ha aportat mon senyor?». Adoncs lo gall dix que si ell fos en lloc de son senyor, que ell tallaria cinc vergues d’un magraner que havia en l’hort, e que batria tant sa muller, tro totes les hagués trencades, e fasés menjar e beure sa muller, o que la lleixàs morir de fam e de set. L’hom, que hac entès les paraules que el ca e el gall havien dites, se llevà del llit, e féu ço que lo gall havia aconsellat; e sa muller, con fo bé batuda, menjà e bec, e féu tot ço que son marit volc.
+
+Can Na Renart hac recontat l’eximpli damunt dit, ell dix que lo Gall era tan savi, que ell sabria aconsellar en totes coses, e per açò no calia que lo rei se cresqués de consell; e majorment com en multitud de consellers ha trop gran desvariament de diverses entencions e opinions e volentats, per la qual multitud és moltes vegades torbat lo consell de príncep.
+
+Con Na Renart hac parlat, e lo Gall dix aquestes paraules:
+
+—Un papagai estava en un arbre ab un corb, e dejús l’arbre havia un simi qui havia posada llenya sobre una lluerna, car cuidava’s que fos foc, e bufava en aquella llenya per entenció que faés foc en què es calfàs. Lo papagai cridava al simi, e deïa-li que no era foc, ans era lluerna. Lo corb dix al papagai que no volgués castigar ni adoctrinar aquell qui no rebia consell ni correcció. Moltes vegades dix lo papagai al simi que lluerna era, e que no era foc ço que es cuidava que fos foc; e lo corb totes vegades reprenia lo papagai, com volia endreçar ço que naturalment és tort. Lo papagai davallà de l’arbre e acostà’s al simi, per ço que li pogués mills dar a entendre ço de què el reprenia; e tan prop s’acostà lo papagai del simi, que lo simi lo pres e l’aucís.
+
+Con lo Gall hac dit aquest eximpli, lo rei hac opinió que per ell ho digués, e féu un semblant escrú contra el Gall, en semblant de mala volentat. E adoncs Na Renart pres lo Gall e l’aucís, e el menjà denant lo rei.
+
+Can Na Renart fo tan solament conseller del rei, e lo Conill fo cambrer del rei, e lo Paó fo porter, adoncs fo Na Renart en gran benanança, e faïa del rei tot ço que es volia. Dementre que Na Renart estava en esta benanança, ell membrà en la traïció la qual havia concebuda contra el rei, adoncs con dix a l’Orifany que ell tractaria que el Lleó morís, e que l’Orifany fos rei. Volenter esteguera Na Renart en l’estament en què estava, mas hac temor que l’Orifany no la descobrís; e per açò fo en volentat que tractàs la mort del rei, per ço que atasés a l’Orifany ço que li havia promès.
+
+
+
+
+
+VII. De la mort de Na Renart
+
+
+No s’oblidà Na Renart de tractar la mort del rei, e oblidà l’honrament que el rei li havia fet sobre tots los barons de sa cort. Un dia dix Na Renart a l’Orifany que hora era que lo rei morís, e majorment com tan bé era aparellat, que en sa cort no havia altre conseller mas Na Renart. Llongament considerà l’Orifany en ço que Na Renart deïa, e hac consciència en consentir en la mort del rei. De l’altra part temia que si ell era desobedient a Na Renart, que Na Renart no li descobrís, e tractàs sa mort. Finalment s’acordà l’Orifany que no consentís a Na Renart, car gran consciència havia que el rei morís. D’altra part se temia que si ell era rei, que Na Renart no el traís, així com traïa lo rei; e l’Orifany amà més estar en perill de mort, que fer traïció contra son natural senyor. Dementre que l’Orifany enaixí considerava, ell dix enfre si que enaixí com Na Renart amb maestria volia fer auciure lo rei, que enaixí ell ab maestria faés auciure al rei Na Renart.
+
+—Car, si en lo cors de Na Renart cap traïció, certesa, ni mestria, quan més —dix l’Orifany— en mon cors, que és tant gran, deu caber lleialtat, saviesa e maestria!
+
+—Sènyer Orifany —dix Na Renart—, vós, en què considerats?, ne per què vós no us cuidats que siats rei ans que retorn la Serpent de la missatgeria, la qual és trop sàvia e mestre?
+
+L’Arifany adoncs concebé e preposà que esperàs la Serpent, ans que tractàs neguna cosa contra Na Renart, e que ab la Serpent que tractàs com lo rei auciés Na Renart. Con Na Renart viu que l’Orifany era negligent de son negoci, hac temor que la Serpent no vengués, e que l’Orifany no la descobrís, e adoncs dix a l’Orifany que es cuitàs, car, si ho faïa, ell tractaria en tal manera lo fet, que ell no es pensava.
+
+Gran paor hac l’Orifany de la mestria de Na Renart, e volc saber en quina condició volia ésser ab ell, si era rei. Na Renart dix que ell volia ésser en tal condició ab ell, com era ab lo rei, ço és saber, que fos son conseller tant solament, e que lo Conill fos son cambrer, e lo Paó son porter. Aprés que Na Renart hac dita sa condició a l’Orifany, l’Aurifany demanà a Na Renart la manera qual seria per què el rei morís, e Na Renart recontà a l’Orifany la manera la qual s’havia pensada en la mort del rei, e dix aquestes paraules:
+
+—Lo Senglar cuida ésser par en persona e en força al rei; e jo diré al Senglar que es guard del rei, qui el vol alciure; e diré al rei que es guard del Senglar, qui ha desig d’ésser rei, e tractaré que lo rei aucia lo Senglar. E con lo Senglar serà mort, e el rei serà ujat en la batalla que haurà haüda ab lo Senglar, adoncs, vós, sènyer Orifany —dix Na Renart—, porets auciure lleugerament lo rei, e porets ésser rei.
+
+En la manera que s’hac pensada Na Renart, preposà l’Orifany que enganàs Na Renart, e dix a Na Renart aquestes paraules:
+
+—Vana és tota promesa sense testimonis, e per ço tenc per bo —dix l’Orifany— que vós, Na Renart, hajats testimonis d’aquella promesa que vós volets que jo us faça; ço és saber: que vós siats mon conseller tant solament, e que el Conill sia mon cambrer, e lo Paó sia mon porter; car sens testimonis, si jo vos negava vostra promesa, vós no ho poríets provar, e jo per aventura, con seria rei, no em tindria tant obligat a vós a honrar com faç ara con no són rei, e que vós sots conseller del rei.
+
+Na Renart considerà llongament en ço que l’Orifany deïa, e hac paor que los testimonis no la descobrissen de la traïció. Con l’Orifany viu estar Na Renart consiurós, ell dix a Na Renart que els mellors testimonis que ell podia haver, eren lo Conill e lo Paó, qui temien Na Renart, e que haurien plaser que fossen sos oficials; e no li calia haver temor que aquells la descobrissen de nulla cosa secreta. Na Renart tenc per bo lo consell que l’Orifany li donava, e en presència del Conill e del Paó se fermà promesa a Na Renart; e lo Conill e lo Paó promeseren a l’Orifany e a Na Renart secret.
+
+Aprés aquestes paraules, l’Orifany consellà a Na Renart que primerament digués al Porc que lo rei lo volia ouciure, e puixes que ho digués al rei. Na Renart anà ab lo Porc parlar primerament, e l’Orifany, dementre que Na Renart parlava ab lo Senglar, parlà ab lo rei, al qual dix tot ço que havia emprès ab Na Renart, e demanà al rei perdó, car havia concebuda traïció envers ell, e dix-li com se’n penedia, e com amava més ésser lleial sotsmès que traïdor rei.
+
+—Con —dix lo Lleó—, poria jo ésser cert que ço que vós, Orifany, deïts sia veritat?
+
+E l’Orifany dix que ell ho podria conèixer en ço que Na Renart havia tant fet, que en son consell no havia més altra bèstia mas Na Renart, e que lo Conill, que el temia per natura, e açò mateix del Paó, havia fets de son hostal.
+
+—Encara, sènyer Lleó, vos en diré altra certenitat; car Na Renart és anat al Senglar, e dix-li que vós lo volets auciure, e dirà a vós atretal, que lo Senglar vos vol auciure, e que vos consellarà que façats al Senglar semblant ergullós, per ço que lo Senglar tenga per ver ço que Na Renart li ha dit.
+
+Aprés estes paraules, l’Orifany dix al rei que lo Conill e lo Paó havien consentit en sa mort. Molt fo meravellat lo rei de Na Renart, a qui havia fet tant d’honrament, com poc concebre vers ell engan e falliment; e dix aquestes paraules:
+
+—A mon pare he oït dir e recontar que mon avi, qui era rei d’una gran terra, volc abaixar los barons a qui es tanyia honor, e volc exalçar les vils bèsties a les quals no es cové honrament; enfre les quals bèsties fo lo Simi, a lo qual fo molt d’honrament. Aquell Simi, per ço car era semblant a hom, hac desig que fos rei, e concebé, en lloc d’honrament, traïció contra mon avi.
+
+—Sènyer —dix l’Orifany—, en pauc anap no pot molt vi caber, ni en persona qui sia de vil lloc, no cap gran honrament ni gran lleialtat; e per ço és bo que vós auciats Na Renart, e que hajats bon consell, e siats franc en vostro senyoratge, e no sotsmetats a malvada persona la noblesa que Déus vos ha donada per llinatge e per ofici.
+
+Aprés estes paraules, l’Orifany anà al Senglar, ab qui Na Renart havia parlat, e dix que ell sabia ço que Na Renart li havia dit. Lo Senglar se meravellà com l’Orifany ho sabia, e l’Orifany li recontà tot lo fet. Estant que l’Orifany ab lo Senglar parlava, Na Renart anà al Lleó, e dix-li que lo Senglar lo volia auciure; e adoncs lo Lleó conec que Na Renart lo volia trair. Lo rei ajustà denant si molts barons, e fo-hi l’Orifany, Na Renart, e lo Conill, e lo Paó. Denant tots demanà lo Lleó al Conill e al Paó que li diguessen veritat de lo testimoni que havien promès a fer a Na Renart aprés sa mort. La paor del Conill e del Paó fo molt gran; mas molt major fo cella de Na Renart, la qual dix al rei estes paraules:
+
+—Sènyer rei, per tal que jo temptàs vostros barons si us són bons ni lleials, dix a l’Orifany ço que dix, e açò mateix dix al Senglar. Del Conill e del Paó vos dic que anc no els parlé de ço que l’Orifany dix contra mi.
+
+E adoncs Na Renart se confià que el Conill ni el Paó, que tant lo temen, no el gosassen acusar al rei ni descobrir de nulla cosa.
+
+Con Na Renart hac parlat, lo rei féu un esgard molt horrible al Conill e al Paó, e gità molt gran bram per ço que natura de son alt senyoratge hagués major virtut en la consciència del Conill e del Paó, que la natura per què lo Conill e el Paó han paor de Na Renart. Con lo Lleó hac gitat lo gran bram, fellonament ell dix al Conill e al Paó que li diguessen veritat, e el Conill e el Paó no pogren tenir, e digueren veritat al rei. E adoncs lo rei, ell son cors, aucís Na Renart.
+
+E puis que Na Renart fo mort, fo sa cort en bon estament. Lo rei féu de son consell l’Orifany e el Senglar e dels altres honrats barons, e gità’n lo Conill e el Paó.
+
+Finit és lo Llibre de les Bèsties, lo qual Felix aportà a un rei per tal que veés la manera segons la qual, en ço que fan les bèsties, és significat com lo rei dega regnar e es dega gordar de malvat consell e de falses hòmens.
+
+
+
+
+
+RAMON LLULL (Palma, Mallorca, 1232 - Tunis, Tunísia, 1316) va ser un escriptor, filòsof, místic, teòleg, professor i missioner mallorquí del segle XIII, conegut per la seva extensa obra escrita, redactada en català, occità, llatí i àrab.
+
+Destaca per la seva producció literària en llengua catalana i és considerat el primer autor a fer servir una llengua vulgar per escriure obres científiques.
+
+Llull havia estat un cortesà de vida mundana fins que va realitzar una transformació religiosa quan tenia trenta anys, a partir de la qual dedicà la seva vida al proselitisme cristià, especialment entre jueus i musulmans, i a incorporar els poders polítics i religiosos cristians en un pla missioner destinat a la conversió dels no cristians. La seva estratègia per millorar els resultats dels mètodes tradicionals d’evangelització basats en l’autoritat dels textos sagrats el va portar a difondre el seu pensament mitjançant l’escriptura, l’ensenyament, la disputa amb autoritats teològiques, la petició a papes i reis o la fundació de centres de formació missionera. Per assolir els seus propòsits dedicà gran part de la seva vida a viatjar, per difondre el seu missatge i posar-lo a prova.
+
+Llull creà un sistema filosòfic que denominà Ars, que integrava en un tot coherent la religió, la filosofia, la ciència, la moral i l’ordre social, a partir d’un sistema de verificacions mecàniques comprensibles i transmissibles que havien de demostrar la superioritat del cristianisme i facilitar així la conversió dels practicants d’altres religions. L’ambició del programa lul·lià és una de les causes de la seva ingent producció escrita i de l’enciclopedisme del seu abast, atès que el seu sistema havia de ser verificable en qualsevol àmbit del coneixement humà i havia de poder ser comunicat en graus distints de complexitat expressiva i de llengua, d’acord amb les característiques del destinatari.
+
+D’aquesta extensa producció literària es conserven 240 obres, d’entre les quals es poden destacar el Llibre de contemplació en Déu (1271-1274), Doctrina pueril (1274-1276), el Llibre del gentil e dels tres savis (1274-1276), el Llibre de l’orde de cavalleria (1274-1276), el Llibre d’intenció (1282), el Llibre d’Evast e d’Aloma e de Blaquerna son fill (1283, inclou el Llibre d’Amic e Amat), el Fèlix o Llibre de meravelles (1287-1289, inclou el Llibre de les bèsties), el Desconhort (1295), l’Arbre de ciència (1295-1296), el Tractat d’astronomia (1297), el Cant de Ramon (1300), el Llibre dels mil proverbis (1302), el Llibre de l’ascens i descens de l’intel·lecte (1304), Liber de fine (1305), Ars magna (1305), Ars brevis (1308), Els dotze principis de la filosofia (1310) i Vida coetània (1311).
+
+El llegat de Ramon Llull va ser un corrent filosòfic i religiós de partidaris denominat lul·lisme, que estimularen la seva exaltació fins a la llegenda. Llull també va tenir adversaris, especialment entre els dominics, que crearen un corrent antilul·lià, els quals, a més d’atacar-lo pel contingut de la seva obra, li atribuïren posicions heterodoxes a partir de textos falsament lul·lians sobre l’alquímia o la càbala. Aquesta confrontació ha distorsionat la percepció popular de la seva personalitat real i ha afectat negativament el seu procés de canonització. Actualment és, eclesiàsticament, servent de Déu, encara que popularment sigui considerat i titulat com a beat.
+
+
+
+
+

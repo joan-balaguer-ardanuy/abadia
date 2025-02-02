@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/abadia">
+	<clau>vi</clau>
+	<valor>concreció</valor>
+	<abadia>
+		<clau>cannabis</clau>
+		<value>santedat</value>
+		<abadia>
+			<clau>èxtasi</clau>
+			<value>passió</value>
+			<abadia>
+				<clau>psilocibina</clau>
+				<value>sinestèsia</value>
+			</abadia>
+		</abadia>
+	</abadia>
+</abadia>

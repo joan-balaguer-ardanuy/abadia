@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/anyell">
+	<nom>1</nom>
+	<gen>herma</gen>
+	<clau>Bíblia</clau>
+	<valor>Llibre</valor>
+<anyell>
+	<nom>2</nom>
+	<gen>mascle</gen>
+	<clau>Alfa</clau>
+	<valor>Pare</valor>
+<anyell>
+	<nom>3</nom>
+	<gen>herma</gen>
+	<clau>Omega</clau>
+	<valor>Fill</valor>
+<anyell>
+	<nom>3</nom>
+	<gen>femella</gen>
+	<clau>orígens</clau>
+	<valor>arrela</valor>
+<anyell>
+	<nom>4</nom>
+	<gen>femella</gen>
+	<clau>Pentateuc</clau>
+	<valor>Ordre</valor>
+<anyell>
+	<nom>5</nom>
+	<gen>herma</gen>
+	<clau>Gènesi</clau>
+	<valor>Creació</valor>
+<anyell>
+	<nom>6</nom>
+	<gen>femella</gen>
+	<clau>orígens</clau>
+	<valor>arrels</valor>
+<anyell>
+	<nom>7</nom>
+	<gen>herma</gen>
+	<clau>principi</clau>
+	<valor>gènesi</valor>
+<anyell>
+	<nom>8</nom>
+	<gen>femella</gen>
+	<clau>crear</clau>
+	<valor>fer</valor>
+<anyell>
+	<nom>9</nom>
+	<gen>femella</gen>
+	<clau>cel</clau>
+	<valor>terra</valor>
+<anyell>
+	<nom>10</nom>
+	<gen>herma</gen>
+	<clau>caos</clau>
+	<valor>desolació</valor>
+<anyell>
+	<nom>11</nom>
+	<gen>mascle</gen>
+	<clau>tenebres</clau>
+	<valor>llum</valor>
+<anyell>
+	<nom>12</nom>
+	<gen>mascle</gen>
+	<clau>cobrir</clau>
+	<valor>embolcallar</valor>
+<anyell>
+	<nom>13</nom>
+	<gen>herma</gen>
+	<clau>donar</clau>
+	<valor>establir</valor>
+<anyell>
+	<nom>14</nom>
+	<gen>herma</gen>
+	<clau>vespre</clau>
+	<valor>matí</valor>
+<anyell>
+	<nom>15</nom>
+	<gen>herma</gen>
+	<clau>matí</clau>
+	<valor>albada</valor>
+<anyell>
+	<nom>16</nom>
+	<gen>herma</gen>
+	<clau>primer</clau>
+	<valor>principal</valor>
+<anyell>
+	<nom>17</nom>
+	<gen>herma</gen>
+	<clau>mitologia</clau>
+	<valor>història</valor>
+<anyell>
+	<nom>18</nom>
+	<gen>herma</gen>
+	<clau>poble</clau>
+	<valor>població</valor>
+<anyell>
+	<nom>19</nom>
+	<gen>mascle</gen>
+	<clau>veí</clau>
+	<valor>germà</valor>
+<anyell>
+	<nom>20</nom>
+	<gen>herma</gen>
+	<clau>món</clau>
+	<valor>univers</valor>
+<anyell>
+	<nom>21</nom>
+	<gen>herma</gen>
+	<clau>narrar</clau>
+	<valor>descriure</valor>
+<anyell>
+	<nom>22</nom>
+	<gen>herma</gen>
+	<clau>com</clau>
+	<valor>semblant a</valor>
+<anyell>
+	<nom>23</nom>
+	<gen>herma</gen>
+	<clau>lluita</clau>
+	<valor>combat</valor>
+<anyell>
+	<nom>24</nom>
+	<gen>herma</gen>
+	<clau>divinitat</clau>
+	<valor>idolatria</valor>
+<anyell>
+	<nom>25</nom>
+	<gen>herma</gen>
+	<clau>canvi</clau>
+	<valor>transformació</valor>
+<anyell>
+	<nom>26</nom>
+	<gen>mascle</gen>
+	<clau>innovar</clau>
+	<valor>renovar</valor>
+<anyell>
+	<nom>27</nom>
+	<gen>herma</gen>
+	<clau>durar</clau>
+	<valor>perllongar</valor>
+<anyell>
+	<nom>28</nom>
+	<gen>herma</gen>
+	<clau>temps</clau>
+	<valor>història</valor>
+<anyell>
+	<nom>29</nom>
+	<gen>herma</gen>
+	<clau>fins</clau>
+	<valor>cap</valor>
+<anyell>
+	<nom>30</nom>
+	<gen>herma</gen>
+	<clau>darrer</clau>
+	<valor>últim</valor>
+<anyell>
+	<nom>31</nom>
+	<gen>herma</gen>
+	<clau>moment</clau>
+	<valor>instant</valor>
+<anyell>
+	<nom>32</nom>
+	<gen>herma</gen>
+	<clau>primer</clau>
+	<valor>pare</valor>
+<anyell>
+	<nom>33</nom>
+	<gen>herma</gen>
+	<clau>amb</clau>
+	<valor>sense</valor>
+<anyell>
+	<nom>34</nom>
+	<gen>herma</gen>
+	<clau>tema</clau>
+	<valor>relat</valor>
+<anyell>
+	<nom>35</nom>
+	<gen>herma</gen>
+	<clau>sobre</clau>
+	<valor>sota</valor>
+<anyell>
+	<nom>36</nom>
+	<gen>herma</gen>
+	<clau>presència</clau>
+	<valor>manifestació</valor>
+<anyell>
+	<nom>37</nom>
+	<gen>herma</gen>
+	<clau>participació</clau>
+	<valor>assistència</valor>
+<anyell>
+	<nom>38</nom>
+	<gen>herma</gen>
+	<clau>saviesa</clau>
+	<valor>intel·ligència</valor>
+<anyell>
+	<nom>39</nom>
+	<gen>herma</gen>
+	<clau>obra</clau>
+	<valor>treball</valor>
+<anyell>
+	<nom>40</nom>
+	<gen>herma</gen>
+	<clau>creador</clau>
+	<valor>programador</valor>
+<anyell>
+	<nom>41</nom>
+	<gen>herma</gen>
+	<clau>veure</clau>
+	<valor>observar</valor>
+<anyell>
+	<nom>42</nom>
+	<gen>herma</gen>
+	<clau>text</clau>
+	<valor>codi</valor>
+<anyell>
+	<nom>43</nom>
+	<gen>herma</gen>
+	<clau>cel</clau>
+	<valor>firmament</valor>
+<anyell>
+	<nom>44</nom>
+	<gen>herma</gen>
+	<clau>firmament</clau>
+	<valor>volta</valor>
+<anyell>
+	<nom>45</nom>
+	<gen>herma</gen>
+	<clau>tenebres</clau>
+	<valor>foscor</valor>
+<anyell>
+	<nom>46</nom>
+	<gen>herma</gen>
+	<clau>superfície</clau>
+	<valor>extensió</valor>
+<anyell>
+	<nom>47</nom>
+	<gen>herma</gen>
+	<clau>oceà</clau>
+	<valor>aigües</valor>
+<anyell>
+	<nom>48</nom>
+	<gen>mascle</gen>
+	<clau>Esperit</clau>
+	<valor>Ànima</valor>
+<anyell>
+	<nom>49</nom>
+	<gen>herma</gen>
+	<clau>planar</clau>
+	<valor>volar</valor>
+<anyell>
+	<nom>50</nom>
+	<gen>herma</gen>
+	<clau>altre</clau>
+	<valor>pare</valor>
+<anyell>
+	<nom>51</nom>
+	<gen>femella</gen>
+	<clau>traducció</clau>
+	<valor>transcripció</valor>
+<anyell>
+	<nom>52</nom>
+	<gen>femella</gen>
+	<clau>possible</clau>
+	<valor>probable</valor>
+<anyell>
+	<nom>53</nom>
+	<gen>mascle</gen>
+	<clau>final</clau>
+	<valor>fi</valor>
+<anyell>
+	<nom>54</nom>
+	<gen>herma</gen>
+	<clau>frase</clau>
+	<valor>oració</valor>
+<anyell>
+	<nom>55</nom>
+	<gen>herma</gen>
+	<clau>es diu</clau>
+	<valor>es comenta</valor>
+<anyell>
+	<nom>56</nom>
+	<gen>herma</gen>
+	<clau>costat</clau>
+	<valor>banda</valor>
+<anyell>
+	<nom>57</nom>
+	<gen>femella</gen>
+	<clau>paraula</clau>
+	<valor>mot</valor>
+<anyell>
+	<nom>58</nom>
+	<gen>herma</gen>
+	<clau>diví</clau>
+	<valor>gloriós</valor>
+<anyell>
+	<nom>59</nom>
+	<gen>mascle</gen>
+	<clau>tradició</clau>
+	<valor>culte</valor>
+<anyell>
+	<nom>60</nom>
+	<gen>mascle</gen>
+	<clau>Pares</clau>
+	<valor>Mares</valor>
+<anyell>
+	<nom>61</nom>
+	<gen>herma</gen>
+	<clau>església</clau>
+	<valor>monestir</valor>
+<anyell>
+	<nom>62</nom>
+	<gen>herma</gen>
+	<clau>entendre</clau>
+	<valor>comprendre</valor>
+<anyell>
+	<nom>63</nom>
+	<gen>herma</gen>
+	<clau>expressió</clau>
+	<valor>transmissió</valor>
+<anyell>
+	<nom>64</nom>
+	<gen>herma</gen>
+	<clau>sentit</clau>
+	<valor>direcció</valor>
+<anyell>
+	<nom>65</nom>
+	<gen>mascle</gen>
+	<clau>acció</clau>
+	<valor>reacció</valor>
+<anyell>
+	<nom>66</nom>
+	<gen>herma</gen>
+	<clau>fecundant</clau>
+	<valor>fèrtil</valor>
+<anyell>
+	<nom>67</nom>
+	<gen>herma</gen>
+	<clau>sant</clau>
+	<valor>sagrat</valor>
+<anyell>
+	<nom>68</nom>
+	<gen>herma</gen>
+	<clau>juntament</clau>
+	<valor>separadament</valor>
+<anyell>
+	<nom>69</nom>
+	<gen>herma</gen>
+	<clau>cosa</clau>
+	<valor>cos</valor>
+<anyell>
+	<nom>70</nom>
+	<gen>herma</gen>
+	<clau>vent</clau>
+	<valor>corrent</valor>
+<anyell>
+	<nom>71</nom>
+	<gen>femella</gen>
+	<clau>llavors</clau>
+	<valor>doncs</valor>
+<anyell>
+	<nom>72</nom>
+	<gen>mascle</gen>
+	<clau>forma</clau>
+	<valor>figura</valor>
+<anyell>
+	<nom>73</nom>
+	<gen>herma</gen>
+	<clau>superlatiu</clau>
+	<valor>pare</valor>
+<anyell>
+	<nom>74</nom>
+	<gen>herma</gen>
+	<clau>huracanat</clau>
+	<valor>temporal</valor>
+<anyell>
+	<nom>75</nom>
+	<gen>herma</gen>
+	<clau>destructor</clau>
+	<valor>devastador</valor>
+<anyell>
+	<nom>76</nom>
+	<gen>mascle</gen>
+	<clau>molt</clau>
+	<valor>poc</valor>
+<anyell>
+	<nom>77</nom>
+	<gen>herma</gen>
+	<clau>és a dir</clau>
+	<valor>o sigui</valor>
+<anyell>
+	<nom>78</nom>
+	<gen>herma</gen>
+	<clau>ordenar</clau>
+	<valor>governar</valor>
+<anyell>
+	<nom>79</nom>
+	<gen>mascle</gen>
+	<clau>distingir</clau>
+	<valor>discernir</valor>
+<anyell>
+	<nom>80</nom>
+	<gen>mascle</gen>
+	<clau>separar</clau>
+	<valor>ajuntar</valor>
+<anyell>
+	<nom>81</nom>
+	<gen>herma</gen>
+	<clau>existir</clau>
+	<valor>esdevenir</valor>
+<anyell>
+	<nom>82</nom>
+	<gen>herma</gen>
+	<clau>llum</clau>
+	<valor>color</valor>
+<anyell>
+	<nom>83</nom>
+	<gen>herma</gen>
+	<clau>veure</clau>
+	<valor>escoltar</valor>
+<anyell>
+	<nom>84</nom>
+	<gen>herma</gen>
+	<clau>donar</clau>
+	<valor>establir</valor>
+<anyell>
+	<nom>85</nom>
+	<gen>herma</gen>
+	<clau>bíblic</clau>
+	<valor>religiós</valor>
+<anyell>
+	<nom>86</nom>
+	<gen>herma</gen>
+	<clau>símbol</clau>
+	<valor>emblema</valor>
+<anyell>
+	<nom>87</nom>
+	<gen>femella</gen>
+	<clau>vida</clau>
+	<valor>mort</valor>
+<anyell>
+	<nom>88</nom>
+	<gen>femella</gen>
+	<clau>bé</clau>
+	<valor>mal</valor>
+<anyell>
+	<nom>89</nom>
+	<gen>herma</gen>
+	<clau>començar</clau>
+	<valor>iniciar</valor>
+<anyell>
+	<nom>90</nom>
+	<gen>mascle</gen>
+	<clau>sol</clau>
+	<valor>lluna</valor>
+<anyell>
+	<nom>91</nom>
+	<gen>mascle</gen>
+	<clau>pon</clau>
+	<valor>lleva</valor>
+<anyell>
+	<nom>92</nom>
+	<gen>herma</gen>
+	<clau>següent</clau>
+	<valor>posterior</valor>
+<anyell>
+	<nom>93</nom>
+	<gen>femella</gen>
+	<clau>aparèixer</clau>
+	<valor>desaparèixer</valor>
+<anyell>
+	<nom>94</nom>
+	<gen>herma</gen>
+	<clau>continent</clau>
+	<valor>territori</valor>
+<anyell>
+	<nom>95</nom>
+	<gen>herma</gen>
+	<clau>aigües</clau>
+	<valor>mar</valor>
+<anyell>
+	<nom>96</nom>
+	<gen>mascle</gen>
+	<clau>aplegar</clau>
+	<valor>reunir</valor>
+<anyell>
+	<nom>97</nom>
+	<gen>herma</gen>
+	<clau>produir</clau>
+	<valor>generar</valor>
+<anyell>
+	<nom>98</nom>
+	<gen>mascle</gen>
+	<clau>domèstic</clau>
+	<valor>afable</valor>
+<anyell>
+	<nom>99</nom>
+	<gen>femella</gen>
+	<clau>herba</clau>
+	<valor>vegetal</valor>
+<anyell>
+	<nom>100</nom>
+	<gen>hemella</gen>
+	<clau>estol</clau>
+	<valor>població</valor>
+<anyell>
+	<nom>101</nom>
+	<gen>herma</gen>
+	<clau>acabar</clau>
+	<valor>finalitza</valor>
+<anyell>
+	<nom>102</nom>
+	<gen>mascle</gen>
+	<clau>exèrcit</clau>
+	<valor>batalló</valor>
+<anyell>
+	<nom>103</nom>
+	<gen>herma</gen>
+	<clau>passar</clau>
+	<valor>transcórrer</valor>
+<anyell>
+	<nom>104</nom>
+	<gen>femella</gen>
+	<clau>formar</clau>
+	<valor>constituir</valor>
+<anyell>
+	<nom>105</nom>
+	<gen>herma</gen>
+	<clau>part</clau>
+	<valor>extensió</valor>
+<anyell>
+	<nom>106</nom>
+	<gen>herma</gen>
+	<clau>títol</clau>
+	<valor>identificador</valor>
+<anyell>
+	<nom>107</nom>
+	<gen>herma</gen>
+	<clau>general</clau>
+	<valor>principal</valor>
+<anyell>
+	<nom>108</nom>
+	<gen>mascle</gen>
+	<clau>versió</clau>
+	<valor>edició</valor>
+<anyell>
+	<nom>109</nom>
+	<gen>herma</gen>
+	<clau>crear</clau>
+	<valor>generar</valor>
+<anyell>
+	<nom>110</nom>
+	<gen>mascle</gen>
+	<clau>fórmula</clau>
+	<valor>expressió</valor>
+<anyell>
+	<nom>110</nom>
+	<gen>mascle</gen>
+	<clau>marcar</clau>
+	<valor>definir</valor>
+<anyell>
+	<nom>111</nom>
+	<gen>mascle</gen>
+	<clau>estrutura</clau>
+	<valor>arquitectura</valor>
+<anyell>
+	<nom>112</nom>
+	<gen>herma</gen>
+	<clau>cicle</clau>
+	<valor>temps</valor>
+<anyell>
+	<nom>113</nom>
+	<gen>femella</gen>
+	<clau>personatge</clau>
+	<valor>actor</valor>
+<anyell>
+	<nom>114</nom>
+	<gen>herma</gen>
+	<clau>genealogia</clau>
+	<valor>herència</valor>
+<anyell>
+	<nom>115</nom>
+	<gen>mascle</gen>
+	<clau>simple</clau>
+	<valor>senzill</valor>
+<anyell>
+	<nom>116</nom>
+	<gen>mascle</gen>
+	<clau>llista</clau>
+	<valor>nombre</valor>
+<anyell>
+	<nom>117</nom>
+	<gen>herma</gen>
+	<clau>descendent</clau>
+	<valor>fill</valor>
+<anyell>
+	<nom>118</nom>
+	<gen>herma</gen>
+	<clau>relat</clau>
+	<valor>narració</valor>
+<anyell>
+	<nom>119</nom>
+	<gen>herma</gen>
+	<clau>activitat</clau>
+	<valor>acció</valor>
+<anyell>
+	<nom>120</nom>
+	<gen>herma</gen>
+	<clau>sorgir</clau>
+	<valor>emergir</valor>
+<anyell>
+	<nom>121</nom>
+	<gen>herma</gen>
+	<clau>matoll</clau>
+	<valor>herba</valor>
+<anyell>
+	<nom>122</nom>
+	<gen>herma</gen>
+	<clau>fer</clau>
+	<valor>ordenar</valor>
+<anyell>
+	<nom>123</nom>
+	<gen>herma</gen>
+	<clau>conrear</clau>
+	<valor>cultivar</valor>
+<anyell>
+	<nom>124</nom>
+	<gen>herma</gen>
+	<clau>camps</clau>
+	<valor>món</valor>
+<anyell>
+	<nom>125</nom>
+	<gen>herma</gen>
+	<clau>però</clau>
+	<valor>nogensmenys</valor>
+<anyell>
+	<nom>126</nom>
+	<gen>herma</gen>
+	<clau>nogensmenys</clau>
+	<valor>tanmateix</valor>
+<anyell>
+	<nom>127</nom>
+	<gen>herma</gen>
+	<clau>tamateix</clau>
+	<valor>no obstant</valor>
+<anyell>
+	<nom>128</nom>
+	<gen>herma</gen>
+	<clau>no obstant</clau>
+	<valor>però</valor>
+<anyell>
+	<nom>129</nom>
+	<gen>herma</gen>
+	<clau>geografia</clau>
+	<valor>topografia</valor>
+<anyell>
+	<nom>130</nom>
+	<gen>herma</gen>
+	<clau>en compte</clau>
+	<valor>present</valor>
+<anyell>
+	<nom>131</nom>
+	<gen>femella</gen>
+	<clau>bdel·li</clau>
+	<valor>ònix</valor>
+<anyell>
+	<nom>131</nom>
+	<gen>femella</gen>
+	<clau>resina</clau>
+	<valor>ungüent</valor>
+<anyell>
+	<nom>132</nom>
+	<gen>femella</gen>
+	<clau>pedra</clau>
+	<valor>roca</valor>
+<anyell>
+	<nom>133</nom>
+	<gen>herma</gen>
+	<clau>segon</clau>
+	<valor>anterior</valor>
+<anyell>
+	<nom>134</nom>
+	<gen>herma</gen>
+	<clau>país</clau>
+	<valor>nació</valor>
+<anyell>
+	<nom>135</nom>
+	<gen>herma</gen>
+	<clau>or</clau>
+	<valor>platí</valor>
+<anyell>
+	<nom>136</nom>
+	<gen>herma</gen>
+	<clau>plata</clau>
+	<valor>or</valor>
+<anyell>
+	<nom>137</nom>
+	<gen>herma</gen>
+	<clau>bronze</clau>
+	<valor>plata</valor>
+<anyell>
+	<nom>138</nom>
+	<gen>herma</gen>
+	<clau>riu</clau>
+	<valor>corrent</valor>
+<anyell>
+	<nom>139</nom>
+	<gen>herma</gen>
+	<clau>tercer</clau>
+	<valor>anterior</valor>
+<anyell>
+	<nom>140</nom>
+	<gen>herma</gen>
+	<clau>entre</clau>
+	<valor>entremig</valor>
+<anyell>
+	<nom>141</nom>
+	<gen>herma</gen>
+	<clau>entremig</clau>
+	<valor>enmig</valor>
+<anyell>
+	<nom>142</nom>
+	<gen>herma</gen>
+	<clau>felicitat</clau>
+	<valor>plenitud</valor>
+<anyell>
+	<nom>143</nom>
+	<gen>herma</gen>
+	<clau>regar</clau>
+	<valor>nodrir</valor>
+<anyell>
+	<nom>144</nom>
+	<gen>herma</gen>
+	<clau>pedra</clau>
+	<valor>roca</valor>
+<anyell>
+	<nom>145</nom>
+	<gen>herma</gen>
+	<clau>donar</clau>
+	<valor>germinar</valor>
+<anyell>
+	<nom>146</nom>
+	<gen>herma</gen>
+	<clau>néixer</clau>
+	<valor>brotar</valor>
+<anyell>
+	<nom>147</nom>
+	<gen>herma</gen>
+	<clau>propi de</clau>
+	<valor>relatiu a</valor>
+<anyell>
+	<nom>148</nom>
+	<gen>herma</gen>
+	<clau>manament</clau>
+	<valor>comanda</valor>
+<anyell>
+	<nom>149</nom>
+	<gen>herma</gen>
+	<clau>immortalitat</clau>
+	<valor>eternitat</valor>
+<anyell>
+	<nom>150</nom>
+	<gen>herma</gen>
+	<clau>màgia</clau>
+	<valor>bruixeria</valor>
+<anyell>
+	<nom>151</nom>
+	<gen>herma</gen>
+	<clau>constant</clau>
+	<valor>concurrent</valor>
+<anyell>
+	<nom>152</nom>
+	<gen>herma</gen>
+	<clau>implicar</clau>
+	<valor>comportar</valor>
+<anyell>
+	<nom>153</nom>
+	<gen>herma</gen>
+	<clau>espòs</clau>
+	<valor>unit</valor>
+<anyell>
+	<nom>154</nom>
+	<gen>herma</gen>
+	<clau>sobirania</clau>
+	<valor>reialesa</valor>
+<anyell>
+	<nom>155</nom>
+	<gen>herma</gen>
+	<clau>conèixer</clau>
+	<valor>saber</valor>
+<anyell>
+	<nom>156</nom>
+	<gen>herma</gen>
+	<clau>arameu</clau>
+	<valor>jueu</valor>
+<anyell>
+	<nom>157</nom>
+	<gen>herma</gen>
+	<clau>recent</clau>
+	<valor>remot</valor>
+<anyell>
+	<nom>158</nom>
+	<gen>herma</gen>
+	<clau>son</clau>
+	<valor>somni</valor>
+<anyell>
+	<nom>159</nom>
+	<gen>herma</gen>
+	<clau>per tal</clau>
+	<valor>amb la finalitat</valor>
+<anyell>
+	<nom>160</nom>
+	<gen>herma</gen>
+	<clau>subratllar</clau>
+	<valor>remarcar</valor>
+<anyell>
+	<nom>161</nom>
+	<gen>herma</gen>
+	<clau>llaç</clau>
+	<valor>lligam</valor>
+<anyell>
+	<nom>162</nom>
+	<gen>herma</gen>
+	<clau>retrobar</clau>
+	<valor>retornar</valor>
+<anyell>
+	<nom>163</nom>
+	<gen>mascle</gen>
+	<clau>solitud</clau>
+	<valor>unió</valor>
+<anyell>
+	<nom>164</nom>
+	<gen>herma</gen>
+	<clau>parentiu</clau>
+	<valor>filiació</valor>
+<anyell>
+	<nom>165</nom>
+	<gen>herma</gen>
+	<clau>exclamar</clau>
+	<valor>clamar</valor>
+<anyell>
+	<nom>166</nom>
+	<gen>herma</gen>
+	<clau>unir</clau>
+	<valor>lligar</valor>
+<anyell>
+	<nom>167</nom>
+	<gen>mascle</gen>
+	<clau>fort</clau>
+	<valor>feble</valor>
+<anyell>
+	<nom>168</nom>
+	<gen>herma</gen>
+	<clau>narrador</clau>
+	<valor>autor</valor>
+<anyell>
+	<nom>169</nom>
+	<gen>herma</gen>
+	<clau>afirmar</clau>
+	<valor>negar</valor>
+<anyell>
+	<nom>170</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+<anyell>
+	<nom>171</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+<anyell>
+	<nom>172</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+<anyell>
+	<nom>173</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+<anyell>
+	<nom>174</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+<anyell>
+	<nom>175</nom>
+	<gen>herma</gen>
+	<clau></clau>
+	<valor></valor>
+
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</abadia>
