@@ -68,23 +68,23 @@ public abstract class Font extends Unicode {
 	 * &lt;/abadia&gt;
 	 */
 	public void escriuAnyell(String clau, String valor) {
-		sortida.append(Caràcter.TABULACIÓ);
+		sortida.append(TABULACIÓ);
 		sortida.append(CLAU_OBERTURA);
 		sortida.append(clau);
 		sortida.append(CLAU_TANCAMENT);
-		sortida.append(Caràcter.EOL);
+		sortida.append(FI_DE_LÍNIA);
 		
 		sortida.append(TABULACIÓ);
 		
 		sortida.append(VALOR_OBERTURA);
 		sortida.append(valor);
 		sortida.append(VALOR_TANCAMENT);
-		sortida.append(Caràcter.EOL);
+		sortida.append(FI_DE_LÍNIA);
 		
 		sortida.append(ANYELL_OBERTURA);
-		sortida.append(Caràcter.EOL);
+		sortida.append(FI_DE_LÍNIA);
 		
-		tancament.insert(0, ANYELL_TANCAMENT + Caràcter.EOL);
+		tancament.insert(0, ANYELL_TANCAMENT + FI_DE_LÍNIA);
 	}
 	
 	public void escriure(String marcatge) {
@@ -99,7 +99,12 @@ public abstract class Font extends Unicode {
 	public void escriureAbans(char caràcter) {
 		sortida.insert(0, caràcter);
 	}
-	
+	public void escriureTancament(String marcatge) {
+		tancament.append(marcatge);
+	}
+	public void escriureTancamentAbans(String marcatge) {
+		tancament.insert(0, marcatge);
+	}
 	/**
 	 * Retorna vector de caràcters composat.
 	 * @return el nou vector de caràcters composat

@@ -13,7 +13,7 @@ public abstract class Unicode {
 	 * Codi de final de línia -antigament: <tt>EOL</tt>- en Unicode.<br/>
 	 * Codificació: primitiu[<tt>char c = '\n';]</tt>
 	 */
-	public static final char FINAL_DE_LÍNIA = '\n';
+	public static final char FI_DE_LÍNIA = '\n';
 
 	/**
 	 * Codi de comparació 'menor que' en Unicode.<br/>

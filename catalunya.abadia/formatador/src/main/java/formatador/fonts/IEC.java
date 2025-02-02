@@ -1,17 +1,9 @@
 package formatador.fonts;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Collection;
-import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.Set;
-
 import formatador.Entrada;
 import formatador.Formatador;
+import formatador.Text;
 
 /**
  * 
@@ -58,7 +50,7 @@ public class IEC {
 	 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'\n' des del final de la mateixa línia)&gt;<br/>
 	 * :[fi de iteració]</tt><br/>
 	 */
-	public static abstract class Bdlex
+	public static abstract class BDLEX
 		extends Formatador {
 
 		/**
@@ -158,12 +150,14 @@ public class IEC {
 			this.font = font;
 		}
 		
-		public Bdlex(String font, String entrada) {
+		public BDLEX(String font, String entrada) {
 			super(entrada);
 			this.font = font;
 			// Pre-formatar diccionari abans d'establir en la font.
 			// Eliminació de totes les tabulacions.
 			this.escriuEntrada(llegeixEntrada().replaceAll(String.valueOf(TABULACIÓ), ""));
+			// Inicia lectura.
+			llegeix();
 		}
 		
 		/**
@@ -174,7 +168,7 @@ public class IEC {
 			for(String entrada : entrades) {
 				if(entrada.startsWith(Entrada.CLAU_OBERTURA)) {
 					String clau = entrada.substring(1, entrada.indexOf(Entrada.CLAU_TANCAMENT));
-					String valor = entrada.substring(entrada.indexOf(Entrada.CLAU_TANCAMENT)+2, entrada.lastIndexOf(Caràcter.EOL));
+					String valor = entrada.substring(entrada.indexOf(Entrada.CLAU_TANCAMENT)+2, entrada.lastIndexOf(FI_DE_LÍNIA));
 					this.put(clau, valor);
 				}
 			}
@@ -183,79 +177,80 @@ public class IEC {
 		 * 
 		 */
 		public void escriu() {
-			for(Map.Entry<String, String> entry : diccionari.entrySet()) {
+			for(Map.Entry<String, String> entry : entrySet()) {
 				escriu(entry.getKey(), entry.getValue());
 			}
 		}
+
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DIEC1').
 		 */
-		public static final class DIEC1 extends Bdlex {
+		public static final class DIEC1 extends BDLEX {
+			
 			/**
 			 * Constructor de classe Formatador DIEC1.
 			 * @param entrada el text pla
 			 */
 			public DIEC1(String entrada) {
 				super(DIEC1, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DGFP').
 		 */
-		public static final class DGFP extends Bdlex {
+		public static final class DGFP extends BDLEX {
+			
 			/**
 			 * Constructor de classe Formatador DGFP
 			 * @param entrada el text pla
 			 */
 			public DGFP(String entrada) {
 				super(DGFP, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DCVB').
 		 */
-		public static final class DCVB extends Bdlex {
+		public static final class DCVB extends BDLEX {
+			
 			/**
 			 * Constructor de classe Formatador DCVB
 			 * @param entrada el text pla
 			 */
 			public DCVB(String entrada) {
 				super(DCVB, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DGLC').
 		 */
-		public static final class DGLC extends Bdlex {
+		public static final class DGLC extends BDLEX {
+			
 			/**
 			 * Constructor de classe Formatador DGLC
 			 * @param entrada el text pla
 			 */
 			public DGLC(String entrada) {
 				super(DGLC, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DPCV').
 		 */
-		public static final class DPCV extends Bdlex {
+		public static final class DPCV extends BDLEX {
+			
 			/**
 			 * Constructor de classe Formatador DPCV
 			 * @param entrada el text pla
 			 */
 			public DPCV(String entrada) {
 				super(DPCV, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DGMG').
 		 */
-		public static final class DGMG extends Bdlex {
+		public static final class DGMG extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DGMG
@@ -263,13 +258,12 @@ public class IEC {
 			 */
 			public DGMG(String entrada) {
 				super(DGMG, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('NDMA').
 		 */
-		public static final class NDMA extends Bdlex {
+		public static final class NDMA extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador NDMA
@@ -277,13 +271,12 @@ public class IEC {
 			 */
 			public NDMA(String entrada) {
 				super(NDMA, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DVCE').
 		 */
-		public static final class DVCE extends Bdlex {
+		public static final class DVCE extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DVCE
@@ -291,13 +284,12 @@ public class IEC {
 			 */
 			public DVCE(String entrada) {
 				super(DVCE, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DMCF').
 		 */
-		public static final class DMCF extends Bdlex {
+		public static final class DMCF extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DMCF
@@ -305,13 +297,12 @@ public class IEC {
 			 */
 			public DMCF(String entrada) {
 				super(DMCF, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DLCL').
 		 */
-		public static final class DLCL extends Bdlex {
+		public static final class DLCL extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DLCL
@@ -319,13 +310,12 @@ public class IEC {
 			 */
 			public DLCL(String entrada) {
 				super(DLCL, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DEBJ').
 		 */
-		public static final class DEBJ extends Bdlex {
+		public static final class DEBJ extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DEBJ
@@ -333,13 +323,12 @@ public class IEC {
 			 */
 			public DEBJ(String entrada) {
 				super(DEBJ, entrada);
-				llegeix();
 			}
 		}
 		/**
 		 * Concreció per a resultats obtinguts per distinció de font en BDLEX ('DEBJ').
 		 */
-		public static final class DMFC extends Bdlex {
+		public static final class DMFC extends BDLEX {
 			
 			/**
 			 * Constructor de classe Formatador DMFC
@@ -347,7 +336,6 @@ public class IEC {
 			 */
 			public DMFC(String entrada) {
 				super(DMFC, entrada);
-				llegeix();
 			}
 		}
 	}
@@ -360,42 +348,12 @@ public class IEC {
 //			diec1.escriu();
 //			Bdlex.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/diec1.xml", diec1.extreuDocument());
 			// Extracció de DGFP
-			String entrada = IEC.llegeix("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/registre/dgfp.txt");
-			Bdlex dgfp = new Bdlex.DGFP(entrada);
+			String entrada = Text.llegeix("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/registre/dgfp.txt");
+			BDLEX dgfp = new BDLEX.DGFP(entrada);
 			dgfp.escriu();
-			IEC.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/català.dgfp.xml", dgfp.extreuDocument());
+			Text.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/català.dgfp.xml", dgfp.extreuDocument());
 		} catch (Throwable e) {
 			e.printStackTrace();
 		}
 	}
-	
-	public static String llegeix(String ruta) throws Throwable {
-		String text = null;
-		BufferedReader br = new BufferedReader(new FileReader(ruta));
-		try {
-		    StringBuilder sb = new StringBuilder();
-		    String line = br.readLine();
-		    while (line != null) {
-		        sb.append(line);
-		        sb.append(System.lineSeparator());
-		        line = br.readLine();
-		    }
-		    text = sb.toString();
-		} finally {
-		    br.close();
-		}
-		return text;
-	}
-	
-	public static void escriu(String ruta, String text) {
-	    BufferedWriter writer;
-	    try {
-			writer = new BufferedWriter(new FileWriter(ruta));
-		    writer.write(text);
-		    writer.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-	
 }

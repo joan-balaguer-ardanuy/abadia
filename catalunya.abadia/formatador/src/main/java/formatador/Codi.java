@@ -33,21 +33,21 @@ public abstract class Codi extends Font {
 	 * StringBuilder tancament:<br/>
 	 * &lt;/abadia&gt;
 	 */
-	public void escriu(String clau, String valor) {
-		sortida.append(TABULACIÓ);
-		sortida.append(CLAU_OBERTURA);
-		sortida.append(clau);
-		sortida.append(CLAU_TANCAMENT);
-		sortida.append(FINAL_DE_LÍNIA);
-		sortida.append(TABULACIÓ);
-		sortida.append(VALOR_OBERTURA);
-		sortida.append(valor);
-		sortida.append(VALOR_TANCAMENT);
-		sortida.append(FINAL_DE_LÍNIA);
-		sortida.append(ANYELL_OBERTURA);
-		sortida.append(FINAL_DE_LÍNIA);
+	public void escriure(String clau, String valor) {
+		escriure(TABULACIÓ);
+		escriure(CLAU_OBERTURA);
+		escriure(clau);
+		escriure(CLAU_TANCAMENT);
+		escriure(FI_DE_LÍNIA);
+		escriure(TABULACIÓ);
+		escriure(VALOR_OBERTURA);
+		escriure(valor);
+		escriure(VALOR_TANCAMENT);
+		escriure(FI_DE_LÍNIA);
+		escriure(ANYELL_OBERTURA);
+		escriure(FI_DE_LÍNIA);
 		
-		tancament.insert(0, ANYELL_TANCAMENT + FINAL_DE_LÍNIA);
+		escriureTancamentAbans(ANYELL_TANCAMENT + FI_DE_LÍNIA);
 	}
 	
 	/**
