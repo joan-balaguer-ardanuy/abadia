@@ -1,4 +1,4 @@
-package formatador;
+package abadia;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -20,28 +20,28 @@ public abstract class Font extends Unicode {
 	private StringBuilder tancament;
 
 	/**
-	 * Retorna l'actual vector de caràcters en el qual s'hi troba escrvint.
+	 * Retorna l'actual vector de caràcters en el qual s'hi troba escrivint.
 	 * @return 	
 	 */
 	public StringBuilder llegeixSortida() {
 		return sortida;
 	}
 	/**
-	 * Estableix l'actual vector de caràcters en el qual s'hi troba escrvint.
+	 * Estableix l'actual vector de caràcters en el qual s'hi troba escrivint.
 	 * @return
 	 */
 	public void escriuSortida(StringBuilder sortida) {
 		this.sortida = sortida;
 	}
 	/**
-	 * Retorna l'actual vector de caràcters en el qual s'hi troba escrvint.
+	 * Retorna l'actual vector de caràcters en el qual s'hi troba escrivint.
 	 * @return 	
 	 */
 	public StringBuilder llegeixTancament() {
 		return tancament;
 	}
 	/**
-	 * Estableix l'actual vector de caràcters en el qual s'hi troba escrvint.
+	 * Estableix l'actual vector de caràcters en el qual s'hi troba escrivint.
 	 * @return
 	 */
 	public void escriuTancament(StringBuilder tancament) {

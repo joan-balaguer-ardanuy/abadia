@@ -67,5 +67,7 @@
 	<modules>
 		<module>formatador</module>
 		<module>llenguatge</module>
+		<module>configurador</module>
+		<module>text</module>
 	</modules>
 </project>

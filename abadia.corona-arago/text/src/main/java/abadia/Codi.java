@@ -1,4 +1,4 @@
-package formatador;
+package abadia;
 
 public abstract class Codi extends Font {
 	

@@ -7,9 +7,8 @@
 		<artifactId>corona-arago</artifactId>
 		<version>1.0</version>
 	</parent>
-	<artifactId>formatador</artifactId>
-	<name>formatador</name>
-	<description>formatador text pla</description>
+	<artifactId>configurador</artifactId>
+	<name>abadia.configurador</name>
 	<dependencies>
 		<dependency>
 			<groupId>abadia</groupId>

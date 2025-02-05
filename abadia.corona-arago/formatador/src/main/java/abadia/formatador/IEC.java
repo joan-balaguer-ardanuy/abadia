@@ -1,9 +1,9 @@
-package formatador.fonts;
+package abadia.formatador;
 
 import java.util.Map;
-import formatador.Entrada;
-import formatador.Formatador;
-import formatador.Text;
+
+import abadia.Formatador;
+import abadia.Utensili;
 
 /**
  * 
@@ -166,9 +166,9 @@ public class IEC {
 		public void llegeix() { 
 			String[] entrades = retallaEntrades(llegeixFont());
 			for(String entrada : entrades) {
-				if(entrada.startsWith(Entrada.CLAU_OBERTURA)) {
-					String clau = entrada.substring(1, entrada.indexOf(Entrada.CLAU_TANCAMENT));
-					String valor = entrada.substring(entrada.indexOf(Entrada.CLAU_TANCAMENT)+2, entrada.lastIndexOf(FI_DE_LÍNIA));
+				if(entrada.startsWith(CLAU_OBERTURA)) {
+					String clau = entrada.substring(1, entrada.indexOf(CLAU_TANCAMENT));
+					String valor = entrada.substring(entrada.indexOf(CLAU_TANCAMENT)+2, entrada.lastIndexOf(FI_DE_LÍNIA));
 					this.put(clau, valor);
 				}
 			}
@@ -348,10 +348,10 @@ public class IEC {
 //			diec1.escriu();
 //			Bdlex.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/diec1.xml", diec1.extreuDocument());
 			// Extracció de DGFP
-			String entrada = Text.llegeix("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/registre/dgfp.txt");
+			String entrada = Utensili.llegeix("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/registre/dgfp.txt");
 			BDLEX dgfp = new BDLEX.DGFP(entrada);
 			dgfp.escriu();
-			Text.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/català.dgfp.xml", dgfp.extreuDocument());
+			Utensili.escriu("/home/joan/git/abadia/catalunya.abadia/llenguatge/català/català.dgfp.xml", dgfp.extreuDocument());
 		} catch (Throwable e) {
 			e.printStackTrace();
 		}
