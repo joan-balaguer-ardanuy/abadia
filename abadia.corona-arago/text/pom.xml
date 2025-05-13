@@ -9,4 +9,11 @@
 	</parent>
 	<artifactId>text</artifactId>
 	<name>abadia.text</name>
+	<dependencies>
+		<dependency>
+			<artifactId>utensilis</artifactId>
+			<groupId>abadia</groupId>
+			<version>1.0</version>
+		</dependency>
+	</dependencies>
 </project>

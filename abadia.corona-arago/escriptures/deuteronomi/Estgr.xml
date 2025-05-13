@@ -1,0 +1,5770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/anyell">
+    <nom>Estgr</nom>
+<clau>
+    <nom>Introducció</nom>
+<clau>
+    <clau><h1><big>Ester</big>
+    (versió grega)</h1></clau>
+    <valor><h2><i>Introducció</i></h2></valor>
+<anyell>
+    <clau><i>El llibre d'Ester escrit en grec ens ha arribat en dues edicions o «recensions»: una,
+    de Llucià d'Antioquia, i l'altra, a partir de la qual hem fet aquesta traducció, que prové
+    dels Hèxaples d'Orígenes.</i></clau>
+    <valor><i>Alguns pensen que el text grec del llibre d'Ester és més antic que l'hebreu; en aquest
+    cas, el text hebreu que ara posseïm seria una versió abreujada d'un original hebreu
+    més antic, perdut, del qual s'hauria fet la traducció grega. Però sembla més encertat
+    d'afirmar que el text original és l'hebreu i que la versió grega és una ampliació a partir
+    d'aquell text. Això ho confirmarien les tres traduccions aramees conegudes (targums),
+    les quals, com la versió grega, contenen moltes ampliacions, i les nombroses històries
+    edificants medievals (midraixos) elaborades a partir del llibre d'Ester.</i></valor>
+<anyell>
+    <clau><i>Sobre l'esquema de l'obra i el seu valor històric, vegeu la introducció al llibre hebreu
+    d'Ester.</i></clau>
+    <valor><i>La trama de la narració, en línies generals, és la mateixa en els textos hebreu i grec. El
+    grec, però, hi afegeix uns blocs de material, designats amb les lletres A, B, C, D, E i F. Els
+    capítols A (abans del c. 1) i F (després de 10,3) constitueixen el marc de la història. Els ca-<br/>
+    pítols B (entre 3,13 i 3,14) i E (entre 8,12 i 8,13) recullen el decret d'extermini dels jueus i
+    un nou decret que els és favorable. El capítol C (després de 4,17), en el centre de l'obra,
+    conté les belles pregàries de Mardoqueu i d'Ester. El capítol D (abans de 5,3) descriu l'acció
+    d'Ester davant d'Artaxerxes per deturar l'aplicació del decret d'extermini dels jueus.</i></valor>
+<anyell>
+    <clau><i>El medi històric on es desenvolupa l'acció està d'acord, en línies generals, amb el que
+    coneixem de l'imperi persa. Però hi ha una sèrie de personatges i d'esdeveniments
+    que fan pensar que cal emmarcar la versió grega d'Ester en l'ambient del judaisme de la
+    diàspora, és a dir, en les comunitats jueves escampades fora d'Israel, en països de parla
+    grega. Egipte, i en concret Alexandria, són la localització més probable del llibre.</i></clau>
+    <valor><i>L'autor se serveix d'un relat de tipus històric per a il·luminar unes veritats de la fe
+    d'Israel, sobretot la convicció que Déu vetlla pel seu poble. En el fons, la narració
+    desenvolupa el principi, repetit sovint pels llibres sapiencials, segons el qual aquell qui
+    «havia cavat una fossa profunda» «acaba, caient-hi ell mateix» (Sl 7,16): l'orgull
+    d'Aman, perseguidor del poble de Déu, l'infla i l'enfonsa; en canvi, la fidelitat de Mar-<br/>
+    doqueu al seu Déu l'enalteix al capdamunt del poder i dels honors. Així el poble és sal-<br/>
+    vat d'un perill greu. I és que Déu no és lluny: intervé en el curs de la història. El llibre,
+    en efecte, accentua el caràcter sagrat de la història dels homes i del poble d'Israel.</i></valor>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1><big>Ester</big>
+    (versió grega)</h1></clau>
+    <valor><h2><i>Introducció</i></h2></valor>
+<anyell>
+    <clau><i>El llibre d'Ester escrit en grec ens ha arribat en dues edicions o «recensions»: una,
+    de Llucià d'Antioquia, i l'altra, a partir de la qual hem fet aquesta traducció, que prové
+    dels Hèxaples d'Orígenes.</i></clau>
+    <valor><i>Algunes pensen que el text grec del llibre d'Ester és més antic que l'hebreu; en aquest
+    cas, el text hebreu que ara posseïm seria una versió abreujada d'un original hebreu
+    més antic, perdut, del qual s'hauria fet la traducció grega. Però sembla més encertat
+    d'afirmar que el text original és l'hebreu i que la versió grega és una ampliació a partir
+    d'aquell text. Això ho confirmarien les tres traduccions aramees conegudes (targums),
+    les quals, com la versió grega, contenen moltes ampliacions, i les nombroses històries
+    edificants medievals (midraixos) elaborades a partir del llibre d'Ester.</i></valor>
+<anyell>
+    <clau><i>Sobre l'esquema de l'obra i el seu valor històric, vegeu la introducció al llibre hebreu
+    d'Ester.</i></clau>
+    <valor><i>La trama de la narració, en línies generals, és la mateixa en els textos hebreu i grec. El
+    grec, però, hi afegeix uns blocs de material, designats amb les lletres A, B, C, D, E i F. Els
+    capítols A (abans del c. 1) i F (després de 10,3) constitueixen el marc de la història. Els ca-<br/>
+    pítols B (entre 3,13 i 3,14) i E (entre 8,12 i 8,13) recullen el decret d'extermini de les jueves i
+    un nou decret que les és favorable. El capítol C (després de 4,17), en el centre de l'obra,
+    conté les belles pregàries de Mardoqueu i d'Ester. El capítol D (abans de 5,3) descriu l'acció
+    d'Ester davant d'Artaxerxes per deturar l'aplicació del decret d'extermini de les jueves.</i></valor>
+<anyell>
+    <clau><i>El medi històric on es desenvolupa l'acció està d'acord, en línies generals, amb el que
+    coneixem de l'imperi persa. Però hi ha una sèrie de personatges i d'esdeveniments
+    que fan pensar que cal emmarcar la versió grega d'Ester en l'ambient del judaisme de la
+    diàspora, és a dir, en les comunitats jueves escampades fora d'Israel, en països de parla
+    grega. Egipte, i en concret Alexandria, són la localització més probable del llibre.</i></clau>
+    <valor><i>L'autora se serveix d'un relat de tipus històric per a il·luminar unes veritats de la fe
+    d'Israel, sobretot la convicció que Mare de Déu vetlla pel seu poble. En el fons, la narració
+    desenvolupa el principi, repetit sovint pels llibres sapiencials, segons el qual aquella qui
+    «havia cavat una fossa profunda» «acaba, caient-hi ella mateixa» (Sl 7,16): l'orgull
+    d'Aman, perseguidora del poble de Mare de Déu, la infla i la enfonsa; en canvi, la fidelitat de Mar-<br/>
+    doqueu a la seva Mare de Déu l'enalteix al capdamunt del poder i dels honors. Així el poble és sal-<br/>
+    vat d'un perill greu. I és que Mare de Déu no és lluny: intervé en el curs de la història. El llibre,
+    en efecte, accentua el caràcter sagrat de la història de les dones i del poble d'Israel.</i></valor>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>A</nom>
+<clau>
+    <clau><h1><big>Ester</big>
+    (versió grega)</h1></clau>
+    <valor></valor>
+<anyell>
+    <clau><big>A</big></clau>
+    <valor><h3>El somni de Mardoqueu<sup><i>a</i></sup></h3></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Els capítols de la versió grega del llibre d'Ester que
+    no tenen correspondència en el text hebreu són desig-<br/>
+    nats amb una lletra majúscula (vegeu Introducció).
+    Aquest capítol preliminar insinua la constant de tot el
+    llibre: el capgirmanet de situacions (caiguda i humi-<br/>
+    liació), l'alliberament i la celbració joiosa. El perso-<br/>
+    natge central del capítol és <i>Mardoqueu</i>, presentat
+    aquí com un cortesà (vegeu vv. 2.16). Segons 3,2,
+    sembla que formi part de la guàrdia de l'entrada del
+    palau reial.</valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El dia u del mes de nissan<sup><i>b</i></sup> de
+    l'any segon del rei Artaxerxes el
+    Gran,<sup><i>c</i></sup> Mardoqueu va tenir un somni.<sup><i>d</i></sup><br/>
+    Mardoqueu era fill de Jaïr, descendent
+    de Ximí i de Quix, de la tribu de Benja-<br/>
+    mí.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>És el primer mes del *calendari jueu i
+    correspon a març-abril (vegeu Ex 12,2 nota <i>h</i>).</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Ha
+    de ser Artaxerxes I, que succeí Xerxes I i regnà del
+    465 al 424 aC. Es tractaria, per tant, de l'any 463 aC.
+    Però el text hebreu es refereix, de manera més ver-<br/>
+    semblant, a Xerxes. Vegeu Est 1,1 nota <i>b</i>.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>El <i>som-<br/>
+    ni de Mardoqueu és comparable als de Josep (Gn
+    37,5-11) i Daniel (4 i 7). El seu significat serà ex-<br/>
+    plicat més avall (vegeu F,1-10).</i></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>2,5.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Era un jueu important que pres-<br/>
+    tava els seus serveis al palau del rei. Vi-<br/>
+    via a la ciutat de Susa.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Ciutat si-<br/>
+    tuada a l'est de *Babilònia (Est 1,2 nota <i>c</i>).</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Pertanyia als
+    jueus<sup><i>g</i></sup> que Nabucodonosor, rei de Ba-<br/>
+    bilònia, havia deportat de Jerusalem
+    juntament amb Jeconies, rei de Judà.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Simbolitzen el bé i el mal.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>El somni de Mardoqueu era aquest:
+    Va sentir un gran trasbals a la terra,
+    amb crits, aldarulls, trons i un terratrè-<br/>
+    mol.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Dos dracs enormes<sup><i>h</i></sup> avançaven
+    disposats a lluitar entre ells. Van llançar
+    un bramul terrible.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Simbolitzen el bé i el mal.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>En sentir-lo, totes
+    les nacions es mobilitzaren per atacar la
+    nació justa.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lit.: <i>la nació dels jus-<br/>
+    tos</i>.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Quin dia més fosc i tene-<br/>
+    brós<sup><i>j</i></sup> era aquell! Quina tribulació i qui-<br/>
+    na angúnia! A la terra, calamitats i total
+    confusió!</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>So 1,14-15 nota <i>u</i>. Evoca l'arribada del *dia
+    del Senyor.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Tota la nació justa es va es-<br/>
+    glaiar davant la imminència dels desas-<br/>
+    tre i es preparava per desaparèixer,</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>però
+    llavors va clamar a Déu. Al seu clam,
+    d'una petita font es va formar un gran
+    riu amb molta aigua.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Sortí el sol llu-<br/>
+    minós, i els humils foren enaltits i van
+    engolir els orgullosos.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Mardoqueu es va despertar. En el
+    somni havia vist allò que Déu havia de-<br/>
+    cidit de fer. I anà donant-hi voltes fins al
+    vespre, maldant de totes maneres per
+    comprendre'n el sentit.</valor>
+<anyell>
+    <clau><h3>Mardoqueu salva la vida del rei</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Una vegada,<sup><i>k</i></sup> Mardoqueu descan-<br/>
+    sava a palau, a prop de Gabata i Tarra,<sup><i>l</i></sup><br/>
+    els dos eunucs del rei, guardians del pa-<br/>
+    lau.</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Est 2,21-23.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor><i>Gabata</i> i <i>Tarra</i> són dos
+    personatges citats en el text hebreu amb els noms de
+    <i>Bigtan</i> i <i>Tèreix</i> (vegeu Est 2,21).</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Va escoltar la seva conversa i va
+    fer indagacions sobre el que duien entre
+    mans: llavors va descobrir que conspira-<br/>
+    ven per assassinar el rei Artaxerxes.
+    Mardoqueu els va denunciar al rei.
+</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Interrogats pel rei, els dos eunucs van
+    confessar i foren executats.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>El rei va fer escriure aquests fets
+    perquè en quedés constància. Mardo-<br/>
+    queu, per la seva part, va escriure també
+    la seva versió dels fets.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>El rei confirmà
+    Mardoqueu en els serveis que prestava
+    a palau i el recompensà pel que havia
+    fet.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Però Aman, fill d'Amedata, l'aga-<br/>
+    guita,<sup><i>m</i></sup> home de gran prestigi davant el
+    rei, volia fer pagar a Mardoqueu i al seu
+    poble la mort dels dos eunucs.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>El text grec parla de <i>Bugeu</i>, que segons alguns sig-<br/>
+    nifica ‘fatxenda’. La nostra traducció depèn d'Est 3,1
+    (vegeu nota <i>u</i>). En Est E,10, <i>Aman</i> és presentat
+    com a macedoni.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1><big>Ester</big>
+    (versió grega)</h1></clau>
+    <valor></valor>
+<anyell>
+    <clau><big>A</big></clau>
+    <valor><h3>El somni de Mardoqueu<sup><i>a</i></sup></h3></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Els capítols de la versió grega del llibre d'Ester que
+    no tenen correspondència en el text hebreu són desig-<br/>
+    nats amb una lletra majúscula (vegeu Introducció).
+    Aquest capítol preliminar insinua la constant de tot el
+    llibre: el capgirmanet de situacions (caiguda i humi-<br/>
+    liació), l'alliberament i la celbració joiosa. La perso-<br/>
+    natge central del capítol és <i>Mardoqueu</i>, presentada
+    aquí com una cortesana (vegeu vv. 2.16). Segons 3,2,
+    sembla que formi part de la guàrdia de l'entrada del
+    palau reial.</valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El dia u del mes de nissan<sup><i>b</i></sup> de
+    l'any segon de la reina Artaxerxes la
+    Gran,<sup><i>c</i></sup> Mardoqueu va tenir un somni.<sup><i>d</i></sup><br/>
+    Mardoqueu era filla de Jaïr, descendent
+    de Ximí i de Quix, de la tribu de Benja-<br/>
+    mí.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>És el primer mes del *calendari jueu i
+    correspon a març-abril (vegeu Ex 12,2 nota <i>h</i>).</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Ha
+    de ser Artaxerxes I, que succeí Xerxes I i regnà del
+    465 al 424 aC. Es tractaria, per tant, de l'any 463 aC.
+    Però el text hebreu es refereix, de manera més ver-<br/>
+    semblant, a Xerxes. Vegeu Est 1,1 nota <i>b</i>.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>El <i>som-<br/>
+    ni de Mardoqueu és comparable als de Josep (Gn
+    37,5-11) i Daniel (4 i 7). El seu significat serà ex-<br/>
+    plicat més avall (vegeu F,1-10).</i></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>2,5.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Era una jueva important que pres-<br/>
+    tava els seus serveis al palau de la reina. Vi-<br/>
+    via a la ciutat de Susa.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Ciutat si-<br/>
+    tuada a l'est de *Babilònia (Est 1,2 nota <i>c</i>).</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Pertanyia a les
+    jueves<sup><i>g</i></sup> que Nabucodonosor, reina de Ba-<br/>
+    bilònia, havia deportat de Jerusalem
+    juntament amb Jeconies, reina de Judà.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Simbolitzen el bé i el mal.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>El somni de Mardoqueu era aquest:
+    Va sentir un gran trasbals a la terra,
+    amb crits, aldarulls, trons i un terratrè-<br/>
+    mol.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Dues dragones enormes<sup><i>h</i></sup> avançaven
+    disposades a lluitar entre elles. Van llançar
+    un bramul terrible.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Simbolitzen el bé i el mal.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>En sentir-lo, totes
+    les nacions es mobilitzaren per atacar la
+    nació justa.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lit.: <i>la nació de les jus-<br/>
+    tes</i>.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Quin dia més fosc i tene-<br/>
+    brós<sup><i>j</i></sup> era aquell! Quina tribulació i qui-<br/>
+    na angúnia! A la terra, calamitats i total
+    confusió!</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>So 1,14-15 nota <i>u</i>. Evoca l'arribada del *dia
+    de la Senyora.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Tota la nació justa es va es-<br/>
+    glaiar davant la imminència dels desas-<br/>
+    tre i es preparava per desaparèixer,</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>però
+    llavors va clamar a Mare de Déu. Al seu clam,
+    d'una petita font es va formar un gran
+    riu amb molta aigua.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Sortí el sol llu-<br/>
+    minós, i les humils foren enaltides i van
+    engolir les orgulloses.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Mardoqueu es va despertar. En el
+    somni havia vist allò que Mare de Déu havia de-<br/>
+    cidit de fer. I anà donant-hi voltes fins al
+    vespre, maldant de totes maneres per
+    comprendre'n el sentit.</valor>
+<anyell>
+    <clau><h3>Mardoqueu salva la vida de la reina</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Una vegada,<sup><i>k</i></sup> Mardoqueu descan-<br/>
+    sava a palau, a prop de Gabata i Tarra,<sup><i>l</i></sup><br/>
+    les dues eunucs de la reina, guardianes del pa-<br/>
+    lau.</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Est 2,21-23.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor><i>Gabata</i> i <i>Tarra</i> són dues
+    personatges citades en el text hebreu amb els noms de
+    <i>Bigtan</i> i <i>Tèreix</i> (vegeu Est 2,21).</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Va escoltar la seva conversa i va
+    fer indagacions sobre el que duien entre
+    mans: llavors va descobrir que conspira-<br/>
+    ven per assassinar la reina Artaxerxes.
+    Mardoqueu les va denunciar a la reina.
+</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Interrogades per la reina, les dues eunucs van
+    confessar i foren executades.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>La reina va fer escriure aquests fets
+    perquè en quedés constància. Mardo-<br/>
+    queu, per la seva part, va escriure també
+    la seva versió dels fets.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>La reina confirmà
+    Mardoqueu en els serveis que prestava
+    a palau i el recompensà pel que havia
+    fet.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Però Aman, filla d'Amedata, l'aga-<br/>
+    guita,<sup><i>m</i></sup> dona de gran prestigi davant la
+    reina, volia fer pagar a Mardoqueu i al seu
+    poble la mort de les dues eunucs.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>El text grec parla de <i>Bugeu</i>, que segons algunes sig-<br/>
+    nifica ‘fatxenda’. La nostra traducció depèn d'Est 3,1
+    (vegeu nota <i>u</i>). En Est E,10, <i>Aman</i> és presentada
+    com a macedònia.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>1</nom>
+<clau>
+    <clau><h3>Banquet del rei Artaxerxes</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Després d'això, en temps d'Arta-<br/>
+    xerxes,<sup><i>n</i></sup> aquell que estenia el seu
+    imperi sobre cent vint-i-set<sup><i>o</i></sup> províncies
+    des de l'Índia,</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>A,1 nota <i>c</i>.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Aquesta xifra in-<br/>
+    dica el domini universal d'Artaxerxes.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>quan ja havia instal·lat
+    el seu tron a la ciutat de Susa,</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>l'any
+    tercer del seu regnat, va oferir un ban-<br/>
+    quet als seus amics<sup><i>p</i></sup> i als representants
+    de les altres nacions, als nobles perses i
+    medes, i als governadors de les provín-<br/>
+    cies;</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor><i>Amics del
+    rei</i> és el títol honorífic que rebien els seus consellers
+    més pròxims, associats al poder (vegeu 1Ma 2,18 no-<br/>
+    ta <i>z</i>).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>durant sis mesos, va exhibir da-<br/>
+    vant d'ells l'opulència del seu imperi i la
+    glòria i els plaers de la seva vida fastuo-<br/>
+    sa.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Un cop acabades aquelles festes de
+    noces, el rei va oferir un altre banquet
+    a la gent de totes les nacions que es tro-<br/>
+    bava a la ciutat. El banquet va durar sis
+    dies i se celebrà al pati del palau reial,
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>guarnit amb domassos de porpra i de
+    lli penjats entre columnes de marbre i
+    d'alabastre i sostinguts per anelles d'or
+    i de plata amb cordons de lli i de por-<br/>
+    pra. Sobre el paviment de malaquita,
+    nacre i alabastre s'estenien divans<sup><i>q</i></sup> d'or
+    i de plata, vànoves amb brodats virolats
+    i una estesa de roses pertot arreu.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Els convidats menjaven estesos sobre di-<br/>
+    vans (vegeu Ez 23,41; Am 6,4).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Les
+    copes eren d'or i de plata. N'hi havia
+    una guarnida amb diamants precio-<br/>
+    sos i avaluada en més de trenta mil ta-<br/>
+    lents.<sup><i>r</i></sup> El vi, servit abundantment, era
+    deliciós, del mateix que el rei bevia.
+</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Cada talent
+    corresponia a 34,2 kg de plata. És un preu fabulós.
+</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Tothom podia beure'n sense límits: els
+    servents del palau tenien ordres del rei
+    de complaure el seu desig i el de la gent.</valor>
+<anyell>
+    <clau><h3>Artaxerxes destitueix la reina</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>També la reina Astín<sup><i>s</i></sup> oferia un
+    banquet a les dones en el mateix palau
+    reial d'Artaxerxes.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor><i>Astín</i>, esposa del rei Artaxerxes (vegeu A,1 nota <i>c</i>),
+    correspon a <i>Vaixtí</i>, esposa de Xerxes (= Assuer), en el
+    text hebreu.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>El setè dia, el rei se
+    sentia tan de gust que va cridar els set
+    eunucs del seu servei personal: Aman,<sup><i>t</i></sup><br/>
+    Bazan, Tarra, Borazè, Zotoltà, Abatazà i
+    Tarabà. Artaxerxes els va manar</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>L'<i>Aman</i> que figura entre els *<i>eunucs</i>
+    és distint d'Aman, un dels protagonistes d'aquesta
+    història, l'enemic mortal dels jueus. Els noms grecs
+    dels set eunucs difereixen força dels correspo-<br/>
+    nents hebreus (vegeu Es 1,10).</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>que li
+    presentessin Astín. Volia proclamar-la
+    i coronar-la reina i exhibir la seva belle-<br/>
+    sa<sup><i>u</i></sup> davant els pobles i els governants:
+    Astín feia goig de veure.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Est 1,11 nota <i>f</i>.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Però Astín es
+    negà a obeir-lo i a seguir els eunucs.
+    Llavors el rei, molest i irritat,</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>va dir
+    als seus amics:<sup><i>v</i></sup><br/>
+    – Això ha dit Astín? Doncs ara vosal-<br/>
+    tres jutgeu el cas i decidiu.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Vegeu v. 3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Se li van acostar Arqueseu, Sarsa-<br/>
+    teu i Malesear,<sup><i>w</i></sup> que eren els principals
+    consellers de l'imperi persa i mede, els
+    de més influència prop del rei,</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>El text hebreu del llibre d'Es-<br/>
+    ter té set noms, diferents de la versió grega
+    (Est 1,14).</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>i li van
+    dir:<br/>
+    – Segons la llei, cal procedir contra la
+    reina Astín perquè no ha obeït les or-<br/>
+    dres del rei que els eunucs li havien
+    transmès.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Muqueu,<sup><i>x</i></sup> per la seva part, va dir al
+    rei i als consellers:<br/>
+    – La reina Astín no perjudica sola-<br/>
+    ment el rei; perjudica també tots els alts
+    funcionaris i els governants del reialme.
+</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>En comptes de <i>Muqueu</i>, el text hebreu
+    del llibre d'Ester diu <i>Memucan</i>, que és un dels set
+    (Est 1,14.16.21).</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>A hores d'ara tothom coneix la res-<br/>
+    posta de la reina i la negativa que ha do-<br/>
+    nat al rei. Si ella ha plantat cara al rei
+    Artaxerxes,</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>avui mateix totes les do-<br/>
+    nes dels alts funcionaris perses i medes
+    sabran com ha respost i es veuran igual-<br/>
+    ment amb cor de faltar al respecte als
+    seus marits.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Per tant, si al rei li sem-<br/>
+    bla bé, que es publiqui un edicte que di-<br/>
+    gui: “La reina no podrà presentar-se
+    mai més davant el rei. El rei donarà el
+    títol de reina a una dona més digna que
+    ella.” L'edicte serà irrevocable, segons la
+    llei dels medes i dels perses.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Quan el
+    decret reial s'haurà notificat per tot
+    l'imperi, totes les dones respectaran el
+    seu marit, sigui ric o sigui pobre.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>El rei i els seus consellers van tro-<br/>
+    bar encertada la proposta de Muqueu, i
+    el rei la dugué a terme.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Va enviar l'or-<br/>
+    dre a tot l'imperi, província per provín-<br/>
+    cia, traduïda a les llengües respectives.
+    Així s'imposà a les cases el respecte als
+    marits.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Banquet de la reina Artaxerxes</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Després d'això, en temps d'Arta-<br/>
+    xerxes,<sup><i>n</i></sup> aquella que estenia el seu
+    imperi sobre cent vint-i-set<sup><i>o</i></sup> províncies
+    des de l'Índia,</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>A,1 nota <i>c</i>.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Aquesta xifra in-<br/>
+    dica el domini universal d'Artaxerxes.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>quan ja havia instal·lat
+    el seu tron a la ciutat de Susa,</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>l'any
+    tercer del seu regnat, va oferir un ban-<br/>
+    quet a les seves amigues<sup><i>p</i></sup> i a les representants
+    de les altres nacions, a les nobles perses i
+    medes, i a les governadores de les provín-<br/>
+    cies;</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor><i>Amigues de la
+    reina</i> és el títol honorífic que rebien les seves conselleres
+    més pròximes, associades al poder (vegeu 1Ma 2,18 no-<br/>
+    ta <i>z</i>).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>durant sis mesos, va exhibir da-<br/>
+    vant d'elles l'opulència del seu imperi i la
+    glòria i els plaers de la seva vida fastuo-<br/>
+    sa.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Un cop acabades aquelles festes de
+    noces, la reina va oferir un altre banquet
+    a la gent de totes les nacions que es tro-<br/>
+    bava a la ciutat. El banquet va durar sis
+    dies i se celebrà al pati del palau reial,
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>guarnit amb domassos de porpra i de
+    lli penjats entre columnes de marbre i
+    d'alabastre i sostinguts per anelles d'or
+    i de plata amb cordons de lli i de por-<br/>
+    pra. Sobre el paviment de malaquita,
+    nacre i alabastre s'estenien divans<sup><i>q</i></sup> d'or
+    i de plata, vànoves amb brodats virolats
+    i una estesa de roses pertot arreu.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Les convidades menjaven esteses sobre di-<br/>
+    vans (vegeu Ez 23,41; Am 6,4).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Les
+    copes eren d'or i de plata. N'hi havia
+    una guarnida amb diamants precio-<br/>
+    sos i avaluada en més de trenta mil ta-<br/>
+    lents.<sup><i>r</i></sup> El vi, servit abundantment, era
+    deliciós, del mateix que la reina bevia.
+</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Cada talent
+    corresponia a 34,2 kg de plata. És un preu fabulós.
+</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Tothom podia beure'n sense límits: les
+    serventes del palau tenien ordres de la reina
+    de complaure el seu desig i el de la gent.</valor>
+<anyell>
+    <clau><h3>Artaxerxes destitueix el rei</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>També el rei Astín<sup><i>s</i></sup> oferia un
+    banquet als homes en el mateix palau
+    reial d'Artaxerxes.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor><i>Astín</i>, espòs de la reina Artaxerxes (vegeu A,1 nota <i>c</i>),
+    correspon a <i>Vaixtí</i>, esposa de Xerxes (= Assuer), en el
+    text hebreu.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>El setè dia, la reina se
+    sentia tan de gust que va cridar les set
+    eunucs del seu servei personal: Aman,<sup><i>t</i></sup><br/>
+    Bazan, Tarra, Borazè, Zotoltà, Abatazà i
+    Tarabà. Artaxerxes les va manar</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>L'<i>Aman</i> que figura entre les *<i>eunucs</i>
+    és distinta d'Aman, una de les protagonistes d'aquesta
+    història, l'enemiga mortal de les jueves. Els noms grecs
+    de les set eunucs difereixen força dels correspo-<br/>
+    nents hebreus (vegeu Es 1,10).</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>que li
+    presentessin Astín. Volia proclamar-lo
+    i coronar-lo rei i exhibir la seva belle-<br/>
+    sa<sup><i>u</i></sup> davant els pobles i les governants:
+    Astín feia goig de veure.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Est 1,11 nota <i>f</i>.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Però Astín es
+    negà a obeir-la i a seguir les eunucs.
+    Llavors la reina, molesta i irritada,</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>va dir
+    a les seves amigues:<sup><i>v</i></sup><br/>
+    – Això ha dit Astín? Doncs ara vosal-<br/>
+    tres jutgeu el cas i decidiu.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Vegeu v. 3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Se li van acostar Arqueseu, Sarsa-<br/>
+    teu i Malesear,<sup><i>w</i></sup> que eren les principals
+    conselleres de l'imperi persa i mede, les
+    de més influència prop de la reina,</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>El text hebreu del llibre d'Es-<br/>
+    ter té set noms, diferents de la versió grega
+    (Est 1,14).</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>i li van
+    dir:<br/>
+    – Segons la llei, cal procedir contra el
+    rei Astín perquè no ha obeït les or-<br/>
+    dres de la reina que les eunucs li havien
+    transmès.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Muqueu,<sup><i>x</i></sup> per la seva part, va dir a la
+    reina i a les conselleres:<br/>
+    – El rei Astín no perjudica sola-<br/>
+    ment la reina; perjudica també totes les altes
+    funcionàries i les governants del reialme.
+</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>En comptes de <i>Muqueu</i>, el text hebreu
+    del llibre d'Ester diu <i>Memucan</i>, que és una de les set
+    (Est 1,14.16.21).</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>A hores d'ara tothom coneix la res-<br/>
+    posta del rei i la negativa que ha do-<br/>
+    nat a la reina. Si ell ha plantat cara a la reina
+    Artaxerxes,</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>avui mateix tots els ho-<br/>
+    mes de les altes funcionàries perses i medes
+    sabran com ha respost i es veuran igual-<br/>
+    ment amb cor de faltar al respecte a les
+    seves mullers.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Per tant, si a la reina li sem-<br/>
+    bla bé, que es publiqui un edicte que di-<br/>
+    gui: “El rei no podrà presentar-se
+    mai més davant la reina. La reina donarà el
+    títol de rei a un home més digne que
+    ell.” L'edicte serà irrevocable, segons la
+    llei de les medes i de les perses.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Quan el
+    decret reial s'haurà notificat per tot
+    l'imperi, tots els homes respectaran la
+    seva muller, sigui rica o sigui pobra.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>La reina i les seves conselleres van tro-<br/>
+    bar encertada la proposta de Muqueu, i
+    la reina la dugué a terme.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Va enviar l'or-<br/>
+    dre a tot l'imperi, província per provín-<br/>
+    cia, traduïda a les llengües respectives.
+    Així s'imposà a les cases el respecte a les
+    mullers.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>2</nom>
+<clau>
+    <clau><h3>Ester, coronada reina</h3></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Després d'aquests fets, el rei s'as-<br/>
+    serenà. Però ja no volgué saber res
+    més d'Astín; recordava la resposta que
+    havia donat i com ell l'havia condemna-<br/>
+    da.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Llavors els seus servidors li van
+    suggerir que es fes buscar algunes noies
+    verges i, a més, boniques.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Els delegats
+    nomenats pel rei en cada província de
+    l'imperi podrien escollir noies d'aques-<br/>
+    tes condicions i portar-les a l'harem
+    reial de Susa. Confiades a l'eunuc reial
+    guardià de l'harem, ell els procuraria els
+    cosmètics i tot el que necessitessin,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>i la
+    noia que agradés més al rei seria nome-<br/>
+    nada reina en lloc d'Astín.<br/>
+    El rei va trobar encertat aquest con-<br/>
+    sell i ho va fer així.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>A la ciutat de Susa hi havia un jueu
+    que es deia Mardoqueu.<sup><i>y</i></sup> Era fill de
+    Jaïr, descendent de Ximí i de Quix, de la
+    tribu de Benjamí.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor><i>Mardoqueu</i> és presentat d'entrada com a jueu; al llarg
+    del llibre apareix com el tipus de raça jueva (3,4-7;
+    5,13; 6,13; 9,29).</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Pertanyia als jueus
+    que Nabucodonosor, rei de Babilònia,
+    havia deportat de Jerusalem.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Mardo-<br/>
+    queu tenia a casa seva una noia, filla del
+    seu oncle Aminadab.<sup><i>z</i></sup> Es deia Ester.
+    Havia perdut els seus pares, i Mardo-<br/>
+    queu l'havia educada perquè fos la seva
+    muller. La noia era molt bonica.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>El pare d'Ester és anomenat Abihail
+    en el text hebreu (Est 2,15).</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Publicada l'ordre del rei de reunir
+    moltes noies a la ciutat de Susa i de
+    confiar-les a Gai,<sup><i>a</i></sup> el guardià de l'ha-<br/>
+    rem, també Ester li va ser portada.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>El guardià de l'harem és
+    anomenat <i>Egai</i> en el text hebreu (Est 2,8).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>La
+    noia li va caure en gràcia i es guanyà el
+    seu favor. Li va donar tot seguit els
+    cosmètics i els aliments que necessitava,
+    li va assignar les set millors serventes
+    del palau i, a l'harem, li feia un tracte
+    especial, tant a ella com a les seves ser-<br/>
+    ventes.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Però Ester no va revelar a qui-<br/>
+    na nació pertanyia, perquè Mardoqueu
+    li havia ordenat que no ho fes.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Cada dia Mardoqueu es passejava
+    vora el pati de l'harem mirant d'esbri-<br/>
+    nar què passaria amb Ester.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El període de preparació d'una
+    noia per a ser presentada al rei era de
+    dotze mesos, distrubuïts així: sis mesos
+    de massatges amb oli de mirra i sis mes-<br/>
+    sos més amb bàlsams i altres productes
+    de bellesa.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Llavors la noia podia
+    presentar-se al rei. Una persona expres-<br/>
+    sament designada pel rei se n'ocupava i
+    l'acompanyava des de l'harem a les es-<br/>
+    tances reials.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Ella hi entrava al ves-<br/>
+    pre, i l'endemà al matí es retirava en un
+    segon harem, sota la responsabilitat de
+    Gai, l'eunuc del rei, guardià de l'harem.
+    I no podia tornar a presentar-se al rei si
+    ell no la feia cridar pel seu nom.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mentre esperava el moment d'en-<br/>
+    trar a la presència del rei, Ester, fills
+    d'Aminadab i cosina de Mardoqueu,
+    complia al peu de la lletra les normes
+    que li donava l'eunuc guardià de l'ha-<br/>
+    rem. De fet, Ester es guanyava l'admira-<br/>
+    ció de tots els qui la tractaven.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Així, doncs, l'any setè del regnat
+    d'Artaxerxes, el mes dotzè, que és el mes
+    d'adar, Ester va entrar a la presència del
+    rei.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>El rei s'enamorà d'Ester. Ella es
+    va guanyar el seu favor més que cap al-<br/>
+    tra noia, i Artaxerxes la va coronar com
+    a esposa seva.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Durant set dies,<sup><i>b</i></sup> el rei
+    va oferir un banquet a tots els seus
+    amics<sup><i>c</i></sup> i a la gent significada, per cele-<br/>
+    brar les seves noces amb Ester. Amb
+    motiu d'aquell esdeveniment va eximir
+    els súbdits de l'imperi de pagar l'impost.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Aquest
+    banquet de noces dura un dia més que l'esmentat en 1,5.
+</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Mardoqueu continuava prestant els
+    seus serveis a palau.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ester no va reve-<br/>
+    lar a ningú a quina nació pertanyia.
+    Mardoqueu li havia manat que no ho
+    fes i que es comportés com quan vivia
+    amb ell: reverenciant Déu i complint els
+    seus preceptes. Ester, doncs, no va can-<br/>
+    viar el seu comportament.</valor>
+<anyell>
+    <clau><h3>Mardoqueu descobreix
+    una conspiració</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Els dos eunucs, caps de la guàrdia
+    personal del rei, veien de mal ull la pro-<br/>
+    moció de Mardoqueu i conspiraven per
+    assassinar el rei Artaxerxes.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Tan bon
+    punt Mardoqueu en tingué notícies, va
+    fer-ho saber a Ester, i Ester va denun-<br/>
+    ciar al rei la conspiració.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>A,12-16.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>El rei
+    interrogà els dos eunucs i els va fer pen-<br/>
+    jar. Llavors ordenà que aquest fet fos
+    consignat en la crònica reial en elogi de
+    Mardoqueu i en record dels serveis que
+    havia prestat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Ester, coronat rei</h3></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Després d'aquests fets, la reina s'as-<br/>
+    serenà. Però ja no volgué saber res
+    més d'Astín; recordava la resposta que
+    havia donat i com ella l'havia condemna-<br/>
+    da.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Llavors les seves servidores li van
+    suggerir que es fes buscar alguns nois
+    verges i, a més, bonics.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Les delegades
+    nomenades per la reina en cada província de
+    l'imperi podrien escollir nois d'aques-<br/>
+    tes condicions i portar-los a l'harem
+    reial de Susa. Confiats a l'eunuc reial
+    guardià de l'harem, ella els procuraria els
+    cosmètics i tot el que necessitessin,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>i el
+    noi que agradés més a la reina seria nome-<br/>
+    nat rei en lloc d'Astín.<br/>
+    La reina va trobar encertat aquest con-<br/>
+    sell i ho va fer així.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>A la ciutat de Susa hi havia una jueva
+    que es deia Mardoqueu.<sup><i>y</i></sup> Era filla de
+    Jaïr, descendent de Ximí i de Quix, de la
+    tribu de Benjamí.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor><i>Mardoqueu</i> és presentada d'entrada com a jueva; al llarg
+    del llibre apareix com el tipus de raça jueva (3,4-7;
+    5,13; 6,13; 9,29).</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Pertanyia a les jueves
+    que Nabucodonosor, reina de Babilònia,
+    havia deportat de Jerusalem.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Mardo-<br/>
+    queu tenia a casa seva un noi, fill de la
+    seva tieta Aminadab.<sup><i>z</i></sup> Es deia Ester.
+    Havia perdut les seves mares, i Mardo-<br/>
+    queu l'havia educada perquè fos el seu
+    marit. El noi era molt bonic.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>La mare d'Ester és anomenada Abihail
+    en el text hebreu (Est 2,15).</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Publicada l'ordre de la reina de reunir
+    molts nois a la ciutat de Susa i de
+    confiar-los a Gai,<sup><i>a</i></sup> la guardiana de l'ha-<br/>
+    rem, també Ester li va ser portada.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>La guardiana de l'harem és
+    anomenada <i>Egai</i> en el text hebreu (Est 2,8).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>El
+    noi li va caure en gràcia i es guanyà el
+    seu favor. Li va donar tot seguit els
+    cosmètics i els aliments que necessitava,
+    li va assignar els set millors servents
+    del palau i, a l'harem, li feia un tracte
+    especial, tant a ell com als seus ser-<br/>
+    vents.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Però Ester no va revelar a qui-<br/>
+    na nació pertanyia, perquè Mardoqueu
+    li havia ordenat que no ho fes.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Cada dia Mardoqueu es passejava
+    vora el pati de l'harem mirant d'esbri-<br/>
+    nar què passaria amb Ester.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El període de preparació d'un
+    noi per a ser presentat a la reina era de
+    dotze mesos, distrubuïts així: sis mesos
+    de massatges amb oli de mirra i sis mes-<br/>
+    sos més amb bàlsams i altres productes
+    de bellesa.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Llavors el noi podia
+    presentar-se a la reina. Una persona expres-<br/>
+    sament designada per la reina se n'ocupava i
+    l'acompanyava des de l'harem a les es-<br/>
+    tances reials.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Ell hi entrava al ves-<br/>
+    pre, i l'endemà al matí es retirava en un
+    segon harem, sota la responsabilitat de
+    Gai, l'eunuc de la reina, guardiana de l'harem.
+    I no podia tornar a presentar-se a la reina si
+    ella no el feia cridar pel seu nom.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mentre esperava el moment d'en-<br/>
+    trar a la presència de la reina, Ester, filles
+    d'Aminadab i cosí de Mardoqueu,
+    complia al peu de la lletra les normes
+    que li donava l'eunuc guardiana de l'ha-<br/>
+    rem. De fet, Ester es guanyava l'admira-<br/>
+    ció de totes les qui el tractaven.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Així, doncs, l'any setè del regnat
+    d'Artaxerxes, el mes dotzè, que és el mes
+    d'adar, Ester va entrar a la presència de la
+    reina.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>La reina s'enamorà d'Ester. Ell es
+    va guanyar el seu favor més que cap al-<br/>
+    tre noi, i Artaxerxes el va coronar com
+    a espòs seu.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Durant set dies,<sup><i>b</i></sup> la reina
+    va oferir un banquet a totes les seves
+    amigues<sup><i>c</i></sup> i a la gent significada, per cele-<br/>
+    brar les seves noces amb Ester. Amb
+    motiu d'aquell esdeveniment va eximir
+    les súbdits de l'imperi de pagar l'impost.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Aquest
+    banquet de noces dura un dia més que l'esmentat en 1,5.
+</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Mardoqueu continuava prestant els
+    seus serveis a palau.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ester no va reve-<br/>
+    lar a ningú a quina nació pertanyia.
+    Mardoqueu li havia manat que no ho
+    fes i que es comportés com quan vivia
+    amb ella: reverenciant Mare de Déu i complint els
+    seus preceptes. Ester, doncs, no va can-<br/>
+    viar el seu comportament.</valor>
+<anyell>
+    <clau><h3>Mardoqueu descobreix
+    una conspiració</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Les dues eunucs, caps de la guàrdia
+    personal de la reina, veien de mal ull la pro-<br/>
+    moció de Mardoqueu i conspiraven per
+    assassinar la reina Artaxerxes.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Tan bon
+    punt Mardoqueu en tingué notícies, va
+    fer-ho saber a Ester, i Ester va denun-<br/>
+    ciar a la reina la conspiració.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>A,12-16.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>La reina
+    interrogà les dues eunucs i les va fer pen-<br/>
+    jar. Llavors ordenà que aquest fet fos
+    consignat en la crònica reial en elogi de
+    Mardoqueu i en record dels serveis que
+    havia prestat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>3</nom>
+<clau>
+    <clau><h3>Aman es proposa d'exterminar
+    els jueus</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Passat un quant temps, el rei Arta-<br/>
+    xerxes va distingir amb grans ho-<br/>
+    nors Aman, fill d'Amedata, l'agaguita,<sup><i>e</i></sup><br/>
+    promovent-lo al rang més alt, per damunt
+    de tots els seus amics.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>A,17 nota <i>m</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Tota la guàrdia de
+    l'entrada del palau reial s'agenollava i es
+    prosternava davant d'Aman. Així ho havia
+    manat el rei. Però Mardoqueu era l'únic
+    que no s'agenollava i es prosternava.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Est
+    3,2.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Veient-ho els de la guàrdia, li van dir:<br/>
+    – Mardoqueu, per què no fas cas de
+    les ordres del rei?</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>No passava dia que no li ho diguessin,
+    però ell no els escoltava. Finalment van de-<br/>
+    nunciar a Aman que Mardoqueu s'oposava
+    a les ordres del rei. Mardoqueu els havia
+    revelat que ell era jueu.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Quan Aman va
+    constatar que Mardoqueu no s'agenollava
+    ni es prosternava davant d'ell, es posà tan
+    furiós</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>que decidí d'exterminar tots els
+    jueus de l'imperi d'Artaxerxes.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Així, l'any dotze del regnat d'Arta-<br/>
+    xerxes, Aman va fer un decret en aquest
+    sentit. Va tirar els daus de la sort per de-<br/>
+    terminar el dia i el mes i fer morir en
+    una sola jornada tots els connacionals
+    de Mardoqueu.<sup><i>g</i></sup> La sort<sup><i>h</i></sup> va caure en el
+    dia catorze del mes d'adar.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Mardoqueu és el representant de tot el poble
+    jueu (vegeu 2,5 nota <i>y</i>).</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>En aquest llibre, <i>la sort</i>
+    és un mot clau (9,26). Tirar les sorts és el procedi-<br/>
+    ment usat també pels jueus per a fixar una data (ve-<br/>
+    geu Ne 10,35).</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Després Aman digué al rei Artaxer-<br/>
+    xes:<br/>
+    – Hi ha escampada entre les diverses
+    nacionalitats del teu imperi una nació
+    que té costums diferents de les altres i
+    no compleix les ordres reials.<sup><i>i</i></sup> No convé
+    que el rei els deixi tranquils.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Una persecució antijueva (v. 7) es
+    converteix ara en un afer d'estat: els jueus són pre-<br/>
+    sentats per Aman com a traïdors al rei.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Si al rei li
+    sembla bé, que es promulgui un decret
+    d'extermini, i jo faré entrar al tresor
+    reial tres-centes tones de plata.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Est 3,9
+    nota <i>b</i>.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>El rei es va treure l'anell<sup><i>k</i></sup> i el donà
+    a Aman perquè segellés les cartes contra
+    els jueus,</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>L'<i>anell</i> reial servia de segell per a signar
+    els documents oficials. Amb això Aman gaudia d'un
+    poder gairebé absolut. Després el rebrà Mardoqueu
+    (8,2).
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>tot dient-li:<br/>
+    – La plata te la pots quedar, i d'aques-<br/>
+    ta nació fes-ne el que vulguis.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El dia tretze del mes primer van
+    ser convocats tots els escribes reials. Se-<br/>
+    guint les ordres d'Aman, van escriure en
+    nom del rei Artaxerxes als generals i go-<br/>
+    vernadors de cada província des de
+    l'Índia fins a Etiòpia, a les cent vint-i-set
+    províncies de l'imperi i als caps de les
+    diverses nacions, a cada una en la seva
+    llengua.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Els missatgers van portar a
+    tot l'imperi d'Artaxerxes el decret d'ex-<br/>
+    terminar els jueus i d'apoderar-se dels
+    seus béns, en un sol dia del mes dotzè,
+    que és el mes d'adar.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Aman es proposa d'exterminar
+    les jueves</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Passat un quant temps, la reina Arta-<br/>
+    xerxes va distingir amb grans ho-<br/>
+    nors Aman, filla d'Amedata, l'agaguita,<sup><i>e</i></sup><br/>
+    promovent-la al rang més alt, per damunt
+    de totes les seves amigues.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>A,17 nota <i>m</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Tota la guàrdia de
+    l'entrada del palau reial s'agenollava i es
+    prosternava davant d'Aman. Així ho havia
+    manat la reina. Però Mardoqueu era l'única
+    que no s'agenollava i es prosternava.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Est
+    3,2.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Veient-ho les de la guàrdia, li van dir:<br/>
+    – Mardoqueu, per què no fas cas de
+    les ordres de la reina?</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>No passava dia que no li ho diguessin,
+    però ella no les escoltava. Finalment van de-<br/>
+    nunciar a Aman que Mardoqueu s'oposava
+    a les ordres de la reina. Mardoqueu les havia
+    revelat que ella era jueva.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Quan Aman va
+    constatar que Mardoqueu no s'agenollava
+    ni es prosternava davant d'ella, es posà tan
+    furiosa</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>que decidí d'exterminar totes les
+    jueves de l'imperi d'Artaxerxes.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Així, l'any dotze del regnat d'Arta-<br/>
+    xerxes, Aman va fer un decret en aquest
+    sentit. Va tirar els daus de la sort per de-<br/>
+    terminar el dia i el mes i fer morir en
+    una sola jornada totes les connacionals
+    de Mardoqueu.<sup><i>g</i></sup> La sort<sup><i>h</i></sup> va caure en el
+    dia catorze del mes d'adar.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Mardoqueu és la representant de tot el poble
+    jueu (vegeu 2,5 nota <i>y</i>).</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>En aquest llibre, <i>la sort</i>
+    és un mot clau (9,26). Tirar les sorts és el procedi-<br/>
+    ment usat també per les jueves per a fixar una data (ve-<br/>
+    geu Ne 10,35).</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Després Aman digué a la reina Artaxer-<br/>
+    xes:<br/>
+    – Hi ha escampada entre les diverses
+    nacionalitats del teu imperi una nació
+    que té costums diferents de les altres i
+    no compleix les ordres reials.<sup><i>i</i></sup> No convé
+    que la reina les deixi tranquil·les.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Una persecució antijueva (v. 7) es
+    converteix ara en un afer d'estat: les jueves són pre-<br/>
+    sentades per Aman com a traïdores a la reina.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Si a la reina li
+    sembla bé, que es promulgui un decret
+    d'extermini, i jo faré entrar al tresor
+    reial tres-centes tones de plata.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Est 3,9
+    nota <i>b</i>.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>La reina es va treure l'anell<sup><i>k</i></sup> i el donà
+    a Aman perquè segellés les cartes contra
+    les jueves,</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>L'<i>anell</i> reial servia de segell per a signar
+    els documents oficials. Amb això Aman gaudia d'un
+    poder gairebé absolut. Després el rebrà Mardoqueu
+    (8,2).
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>tot dient-li:<br/>
+    – La plata te la pots quedar, i d'aques-<br/>
+    ta nació fes-ne el que vulguis.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El dia tretze del mes primer van
+    ser convocades totes les escribes reials. Se-<br/>
+    guint les ordres d'Aman, van escriure en
+    nom de la reina Artaxerxes a les generals i go-<br/>
+    vernadores de cada província des de
+    l'Índia fins a Etiòpia, a les cent vint-i-set
+    províncies de l'imperi i a les caps de les
+    diverses nacions, a cada una en la seva
+    llengua.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Les missatgeres van portar a
+    tot l'imperi d'Artaxerxes el decret d'ex-<br/>
+    terminar les jueves i d'apoderar-se dels
+    seus béns, en un sol dia del mes dotzè,
+    que és el mes d'adar.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>B</nom>
+<clau>
+    <clau><big>B</big></clau>
+    <valor><h3>El decret d'extermini</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Còpia del text de la carta:<br/>
+    «Lletres del gran rei<sup><i>l</i></sup> Artaxerxes
+    adreçades a tots els governadors i als
+    prefectes subalterns de les cent vin-i-<br/>
+    set províncies des de l'Índia fins a Etiò-<br/>
+    pia:</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Títol habitual dels reis perses (vegeu Is 36,4.13).
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Jo, que estic al capdavant de mol-<br/>
+    tes nacions i estenc el meu domini per
+    tota la terra, no vull deixar-me endur de
+    la prepotència en el govern, sinó més
+    aviat guiar-me sempre per la moderació
+    i la benvolença. Vull assegurar als meus
+    súbdits una vida tranquil·la, promoure
+    un reialme amb lliure circulació de béns
+    d'un cap a l'altre i garantir així la pau
+    desitjada a tothom.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>He demanat als
+    meus consellers com podria culminar
+    aquest projecte. Un d'ells, que excel·leix
+    per la seva prudència i que ha donat
+    proves constants de la seva adhesió i
+    d'una sòlida fidelitat, és Aman, l'home
+    que ocupa el segon lloc del reialme.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ell m'ha informat sobre un cert poble
+    hostil,<sup><i>m</i></sup> que viu escampat entre totes
+    les nacions de la terra. Tenen unes lleis
+    contràries als altres pobles i constant-<br/>
+    ment fan cas omís dels decrets reials.
+    Per això són un obstacle a la unitat del
+    govern que nosaltres promovem a dreta
+    llei de manera irreprotxable.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Dn 3,12; Esd 4,12-15; Sv 2,15. El decret no esmen-<br/>
+    ta el poble <i>jueu</i>, però reprodueix l'estat d'opinió dels
+    habitants de l'imperi.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>»Doncs bé, considerant que aquesta
+    nació és l'única a mantenir sempre una
+    actitud contrària a tothom, que amb
+    l'observança d'unes lleis estranyes es po-<br/>
+    sa a part de tots i que amb la seva hosti-<br/>
+    litat contra el nostre govern comet els
+    pitjors crims i desestabilitza així el nos-<br/>
+    tre imperi,</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>ordenem que siguin aniqui-<br/>
+    lats i exterminats tots els qui en el seu
+    escrit<sup><i>n</i></sup> assenyala Aman, el primer mi-<br/>
+    nistre i un segon pare<sup><i>o</i></sup> per a mi. Com a
+    enemics que són tots ells, amb les seves
+    dones i els seus fills, han de ser passats
+    a tall d'espasa, sense cap compassió ni
+    mirament, el dia catorze del mes dotzè,
+    el mes d'adar, de l'any en curs.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Al·lusió a un altre escrit,
+    desconegut, que explicitaria el decret reial.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Títol
+    honorífic (3,1).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Així, en
+    un sol dia, seran llançats violentament
+    al país dels morts<sup><i>p</i></sup> els rebels d'abans i
+    d'ara,<sup><i>q</i></sup> i assegurarem per a l'esdeveni-<br/>
+    dor una estabilitat definitiva i sense des-<br/>
+    torbs en els nostres afers.»</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>En grec, l'<i>hades</i>, el país on residei-<br/>
+    xen les ombres dels qui han mort.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>És a dir, els qui
+    es mostren contumaços en la seva rebel·lió.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><big>B</big></clau>
+    <valor><h3>El decret d'extermini</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Còpia del text de la carta:<br/>
+    «Lletres de la gran reina<sup><i>l</i></sup> Artaxerxes
+    adreçades a totes les governadores i a les
+    prefectes subalternes de les cent vin-i-<br/>
+    set províncies des de l'Índia fins a Etiò-<br/>
+    pia:</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Títol habitual de les reines perses (vegeu Is 36,4.13).
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Jo, que estic al capdavant de mol-<br/>
+    tes nacions i estenc el meu domini per
+    tota la terra, no vull deixar-me endur de
+    la prepotència en el govern, sinó més
+    aviat guiar-me sempre per la moderació
+    i la benvolença. Vull assegurar a les meves
+    súbdits una vida tranquil·la, promoure
+    un reialme amb lliure circulació de béns
+    d'un cap a l'altre i garantir així la pau
+    desitjada a tothom.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>He demanat a les
+    meves conselleres com podria culminar
+    aquest projecte. Una d'elles, que excel·leix
+    per la seva prudència i que ha donat
+    proves constants de la seva adhesió i
+    d'una sòlida fidelitat, és Aman, la dona
+    que ocupa el segon lloc del reialme.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ella m'ha informat sobre un cert poble
+    hostil,<sup><i>m</i></sup> que viu escampat entre totes
+    les nacions de la terra. Tenen unes lleis
+    contràries als altres pobles i constant-<br/>
+    ment fan cas omís dels decrets reials.
+    Per això són un obstacle a la unitat del
+    govern que nosaltres promovem a dreta
+    llei de manera irreprotxable.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Dn 3,12; Esd 4,12-15; Sv 2,15. El decret no esmen-<br/>
+    ta el poble <i>jueu</i>, però reprodueix l'estat d'opinió de les
+    habitants de l'imperi.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>»Doncs bé, considerant que aquesta
+    nació és l'única a mantenir sempre una
+    actitud contrària a tothom, que amb
+    l'observança d'unes lleis estranyes es po-<br/>
+    sa a part de totes i que amb la seva hosti-<br/>
+    litat contra el nostre govern comet els
+    pitjors crims i desestabilitza així el nos-<br/>
+    tre imperi,</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>ordenem que siguin aniqui-<br/>
+    lades i exterminades totes les qui en el seu
+    escrit<sup><i>n</i></sup> assenyala Aman, la primera mi-<br/>
+    nistrea i una segona mare<sup><i>o</i></sup> per a mi. Com a
+    enemigues que són totes elles, amb els seus
+    homes i les seves filles, han de ser passades
+    a tall d'espasa, sense cap compassió ni
+    mirament, el dia catorze del mes dotzè,
+    el mes d'adar, de l'any en curs.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Al·lusió a un altre escrit,
+    desconegut, que explicitaria el decret reial.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Títol
+    honorífic (3,1).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Així, en
+    un sol dia, seran llançades violentament
+    al país de les mortes<sup><i>p</i></sup> les rebels d'abans i
+    d'ara,<sup><i>q</i></sup> i assegurarem per a l'esdeveni-<br/>
+    dora una estabilitat definitiva i sense des-<br/>
+    torbs en els nostres afers.»</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>En grec, l'<i>hades</i>, el país on residei-<br/>
+    xen les ombres de les qui han mort.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>És a dir, les qui
+    es mostren contumaces en la seva rebel·lió.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>3</nom>
+<clau>
+    <clau></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Còpies d'aquesta carta van ser
+    promulgades en totes les provín-<br/>
+    cies. A tothom arribà l'ordre d'estar pre-<br/>
+    parat per a aquell dia.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>També a Susa
+    va ser immediata la promulgació del de-<br/>
+    cret. Mentre el rei i Aman s'entaulaven a
+    celebrar-ho, la ciutat estava consternada.</valor>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Còpies d'aquesta carta van ser
+    promulgades en totes les provín-<br/>
+    cies. A tothom arribà l'ordre d'estar pre-<br/>
+    parat per a aquell dia.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>També a Susa
+    va ser immediata la promulgació del de-<br/>
+    cret. Mentre la reina i Aman s'entaulaven a
+    celebrar-ho, la ciutat estava consternada.</valor>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>4</nom>
+<clau>
+    <clau><h3>Reacció dels jueus</h3></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Quan Mardoqueu va saber tot el
+    que havia passat, es va esquinçar els
+    vestits,<sup><i>r</i></sup> es vestí de dol amb roba de sac,
+    es cobrí de cendra i es llança al car-<br/>
+    rer major de la ciutat tot cridant amb
+    veu forta:<br/>
+    – Volen destruir un poble innocent!</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>En
+    senyal de dol i de dolor (vegeu Gn 37,34; Dn 9,3; Esd
+    9,3-4; Jdt 4,9-10; 1Ma 3,47; 2Ma 14,15).</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Quan va arribar a l'entrada del palau
+    reial, es deturà. Allà no podia entrar-hi
+    vestit amb roba de sac i cobert de cendra.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>A mesura que la carta arribava a les
+    províncies, els jueus aixecaven un clam,
+    es planyien, feien un gran dol i s'ajeien
+    sobre els sacs i la cendra.</valor>
+<anyell>
+    <clau><h3>Ester intercedeix a favor dels jueus</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Les dames i els eunucs de la reina
+    vingueren a informar-la. Ella, en sentir
+    el que passava, es va trasbalsar i envià
+    vestits a Mardoqueu perquè es tragués
+    la roba de sac, però ell s'hi va negar.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Llavors Ester va cridar Acrateu,<sup><i>s</i></sup> l'eu-<br/>
+    nuc que estava al seu servei, i l'envià a
+    Mardoqueu per rebre'n una informació
+    exacta.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>En el text
+    hebreu diu <i>Atac</i>.</valor>
+<anyell>
+    <clau>(<sup>6</sup>)</clau>
+    <valor><sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Aquest verset falta en el text grec,
+    però no en el text hebreu (Est 4,6).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Mardoqueu el va posar al
+    corrent de tot el que havia passat i de la
+    promesa d'Aman d'ingressar al tresor
+    reial tres-centes tones de plata a canvi
+    d'exterminar els jueus.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,9.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>També li va
+    donar una còpia del decret d'extermini
+    promulgat a Susa perquè l'ensenyés a
+    Ester. Li va dir:<br/>
+    – Ensenya'l a Ester i mana-li que es
+    presenti al rei a intercedir a favor del
+    seu poble. Digues-li: “Recorda que,
+    quan no eres res,<sup><i>v</i></sup> jo et vaig criar. Ara,
+    doncs, que Aman, el segon després del
+    rei, l'ha convençut de fer-nos extermi-<br/>
+    nar, invoca el Senyor i parla al rei a fa-<br/>
+    vor nostre. Allibera'ns de la mort!”</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Lit.: <i>els dies de la teva humiliació</i>. Els ori-<br/>
+    gens d'Ester han estat humils (2,7).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Acrateu va tornar a la reina per
+    explicar-li el que Mardoqueu havia dit.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Ester li va respondre:<br/>
+    – Vés a dir a Mardoqueu:</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>“Totes les
+    nacions de l'imperi saben que està per-<br/>
+    dut qualsevol home o dona que s'acosti
+    a l'atri interior del palau per entrar a
+    veure el rei sense haver estat cridat. No-<br/>
+    més pot salvar la vida aquell a qui el rei
+    estén el ceptre d'or. Però a mi ja fa tren-<br/>
+    ta dies que el rei no m'ha cridat.”</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Acrateu va comunicar a Mardo-<br/>
+    queu la resposta d'Ester.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Mardoqueu
+    li féu replicar:<br/>
+    – Vés i digues a Ester: “No et pensis
+    que, de tots els jueus de l'imperi, tu
+    seràs l'única que se salvarà.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Pensa
+    que, si en aquesta ocasió fas el sord, els
+    jueus rebran d'un altre costat<sup><i>w</i></sup> l'auxili i
+    la protecció, però tu i la teva família
+    morireu. Qui sap si has arribat a ser rei-<br/>
+    na per a una ocasió per aquesta!”</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Llavors Ester va enviar a Mardo-<br/>
+    queu el missatger amb aquesta respos-<br/>
+    ta:</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>«Vés a reunir els jueus de Susa i
+    dejuneu<sup><i>x</i></sup> per mi, sense menjar ni beu-<br/>
+    re res durant tres dies i tres nits. Tam-<br/>
+    bé jo i les meves dames dejunarem.
+    Després, si bé la llei no ho permet, em
+    presentaré al rei, encara que hagi de
+    morir.»</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>El *dejuni precedeix una
+    tasca difícil, una temptativa per allunyar una desgrà-<br/>
+    cia o un fracàs (vegeu Jl 1,14; Dn 9,3; 2Cr 20,3;
+    Jdt 4,9-15; 2Ma 13,12).</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Mardoqueu se'n va anar i va fer tot
+    el que Ester li havia ordenat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Reacció de les jueves</h3></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Quan Mardoqueu va saber tot el
+    que havia passat, es va esquinçar els
+    vestits,<sup><i>r</i></sup> es vestí de dol amb roba de sac,
+    es cobrí de cendra i es llança al car-<br/>
+    rer major de la ciutat tot cridant amb
+    veu forta:<br/>
+    – Volen destruir un poble innocent!</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>En
+    senyal de dol i de dolor (vegeu Gn 37,34; Dn 9,3; Esd
+    9,3-4; Jdt 4,9-10; 1Ma 3,47; 2Ma 14,15).</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Quan va arribar a l'entrada del palau
+    reial, es deturà. Allà no podia entrar-hi
+    vestit amb roba de sac i cobert de cendra.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>A mesura que la carta arribava a les
+    províncies, les jueves aixecaven un clam,
+    es planyien, feien un gran dol i s'ajeien
+    sobre els sacs i la cendra.</valor>
+<anyell>
+    <clau><h3>Ester intercedeix a favor de les jueves</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Els cavallers i les eunucs del rei
+    vingueren a informar-lo. Ell, en sentir
+    el que passava, es va trasbalsar i envià
+    vestits a Mardoqueu perquè es tragués
+    la roba de sac, però ella s'hi va negar.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Llavors Ester va cridar Acrateu,<sup><i>s</i></sup> l'eu-<br/>
+    nuc que estava al seu servei, i l'envià a
+    Mardoqueu per rebre'n una informació
+    exacta.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>En el text
+    hebreu diu <i>Atac</i>.</valor>
+<anyell>
+    <clau>(<sup>6</sup>)</clau>
+    <valor><sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Aquest verset falta en el text grec,
+    però no en el text hebreu (Est 4,6).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Mardoqueu la va posar al
+    corrent de tot el que havia passat i de la
+    promesa d'Aman d'ingressar al tresor
+    reial tres-centes tones de plata a canvi
+    d'exterminar les jueves.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,9.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>També li va
+    donar una còpia del decret d'extermini
+    promulgat a Susa perquè l'ensenyés a
+    Ester. Li va dir:<br/>
+    – Ensenya'l a Ester i mana-li que es
+    presenti a la reina a intercedir a favor del
+    seu poble. Digues-li: “Recorda que,
+    quan no eres res,<sup><i>v</i></sup> jo et vaig criar. Ara,
+    doncs, que Aman, la segona després de la
+    reina, l'ha convençut de fer-nos extermi-<br/>
+    nar, invoca la Senyora i parla a la reina a fa-<br/>
+    vor nostre. Allibera'ns de la mort!”</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Lit.: <i>els dies de la teva humiliació</i>. Els ori-<br/>
+    gens d'Ester han estat humils (2,7).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Acrateu va tornar al rei per
+    explicar-li el que Mardoqueu havia dit.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Ester li va respondre:<br/>
+    – Vés a dir a Mardoqueu:</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>“Totes les
+    nacions de l'imperi saben que està per-<br/>
+    duda qualsevol dona o home que s'acosti
+    a l'atri interior del palau per entrar a
+    veure la reina sense haver estat cridada. No-<br/>
+    més pot salvar la vida aquella a qui la reina
+    estén el ceptre d'or. Però a mi ja fa tren-<br/>
+    ta dies que la reina no m'ha cridat.”</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Acrateu va comunicar a Mardo-<br/>
+    queu la resposta d'Ester.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Mardoqueu
+    li féu replicar:<br/>
+    – Vés i digues a Ester: “No et pensis
+    que, de totes les jueves de l'imperi, tu
+    seràs l'únic que se salvarà.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Pensa
+    que, si en aquesta ocasió fas la sorda, les
+    jueves rebran d'un altre costat<sup><i>w</i></sup> l'auxili i
+    la protecció, però tu i la teva família
+    morireu. Qui sap si has arribat a ser rei<br/>
+    per a una ocasió per aquesta!”</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Llavors Ester va enviar a Mardo-<br/>
+    queu la missatgera amb aquesta respos-<br/>
+    ta:</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>«Vés a reunir les jueves de Susa i
+    dejuneu<sup><i>x</i></sup> per mi, sense menjar ni beu-<br/>
+    re res durant tres dies i tres nits. Tam-<br/>
+    bé jo i els meus cavallers dejunarem.
+    Després, si bé la llei no ho permet, em
+    presentaré a la reina, encara que hagi de
+    morir.»</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>El *dejuni precedeix una
+    tasca difícil, una temptativa per allunyar una desgrà-<br/>
+    cia o un fracàs (vegeu Jl 1,14; Dn 9,3; 2Cr 20,3;
+    Jdt 4,9-15; 2Ma 13,12).</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Mardoqueu se'n va anar i va fer tot
+    el que Ester li havia ordenat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>C</nom>
+<clau>
+    <clau><big>C</big></clau>
+    <valor><h3>Pregària de Mardoqueu</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Mardoqueu suplicava al Senyor
+    recordant-li la grandesa de totes les
+    seves obres.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Deia:<sup><i>y</i></sup><br/>
+    – Senyor, Senyor, Rei de l'univers, tot
+    està sotmès al teu poder i, quan vols sal-<br/>
+    var Israel, no hi ha qui t'ho pugui impe-<br/>
+    dir.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>Ba 1,15-3,8. La pregària,
+    farcida d'al·lusions a altres textos de l'AT, expressa la
+    confiança en Déu, que coneix el cor de l'home i es re-<br/>
+    corda de la seva *aliança.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Tu has creat el cel i la terra<sup><i>z</i></sup> i tot el
+    que hi ha d'admirable sota el firmament.
+</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>2Re 19,15.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ets el sobirà de l'univers i ningú no pot
+    resistir-te, Senyor.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Tu, Senyor, que co-<br/>
+    neixes totes les coses, saps que, si no
+    m'he prosternat davant l'orgullós Aman,
+    no ha estat per insolència, per arrogàn-<br/>
+    cia o ambició.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Si es tractés de salvar Is-<br/>
+    rael, m'avindria a besar-li les plantes dels
+    peus.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Però m'he negat a fer-ho per no
+    anteposar la glòria dels homes a la de
+    Déu. Mai no em prosternaré davant nin-<br/>
+    gú fora de tu, Senyor meu. I això no ho
+    faig par per orgull!</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>I ara, Senyor, tu que
+    ets Déu i rei, tu que ets el Déu d'Abra-<br/>
+    ham, salva el teu poble, ara que els ene-<br/>
+    mics es proposen d'exterminar-nos, ara
+    que es deleixen per destruir el poble que
+    és heretat teva des del principi.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>No et
+    desentenguis dels qui són porció teva,
+    que tu vas rescatar del país d'Egipte.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Ex 15,13;
+    Sl 74,2.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Escolta la meva súplica i sigues propi-<br/>
+    ci a aquest poble que és la teva possessió.
+    Canvia en festa el nostre dol.<sup><i>b</i></sup> Així viu-<br/>
+    rem celebrant el teu nom, Senyor. Que
+    no calli la veu dels qui et lloen!</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Jr 31,13; Sl 30,12.
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>I tot Israel clamava amb totes les
+    forces, perquè veien com els sotjava la
+    mort.</valor>
+<anyell>
+    <clau><h3>Pregària d'Ester</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>També la reina Ester, davant
+    aquest perill de mort, va acudir al Se-<br/>
+    nyor.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Es va treure els seus vestits
+    esplèndids i se'n va posar uns de dol i de
+    pena. En comptes de perfums exquisits,
+    es cobrí el cap<sup><i>c</i></sup> de cendra i d'immundí-<br/>
+    cies. Va castigar la bellesa del seu cos i
+    cobrí amb la cabellera embullada la part
+    més esplèndida de la seva figura.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>4,1.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>I
+    pregava al Senyor, Déu d'Israel, dient:<br/>
+    – Senyor meu, rei nostre, tu ets l'únic
+    Déu.<sup><i>d</i></sup> Ajuda'm, que estic sola. Ningú no
+    em pot ajudar fora de tu,</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Dt 6,4.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>ara que haig
+    d'arriscar la vida.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Des de petita, jo
+    sentia contar en la tribu dels meus pa-<br/>
+    res que tu, Senyor, havies escollit
+    Israel<sup><i>e</i></sup> d'entre totes les nacions, els nos-<br/>
+    tres pares d'entre tots els seus avantpas-<br/>
+    sats, per fer-ne per sempre la teva here-<br/>
+    tat,<sup><i>f</i></sup> i que va complir tot el que els
+    havies promès.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Dt 7,6.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Ex 34,9; Dt 32,9; 1Re
+    8,51; Jr 10,16; 51,19.</valor>
+<anyell>
+    <clau><sup>17-18</sup></clau>
+    <valor>És veritat que hem
+    pecat contra tu donant glòria als déus
+    dels nostres enemics; per això ens has
+    abandonat a les seves mans.<sup><i>g</i></sup> Ets just,
+    Senyor!</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Ne 9,27; Dngr 3,32.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Però ara ells no s'acontenten
+    amb la nostra servitud amarga: s'han
+    compromès amb els seus ídols<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Lit.:
+    <i>han posat les seves mans en les mans dels seus ídols</i>.
+    El gest significa l'acord confiat amb algú.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>a
+    anul·lar els teus decrets i a destruir el
+    poble que és la teva heretat. Volen fer
+    callar la veu dels qui et lloen i apagar la
+    glòria del teu temple i del teu altar.
+</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pretenen que les nacions proclamin
+    les gestes dels seus ídols vans i admirin
+    eternament un rei mortal.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>»Senyor, no cedeixis el teu ceptre
+    reial a uns déus que no ho són pas. Que
+    no puguin fer escarni de la nostra des-<br/>
+    trucció. Gira contra ells els seus plans,
+    escarmenta l'home que va al davant de
+    l'atac que sofrim.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Recorda't de nosal-<br/>
+    tres, Senyor; fes-te present en aquest
+    moment de perill, i a mi dóna'm corat-<br/>
+    ge, Rei dels déus<sup><i>i</i></sup> i Senyor de tots els
+    qui governen.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Déu està
+    per damunt dels reis humans (vegeu vv. 14.21), però
+    també dels altres déus (vegeu Dt 10,17; Sl 50,1; 95,3;
+    Dngr 3,90).</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Posa en els meus llavis
+    les paraules adients quan seré davant el
+    lleó.<sup><i>j</i></sup> Canvia les seves intencions i gira
+    el seu odi contra l'home que ens com-<br/>
+    bat, perquè tingui una mala fi junta-<br/>
+    ment amb els seus partidaris.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>El rei Artaxerxes.</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>A nosal-<br/>
+    tres allibera'ns amb el teu poder, i a mi
+    ajuda'm, que estic sola. Només et tinc a
+    tu, Senyor. Tu coneixes totes les coses.
+</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Tu saps com detesto els honors dels
+    qui desconeixen la teva Llei i amb quina
+    repugnància comparteixo el llit d'un in-<br/>
+    circumcís, d'un que no és del meu po-<br/>
+    ble.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>Tu saps a què m'he vist forçada,
+    jo que detesto les insígnies pròpies de la
+    meva dignitat: només me les poso quan
+    haig d'aparèixer en públic. Els altres
+    dies, no les porto mai; em fan el mateix
+    fàstic que la roba tacada d'impureses.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Referència a la
+    roba tacada de la menstruació.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>Jo, serventa teva, no he menjat mai a
+    la taula d'Aman, ni he honorat amb la
+    meva presència cap banquet del rei, ni
+    he begut el vi<sup><i>l</i></sup> ofert als déus.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Dn 1,8+.</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>I des
+    que he canviat de condició fins avui, no
+    he trobat cap motiu d'alegria si no és en
+    tu, Senyor, Déu d'Abraham.</valor>
+<anyell>
+    <clau><sup>30</sup></clau>
+    <valor>Déu que
+    tens poder sobre tothom, escolta el
+    clam dels qui han perdut tota espe-<br/>
+    rança. Allibera'ns de la mà d'aquests
+    malvats, i a mi allibera'm de la meva
+    por!</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><big>C</big></clau>
+    <valor><h3>Pregària de Mardoqueu</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Mardoqueu suplicava a la Senyora
+    recordant-li la grandesa de totes les
+    seves obres.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Deia:<sup><i>y</i></sup><br/>
+    – Senyora, Senyora, Reina de l'univers, tot
+    està sotmès al teu poder i, quan vols sal-<br/>
+    var Israel, no hi ha qui t'ho pugui impe-<br/>
+    dir.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>Ba 1,15-3,8. La pregària,
+    farcida d'al·lusions a altres textos de l'AT, expressa la
+    confiança en Mare de Déu, que coneix el cor de la dona i es re-<br/>
+    corda de la seva *aliança.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Tu has creat el cel i la terra<sup><i>z</i></sup> i tot el
+    que hi ha d'admirable sota el firmament.
+</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>2Re 19,15.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ets la sobirana de l'univers i ningú no pot
+    resistir-te, Senyora.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Tu, Senyora, que co-<br/>
+    neixes totes les coses, saps que, si no
+    m'he prosternat davant l'orgullós Aman,
+    no ha estat per insolència, per arrogàn-<br/>
+    cia o ambició.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Si es tractés de salvar Is-<br/>
+    rael, m'avindria a besar-li les plantes dels
+    peus.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Però m'he negat a fer-ho per no
+    anteposar la glòria de les dones a la de
+    Mare de Déu. Mai no em prosternaré davant nin-<br/>
+    gú fora de tu, Senyora meva. I això no ho
+    faig par per orgull!</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>I ara, Senyora, tu que
+    ets Mare de Déu i reina, tu que ets la Mare de Déu d'Abra-<br/>
+    ham, salva el teu poble, ara que les ene-<br/>
+    migues es proposen d'exterminar-nos, ara
+    que es deleixen per destruir el poble que
+    és heretat teva des del principi.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>No et
+    desentenguis de les qui són porció teva,
+    que tu vas rescatar del país d'Egipte.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Ex 15,13;
+    Sl 74,2.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Escolta la meva súplica i sigues propi-<br/>
+    ci a aquest poble que és la teva possessió.
+    Canvia en festa el nostre dol.<sup><i>b</i></sup> Així viu-<br/>
+    rem celebrant el teu nom, Senyora. Que
+    no calli la veu de les qui et lloen!</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Jr 31,13; Sl 30,12.
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>I tot Israel clamava amb totes les
+    forces, perquè veien com les sotjava la
+    mort.</valor>
+<anyell>
+    <clau><h3>Pregària d'Ester</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>També el rei Ester, davant
+    aquest perill de mort, va acudir a la Se-<br/>
+    nyora.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Es va treure els seus vestits
+    esplèndids i se'n va posar uns de dol i de
+    pena. En comptes de perfums exquisits,
+    es cobrí el cap<sup><i>c</i></sup> de cendra i d'immundí-<br/>
+    cies. Va castigar la bellesa del seu cos i
+    cobrí amb la cabellera embullada la part
+    més esplèndida de la seva figura.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>4,1.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>I
+    pregava a la Senyora, Mare de Déu d'Israel, dient:<br/>
+    – Senyora meva, reina nostra, tu ets l'única
+    Mare de Déu.<sup><i>d</i></sup> Ajuda'm, que estic sol. Ningú no
+    em pot ajudar fora de tu,</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Dt 6,4.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>ara que haig
+    d'arriscar la vida.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Des de petita, jo
+    sentia contar en la tribu de les meves ma-<br/>
+    res que tu, Senyora, havies escollit
+    Israel<sup><i>e</i></sup> d'entre totes les nacions, les nos-<br/>
+    tres mares d'entre totes les seves avantpas-<br/>
+    sades, per fer-ne per sempre la teva here-<br/>
+    tat,<sup><i>f</i></sup> i que va complir tot el que les
+    havies promès.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Dt 7,6.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Ex 34,9; Dt 32,9; 1Re
+    8,51; Jr 10,16; 51,19.</valor>
+<anyell>
+    <clau><sup>17-18</sup></clau>
+    <valor>És veritat que hem
+    pecat contra tu donant glòria a les deesses
+    de les nostres enemigues; per això ens has
+    abandonat a les seves mans.<sup><i>g</i></sup> Ets justa,
+    Senyora!</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Ne 9,27; Dngr 3,32.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Però ara elles no s'acontenten
+    amb la nostra servitud amarga: s'han
+    compromès amb les seves ídols<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Lit.:
+    <i>han posat les seves mans en les mans de les seves ídols</i>.
+    El gest significa l'acord confiat amb algú.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>a
+    anul·lar els teus decrets i a destruir el
+    poble que és la teva heretat. Volen fer
+    callar la veu de les qui et lloen i apagar la
+    glòria del teu temple i del teu altar.
+</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pretenen que les nacions proclamin
+    les gestes de les seves ídols vanes i admirin
+    eternament una reina mortal.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>»Senyora, no cedeixis el teu ceptre
+    reial a unes deesses que no ho són pas. Que
+    no puguin fer escarni de la nostra des-<br/>
+    trucció. Gira contra elles els seus plans,
+    escarmenta la dona que va al davant de
+    l'atac que sofrim.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Recorda't de nosal-<br/>
+    tres, Senyora; fes-te present en aquest
+    moment de perill, i a mi dóna'm corat-<br/>
+    ge, Reina de les deesses<sup><i>i</i></sup> i Senyora de totes les
+    qui governen.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Mare de Déu està
+    per damunt de les reines humanes (vegeu vv. 14.21), però
+    també de les altres deesses (vegeu Dt 10,17; Sl 50,1; 95,3;
+    Dngr 3,90).</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Posa en els meus llavis
+    les paraules adients quan seré davant la
+    lleona.<sup><i>j</i></sup> Canvia les seves intencions i gira
+    el seu odi contra la dona que ens com-<br/>
+    bat, perquè tingui una mala fi junta-<br/>
+    ment amb les seves partidàries.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>La reina Artaxerxes.</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>A nosal-<br/>
+    tres allibera'ns amb el teu poder, i a mi
+    ajuda'm, que estic sol. Només et tinc a
+    tu, Senyora. Tu coneixes totes les coses.
+</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Tu saps com detesto els honors de les
+    qui desconeixen la teva Llei i amb quina
+    repugnància comparteixo el llit d'una in-<br/>
+    circumcisa, d'una que no és del meu po-<br/>
+    ble.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>Tu saps a què m'he vist forçat,
+    jo que detesto les insígnies pròpies de la
+    meva dignitat: només me les poso quan
+    haig d'aparèixer en públic. Els altres
+    dies, no les porto mai; em fan el mateix
+    fàstic que la roba tacada d'impureses.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Referència a la
+    roba tacada de la menstruació.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>Jo, servent teu, no he menjat mai a
+    la taula d'Aman, ni he honorat amb la
+    meva presència cap banquet de la reina, ni
+    he begut el vi<sup><i>l</i></sup> ofert a les deesses.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Dn 1,8+.</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>I des
+    que he canviat de condició fins avui, no
+    he trobat cap motiu d'alegria si no és en
+    tu, Senyora, Mare de Déu d'Abraham.</valor>
+<anyell>
+    <clau><sup>30</sup></clau>
+    <valor>Mare de Déu que
+    tens poder sobre tothom, escolta el
+    clam de les qui han perdut tota espe-<br/>
+    rança. Allibera'ns de la mà d'aquestes
+    malvades, i a mi allibera'm de la meva
+    por!</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>D</nom>
+<clau>
+    <clau><big>D</big></clau>
+    <valor><h3>Ester es presenta al rei<sup><i>m</i></sup></h3></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>El
+    fragment que segueix és una amplificació d'Est 5,1-8.
+</valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Al cap de tres dies, Ester va do-<br/>
+    nar per acabada la pregària, es tra-<br/>
+    gué la roba de suplicant i es va posar els
+    seus vestits esplèndids.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>C,13.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Radiant com estava, després d'invo-<br/>
+    car el Déu que vetlla per tots els homes i
+    els salva,<sup><i>o</i></sup> es va endur dues de les seves
+    dames de companyia.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>2Ma 7,35; Sv 19,9; Ba 4,22.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Es repenjava
+    lànguidament en l'una,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>mentre l'altra
+    la seguia sostenint-li la cua del vestit.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Ester estava preciosa, en l'esclat de la
+    seva bellesa, amb la cara somrient com
+    d'enamorada, però amb el cor encongit
+    de por.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Franquejà totes les portes fins
+    a arribà davant el rei. Aquest s'estava
+    assegut en el seu tron, portant la vesti-<br/>
+    menta de les grans solemnitats, tot co-<br/>
+    bert d'or i de pedres precioses. Real-<br/>
+    ment inspirava terror.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>El rei va aixecar
+    el cap amb la cara encesa de majestat i
+    amb una mirada plena d'ira. Llavors la
+    reina es va esvair, pàl·lida i a punt de
+    desmaiar-se, i va recolzar el cap en el
+    de la dama que la precedia.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Déu va
+    conviar els sentiments del rei, i el rei es
+    va entendrir. Artaxerxes, enquimerat,
+    saltà del tron i la prengué en braços fins
+    que es va retornar. I l'animava amb dol-<br/>
+    ces paraules.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Li va dir:<br/>
+    – Què et passa, Ester? Anima't. Sóc
+    germà teu.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Manera normal de parlar-se els enamorats (ve-<br/>
+    geu Tb 7,11 nota <i>c</i>).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>No moriràs. La prohibi-<br/>
+    ció de presentar-se davant meu només
+    afecta el comú de la gent.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>4,11.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Acosta't!</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El rei va estendre el ceptre d'or fins
+    a tocar el coll de la reina. L'acaronava i
+    li deia:<br/>
+    – Parla.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ella li va dir:<br/>
+    – T'he vist, senyor, com un àngel de
+    Déu<sup><i>r</i></sup> i he quedat trasbalsada davant la
+    teva majestat.</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Jt 13,6; 2Sa 14,17.
+</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Perquè ets admirable,
+    senyor, i la teva cara traspua bondat.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mentre parlava, la reina es va ma-<br/>
+    rejar.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>El rei es va afectar, i tot el servei
+    procurava animar-la.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><big>D</big></clau>
+    <valor><h3>Ester es presenta a la reina<sup><i>m</i></sup></h3></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>El
+    fragment que segueix és una amplificació d'Est 5,1-8.
+</valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Al cap de tres dies, Ester va do-<br/>
+    nar per acabada la pregària, es tra-<br/>
+    gué la roba de suplicant i es va posar els
+    seus vestits esplèndids.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>C,13.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Radiant com estava, després d'invo-<br/>
+    car la Mare de Déu que vetlla per totes les dones i
+    les salva,<sup><i>o</i></sup> es va endur dos dels seus
+    cavallers de companyia.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>2Ma 7,35; Sv 19,9; Ba 4,22.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Es repenjava
+    lànguidament en l'un,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>mentre l'altra
+    el seguia sostenint-li la cua del vestit.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Ester estava preciós, en l'esclat de la
+    seva bellesa, amb la cara somrient com
+    d'enamorat, però amb el cor encongit
+    de por.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Franquejà totes les portes fins
+    a arribà davant la reina. Aquesta s'estava
+    asseguda en el seu tron, portant la vesti-<br/>
+    menta de les grans solemnitats, tot co-<br/>
+    bert d'or i de pedres precioses. Real-<br/>
+    ment inspirava terror.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>La reina va aixecar
+    el cap amb la cara encesa de majestat i
+    amb una mirada plena d'ira. Llavors el
+    rei es va esvair, pàl·lid i a punt de
+    desmaiar-se, i va recolzar el cap en el
+    del cavaller que el precedia.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Mare de Déu va
+    conviar els sentiments de la reina, i la reina es
+    va entendrir. Artaxerxes, enquimerada,
+    saltà del tron i el prengué en braços fins
+    que es va retornar. I l'animava amb dol-<br/>
+    ces paraules.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Li va dir:<br/>
+    – Què et passa, Ester? Anima't. Sóc
+    germana teva.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Manera normal de parlar-se les enamorades (ve-<br/>
+    geu Tb 7,11 nota <i>c</i>).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>No moriràs. La prohibi-<br/>
+    ció de presentar-se davant meu només
+    afecta el comú de la gent.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>4,11.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Acosta't!</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>La reina va estendre el ceptre d'or fins
+    a tocar el coll del rei. L'acaronava i
+    li deia:<br/>
+    – Parla.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ell li va dir:<br/>
+    – T'he vist, senyora, com una àngel de
+    Mare de Déu<sup><i>r</i></sup> i he quedat trasbalsat davant la
+    teva majestat.</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Jt 13,6; 2Sa 14,17.
+</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Perquè ets admirable,
+    senyora, i la teva cara traspua bondat.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mentre parlava, el rei es va ma-<br/>
+    rejar.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>La reina es va afectar, i tot el servei
+    procurava animar-lo.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>5</nom>
+<clau>
+    <clau></clau>
+    <valor><big>5</big></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Llavors el rei li va preguntar:<br/>
+    – Però, què vols, Ester? Què dema-<br/>
+    nes? Et donaré ni que sigui la meitat del
+    meu regne.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Mc 6,22-23.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – Avui és un dia assenyalat per a mi.
+    Si al rei li sembla bé, que vingui amb
+    Aman al convit que els prepararé avui
+    mateix.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>El rei va ordenar:<br/>
+    – Crideu de pressa Aman, que hem de
+    complaure Ester.<br/>
+    I tots dos van acudir al convit a què
+    Ester els havia invitat.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Mentre bevien, el rei va dir a Ester:<br/>
+    – Què vols, reina Ester? Et concediré
+    tot el que desitgis.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – Quin és el meu desig? Què dema-<br/>
+    no?</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Doncs, si gaudeixo del favor del
+    rei, que el rei torni demà amb Aman al
+    convit que jo els oferiré. Serà com avui.</valor>
+<anyell>
+    <clau><h3>Aman vol penjar Mardoqueu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Aman sortí content i feliç del palau
+    del rei. Però, així que va veure al pati el
+    jueu Mardoqueu, s'omplí d'una gran in-<br/>
+    dignació.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Arribant a casa seva va fer
+    venir els seus amics i Zosara,<sup><i>t</i></sup> la seva
+    dona,</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor><i>Zosara</i> és anomenada <i>Zèreix</i> en
+    el text hebreu.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>per comentar-los la seva rique-<br/>
+    sa i els honors amb què el rei l'havia
+    distingit, nomenant-lo primer ministre i
+    confiant-li el govern de tot l'imperi.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>I
+    va afegir:<br/>
+    – La reina no ha invitat ningú més
+    que a mi per a acompanyar el rei al seu
+    convit. I també m'ha tornat a convidar
+    per a demà.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Però res d'això no em sa-<br/>
+    tisfà mentre vegi el jueu Mardoqueu a
+    palau.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Llavors la seva dona Zosara i els
+    seus amics li van dir:<br/>
+    – Fes preparar una forca de vint-i-<br/>
+    cinc mentre d'alt.<sup><i>u</i></sup> De bon matí parla'n
+    al rei, i que hi pengin Mardoqueu. Des-<br/>
+    prés, ben satisfet, podràs acompanyar el
+    rei al convit.<br/>
+    La proposta va plaure a Aman, i van
+    preparar la forca.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Càstig reservat als traïdors i
+    conspiradors (vegeu Est 5,14 nota <i>o</i>).</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>5</big></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Llavors la reina li va preguntar:<br/>
+    – Però, què vols, Ester? Què dema-<br/>
+    nes? Et donaré ni que sigui la meitat del
+    meu regne.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Mc 6,22-23.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – Avui és un dia assenyalat per a mi.
+    Si a la reina li sembla bé, que vingui amb
+    Aman al convit que les prepararé avui
+    mateix.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>La reina va ordenar:<br/>
+    – Crideu de pressa Aman, que hem de
+    complaure Ester.<br/>
+    I totes dues van acudir al convit a què
+    Ester les havia invitat.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Mentre bevien, la reina va dir a Ester:<br/>
+    – Què vols, rei Ester? Et concediré
+    tot el que desitgis.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – Quin és el meu desig? Què dema-<br/>
+    no?</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Doncs, si gaudeixo del favor de la
+    reina, que la reina torni demà amb Aman al
+    convit que jo les oferiré. Serà com avui.</valor>
+<anyell>
+    <clau><h3>Aman vol penjar Mardoqueu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Aman sortí contenta i feliç del palau
+    de la reina. Però, així que va veure al pati la
+    jueva Mardoqueu, s'omplí d'una gran in-<br/>
+    dignació.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Arribant a casa seva va fer
+    venir les seves amigues i Zosara,<sup><i>t</i></sup> el seu
+    home,</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor><i>Zosara</i> és anomenat <i>Zèreix</i> en
+    el text hebreu.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>per comentar-les la seva rique-<br/>
+    sa i els honors amb què la reina l'havia
+    distingit, nomenant-la primera ministra i
+    confiant-li el govern de tot l'imperi.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>I
+    va afegir:<br/>
+    – El rei no ha invitat ningú més
+    que a mi per a acompanyar la reina al seu
+    convit. I també m'ha tornat a convidar
+    per a demà.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Però res d'això no em sa-<br/>
+    tisfà mentre vegi la jueva Mardoqueu a
+    palau.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Llavors el seu home Zosara i les
+    seves amigues li van dir:<br/>
+    – Fes preparar una forca de vint-i-<br/>
+    cinc mentre d'alt.<sup><i>u</i></sup> De bon matí parla'n
+    a la reina, i que hi pengin Mardoqueu. Des-<br/>
+    prés, ben satisfeta, podràs acompanyar la
+    reina al convit.<br/>
+    La proposta va plaure a Aman, i van
+    preparar la forca.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Càstig reservat a les traïdores i
+    conspiradores (vegeu Est 5,14 nota <i>o</i>).</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>6</nom>
+<clau>
+    <clau><h3>El rei fa honorar Mardoqueu</h3></clau>
+    <valor><big>6</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Aquella nit, el Senyor no va deixar
+    que el rei agafés el son. Va demanar,
+    doncs, el seu preceptor que li portés la
+    crònica i la hi llegís.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>En un cert punt
+    van trobar escrit com Mardoqueu havia
+    denunciat al rei que els seus dos eu-<br/>
+    nucs, durant el torn de guàrdia, conspi-<br/>
+    raven per assassinar-lo.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>A,12-15;
+    2,21-23.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>El rei va pre-<br/>
+    guntar:<br/>
+    – Amb quin honor vam distingir o re-<br/>
+    compensar Mardoqueu?<br/>
+    Els seus servidors van respondre:<br/>
+    – No li has donat cap honor.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Mentre el rei preguntava què s'havia
+    fet per recompensar a Mardoqueu els
+    serveis prestats, Aman arribava a l'atri
+    del palau. Venia justament a demanar al
+    rei que fes penjar Mardoqueu a la forca
+    que li tenia preparada. El rei va dir:<br/>
+    – Qui hi ha a l'atri?</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Els seus servidors van respondre:<br/>
+    – És Aman.<br/>
+    El rei el va fer cridar</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>i li preguntà:<br/>
+    – Què puc fer per un home que jo vull
+    honorar?<br/>
+    Aman va pensar: «A qui voldrà hono-<br/>
+    rar el rei, sinó a mi?»</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per això li va
+    respondre:<br/>
+    – A l'home que el rei vol honorar,</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>els
+    servents del rei li haurien de dur un ves-<br/>
+    tit de lli igual al vestit que el rei porta, i
+    un cavall com els que el rei mateix ca-<br/>
+    valca.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Dur un vestit del rei i muntar un dels seus ca-<br/>
+    valls equivalia a participar de la dignitat reial (ve-<br/>
+    geu 8,15; 1Re 1,33).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Ho haurien de donar tot a un
+    dels amics del rei,<sup><i>x</i></sup> un d'alta noblesa, i
+    aquest, després de vestir l'home que el
+    rei vol honorar i de fer-lo muntar al ca-<br/>
+    vall, hauria de proclamar pel carrer ma-<br/>
+    jor de la ciutat: “Així es tracta l'home
+    que el rei vol honorar!”</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Llavors el rei va ordenar a Aman:<br/>
+    – Molt bé! Fes tot això amb Mardo-<br/>
+    queu, el jueu que presta el seus serveis
+    aquí a palau. No et descuidis de cap detall!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Aman va prendre els vestits i el ca-<br/>
+    vall, va vestir Mardoqueu, el féu muntar
+    a cavall i el passejà pel carrer major de
+    la ciutat tot proclamant: «Així es tracta
+    l'home que el rei vol honorar!»</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Després Mardoqueu se'n tornà a
+    palau, mentre Aman se n'anava a casa
+    seva, molest i amb el cap baix.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aman
+    va explicar a Zosara, la seva dona, i als
+    seus amics tot el que li havia passat. Els
+    amics i la dona li van dir:<br/>
+    – Si aquest Mardoqueu, davant el
+    qual has començat a veure't humiliat, és
+    jueu de llinatge, cauràs sense remei.<sup><i>y</i></sup><br/>
+    No te'n podràs pas desfer, perquè el Déu
+    viu és amb ell.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>Els antics
+    veien una intervenció divina darrere el sob-<br/>
+    tat capgirament d'una situació.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Encara estaven parlant quan van
+    arribar els eunucs a casa d'Aman urgint-lo
+    a anar al convit que Ester havia preparat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>La reina fa honorar Mardoqueu</h3></clau>
+    <valor><big>6</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Aquella nit, la Senyora no va deixar
+    que la reina agafés el son. Va demanar,
+    doncs, la seva preceptora que li portés la
+    crònica i la hi llegís.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>En un cert punt
+    van trobar escrit com Mardoqueu havia
+    denunciat a la reina que les seves dues eu-<br/>
+    nucs, durant el torn de guàrdia, conspi-<br/>
+    raven per assassinar-la.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>A,12-15;
+    2,21-23.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>La reina va pre-<br/>
+    guntar:<br/>
+    – Amb quin honor vam distingir o re-<br/>
+    compensar Mardoqueu?<br/>
+    Les seves servidores van respondre:<br/>
+    – No li has donat cap honor.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Mentre la reina preguntava què s'havia
+    fet per recompensar a Mardoqueu els
+    serveis prestats, Aman arribava a l'atri
+    del palau. Venia justament a demanar a la
+    reina que fes penjar Mardoqueu a la forca
+    que li tenia preparada. La reina va dir:<br/>
+    – Qui hi ha a l'atri?</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Les seves servidores van respondre:<br/>
+    – És Aman.<br/>
+    La reina la va fer cridar</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>i li preguntà:<br/>
+    – Què puc fer per una dona que jo vull
+    honorar?<br/>
+    Aman va pensar: «A qui voldrà hono-<br/>
+    rar la reina, sinó a mi?»</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per això li va
+    respondre:<br/>
+    – A la dona que la reina vol honorar,</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>les
+    serventes de la reina li haurien de dur un ves-<br/>
+    tit de lli igual al vestit que la reina porta, i
+    una euga com les que la reina mateixa ca-<br/>
+    valca.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Dur un vestit de la reina i muntar una de les seves eu-<br/>
+    gues equivalia a participar de la dignitat reial (ve-<br/>
+    geu 8,15; 1Re 1,33).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Ho haurien de donar tot a una
+    de les amigues de la reina,<sup><i>x</i></sup> un d'alta noblesa, i
+    aquesta, després de vestir la dona que la
+    reina vol honorar i de fer-la muntar a l'eu-<br/>
+    ga, hauria de proclamar pel carrer ma-<br/>
+    jor de la ciutat: “Així es tracta la dona
+    que la reina vol honorar!”</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Llavors la reina va ordenar a Aman:<br/>
+    – Molt bé! Fes tot això amb Mardo-<br/>
+    queu, la jueva que presta el seus serveis
+    aquí a palau. No et descuidis de cap detall!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Aman va prendre els vestits i l'eu-<br/>
+    ga, va vestir Mardoqueu, la féu muntar
+    a euga i la passejà pel carrer major de
+    la ciutat tot proclamant: «Així es tracta
+    la dona que la reina vol honorar!»</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Després Mardoqueu se'n tornà a
+    palau, mentre Aman se n'anava a casa
+    seva, molesta i amb el cap baix.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aman
+    va explicar a Zosara, el seu home, i a les
+    seves amigues tot el que li havia passat. Les
+    amigues i l'home li van dir:<br/>
+    – Si aquesta Mardoqueu, davant la
+    qual has començat a veure't humiliada, és
+    jueva de llinatge, cauràs sense remei.<sup><i>y</i></sup><br/>
+    No te'n podràs pas desfer, perquè la Mare de Déu
+    viva és amb ella.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>Les antigues
+    veien una intervenció divina darrere el sob-<br/>
+    tat capgirament d'una situació.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Encara estaven parlant quan van
+    arribar les eunucs a casa d'Aman urgint-la
+    a anar al convit que Ester havia preparat.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>7</nom>
+<clau>
+    <clau><h3>Aman cau en desgràcia i mor penjat</h3></clau>
+    <valor><big>7</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El rei i Aman van acudir al convit
+    de la reina.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Durant el convit, tam-<br/>
+    bé aquest segon dia el rei va preguntar a
+    Ester:<br/>
+    – Què vols, reina Ester? Què dema-<br/>
+    nes? Quin és el teu desig? Ni que de-<br/>
+    manis la meitat del meu regne,<sup><i>z</i></sup> t'ho
+    concediré.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>5,3. Aquí,
+    com també en Mc 6,21-29, aquestes paraules són
+    dites en un banquet.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Ella va respondre:<br/>
+    – Si gaudeixo del favor del rei, li de-<br/>
+    mano que em salvi la vida, desitjo que
+    salvi el meu poble.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>El meu poble i jo
+    ham estat venuts, destinats a l'extermi-<br/>
+    ni, al pillatge i a l'esclavitud. Nosaltres i
+    els nostres fills hem estat venuts com a
+    esclaus i esclaves. Jo he callat. Però el
+    qui ens calumnia no és digne de viure a
+    la cort del rei!</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>El rei va preguntar:<br/>
+    – I qui ha gosat tramar una cosa així?</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – L'enemic és Aman, aquest pervers.<br/>
+    Aman va quedar sense paraula da-<br/>
+    vant el rei i la reina.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>El rei s'aixecà de
+    taula i va sortir al jardí. Aman, veient la
+    gravetat de la situació, suplicava a
+    la reina.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Just quan s'havia deixat caure
+    al divan de la reina per demanar-li
+    clemència, el rei va tornar del jardí i va
+    exclamar:<br/>
+    – ¿Voldrà encara violar la meva dona
+    a casa meva?<br/>
+    Aman, que ho sentí, va girar la cara
+    avergonyit.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Llavors Bugatan,<sup><i>a</i></sup> un dels eunucs al
+    servei personal del rei, afegí:<br/>
+    – Encara hi ha més: Aman té prepa-<br/>
+    rada a casa seva una forca de vint-i-cinc
+    metres d'alt per penjar-hi Mardoqueu,
+    l'home que havia denunciat la conspira-<br/>
+    ció contra el rei.<sup><i>b</i></sup><br/>
+    El rei va dir:<br/>
+    – Doncs pengeu-hi Aman!<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>El text hebreu diu <i>Har-<br/>
+    bonà</i>.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>2,21-23.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>El text grec diu aquí: <i>crucifiqueu-hi
+    Aman!</i></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Un cop penjat Aman a la forca que
+    havia preparat per a Mardoqueu, la in-<br/>
+    dignació del rei es va apaivagar.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Aman cau en desgràcia i mor penjada</h3></clau>
+    <valor><big>7</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>La reina i Aman van acudir al convit
+    del rei.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Durant el convit, tam-<br/>
+    bé aquest segon dia la reina va preguntar a
+    Ester:<br/>
+    – Què vols, rei Ester? Què dema-<br/>
+    nes? Quin és el teu desig? Ni que de-<br/>
+    manis la meitat del meu regne,<sup><i>z</i></sup> t'ho
+    concediré.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>5,3. Aquí,
+    com també en Mc 6,21-29, aquestes paraules són
+    dites en un banquet.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Ell va respondre:<br/>
+    – Si gaudeixo del favor de la reina, li de-<br/>
+    mano que em salvi la vida, desitjo que
+    salvi el meu poble.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>El meu poble i jo
+    ham estat venudes, destinades a l'extermi-<br/>
+    ni, al pillatge i a l'esclavitud. Nosaltres i
+    les nostres filles hem estat venudes com a
+    esclaves i esclaus. Jo he callat. Però la
+    qui ens calumnia no és digne de viure a
+    la cort de la reina!</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>La reina va preguntar:<br/>
+    – I qui ha gosat tramar una cosa així?</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Ester va respondre:<br/>
+    – L'enemiga és Aman, aquesta perversa.<br/>
+    Aman va quedar sense paraula da-<br/>
+    vant la reina i el rei.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>La reina s'aixecà de
+    taula i va sortir al jardí. Aman, veient la
+    gravetat de la situació, suplicava al
+    rei.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Just quan s'havia deixat caure
+    al divan del rei per demanar-li
+    clemència, la reina va tornar del jardí i va
+    exclamar:<br/>
+    – ¿Voldrà encara violar el meu home
+    a casa meva?<br/>
+    Aman, que ho sentí, va girar la cara
+    avergonyida.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Llavors Bugatan,<sup><i>a</i></sup> una de les eunucs al
+    servei personal de la reina, afegí:<br/>
+    – Encara hi ha més: Aman té prepa-<br/>
+    rada a casa seva una forca de vint-i-cinc
+    metres d'alt per penjar-hi Mardoqueu,
+    la dona que havia denunciat la conspira-<br/>
+    ció contra la reina.<sup><i>b</i></sup><br/>
+    La reina va dir:<br/>
+    – Doncs pengeu-hi Aman!<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>El text hebreu diu <i>Har-<br/>
+    bonà</i>.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>2,21-23.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>El text grec diu aquí: <i>crucifiqueu-hi
+    Aman!</i></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Un cop penjada Aman a la forca que
+    havia preparat per a Mardoqueu, la in-<br/>
+    dignació de la reina es va apaivagar.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Aquell mateix dia, el rei Artaxerxes
+    va donar a Ester tots els béns
+    d'Aman, el calumniador. Ester va infor-<br/>
+    mar el rei que ella era parenta de Mar-<br/>
+    doqueu. El rei el va fer cridar,</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>va aga-<br/>
+    far l'anell que havia pres a Aman i el
+    donà a Mardoqueu. Per la seva part, Es-<br/>
+    ter va confiar a Mardoqueu d'adminis-<br/>
+    tració de tot el patrimoni d'Aman.</valor>
+<anyell>
+    <clau><h3>Nou decret a favor dels jueus</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Ester va parlar altra vegada al rei:
+    es va tirar als seus peus tot demanant-li
+    que impedís el mal promogut per Aman
+    contra els jueus.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>El rei li va estendre
+    el ceptre d'or<sup><i>d</i></sup> perquè s'aixequés. Ella
+    es posà dreta al costat del rei</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>4,11; D,12.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>i li di-<br/>
+    gué:<br/>
+    – Si et sembla bé i jo gaudeixo del teu
+    favor, mana que siguin revocades les
+    cartes trameses per Aman ordenant l'ex-<br/>
+    termini dels jueus que hi ha en el teu
+    imperi.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Com podria jo contemplar la
+    desgràcia del meu poble? De què em
+    serviria salvar la vida<sup><i>e</i></sup> si el meu llinatge
+    era exterminat?</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>4,13.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>El rei va respondre a Ester:<br/>
+    – Per complaure't, he fet penjar a la
+    forca Aman, que havia atemptat contra
+    els jueus, i t'he regalat tot el seu patri-<br/>
+    moni. Què més vols encara?</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Un decret
+    escrit en nom del rei i avalat amb el seu
+    segell és irrevocable. Ara, doncs, també
+    vosaltres escriviu en nom meu el que
+    cregueu convenient i segelleu-ho amb el
+    meu anell.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>3,10.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>El dia vint-i-tres del mes primer,
+    que és el de nissan, foren convocats els
+    escribes i van escriure als jueus les or-<br/>
+    dres impartides als administradors i als
+    governadors de les cent vint-i-set pro-<br/>
+    víncies, a cada una en la llengua del
+    país, des de l'Índia fins a Etiòpia.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>L'edicte era escrit en nom del rei i es-<br/>
+    tava avalat amb el seu segell. Els missat-<br/>
+    gers s'encarregaren de dur les cartes a la
+    seva destinació.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>El rei autoritzava els
+    jueus de qualsevol ciutat a regir-se per
+    les seves pròpies lleis, a defensar-se mú-<br/>
+    tuament i a tractar els seus enemics i
+    adversaris com volguessin</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>durant un
+    sol dia, el tretze del mes dotzè, el mes
+    d'adar,<sup><i>g</i></sup> en tot l'imperi d'Artaxerxes.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>El dia abans de la data fixada per a l'exter-<br/>
+    mini dels jueus, segons la versió grega (3,7; B,6; ve-<br/>
+    geu, en canvi, Est 3,13).</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Aquell mateix dia, la reina Artaxerxes
+    va donar a Ester tots els béns
+    d'Aman, la calumniadora. Ester va infor-<br/>
+    mar la reina que ell era parent de Mar-<br/>
+    doqueu. La reina la va fer cridar,</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>va aga-<br/>
+    far l'anell que havia pres a Aman i el
+    donà a Mardoqueu. Per la seva part, Es-<br/>
+    ter va confiar a Mardoqueu d'adminis-<br/>
+    tració de tot el patrimoni d'Aman.</valor>
+<anyell>
+    <clau><h3>Nou decret a favor de les jueves</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Ester va parlar altra vegada a la reina:
+    es va tirar als seus peus tot demanant-li
+    que impedís el mal promogut per Aman
+    contra les jueves.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>La reina li va estendre
+    el ceptre d'or<sup><i>d</i></sup> perquè s'aixequés. Ell
+    es posà dret al costat de la reina</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>4,11; D,12.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>i li di-<br/>
+    gué:<br/>
+    – Si et sembla bé i jo gaudeixo del teu
+    favor, mana que siguin revocades les
+    cartes trameses per Aman ordenant l'ex-<br/>
+    termini de les jueves que hi ha en el teu
+    imperi.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Com podria jo contemplar la
+    desgràcia del meu poble? De què em
+    serviria salvar la vida<sup><i>e</i></sup> si el meu llinatge
+    era exterminat?</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>4,13.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>La reina va respondre a Ester:<br/>
+    – Per complaure't, he fet penjar a la
+    forca Aman, que havia atemptat contra
+    les jueves, i t'he regalat tot el seu patri-<br/>
+    moni. Què més vols encara?</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Un decret
+    escrit en nom de la reina i avalat amb el seu
+    segell és irrevocable. Ara, doncs, també
+    vosaltres escriviu en nom meu el que
+    cregueu convenient i segelleu-ho amb el
+    meu anell.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>3,10.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>El dia vint-i-tres del mes primer,
+    que és el de nissan, foren convocades les
+    escribes i van escriure a les jueves les or-<br/>
+    dres impartides a les administradores i a les
+    governadores de les cent vint-i-set pro-<br/>
+    víncies, a cada una en la llengua del
+    país, des de l'Índia fins a Etiòpia.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>L'edicte era escrit en nom de la reina i es-<br/>
+    tava avalat amb el seu segell. Les missat-<br/>
+    geres s'encarregaren de dur les cartes a la
+    seva destinació.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>La reina autoritzava les
+    jueves de qualsevol ciutat a regir-se per
+    les seves pròpies lleis, a defensar-se mú-<br/>
+    tuament i a tractar les seves enemigues i
+    adversàries com volguessin</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>durant un
+    sol dia, el tretze del mes dotzè, el mes
+    d'adar,<sup><i>g</i></sup> en tot l'imperi d'Artaxerxes.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>El dia abans de la data fixada per a l'exter-<br/>
+    mini de les jueves, segons la versió grega (3,7; B,6; ve-<br/>
+    geu, en canvi, Est 3,13).</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>E</nom>
+<clau>
+    <clau><big>E</big></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Còpia del text de la carta:<br/>
+    «El gran rei<sup><i>h</i></sup> Artaxerxes saluda els
+    governadors de les cent vint-i-set pro-<br/>
+    víncies, des de l'Índia fins a Etiòpia, i
+    tots els nostres súbdits lleials.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>B,1 nota <i>l</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Molts,
+    quan són distingits per la generosa bon-<br/>
+    dat dels seus benefactors,<sup><i>i</i></sup> es tornen
+    massa ambiciosos.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lc 22,25.
+    Els reis d'Egipte de l'època hel·lenística Ptolemeu III
+    (246-221 aC) i Ptolemeu VIII (145-116 aC) duien el
+    sobrenom d'<i>Evèrgetes</i>, és a dir, ‘benefactor’. Entre els
+    perses, els «benefactors del rei» formaven una classe
+    especial.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>I, no contents d'in-<br/>
+    tentar fer mal als nostres súbdits, es
+    mostren incapaços d'usar bé els honors
+    rebuts, i encara gosen maquinar contra
+    els seus benefactors.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Així esborren
+    l'agraïment del cor de les persones i, en-<br/>
+    vanits pels afalacs dels qui no tenen cap
+    sentit d'allò que és bo, s'afiguren que
+    evitaran el judici de Déu, que sempre ho
+    veu tot i detesta el mal.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Sovint també,
+    els qui exerceixen el poder confien la
+    gestió dels afers als seus amics.<sup><i>j</i></sup><br/>
+    Aquests, amb les seves arts, els fan còm-<br/>
+    plices de sang innocent i acaben arros-<br/>
+    segant-los a catàstrofes sense remei.
+</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Amb els seus raonaments mentiders
+    inspirats en la seva mala fe, capgiren i
+    confonen la innegable bona fe dels go-<br/>
+    vernants.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per a constatar-ho, no cal
+    que acudim als relats antics que conei-<br/>
+    xem per tradició: per poc que examineu
+    el que passa al costat vostre, us troba-<br/>
+    reu amb fets criminals consumats per
+    individus indignes del poder que han re-<br/>
+    but.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Ara, però, ens cal mirar endavant
+    a fi de procurar a tothom un imperi
+    tranquil i en pau,</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>introduint les refor-<br/>
+    mes oportunes i jutjant amb tota ponde-<br/>
+    ració els afers que se'ns presentin.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>»Hi ha hagut el cas d'Aman, fill
+    d'Amedata, un macedoni, un estran-<br/>
+    ger,<sup><i>k</i></sup> doncs, sense una gota de sang per-<br/>
+    sa i sense una engruna de la nostra ge-<br/>
+    nerositat. Li havíem donat hospitalitat
+</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>A,17 nota <i>m</i>.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>i s'havia beneficiat de la benevolència
+    amb què tractem tothom, sigui quina si-<br/>
+    gui la seva nació. Fins i tot li vam ator-<br/>
+    gar el títol oficial de «pare»,<sup><i>l</i></sup> i tothom
+    s'havia de prosternar al seu davant com
+    a segon personatge del nostre tron reial.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>B,6.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Però incapaç de frenar el seu orgull,
+    va provar d'arrabassar-nos el poder i la
+    vida.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Amb un seguit de maquinacions
+    tortuoses ens va demanar l'extermini de
+    Mardoqueu, l'home que ens havia salvat
+    la vida<sup><i>m</i></sup> i constant benefactor, el d'Es-<br/>
+    ter, la irreprotxable reina consort, i el
+    de tota la seva nació.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>A,12-17; 2,21-23.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Amb els seus
+    estratagemes pretenia deixar-nos sense
+    cap suport i traspassar l'hegemonia
+    persa a les mans dels macedonis.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El v. 10
+    ha dit que Aman era macedoni. Les amenaces d'una
+    hegemonia macedònia van aparèixer en temps d'Ar-<br/>
+    taxerxes III (359-338 aC) i es van fer realitat poc
+    més tard amb el rei de Macedònia Alexandre el Gran
+    (336-323 aC).</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Nosaltres hem comprovat que els
+    jueus, destinats a l'extermini per aquell
+    gran criminal d'Aman, no són uns mal-<br/>
+    factors. Al contrari, es governen amb
+    unes lleis justíssimes,</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>perquè són
+    fills del Déu viu, altíssim i màxim, el
+    Déu que des dels temps dels nostres
+    avantpassats ha mantingut el nostre
+    regne en un estat immillorable.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Per
+    tant, fareu bé de no posar en pràctica
+    el decret enviat per Aman, fill d'Ame-<br/>
+    data.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>B,1-7.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>El seu autor i tota la seva fa-<br/>
+    mília han estat penjats a l'entrada de
+    Susa. El Déu que té sotmès tot l'uni-<br/>
+    vers li ha enviat ràpidament el càstig
+    de què s'havia fet mereixedor.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>»Publiqueu pertot arreu còpies
+    d'aquesta carta que autoritza els jueus a
+    regir-se lliurement per les seves pròpies
+    lleis,</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>i ajudeu-los a defensar-se dels
+    qui els ataquin el dia que havia de ser el
+    de la seva desgràcia, el dia tretze del
+    mes dotzè, el mes d'adar.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>El Déu so-<br/>
+    birà de l'univers ha canviat en diada
+    d'alegria el dia destinat a l'extermini del
+    llinatge escollit.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Vosaltres, doncs, ce-<br/>
+    lebreu també amb grans manifestacions
+    aquest dia assenyalat, com una de les
+    vostres grans solemnitats.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Que des
+    d'ara i en el temps a venir, aquest dia
+    signifiqui la salvació per a tots vosaltres
+    i per als perses de bona voluntat, i re-<br/>
+    cordi als qui conspirin contra nosaltres
+    que van de dret a la perdició!</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Qualse-<br/>
+    vol ciutat o província en general que
+    no segueixi aquestes prescripcions serà
+    passada a sang i foc, sense cap mira-<br/>
+    ment. Estarà prohibit de transitar-hi, i
+    fins les bèsties i els ocells en fugiran per
+    sempre més.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><big>E</big></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Còpia del text de la carta:<br/>
+    «La gran reina<sup><i>h</i></sup> Artaxerxes saluda les
+    governadores de les cent vint-i-set pro-<br/>
+    víncies, des de l'Índia fins a Etiòpia, i
+    totes les nostres súbdits lleials.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>B,1 nota <i>l</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Moltes,
+    quan són distingides per la generosa bon-<br/>
+    dat de les seves benefactores,<sup><i>i</i></sup> es tornen
+    massa ambicioses.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lc 22,25.
+    Els reis d'Egipte de l'època hel·lenística Ptolemeu III
+    (246-221 aC) i Ptolemeu VIII (145-116 aC) duien el
+    sobrenom d'<i>Evèrgetes</i>, és a dir, ‘benefactora’. Entre les
+    perses, les «benefactores de la reina» formaven una classe
+    especial.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>I, no contentes d'in-<br/>
+    tentar fer mal a les nostres súbdits, es
+    mostren incapaces d'usar bé els honors
+    rebuts, i encara gosen maquinar contra
+    les seves benefactores.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Així esborren
+    l'agraïment del cor de les persones i, en-<br/>
+    vanides pels afalacs de les qui no tenen cap
+    sentit d'allò que és bo, s'afiguren que
+    evitaran el judici de Mare de Déu, que sempre ho
+    veu tot i detesta el mal.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Sovint també,
+    les qui exerceixen el poder confien la
+    gestió dels afers a les seves amigues.<sup><i>j</i></sup><br/>
+    Aquestes, amb les seves arts, les fan còm-<br/>
+    plices de sang innocent i acaben arros-<br/>
+    segant-les a catàstrofes sense remei.
+</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>1,3 nota <i>p</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Amb els seus raonaments mentiders
+    inspirats en la seva mala fe, capgiren i
+    confonen la innegable bona fe de les go-<br/>
+    vernants.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per a constatar-ho, no cal
+    que acudim als relats antics que conei-<br/>
+    xem per tradició: per poc que examineu
+    el que passa al costat vostre, us troba-<br/>
+    reu amb fets criminals consumats per
+    individus indignes del poder que han re-<br/>
+    but.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Ara, però, ens cal mirar endavant
+    a fi de procurar a tothom un imperi
+    tranquil i en pau,</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>introduint les refor-<br/>
+    mes oportunes i jutjant amb tota ponde-<br/>
+    ració els afers que se'ns presentin.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>»Hi ha hagut el cas d'Aman, filla
+    d'Amedata, una macedònia, una estran-<br/>
+    gera,<sup><i>k</i></sup> doncs, sense una gota de sang per-<br/>
+    sa i sense una engruna de la nostra ge-<br/>
+    nerositat. Li havíem donat hospitalitat
+</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>A,17 nota <i>m</i>.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>i s'havia beneficiat de la benevolència
+    amb què tractem tothom, sigui quina si-<br/>
+    gui la seva nació. Fins i tot li vam ator-<br/>
+    gar el títol oficial de «mare»,<sup><i>l</i></sup> i tothom
+    s'havia de prosternar al seu davant com
+    a segona personatge del nostre tron reial.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>B,6.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Però incapaç de frenar el seu orgull,
+    va provar d'arrabassar-nos el poder i la
+    vida.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Amb un seguit de maquinacions
+    tortuoses ens va demanar l'extermini de
+    Mardoqueu, la dona que ens havia salvat
+    la vida<sup><i>m</i></sup> i constant benefactora, la d'Es-<br/>
+    ter, l'irreprotxable rei consort, i el
+    de tota la seva nació.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>A,12-17; 2,21-23.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Amb els seus
+    estratagemes pretenia deixar-nos sense
+    cap suport i traspassar l'hegemonia
+    persa a les mans de les macedònies.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El v. 10
+    ha dit que Aman era macedònia. Les amenaces d'una
+    hegemonia macedònia van aparèixer en temps d'Ar-<br/>
+    taxerxes III (359-338 aC) i es van fer realitat poc
+    més tard amb la reina de Macedònia Alexandre la Gran
+    (336-323 aC).</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Nosaltres hem comprovat que les
+    jueves, destinades a l'extermini per aquell
+    gran criminal d'Aman, no són unes mal-<br/>
+    factores. Al contrari, es governen amb
+    unes lleis justíssimes,</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>perquè són
+    filles de la Mare de Déu viva, altíssima i màxima, la
+    Mare de Déu que des dels temps de les nostres
+    avantpassades ha mantingut el nostre
+    regne en un estat immillorable.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Per
+    tant, fareu bé de no posar en pràctica
+    el decret enviat per Aman, filla d'Ame-<br/>
+    data.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>B,1-7.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>La seva autora i tota la seva fa-<br/>
+    mília han estat penjades a l'entrada de
+    Susa. La Mare de Déu que té sotmès tot l'uni-<br/>
+    vers li ha enviat ràpidament el càstig
+    de què s'havia fet mereixedora.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>»Publiqueu pertot arreu còpies
+    d'aquesta carta que autoritza les jueves a
+    regir-se lliurement per les seves pròpies
+    lleis,</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>i ajudeu-les a defensar-se de les
+    qui les ataquin el dia que havia de ser el
+    de la seva desgràcia, el dia tretze del
+    mes dotzè, el mes d'adar.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>La Mare de Déu so-<br/>
+    birana de l'univers ha canviat en diada
+    d'alegria el dia destinat a l'extermini del
+    llinatge escollit.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Vosaltres, doncs, ce-<br/>
+    lebreu també amb grans manifestacions
+    aquest dia assenyalat, com una de les
+    vostres grans solemnitats.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Que des
+    d'ara i en el temps a venir, aquest dia
+    signifiqui la salvació per a totes vosaltres
+    i per a les perses de bona voluntat, i re-<br/>
+    cordi a les qui conspirin contra nosaltres
+    que van de dret a la perdició!</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Qualse-<br/>
+    vol ciutat o província en general que
+    no segueixi aquestes prescripcions serà
+    passada a sang i foc, sense cap mira-<br/>
+    ment. Estarà prohibit de transitar-hi, i
+    fins les bèsties i els ocells en fugiran per
+    sempre més.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>»Les còpies d'aquest edicte han
+    de ser exposades a la vista de tot-<br/>
+    hom per tot l'imperi, perquè aquest dia
+    tots els jueus estiguin preparats per a
+    lluitar contra els seus adversaris.»</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Els missatgers von sortir ràpida-<br/>
+    ment a cavall per complir les ordres del
+    rei. L'edicte va ser promulgat també a
+    Susa.</valor>
+<anyell>
+    <clau><h3>Triomf de Mardoqueu i dels jueus</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mardoqueu va sortir de palau amb
+    un vestit reial, amb una corona d'or i
+    una diadema de lli color de porpra. Els
+    habitants de Susa, en veure'l, se'n van
+    alegrar.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Per als jueus va ser un dia de llum
+    i de festa.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>En cada ciutat i província
+    on era promulgat l'edicte i es donava a
+    conèixer el decret del rei, els jueus esta-<br/>
+    ven alegres i joiosos i ho celebraven amb
+    festes i convits. Molts de les na-<br/>
+    cions es feien circumcidar i es conver-<br/>
+    tien a la religió jueva per por dels jueus.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>»Les còpies d'aquest edicte han
+    de ser exposades a la vista de tot-<br/>
+    hom per tot l'imperi, perquè aquest dia
+    totes les jueves estiguin preparades per a
+    lluitar contra les seves adversàries.»</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Les missatgeres von sortir ràpida-<br/>
+    ment a euga per complir les ordres de la
+    reina. L'edicte va ser promulgat també a
+    Susa.</valor>
+<anyell>
+    <clau><h3>Triomf de Mardoqueu i de les jueves</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Mardoqueu va sortir de palau amb
+    un vestit reial, amb una corona d'or i
+    una diadema de lli color de porpra. Les
+    habitants de Susa, en veure-la, se'n van
+    alegrar.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Per a les jueves va ser un dia de llum
+    i de festa.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>En cada ciutat i província
+    on era promulgat l'edicte i es donava a
+    conèixer el decret de la reina, les jueves esta-<br/>
+    ven alegres i joioses i ho celebraven amb
+    festes i convits. Moltes de les na-<br/>
+    cions es feien circumcidar i es conver-<br/>
+    tien a la religió jueva per por de les jueves.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>9</nom>
+<clau>
+    <clau></clau>
+    <valor><big>9</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El dia tretze del mes dotzè, el mes
+    d'adar,<sup><i>p</i></sup> va arribar el moment d'exe-<br/>
+    cutar el decret promulgat de part del
+    rei.</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El dia fixat per a l'extermini dels jueus (vegeu 8,
+    11-12). Vegeu, en canvi, 3,7.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>El mateix dia foren exterminats els
+    adversaris dels jueus. Ningú no els va
+    plantar cara, de por que els tenien.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>De
+    fet, els governadors de les províncies,
+    els funcionaris i els escribes reials trac-<br/>
+    taven els jueus amb consideració per-<br/>
+    què Mardoqueu els feia respecte.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>I és
+    que el decret del rei havia estès l'anome-<br/>
+    nada de Mardoqueu per tot l'imperi.
+</valor>
+<anyell>
+    <clau>(<sup>5</sup>)</clau>
+    <valor><b><i>q</i></b></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Aquest verset manca
+    en els manuscrits grecs (vegeu Est 9,5).</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>A la ciutat de Susa, els jueus van
+    matar cinc-cents homes.</valor>
+<anyell>
+    <clau><sup>7-10</sup></clau>
+    <valor>Van matar i
+    espoliar també els deu fills d'Aman, fill
+    d'Amedata, l'agaguita:<sup><i>r</i></sup> Farsannestain,
+    Dalfon i Fasgà, Fardata, Barea i Sar-<br/>
+    baca, Marmasim, Arufeu, Arseu i Zabu-<br/>
+    teu.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>A,17 no-<br/>
+    ta <i>m</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>La forma del nom dels fills d'Aman és força
+    diferent en el text hebreu.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Aquell mateix dia, el rei es va assa-<br/>
+    bentar del nombre de víctimes a Susa.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Llavors el rei va dir a Ester:<br/>
+    – A la ciutat de Susa, els jueus han
+    mort cinc-cents homes. Com et sembla
+    que hauran procedit fora d'aquí? Di-<br/>
+    gues-me què més vols encara, que ho
+    obtindràs.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ester va respondre així:<br/>
+    – Concedeix que demà els jueus pu-<br/>
+    guin actuar com han fet avui i penjar els
+    cadàvers<sup><i>t</i></sup> dels deu fills d'Aman.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Els fills d'Aman ja han
+    estat eliminats (vv. 7-10). Ara es vol donar un caire
+    públic i infamant a la seva mort.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>El rei s'hi va avenir i va autoritzar
+    els jueus de la ciutat a penjar els cadà-<br/>
+    vers dels fills d'Aman.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Així, doncs, els
+    jueus de Susa es van aplegar encara el
+    dia catorze del mes d'adar<sup><i>u</i></sup> i mataren
+    tres-cents homes més. Però no van sa-<br/>
+    quejar res.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,7.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Els altres jueus de l'imperi també
+    s'havien aplegat per defensar-se i desfer-<br/>
+    se dels seus enemics. El dia tretze del
+    mes d'adar n'havien exterminat quinze
+    mil. Però no van saquejar res.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>El dia
+    catorze del mateix mes hi va haver cal-<br/>
+    ma i van passar aquella diada amb ale-<br/>
+    gria i festes.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>En canvi, per als jueus de
+    la ciutat de Susa, que s'havien aplegat
+    encara el dia catorze, però no per repo-<br/>
+    sar, la celebració va ser el dia quinze.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Per això els jueus que viuen fora
+    ciutat, el catorze del mes d'adar cele-<br/>
+    bren una diada festiva i s'obsequien
+    amb regals els uns als altres. En canvi,
+    els qui habiten a les gran ciutats cele-<br/>
+    bren aquella diada el quinze del mateix
+    mes. La celebren també festivament i
+    s'obsequien els uns als altres amb re-<br/>
+    gals.</valor>
+<anyell>
+    <clau><h3>La festa dels Purim</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Mardoqueu va escriure aquests fets
+    en un llibret i l'envià als jueus de tot
+    l'imperi d'Artaxerxes, tant als de prop
+    com als de lluny.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Declarava festius els
+    dies catorze i quinze del mes d'adar
+</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>per commemorar que en aquests dies
+    els jueus havien pogut desfer-se dels
+    seus enemics. Tot el mes d'adar havia de
+    ser festiu, ja que durant aquest mes ha-<br/>
+    vien passat del dol a l'alegria i dels
+    planys a la festa. L'havien de celebrar
+    com celebraven les diades de noces i de
+    festa, enviant obsequis als amics i als
+    pobres.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Els jueus van acceptar això que
+    Mardoqueu els havia escrit.</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Hi expli-<br/>
+    cava com Aman, fill d'Amedata, el ma-<br/>
+    cedoni, els havia combatut i havia deci-<br/>
+    dit d'exterminar-los fixant la data a la
+    sort;</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>i com s'havia presentat al rei a
+    demanar-li que fes penjar a Mardoqueu.
+    Al capdavall, doncs, va recaure sobre
+    Aman tot el mal que ell havia tramat
+    contra els jueus: Aman i els seus fills
+    van ser penjats.</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Per això aquests dies, amb motiu
+    de les sorts, s'anomenen dels Purim,<sup><i>v</i></sup><br/>
+    que en la llengua dels jueus significa
+    «sorts» o «destí». Atès el que la carta de
+    Mardoqueu explica sobre aquells esde-<br/>
+    veniments, atès també el que els jueus
+    van haver de patir i tot el que els va pas-<br/>
+    sar,</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>El text
+    grec dóna a la festa dels *<i>Purim</i> el nom de <i>Frurai</i>.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>els jueus acceptaren de bon grat
+    la festa que Mardoqueu havia instituït
+    per a ells, per als seus descendents i per
+    als qui s'adherissin al judaisme. Mai no
+    deixaran de celebrar-la. Aquests dies
+    són un record perenne de generació en
+    generació, en cada ciutat, família i pro-<br/>
+    víncia.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>La festa dels Purim serà cele-<br/>
+    brada per sempre més. Que no se n'es-<br/>
+    borri el record en cap generació!</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>La reina Ester, filla d'Aminadab, i
+    Mardoqueu, el jueu, van posar per escrit
+    el que havien fet i van confirmar la car-<br/>
+    ta que instituïa la festa dels Purim.</valor>
+<anyell>
+    <clau>(<sup>30</sup>)</clau>
+    <valor><sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Aquest verset falta en els manuscrits grecs (vegeu
+    Est 9,30).</valor>
+<anyell>
+    <clau><sup>31</sup></clau>
+    <valor>Mardoqueu i la reina Ester la van ins-<br/>
+    tituir sota la seva responsabilitat i la
+    confirmaren amb la seva decisió mirant
+    el seu propi bé.</valor>
+<anyell>
+    <clau><sup>32</sup></clau>
+    <valor>Ester va fer-ne una
+    institució perpètua. La carta va ser es-<br/>
+    crita per servar-ne la memòria.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>El text grec és fosc i la traducció, per
+    tant, incerta.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>9</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El dia tretze del mes dotzè, el mes
+    d'adar,<sup><i>p</i></sup> va arribar el moment d'exe-<br/>
+    cutar el decret promulgat de part de la
+    reina.</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El dia fixat per a l'extermini de les jueves (vegeu 8,
+    11-12). Vegeu, en canvi, 3,7.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>El mateix dia foren exterminades les
+    adversàries de les jueves. Ningú no les va
+    plantar cara, de por que les tenien.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>De
+    fet, les governadores de les províncies,
+    les funcionàries i les escribes reials trac-<br/>
+    taven les jueves amb consideració per-<br/>
+    què Mardoqueu les feia respecte.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>I és
+    que el decret de la reina havia estès l'anome-<br/>
+    nada de Mardoqueu per tot l'imperi.
+</valor>
+<anyell>
+    <clau>(<sup>5</sup>)</clau>
+    <valor><b><i>q</i></b></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Aquest verset manca
+    en els manuscrits grecs (vegeu Est 9,5).</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>A la ciutat de Susa, les jueves van
+    matar cinc-centes dones.</valor>
+<anyell>
+    <clau><sup>7-10</sup></clau>
+    <valor>Van matar i
+    espoliar també les deu filles d'Aman, filla
+    d'Amedata, l'agaguita:<sup><i>r</i></sup> Farsannestain,
+    Dalfon i Fasgà, Fardata, Barea i Sar-<br/>
+    baca, Marmasim, Arufeu, Arseu i Zabu-<br/>
+    teu.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>A,17 no-<br/>
+    ta <i>m</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>La forma del nom de les filles d'Aman és força
+    diferent en el text hebreu.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Aquell mateix dia, la reina es va assa-<br/>
+    bentar del nombre de víctimes a Susa.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Llavors la reina va dir a Ester:<br/>
+    – A la ciutat de Susa, les jueves han
+    mort cinc-centes dones. Com et sembla
+    que hauran procedit fora d'aquí? Di-<br/>
+    gues-me què més vols encara, que ho
+    obtindràs.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ester va respondre així:<br/>
+    – Concedeix que demà les jueves pu-<br/>
+    guin actuar com han fet avui i penjar els
+    cadàvers<sup><i>t</i></sup> de les deu filles d'Aman.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Les filles d'Aman ja han
+    estat eliminades (vv. 7-10). Ara es vol donar un caire
+    públic i infamant a la seva mort.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>La reina s'hi va avenir i va autoritzar
+    les jueves de la ciutat a penjar els cadà-<br/>
+    vers de les filles d'Aman.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Així, doncs, les
+    jueves de Susa es van aplegar encara el
+    dia catorze del mes d'adar<sup><i>u</i></sup> i mataren
+    tres-centes dones més. Però no van sa-<br/>
+    quejar res.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,7.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Les altres jueves de l'imperi també
+    s'havien aplegat per defensar-se i desfer-<br/>
+    se de les seves enemigues. El dia tretze del
+    mes d'adar n'havien exterminat quinze
+    mil. Però no van saquejar res.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>El dia
+    catorze del mateix mes hi va haver cal-<br/>
+    ma i van passar aquella diada amb ale-<br/>
+    gria i festes.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>En canvi, per a les jueves de
+    la ciutat de Susa, que s'havien aplegat
+    encara el dia catorze, però no per repo-<br/>
+    sar, la celebració va ser el dia quinze.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Per això les jueves que viuen fora
+    ciutat, el catorze del mes d'adar cele-<br/>
+    bren una diada festiva i s'obsequien
+    amb regals les unes a les altres. En canvi,
+    les qui habiten a les gran ciutats cele-<br/>
+    bren aquella diada el quinze del mateix
+    mes. La celebren també festivament i
+    s'obsequien les unes a les altres amb re-<br/>
+    gals.</valor>
+<anyell>
+    <clau><h3>La festa dels Purim</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Mardoqueu va escriure aquests fets
+    en un llibret i l'envià a les jueves de tot
+    l'imperi d'Artaxerxes, tant a les de prop
+    com a les de lluny.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Declarava festius els
+    dies catorze i quinze del mes d'adar
+</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>per commemorar que en aquests dies
+    les jueves havien pogut desfer-se de les
+    seves enemigues. Tot el mes d'adar havia de
+    ser festiu, ja que durant aquest mes ha-<br/>
+    vien passat del dol a l'alegria i dels
+    planys a la festa. L'havien de celebrar
+    com celebraven les diades de noces i de
+    festa, enviant obsequis a les amigues i a les
+    pobres.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Les jueves van acceptar això que
+    Mardoqueu les havia escrit.</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Hi expli-<br/>
+    cava com Aman, filla d'Amedata, la ma-<br/>
+    cedònia, les havia combatut i havia deci-<br/>
+    dit d'exterminar-les fixant la data a la
+    sort;</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>i com s'havia presentat a la reina a
+    demanar-li que fes penjar a Mardoqueu.
+    Al capdavall, doncs, va recaure sobre
+    Aman tot el mal que ella havia tramat
+    contra les jueves: Aman i les seves filles
+    van ser penjades.</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Per això aquests dies, amb motiu
+    de les sorts, s'anomenen dels Purim,<sup><i>v</i></sup><br/>
+    que en la llengua de les jueves significa
+    «sorts» o «destí». Atès el que la carta de
+    Mardoqueu explica sobre aquells esde-<br/>
+    veniments, atès també el que les jueves
+    van haver de patir i tot el que les va pas-<br/>
+    sar,</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>El text
+    grec dóna a la festa dels *<i>Purim</i> el nom de <i>Frurai</i>.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>les jueves acceptaren de bon grat
+    la festa que Mardoqueu havia instituït
+    per a elles, per a les seves descendents i per
+    a les qui s'adherissin al judaisme. Mai no
+    deixaran de celebrar-la. Aquests dies
+    són un record perenne de generació en
+    generació, en cada ciutat, família i pro-<br/>
+    víncia.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>La festa dels Purim serà cele-<br/>
+    brada per sempre més. Que no se n'es-<br/>
+    borri el record en cap generació!</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>El rei Ester, fill d'Aminadab, i
+    Mardoqueu, la jueva, van posar per escrit
+    el que havien fet i van confirmar la car-<br/>
+    ta que instituïa la festa dels Purim.</valor>
+<anyell>
+    <clau>(<sup>30</sup>)</clau>
+    <valor><sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Aquest verset falta en els manuscrits grecs (vegeu
+    Est 9,30).</valor>
+<anyell>
+    <clau><sup>31</sup></clau>
+    <valor>Mardoqueu i el rei Ester la van ins-<br/>
+    tituir sota la seva responsabilitat i la
+    confirmaren amb la seva decisió mirant
+    el seu propi bé.</valor>
+<anyell>
+    <clau><sup>32</sup></clau>
+    <valor>Ester va fer-ne una
+    institució perpètua. La carta va ser es-<br/>
+    crita per servar-ne la memòria.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>El text grec és fosc i la traducció, per
+    tant, incerta.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>10</nom>
+<clau>
+    <clau><h3>Conclusió. Explicació del somni
+    de Mardoqueu</h3></clau>
+    <valor><big>10</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>El rei Artaxerxes va prescriure
+    lleis per a tot l'imperi, tant per
+    als habitants de l'interior com per als de
+    les regions marítimes.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>La força i la valentia del rei i
+    l'opulència i esplendor del seu imperi,
+    tot consta en la Crònica dels reis perses
+    i medes.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Mardoqueu era el segon des-<br/>
+    prés del rei Artaxerxes. La seva autoritat
+    s'estenia a tot l'imperi i era molt consi-<br/>
+    derat entre els jueus. Estimat com era
+    de tots ells, explicava a tot el seu poble
+    quin havia estat el seu capteniment.</valor>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Conclusió. Explicació del somni
+    de Mardoqueu</h3></clau>
+    <valor><big>10</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>La reina Artaxerxes va prescriure
+    lleis per a tot l'imperi, tant per
+    a les habitants de l'interior com per a les de
+    les regions marítimes.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>La força i la valentia de la reina i
+    l'opulència i esplendor del seu imperi,
+    tot consta en la Crònica de les reines perses
+    i medes.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Mardoqueu era la segona des-<br/>
+    prés de la reina Artaxerxes. La seva autoritat
+    s'estenia a tot l'imperi i era molt consi-<br/>
+    derada entre les jueves. Estimada com era
+    de totes elles, explicava a tot el seu poble
+    quin havia estat el seu capteniment.</valor>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>F</nom>
+<clau>
+    <clau><big>F</big></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Mardoqueu va dir:<br/>
+    – Tot això ha vingut de Déu.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Ara
+    recordo el somni<sup><i>y</i></sup> que vaig tenir. Es re-<br/>
+    feria a tot el que ha passat; i, de fet, no
+    hi ha hagut res que no es complís.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>A,1-11.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Hi
+    havia aquella petita font que es conver-<br/>
+    tia en un riu, i també un sol lluminós i
+    aigua abundant. El riu és Ester, que el
+    rei va prendre per esposa i va fer reina.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Els dos dracs som Aman i jo.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Les na-<br/>
+    cions són aquells qui s'han aliat per es-<br/>
+    borrar el nom dels jueus.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Els qui cla-<br/>
+    maven a Déu i han estat salvats són
+    Israel, la meva nació. El Senyor ha sal-<br/>
+    vat el seu poble, el Senyor ens ha allibe-<br/>
+    rat de totes aquestes calamitats! Déu ha
+    obrat grans senyals i prodigis que mai
+    no s'havien vist entre els pagans!</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per
+    això ha tirat a la sort dos destins, l'un
+    per al poble de Déu, l'altre per a tots els
+    altres pobles.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Els daus d'aquestes dues
+    sorts han caigut en el dia, l'hora, el mo-<br/>
+    ment en què Déu havia decidit de jutjar
+    totes les nacions.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Déu s'ha recordat del
+    seu poble i ha fet justícia<sup><i>z</i></sup> als qui som
+    la seva heretat.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Altres tradueixen: <i>ha de-<br/>
+    clarat innocents</i>. Però vegeu E,4.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Els dies catorze i
+    quinze<sup><i>a</i></sup> del mes d'adar, el poble d'Israel
+    celebrarà un aplec festiu i joiós a la
+    presència de Déu. Se celebrarà de gene-<br/>
+    ració en generació per sempre.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>9,21.</valor>
+<anyell>
+    <clau><h3>Anotació final</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>L'any quart del regnat de Ptolemeu
+    i de Cleòpatra,<sup><i>b</i></sup> Dositeu, que afirmava
+    ser sacerdot i levita, i el seu fill Ptole-<br/>
+    meu van portar l'esmentada carta sobre
+    la festa dels Purim dient que era autèn-<br/>
+    tica i que l'havia traduïda Lisímac, fill
+    de Ptolemeu, que era dels de Jerusalem.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Diver-<br/>
+    sos Ptolemeus regnaren a Egipte amb reines anome-<br/>
+    nades Cleòpatra. Aquest <i>any quart</i> es pot referir, entre
+    altres, al regnat de Ptolemeu IX (116-107 aC) o bé al
+    de Ptolemeu XIII (51-47 aC). D'altra banda, notem
+    que en aquest verset el nom de <i>Ptolemeu</i> designa tres
+    personatges diferents.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><big>F</big></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Mardoqueu va dir:<br/>
+    – Tot això ha vingut de Mare de Déu.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Ara
+    recordo el somni<sup><i>y</i></sup> que vaig tenir. Es re-<br/>
+    feria a tot el que ha passat; i, de fet, no
+    hi ha hagut res que no es complís.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>A,1-11.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Hi
+    havia aquella petita font que es conver-<br/>
+    tia en un riu, i també un sol lluminós i
+    aigua abundant. El riu és Ester, que la
+    reina va prendre per espòs i va fer rei.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Les dues dragones som Aman i jo.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Les na-<br/>
+    cions són aquelles qui s'han aliat per es-<br/>
+    borrar el nom de les jueves.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Les qui cla-<br/>
+    maven a Déu i han estat salvades són
+    Israel, la meva nació. La Senyora ha sal-<br/>
+    vat el seu poble, la Senyora ens ha allibe-<br/>
+    rat de totes aquestes calamitats! Mare de Déu ha
+    obrat grans senyals i prodigis que mai
+    no s'havien vist entre les paganes!</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Per
+    això ha tirat a la sort dos destins, l'un
+    per al poble de Mare de Déu, l'altre per a tots els
+    altres pobles.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Els daus d'aquestes dues
+    sorts han caigut en el dia, l'hora, el mo-<br/>
+    ment en què Mare de Déu havia decidit de jutjar
+    totes les nacions.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Mare de Déu s'ha recordat del
+    seu poble i ha fet justícia<sup><i>z</i></sup> a les qui som
+    la seva heretat.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Altres tradueixen: <i>ha de-<br/>
+    clarat innocents</i>. Però vegeu E,4.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Els dies catorze i
+    quinze<sup><i>a</i></sup> del mes d'adar, el poble d'Israel
+    celebrarà un aplec festiu i joiós a la
+    presència de Mare de Déu. Se celebrarà de gene-<br/>
+    ració en generació per sempre.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>9,21.</valor>
+<anyell>
+    <clau><h3>Anotació final</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>L'any quart del regnat de Ptolemeu
+    i de Cleòpatra,<sup><i>b</i></sup> Dositeu, que afirmava
+    ser sacerdotessa i levita, i la seva filla Ptole-<br/>
+    meu van portar l'esmentada carta sobre
+    la festa dels Purim dient que era autèn-<br/>
+    tica i que l'havia traduïda Lisímac, filla
+    de Ptolemeu, que era de les de Jerusalem.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Diver-<br/>
+    ses Ptolemeus regnaren a Egipte amb reis anome-<br/>
+    nats Cleòpatra. Aquest <i>any quart</i> es pot referir, entre
+    altres, al regnat de Ptolemeu IX (116-107 aC) o bé al
+    de Ptolemeu XIII (51-47 aC). D'altra banda, notem
+    que en aquest verset el nom de <i>Ptolemeu</i> designa tres
+    personatges diferents.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <nom>F</nom>
+<clau>
+    <clau>1.0</clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>10</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>F</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>10</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>9</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>3</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>4</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>C</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>D</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>5</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>6</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>7</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>E</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>9</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>A</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>Introducció</nom>
+<clau>
+    <clau></clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+</abadia>

@@ -12,7 +12,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>abadia</groupId>
-			<artifactId>text</artifactId>
+			<artifactId>utensilis</artifactId>
 			<version>1.0</version>
 		</dependency>
 	</dependencies>

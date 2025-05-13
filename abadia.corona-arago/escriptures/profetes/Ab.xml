@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/anyell">
+    <nom>Ab</nom>
+<clau>
+    <nom>Introducció</nom>
+<clau>
+    <clau><h1>Abdies</h1></clau>
+    <valor><h2><i>Introducció</i></h2></valor>
+<anyell>
+    <clau><i>Es tracta del llibre més breu dels anomenats «profetes menors», que van des d'Osees
+    a Malaquies. Es pot estructurar clarament en dues parts: vv. 1-16 i vv. 17-21. Sembla
+    que alguns versets (p.e. 11-15) foren pronunciats amb motiu de la caiguda del regne
+    de Judà (587 aC). La conquesta de Jerusalem per part de Nabucodonosor va anar
+    acompanyada de la invasió del sud de Judà per part del edomites.</i></clau>
+    <valor><i>El missatge profètic tracta dos temes: el pecat i càstig d'Edom (vv. 1-16) i la futura
+    restauració d'Israel (vv. 17-21). La primera part és un crit de denúncia que llança el
+    profeta en nom del Senyor. D'una banda, Abdies destaca la traïció del poble germà; en
+    efecte, els edomites eren tinguts per descendents d'Esaú, germà de Jacob, el pare dels
+    israelites. Sembla que el profeta veu complert el càstig de què Edom s'ha fet mereixe-<br/>
+    dor, en el fet de l'ocupació del país per part dels nabateus, un poble d'origen àrab, en el
+    segle V aC. Aquesta seria la data de redacció del llibre. D'altra banda, els oracles d'Abdies
+    subratllen la justícia de Déu contra les nacions que maltracten el seu poble, i que es
+    manifestarà en l'anomenat «dia del Senyor» (v. 15). En la segona part (vv. 17-21), el
+    profeta evoca l'època final en què una resta dels habitants dels antics regnes del Nordi i
+    del Sud retornaran de l'exili i prendran possessió de les terres usurpades per Edom.
+    Llavors, en aquest nou i definitiu regne, «la reialesa serà del Senyor» (v. 21).</i></valor>
+</anyell>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+<anyell>
+    <nom>0</nom>
+<clau>
+    <clau><h1>Abdies</h1></clau>
+    <valor><h3>Pròleg</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Missatge revelat a Abdies.<br/>
+    Això diu el Senyor, Déu sobirà, con-<br/>
+    tra els d'Edom.<br/>
+    <br/>
+    Hem sentit aquest missatge
+    del Senyor,<br/>
+    i un enviat el porta a les nacions:<br/>
+    «Sortim, sortim a combatre
+    contra Edom!»</valor>
+<anyell>
+    <clau><h3>Pecat i càstig d'Edom<sup><i>a</i></sup></h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Els vv. 2-6 tenen un paral·lel en Jr 49,7-22. Vegeu
+    també Is 34,5-17; Ez 25,12-14; Am 1,11-12.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Diu el Senyor:<br/>
+    «Jo et faré el meś petit dels pobles,<br/>
+    el més menyspreable de tots.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>La teva altivesa t'ha enganyat,<br/>
+    perquè vius a les escletxes de la roca,<br/>
+    al cim dels turons,<sup><i>b</i></sup><br/>
+    i afirmes: “Qui me'n podrà treure?”</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>El
+    profeta recorda que el territori d'*Edom, especial-<br/>
+    ment Sela, era pràcticament inaccessible a causa de
+    la seva peculiar constitució orogràfica. Alguns la
+    identifiquen amb Petra, la capital dels nabateus.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ni que t'enlairessis com l'àguila<br/>
+    i fessis el niu a les estrelles,<br/>
+    d'allà te'n faré caure.<br/>
+    Ho dic jo, el Senyor.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Si de nit t'arriben lladres,<br/>
+    si ve gent que t'espolia,<br/>
+    com podries quedar tranquil?<br/>
+    ¿No és cert que et saquejaran
+    al seu gust?<br/>
+    Si t'arriben uns veremadors,<br/>
+    només en deixaran uns gotims!</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Com han escorcollat el país d'Esaú<sup><i>c</i></sup><br/>
+    i regirat els seus tresors!</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor><i>Esaú</i>, germà de Jacob, era considerat el pare dels
+    edomites (vegeu Gn 25,30; 36,1).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Tots els aliats<br/>
+    t'han expulsat del teu país.<br/>
+    Els teus millors amics
+    t'han traït i dominat;<sup><i>d</i></sup><br/>
+    ells, que compartien el teu pa,<sup><i>e</i></sup><br/>
+    t'han parat trampes sota els peus.<br/>
+    I tu encara no tens seny!<br/>
+    </valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Jr 38,22. Proba-<br/>
+    ble referència als nabateus (vegeu Introducció).
+</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Com en Sl 41,10, <i>compartir el pa</i> significa la intimi-<br/>
+    tat pròpia dels amics i aliats.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>»¿No és cert que aquell dia<sup><i>f</i></sup><br/>
+    exterminaré d'Edom
+    tots els seus savis,<br/>
+    i no hi haurà més seny
+    a la muntanya d'Esaú?<sup><i>g</i></sup><br/>
+    Ho dic jo, el Senyor.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>És el dia que el Se-<br/>
+    nyor farà justícia (vegeu Am 5,18 nota <i>g</i>).</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>La sa-<br/>
+    viesa dels edomites era proverbial (vegeu 49,7+).
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Els teus valents, Teman,<sup><i>h</i></sup><br/>
+    s'esglaiaran,<br/>
+    i així seran aniquilats tots els homes
+    de la muntanya d'Esaú,<br/>
+    per culpa de la mortaldat:</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor><i>Teman</i> és un sinònim d'Edom (vegeu Am 1,12 no-<br/>
+    ta <i>s</i>).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>per culpa de la violència
+    contra Jacob, el teu germà,<br/>
+    quedaràs avergonyit i eliminat
+    per sempre.<sup><i>i</i></sup><br/>
+    </valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Jl 4,9; Am 1,11-12. El profeta al·ludeix a les
+    discòrdies entre Esaú (Edom) i Jacob, que per a Ab-<br/>
+    dies representa el país de Judà (vegeu Gn 25,22-28;
+    27,27-29; 32,4-33,16).</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>»El dia que t'estaves
+    davant de Jerusalem,<br/>
+    el dia que uns estrangers
+    capturaven el seu exèrcit,<br/>
+    que uns estranys entraven
+    per les seves portes<br/>
+    i se la repartien a sorts,<sup><i>j</i></sup><br/>
+    tu també vas fer com ells.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Sl 137,7. Es refereix a la destrucció de Jerusalem
+    per Nabucodonosor, que els edomites van aprofitar
+    per a saquejar Judà (vegeu Ez 25,12-14; 35; 36,5).
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Tu no t'havies de complaure
+    en la dissort del teu germà,<br/>
+    aquell dia funest!<br/>
+    No havies d'alegrar-te
+    a costa dels de Judà<br/>
+    el dia que els veies perduts;<br/>
+    no havies de parlar-ne
+    amb insolència<br/>
+    el dia de l'opressió;</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>no havies d'entrar
+    a la ciutat del meu poble<br/>
+    el dia de la seva desgràcia;<br/>
+    no t'havies de complaure
+    en els seus mals<br/>
+    el dia del seu desastre;<br/>
+    no havies d'apoderar-te
+    de les seves riqueses<br/>
+    el dia de la seva calamitat;</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>no t'havies de plantar a les cruïlles<br/>
+    per matar els seus fugitius,<br/>
+    ni havies de lliurar
+    els qui s'escapaven<br/>
+    el dia de l'opressió.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>És a prop el dia del Senyor,<br/>
+    dia d'amenaça
+    contra totes les nacions.<br/>
+    Et faran a tu tal com tu has fet.<br/>
+    Amb la mateixa paga et pagaran.<br/>
+    </valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>»Tal com vosaltres, poble meu,
+    heu begut la copa<sup><i>k</i></sup><br/>
+    a la meva muntanya santa,<br/>
+    així mateix la beuran
+    sense parar totes les nacions:<br/>
+    els pobles la beuran i la buidaran,<br/>
+    serà com si mai no haguessin existit!<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>L'expressió <i>beure la copa</i> (del sofriment) indica un
+    càstig del Senyor i és característica dels profetes. Ab-<br/>
+    dies l'evoca de manera el·líptica (vegeu Is 51,17.22; Jr
+    25,15-16). En aquest verset, el profeta es dirigeix als
+    de Judà, encara que el text no ho digui explícitament.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Lm 4,21.</valor>
+<anyell>
+    <clau><h3>Restauració d'Israel</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>»Però a la muntanya de Sió
+    hi haurà una resta, que serà santa,<sup><i>m</i></sup><br/>
+    i els del casal de Jacob posseiran<br/>
+    els qui els posseïen.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Jl 3,5.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>El casal de Jacob serà un foc,<br/>
+    i el de Josep, una flama,<sup><i>n</i></sup><br/>
+    però el d'Esaú serà com la palla:<br/>
+    l'encendran i el consumiran.<br/>
+    Del casal d'Esaú no en quedarà res.<br/>
+    Ho he dit jo, el Senyor.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El <i>casal de Jacob</i> és el regne
+    de *Judà (v. 10) i el <i>de Josep</i> és el regne d'Israel.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Els de Judà que viuen al Nègueb<br/>
+    ocuparan la muntanya d'Esaú,<br/>
+    i els de la Xefelà,
+    el país dels filisteus;<br/>
+    també ocuparan els camps d'Efraïm<br/>
+    i els camps de Samaria.<br/>
+    I els de Benjamí ocuparan Galaad.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Els antics deportats,
+    aquesta munió d'israelites,<br/>
+    s'establiran a Canaan fins a Sarepta,<br/>
+    i els antics deportats de Jerusalem
+    que són a Sefarad<sup><i>o</i></sup><br/>
+    ocuparan les ciutats del Nègueb.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor><i>Sarepta</i> sembla referir-se a la ciutat fenícia que es
+    trobava entre *Tir i *Sidó. <i>Sefarad</i>, que l'antiga versió
+    aramea (targum) interpreta com la Península Ibèrica,
+    es refereix a una ciutat, potser a l'Àsia Menor.
+</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pujaran victoriosos
+    a la muntanya de Sió<br/>
+    i governaran la muntanya d'Esaú.<br/>
+    I la reialesa serà del Senyor!»<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Exclamació profètica d'esperança en el regnat final
+    i definitiu del Senyor. Vegeu Sl 22,29; 103,19.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1>Abdies</h1></clau>
+    <valor><h3>Pròleg</h3></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Missatge revelat a Abdies.<br/>
+    Això diu la Senyora, Mare de Déu sobirana, con-<br/>
+    tra les d'Edom.<br/>
+    <br/>
+    Hem sentit aquest missatge
+    de la Senyora,<br/>
+    i una enviada el porta a les nacions:<br/>
+    «Sortim, sortim a combatre
+    contra Edom!»</valor>
+<anyell>
+    <clau><h3>Pecat i càstig d'Edom<sup><i>a</i></sup></h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Els vv. 2-6 tenen un paral·lel en Jr 49,7-22. Vegeu
+    també Is 34,5-17; Ez 25,12-14; Am 1,11-12.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Diu la Senyora:<br/>
+    «Jo et faré el meś petit dels pobles,<br/>
+    el més menyspreable de tots.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>La teva altivesa t'ha enganyat,<br/>
+    perquè vius a les escletxes de la roca,<br/>
+    al cim dels turons,<sup><i>b</i></sup><br/>
+    i afirmes: “Qui me'n podrà treure?”</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>La
+    profetessa recorda que el territori d'*Edom, especial-<br/>
+    ment Sela, era pràcticament inaccessible a causa de
+    la seva peculiar constitució orogràfica. Algunes la
+    identifiquen amb Petra, la capital de les nabatees.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ni que t'enlairessis com l'àguila<br/>
+    i fessis el niu a les estrelles,<br/>
+    d'allà te'n faré caure.<br/>
+    Ho dic jo, la Senyora.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Si de nit t'arriben lladres,<br/>
+    si ve gent que t'espolia,<br/>
+    com podries quedar tranquil·la?<br/>
+    ¿No és cert que et saquejaran
+    al seu gust?<br/>
+    Si t'arriben unes veremadores,<br/>
+    només en deixaran uns gotims!</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Com han escorcollat el país d'Esaú<sup><i>c</i></sup><br/>
+    i regirat els seus tresors!</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor><i>Esaú</i>, germana de Jacob, era considerada la mare de les
+    edomites (vegeu Gn 25,30; 36,1).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Totes les aliades<br/>
+    t'han expulsat del teu país.<br/>
+    Les teves millors amigues
+    t'han traït i dominat;<sup><i>d</i></sup><br/>
+    elles, que compartien el teu pa,<sup><i>e</i></sup><br/>
+    t'han parat trampes sota els peus.<br/>
+    I tu encara no tens seny!<br/>
+    </valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Jr 38,22. Proba-<br/>
+    ble referència a les nabatees (vegeu Introducció).
+</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Com en Sl 41,10, <i>compartir el pa</i> significa la intimi-<br/>
+    tat pròpia de les amigues i aliades.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>»¿No és cert que aquell dia<sup><i>f</i></sup><br/>
+    exterminaré d'Edom
+    totes les seves sàvies,<br/>
+    i no hi haurà més seny
+    a la muntanya d'Esaú?<sup><i>g</i></sup><br/>
+    Ho dic jo, la Senyora.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>És el dia que la Se-<br/>
+    nyora farà justícia (vegeu Am 5,18 nota <i>g</i>).</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>La sa-<br/>
+    viesa de les edomites era proverbial (vegeu 49,7+).
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Les teves valentes, Teman,<sup><i>h</i></sup><br/>
+    s'esglaiaran,<br/>
+    i així seran aniquilades totes les dones
+    de la muntanya d'Esaú,<br/>
+    per culpa de la mortaldat:</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor><i>Teman</i> és un sinònim d'Edom (vegeu Am 1,12 no-<br/>
+    ta <i>s</i>).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>per culpa de la violència
+    contra Jacob, la teva germana,<br/>
+    quedaràs avergonyida i eliminada
+    per sempre.<sup><i>i</i></sup><br/>
+    </valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Jl 4,9; Am 1,11-12. La profetessa al·ludeix a les
+    discòrdies entre Esaú (Edom) i Jacob, que per a Ab-<br/>
+    dies representa el país de Judà (vegeu Gn 25,22-28;
+    27,27-29; 32,4-33,16).</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>»El dia que t'estaves
+    davant de Jerusalem,<br/>
+    el dia que unes estrangeres
+    capturaven el seu exèrcit,<br/>
+    que unes estranyes entraven
+    per les seves portes<br/>
+    i se la repartien a sorts,<sup><i>j</i></sup><br/>
+    tu també vas fer com elles.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Sl 137,7. Es refereix a la destrucció de Jerusalem
+    per Nabucodonosor, que les edomites van aprofitar
+    per a saquejar Judà (vegeu Ez 25,12-14; 35; 36,5).
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Tu no t'havies de complaure
+    en la dissort de la teva germana,<br/>
+    aquell dia funest!<br/>
+    No havies d'alegrar-te
+    a costa de les de Judà<br/>
+    el dia que les veies perdudes;<br/>
+    no havies de parlar-ne
+    amb insolència<br/>
+    el dia de l'opressió;</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>no havies d'entrar
+    a la ciutat del meu poble<br/>
+    el dia de la seva desgràcia;<br/>
+    no t'havies de complaure
+    en els seus mals<br/>
+    el dia del seu desastre;<br/>
+    no havies d'apoderar-te
+    de les seves riqueses<br/>
+    el dia de la seva calamitat;</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>no t'havies de plantar a les cruïlles<br/>
+    per matar les seves fugitives,<br/>
+    ni havies de lliurar
+    les qui s'escapaven<br/>
+    el dia de l'opressió.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>És a prop el dia de la Senyora,<br/>
+    dia d'amenaça
+    contra totes les nacions.<br/>
+    Et faran a tu tal com tu has fet.<br/>
+    Amb la mateixa paga et pagaran.<br/>
+    </valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>»Tal com vosaltres, poble meu,
+    heu begut la copa<sup><i>k</i></sup><br/>
+    a la meva muntanya santa,<br/>
+    així mateix la beuran
+    sense parar totes les nacions:<br/>
+    els pobles la beuran i la buidaran,<br/>
+    serà com si mai no haguessin existit!<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>L'expressió <i>beure la copa</i> (del sofriment) indica un
+    càstig de la Senyora i és característica de les profetesses. Ab-<br/>
+    dies l'evoca de manera el·líptica (vegeu Is 51,17.22; Jr
+    25,15-16). En aquest verset, la profetessa es dirigeix a les
+    de Judà, encara que el text no ho digui explícitament.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Lm 4,21.</valor>
+<anyell>
+    <clau><h3>Restauració d'Israel</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>»Però a la muntanya de Sió
+    hi haurà una resta, que serà santa,<sup><i>m</i></sup><br/>
+    i les del casal de Jacob posseiran<br/>
+    les qui les posseïen.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Jl 3,5.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>El casal de Jacob serà un foc,<br/>
+    i el de Josep, una flama,<sup><i>n</i></sup><br/>
+    però el d'Esaú serà com la palla:<br/>
+    l'encendran i el consumiran.<br/>
+    Del casal d'Esaú no en quedarà res.<br/>
+    Ho he dit jo, la Senyora.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El <i>casal de Jacob</i> és el regne
+    de *Judà (v. 10) i el <i>de Josep</i> és el regne d'Israel.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Les de Judà que viuen al Nègueb<br/>
+    ocuparan la muntanya d'Esaú,<br/>
+    i les de la Xefelà,
+    el país de les filistees;<br/>
+    també ocuparan els camps d'Efraïm<br/>
+    i els camps de Samaria.<br/>
+    I els de Benjamí ocuparan Galaad.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Les antigues deportades,
+    aquesta munió d'israelites,<br/>
+    s'establiran a Canaan fins a Sarepta,<br/>
+    i les antigues deportades de Jerusalem
+    que són a Sefarad<sup><i>o</i></sup><br/>
+    ocuparan les ciutats del Nègueb.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor><i>Sarepta</i> sembla referir-se a la ciutat fenícia que es
+    trobava entre *Tir i *Sidó. <i>Sefarad</i>, que l'antiga versió
+    aramea (targum) interpreta com la Península Ibèrica,
+    es refereix a una ciutat, potser a l'Àsia Menor.
+</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pujaran victorioses
+    a la muntanya de Sió<br/>
+    i governaran la muntanya d'Esaú.<br/>
+    I la reialesa serà de la Senyora!»<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Exclamació profètica d'esperança en el regnat final
+    i definitiu de la Senyora. Vegeu Sl 22,29; 103,19.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+</anyell>
+</clau>
+<valor>
+    <nom>0</nom>
+<clau>
+    <clau>0.1</clau>
+    <valor>0.1</valor>
+</clau>
+<valor>
+    <clau>1.1</clau>
+    <valor>1.1</valor>
+</valor>
+<anyell>
+    <nom>Introducció</nom>
+<clau>
+    <clau>0.1</clau>
+    <valor>0.1</valor>
+</clau>
+<valor>
+    <clau>1.1</clau>
+    <valor>1.1</valor>
+</valor>
+</anyell>
+</valor>
+</abadia>

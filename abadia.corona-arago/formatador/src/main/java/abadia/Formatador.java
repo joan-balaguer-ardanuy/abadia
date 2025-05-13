@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 public abstract class Formatador
-	extends Marcatge
+	extends Processador
 	implements java.util.Map<String, String> {
 
 	/**
@@ -18,7 +18,17 @@ public abstract class Formatador
 		super(entrada);
 		diccionari = new LinkedHashMap<String, String>();
 	}
-
+	
+	public abstract void llegir();
+	
+	/**
+	 * 
+	 */
+	public void escriure() {
+		for(Map.Entry<String, String> entry : entrySet()) {
+			escriure(entry.getKey(), entry.getValue());
+		}
+	}
 	@Override
 	public int size() {
 		return diccionari.size();

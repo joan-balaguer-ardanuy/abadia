@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/anyell">
+    <nom>Rt</nom>
+<clau>
+    <nom>Introducció</nom>
+<clau>
+    <clau><h1>Rut</h1></clau>
+    <valor><h2><i>Introducció</i></h2></valor>
+<anyell>
+    <clau><i>El llibre de Rut rep el nom de la seva protagonista, una noia moabita que, un cop
+    mort el seu marit, un jueu emigrat al país de Moab, segueix la seva sogra Noemí quan
+    aquesta retorna a Betlem. Després d'un seguit de situacions estructurades més o
+    menys d'acord amb les lleis bíbliques del matrimoni, Rut es casa amb Booz, parent de
+    Noemí, i té un fill, Obed, que és presentat com el pare de Jessè i l'avi de David.</i></clau>
+    <valor><i>El text està construït amb quatre escenes que formen una certa estructura dramàti-<br/>
+    ca: Noemí retorna a Betlem acompanyada de Rut (1,6-18); Rut es troba amb Booz
+    (2,1-17); Rut passa la nit al costat de Booz (3,1-15); Booz es casa amb Rut (4,1-12). A
+    aquestes quatre escenes s'hi afegeix una introducció (1,1-5) sobre la mort del sogre
+    i del primer marit de Rut, i una conclusió (4,13-17) sobre el naixement d'Obed, fill del
+    matrimoni de Rut amb Booz. La resta de textos (1,19-22; 2,18-23; 3,16-18) faciliten el
+    pas d'una escena a l'altra. Tanca el llibre la llista dels avantpassats de David (4,18-22).</i></valor>
+<anyell>
+    <clau><i>L'obra presenta Rut com a model de conversió al poble de Déu; ella que era estrange-<br/>
+    ra, més encara, moabita (i, per tant, exclosa de la comunitat d'Israel; vegeu Dt 23,4-7;
+    Ne 13,1), és capaç de renunciar al seu propi poble, d'entrar a formar part d'Israel i
+    d'acceptar-ne la fe (1,16; 2,12). Al mateix temps, el llibre de Rut conté un altre element
+    que cal tenir en compte: l'actitud d'obertura envers els pobles no-jueus i, ensems, una
+    nota polèmica contra el fet que el judaisme postexílic es tanqués en si mateix, especial-<br/>
+    ment en l'afer dels matrimonis mixtos, és a dir, el casament amb dones no-jueves (Esd
+    9; Ne 13).</i></clau>
+    <valor><i>Aquesta lloança de la fe d'una dona provinent d'un poble no-jueu i l'interès per Da-<br/>
+    vid fan creure que el llibre va ser redactat en l'època del postexili, malgrat la referència
+    del primer verset, que atribueix els esdevinements al període dels Jutges. Les antigues
+    versions grega i llatina han situat el llibre de Rut entre els anomenats «llibres histò-<br/>
+    rics», mentre que la Bíblia hebrea el col·loca en la secció dels Escrits. El llibre de Rut es
+    llegeix a la sinagoga durant la festa jueva de Pentecosta, probablement perquè algun
+    dels episodis que explica té lloc durant el temps de la collita.</i></valor>
+<anyell>
+    <clau><i>L'evangeli segons Mateu registra el nom de Rut en l'arbre genealògic de Jesús. Se-<br/>
+    gons les tradicions jueves, Tamar (Mt 1,3), Rut (1,5) i Betsabé, la muller d'Uries
+    (Mt 1,6), havien estat destinades per la providència divina perquè de la seva des-<br/>
+    cendència en nasqués el Messies.</i></clau>
+    <valor></valor>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1>Rut</h1></clau>
+    <valor><h2><i>Introducció</i></h2></valor>
+<anyell>
+    <clau><i>El llibre de Rut rep el nom del seu protagonista, un noi moabita que, un cop
+    morta la seva muller, una jueva emigrat al país de Moab, segueix el seu sogre Noemí quan
+    aquest retorna a Betlem. Després d'un seguit de situacions estructurades més o
+    menys d'acord amb les lleis bíbliques del matrimoni, Rut es casa amb Booz, parent de
+    Noemí, i té una filla, Obed, que és presentat com la mare de Jessè i l'àvia de David.</i></clau>
+    <valor><i>El text està construït amb quatre escenes que formen una certa estructura dramàti-<br/>
+    ca: Noemí retorna a Betlem acompanyat de Rut (1,6-18); Rut es troba amb Booz
+    (2,1-17); Rut passa la nit al costat de Booz (3,1-15); Booz es casa amb Rut (4,1-12). A
+    aquestes quatre escenes s'hi afegeix una introducció (1,1-5) sobre la mort de la sogra
+    i de la primera muller de Rut, i una conclusió (4,13-17) sobre el naixement d'Obed, filla del
+    matrimoni de Rut amb Booz. La resta de textos (1,19-22; 2,18-23; 3,16-18) faciliten el
+    pas d'una escena a l'altra. Tanca el llibre la llista de les avantpassades de David (4,18-22).</i></valor>
+<anyell>
+    <clau><i>L'obra presenta Rut com a model de conversió al poble de Mare de Déu; ell que era estran-<br/>
+    ger, més encara, moabita (i, per tant, exclosa de la comunitat d'Israel; vegeu Dt 23,4-7;
+    Ne 13,1), és capaç de renunciar al seu propi poble, d'entrar a formar part d'Israel i
+    d'acceptar-ne la fe (1,16; 2,12). Al mateix temps, el llibre de Rut conté un altre element
+    que cal tenir en compte: l'actitud d'obertura envers els pobles no-jueus i, ensems, una
+    nota polèmica contra el fet que el judaisme postexílic es tanqués en si mateix, especial-<br/>
+    ment en l'afer dels matrimonis mixtos, és a dir, el casament amb homes no-jueus (Esd
+    9; Ne 13).</i></clau>
+    <valor><i>Aquesta lloança de la fe d'un home provinent d'un poble no-jueu i l'interès per Da-<br/>
+    vid fan creure que el llibre va ser redactat en l'època del postexili, malgrat la referència
+    del primer verset, que atribueix els esdevinements al període de les Jutgesses. Les antigues
+    versions grega i llatina han situat el llibre de Rut entre els anomenats «llibres histò-<br/>
+    rics», mentre que la Bíblia hebrea el col·loca en la secció dels Escrits. El llibre de Rut es
+    llegeix a la sinagoga durant la festa jueva de Pentecosta, probablement perquè algun
+    dels episodis que explica té lloc durant el temps de la collita.</i></valor>
+<anyell>
+    <clau><i>L'evangeli segons Mateu registra el nom de Rut en l'arbre genealògic de Jesús. Se-<br/>
+    gons les tradicions jueves, Tamar (Mt 1,3), Rut (1,5) i Betsabé, el marit d'Uries
+    (Mt 1,6), havien estat destinats per la providència divina perquè de la seva des-<br/>
+    cendència en nasqués el Messies.</i></clau>
+    <valor></valor>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>1</nom>
+<clau>
+    <clau><h1>Rut</h1></clau>
+    <valor></valor>
+<anyell>
+    <clau><h3>La família d'Elimèlec emigra a Moab</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>En l'època que els jutges governa-<br/>
+    ven els israelites,<sup><i>a</i></sup> hi hagué fam al
+    país. Per això, un home de Betlem de
+    Judà va emigrar, amb la dona i els dos
+    fills, als camps de Moab.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>És el temps anterior a la monarquia, vers el 1100
+    aC (Jt 2,16).</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Es tracta de la regió dels altiplans de
+    *Moab, situada a l'est del *Mar Mort.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>L'home es
+    deia Elimèlec, la seva dona Noemí i els
+    dos fills Mahlon i Quilion. Eren efrati-<br/>
+    tes,<sup><i>c</i></sup> de Betlem de Judà.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Nom d'un
+    clan que s'establí a la rodalia de Betlem. Vegeu Gn
+    35,19.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Elimèlec, ma-<br/>
+    rit de Noemí, va morir. Ella es quedà so-<br/>
+    la amb els dos fills,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>que es van casar
+    amb dones moabites; l'una es deia
+    Orpà, l'altra, Rut. Uns deu anys més
+    tard,</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>també van morir Mahlon i Qui-<br/>
+    lion, i Noemí es va quedar tota sola,
+    sense fills i sense marit.</valor>
+<anyell>
+    <clau><h3>Noemí retorna a Betlem
+    acompanyada de Rut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Quan Noemí va saber que el Senyor
+    havia concedit al seu poble una bona
+    collita de blat, es preparà per a deixar
+    els camps de Moab amb les seves nores.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Se'n van anar, doncs, del lloc on vivien
+    per retornar a Judà. Però, mentre feien
+    camí,</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Noemí va dir a les seves nores:<br/>
+    – Aneu, torneu cada una a casa de la
+    mare! Que el Senyor sigui tan bo amb
+    vosaltres com vosaltres ho heu estat
+    amb els marits difunts i amb mi matei-<br/>
+    xa!</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Que el Senyor us concedeixi la feli-<br/>
+    citat a casa d'un nou marit!<br/>
+    Llavors Noemí les va besar. Elles van
+    esclatar en plors</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>i li deien:<br/>
+    – No! Volem venir amb tu i unir-nos
+    al teu poble!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Noemí insistia:<br/>
+    – Torneu-vos-en, filles meves! Per què
+    voleu venir amb mi? Jo ja no puc tenir
+    més fills perquè us hi pugueu casar.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Si un home moria sense fills, el seu nom
+    era perpetuat per mitjà d'una ficció jurídica, l'anome-<br/>
+    nada llei del levirat, que obligava al germà, o, si
+    aquest mancava, el parent més pròxim, a casar-se
+    amb la viuda (Dt 25,5-10); vegeu Mt 22,23-32.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Aneu, torneu-vos-en, filles meves! Sóc
+    massa gran per casar-me. I ni que
+    pensés que encara puc tenir fills, em ca-<br/>
+    sés aquesta mateixa nit i n'arribés a te-<br/>
+    nir,</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>¿esperaríeu fins que fossin grans?
+    ¿Per ells renunciaríeu a casar-vos? No,
+    filles meves! El meu destí és més
+    amarg<sup><i>e</i></sup> que el vostre: la mà del Senyor
+    s'ha girat contra mi.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Ve-<br/>
+    geu vv. 20-21 nota <i>f</i>.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>De bell nou esclataren en plors.
+    Orpà va besar la sogra per acomiadar-<br/>
+    se'n, però Rut no se'n volgué separar.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Noemí li va dir:<br/>
+    – Mira, la teva cunyada ha tornat al
+    seu poble, i als seus déus. Fes com ella,
+    torna-te'n a casa!</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Però Rut contestà:<br/>
+    – No insisteixis que et deixi, que em se-<br/>
+    pari de tu i me'n torni! On vagis tu, vull
+    venir-hi jo; on visquis tu, vull viure-hi
+    jo. El teu poble serà el meu poble, el teu
+    Déu serà el meu Déu.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>On moris tu,
+    allí moriré jo i allí seré enterrada. No-<br/>
+    més la mort ens podrà separar; i si no és
+    així, que el Senyor em faci caure al da-<br/>
+    munt tota mena de mals!</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>En veure Noemí que Rut s'entussu-<br/>
+    dia a anar amb ella, no va insistir més.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>I se n'anaren plegades fins que van
+    fer cap a Betlem. La seva arribada va
+    commoure tot el poble, i les dones ex-<br/>
+    clamaven:<br/>
+    – Però, no és Noemí?</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ella els responia:<br/>
+    – No em digueu Noemí; digueu-me
+    Marà, perquè el Totpoderós m'ha om-<br/>
+    plert d'amargor.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor><i>Noemí</i> significa ‘gentilesa meva’, una mica a l'estil
+    de «Plaerdemavida» del Tirant. L'aflicció que rep del
+    Senyor li fa dir, però, que el seu nom hauria de ser
+    <i>Marà</i>, és a dir, ‘amarga’.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Me'n vaig anar
+    d'aquí amb les mans plenes i el Senyor
+    m'hi ha fet tornar amb les mans buides.
+    Per què, doncs, em dieu Noemí si el Se-<br/>
+    nyor m'ha afligit, si el Totpoderós m'ha
+    humiliat?</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Així fou com Noemí, amb la seva
+    nora Rut, la moabita, retornà dels
+    camps de Moab. Van arribar a Betlem
+    quan tot just començava la sega de l'or-<br/>
+    di.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1>Rut</h1></clau>
+    <valor></valor>
+<anyell>
+    <clau><h3>La família d'Elimèlec emigra a Moab</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>En l'època que les jutgesses governa-<br/>
+    ven les israelites,<sup><i>a</i></sup> hi hagué fam al
+    país. Per això, una dona de Betlem de
+    Judà va emigrar, amb l'home i les dues
+    filles, als camps de Moab.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>És el temps anterior a la monarquia, vers el 1100
+    aC (Jt 2,16).</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Es tracta de la regió dels altiplans de
+    *Moab, situada a l'est del *Mar Mort.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>La dona es
+    deia Elimèlec, el seu home Noemí i les
+    dues filles Mahlon i Quilion. Eren efrati-<br/>
+    tes,<sup><i>c</i></sup> de Betlem de Judà.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Nom d'un
+    clan que s'establí a la rodalia de Betlem. Vegeu Gn
+    35,19.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Elimèlec, mu-<br/>
+    ller de Noemí, va morir. Ell es quedà sol<br/>
+    amb les dues filles,</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>que es van casar
+    amb homes moabites; l'un es deia
+    Orpà, l'altre, Rut. Uns deu anys més
+    tard,</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>també van morir Mahlon i Qui-<br/>
+    lion, i Noemí es va quedar tot sol,
+    sense filles i sense muller.</valor>
+<anyell>
+    <clau><h3>Noemí retorna a Betlem
+    acompanyat de Rut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Quan Noemí va saber que la Senyora
+    havia concedit al seu poble una bona
+    collita de blat, es preparà per a deixar
+    els camps de Moab amb els seus gendres.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Se'n van anar, doncs, del lloc on vivien
+    per retornar a Judà. Però, mentre feien
+    camí,</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Noemí va dir als seus gendres:<br/>
+    – Aneu, torneu cada una a casa del
+    pare! Que la Senyora sigui tan bona amb
+    vosaltres com vosaltres ho heu estat
+    amb les mullers difuntes i amb mi ma-<br/>
+    teix!</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Que la Senyora us concedeixi la feli-<br/>
+    citat a casa d'una nova muller!<br/>
+    Llavors Noemí els va besar. Ells van
+    esclatar en plors</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>i li deien:<br/>
+    – No! Volem venir amb tu i unir-nos
+    al teu poble!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Noemí insistia:<br/>
+    – Torneu-vos-en, fills meus! Per què
+    voleu venir amb mi? Jo ja no puc tenir
+    més filles perquè us hi pugueu casar.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Si una dona moria sense filles, el seu nom
+    era perpetuat per mitjà d'una ficció jurídica, l'anome-<br/>
+    nada llei del levirat, que obligava a la germana, o, si
+    aquesta mancava, la parent més pròxima, a casar-se
+    amb el viudo (Dt 25,5-10); vegeu Mt 22,23-32.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Aneu, torneu-vos-en, fills meus! Sóc
+    massa gran per casar-me. I ni que
+    pensés que encara puc tenir filles, em ca-<br/>
+    sés aquesta mateixa nit i n'arribés a te-<br/>
+    nir,</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>¿esperaríeu fins que fossin grans?
+    ¿Per elles renunciaríeu a casar-vos? No,
+    fills meus! El meu destí és més
+    amarg<sup><i>e</i></sup> que el vostre: la mà de la Senyora
+    s'ha girat contra mi.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Ve-<br/>
+    geu vv. 20-21 nota <i>f</i>.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>De bell nou esclataren en plors.
+    Orpà va besar el sogre per acomiadar-<br/>
+    se'n, però Rut no se'n volgué separar.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Noemí li va dir:<br/>
+    – Mira, el teu cunyat ha tornat al
+    seu poble, i a les seves deesses. Fes com ell,
+    torna-te'n a casa!</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Però Rut contestà:<br/>
+    – No insisteixis que et deixi, que em se-<br/>
+    pari de tu i me'n torni! On vagis tu, vull
+    venir-hi jo; on visquis tu, vull viure-hi
+    jo. El teu poble serà el meu poble, la teva
+    Mare de Déu serà la meva Mare de Déu.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>On moris tu,
+    allí moriré jo i allí seré enterrat. No-<br/>
+    més la mort ens podrà separar; i si no és
+    així, que la Senyora em faci caure al da-<br/>
+    munt tota mena de mals!</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>En veure Noemí que Rut s'entussu-<br/>
+    dia a anar amb ell, no va insistir més.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>I se n'anaren plegats fins que van
+    fer cap a Betlem. La seva arribada va
+    commoure tot el poble, i els homes ex-<br/>
+    clamaven:<br/>
+    – Però, no és Noemí?</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ell les responia:<br/>
+    – No em digueu Noemí; digueu-me
+    Marà, perquè la Totpoderosa m'ha om-<br/>
+    plert d'amargor.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor><i>Noemí</i> significa ‘gentilesa meva’, una mica a l'estil
+    de «Plaerdemavida» del Tirant. L'aflicció que rep de la
+    Senyora li fa dir, però, que el seu nom hauria de ser
+    <i>Marà</i>, és a dir, ‘amarg’.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Me'n vaig anar
+    d'aquí amb les mans plenes i la Senyora
+    m'hi ha fet tornar amb les mans buides.
+    Per què, doncs, em dieu Noemí si la Se-<br/>
+    nyora m'ha afligit, si la Totpoderosa m'ha
+    humiliat?</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Així fou com Noemí, amb el seu
+    gendre Rut, el moabita, retornà dels
+    camps de Moab. Van arribar a Betlem
+    quan tot just començava la sega de l'or-<br/>
+    di.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>2</nom>
+<clau>
+    <clau><h3>Rut espigola en el camp de Booz</h3></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Noemí tenia un parent de la banda
+    del seu marit, un home ric i consi-<br/>
+    derat, de la família d'Elimèlec, anome-<br/>
+    nat Booz.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Rut, la moabita, digué a Noemí:<br/>
+    – Deixa'm anar al camp d'algú que
+    em miri amb bons ulls i espigolaré allò
+    que no recullin els segadors.<sup><i>g</i></sup><br/>
+    Noemí li respongué:<br/>
+    – Vés-hi, filla meva.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Els pobres gaudien del
+    dret d'anar a espigolar en camp d'altri durant el
+    temps de la collita (Lv 19,9-10 nota <i>x</i>).</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Rut se'n va anar al camp i espigola-<br/>
+    va darrere els segadors. Per atzar anà a
+    parar en un tros de terra que era de
+    Booz, de la família d'Elimèlec.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Quan
+    Booz va arribar de Betlem, saludà els
+    segadors:<br/>
+    – El Senyor sigui amb vosaltres!<br/>
+    Ells van respondre:<br/>
+    – Que el Senyor et beneeixi!</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Booz va preguntar al majoral:<br/>
+    – De qui és aquesta noia?</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>El majoral respongué:<br/>
+    – És una noia moabita, la que vingué
+    amb Noemí dels camps de Moab.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>M'ha
+    demanat per a espigolar entre les garbes
+    darrere els segadors. D'ençà que ha arri-<br/>
+    bat, aquest matí, que no ha parat ni un
+    moment. Ha estat ben poca estona asse-<br/>
+    guda a la cabana.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Es vol sub-<br/>
+    ratllar la laboriositat de Rut. Una altra possible tra-<br/>
+    ducció: <i>Ha arribat i ha estat dreta treballant tot el matí
+    fins ara, que s'ha assegut, abans de tornar a casa amb
+    aquesta mica de cosa que ha espigolat</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Llavors Booz va dir a Rut:<br/>
+    – Escolta, filla meva! No vagis a espi-<br/>
+    golar en un altre camp; queda't aquí i
+    uneix-te a la colla de les meves serven-<br/>
+    tes.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Fixa't en l'indret on els segadors
+    treballen i vés amb elles. He manat als
+    meus homes que no et molestin. I si
+    tens set, vés on hi ha els càntirs i beu el
+    que hagin pouat els segadors.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Rut es va prosternar fins a tocar a
+    terra amb el front i digué a Booz:<br/>
+    – Per què em mires amb bons ulls i
+    t'interesses per mi que sóc estrangera?<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Gràcies a la
+    noblesa d'ambdós personatges, Booz i Rut, avança
+    la tesi d'aquesta narració edificant: una viuda *es-<br/>
+    trangera farà que continuï el llinatge dels avantpas-<br/>
+    sats de David.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Booz li va respondre:<br/>
+    – M'han contat tot el que has fet amb
+    la teva sogra després de la mort del teu
+    marit; has deixat els teus pares i la terra
+    on vas néixer<sup><i>j</i></sup> i has vingut a viure enmig
+    d'un poble que abans no coneixies.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Gn 12,1.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Que
+    el Senyor, Déu d'Israel, sota les ales del
+    qual has trobat refugi,<sup><i>k</i></sup> et recompensi
+    amb escreix tot el bé que has fet!</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Sl 17,8 nota <i>u</i>.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ella va dir:<br/>
+    – Veig que em mires amb bons ulls.
+    M'has omplert de confiança i has parlat
+    al cor<sup><i>l</i></sup> de la teva serventa, tot i que jo
+    no sóc ni tan sols una de les teves cria-<br/>
+    des.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>L'ex-<br/>
+    pressió mostra l'afecte que Rut ha experimentat de
+    part de Booz (vegeu Os 2,16 nota <i>v</i>).</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Després, a l'hora de dinar, Booz li
+    digué:<br/>
+    – Acosta't, pren un mos de pa i suca'l
+    al vinagre.<br/>
+    Rut s'assegué al costat dels segadors i
+    Booz li va torrar gra.<sup><i>m</i></sup> Ella en va men-<br/>
+    jar tant com en volgué i encara li'n va
+    sobrar.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Una altra traducció: <i>li oferí pa torrat</i>.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Quan Rut s'aixecà per conti-<br/>
+    nuar la feina d'espigolar, Booz va dir als
+    seus homes:<br/>
+    – Deixeu-la espigolar també entre les
+    garbes. No la renyeu.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Mireu fins i tot
+    que s'esmunyin algunes espigues dels
+    manats perquè les pugui recollir. I no
+    l'escridasseu.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Rut va anar espigolant en aquell
+    camps fins al vespre. Acabat va batre el
+    que havia espigolat i en sortí mig sac<sup><i>n</i></sup><br/>
+    d'ordi.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Lit.: <i>un
+    efà</i> (vegeu Vocabulari: <i>mesures</i>).</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Després s'ho va carregar al coll i se
+    n'anà al poble. La seva sogra va veure
+    el que Rut havia espigolat; Rut tragué el
+    menjar que li havia sobrat i el donà a la
+    seva sogra.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Noemí li va preguntar:<br/>
+    – On has estat espigolant tot avui? On
+    has treballat? Beneït sigui el qui ha es-<br/>
+    tat tan bo amb tu!<br/>
+    Rut va explicar a la seva sogra amb
+    qui havia treballat, i va afegir:<br/>
+    – L'home amb qui avui he treballat es
+    diu Booz.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Llavors Noemí va dir a la seva no-<br/>
+    ra:<br/>
+    – Que el Senyor el beneeixi, el Senyor
+    que sempre és bondadós amb vius i
+    morts!<br/>
+    I afegí:<br/>
+    – Aquest home és un parent nostre,
+    un dels qui ha de vetllar per nosaltres.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Noemí espera
+    que Booz, per solidaritat de clan, es casi amb Rut, re-<br/>
+    cuperi la propietat del difunt i li doni un hereu (vegeu
+    4,6).</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Llavors Rut, la moabita, va conti-<br/>
+    nuar:<br/>
+    – Fins i tot m'ha dit que no em separi
+    dels seus homes fins que no acabin tota
+    la sega.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Noemí va dir a la seva nora:<br/>
+    – Sí, filla meva, val més que continuïs
+    sortint amb les serventes de Booz, que
+    així evitaràs que et maltractin en un al-<br/>
+    tre camp.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Rut, doncs, va continuar espigolant
+    amb les serventes de Booz fins que
+    s'acabà la sega de l'ordi i del blat. Però
+    continuava vivint amb la seva sogra.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Rut espigola en el camp de Booz</h3></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Noemí tenia una parent de la banda
+    de la seva muller, una dona rica i consi-<br/>
+    derada, de la família d'Elimèlec, anome-<br/>
+    nada Booz.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Rut, el moabita, digué a Noemí:<br/>
+    – Deixa'm anar al camp d'algú que
+    em miri amb bons ulls i espigolaré allò
+    que no recullin les segadores.<sup><i>g</i></sup><br/>
+    Noemí li respongué:<br/>
+    – Vés-hi, fill meu.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Les pobres gaudien del
+    dret d'anar a espigolar en camp d'altri durant el
+    temps de la collita (Lv 19,9-10 nota <i>x</i>).</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Rut se'n va anar al camp i espigola-<br/>
+    va darrere les segadores. Per atzar anà a
+    parar en un tros de terra que era de
+    Booz, de la família d'Elimèlec.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Quan
+    Booz va arribar de Betlem, saludà les
+    segadores:<br/>
+    – La Senyora sigui amb vosaltres!<br/>
+    Elles van respondre:<br/>
+    – Que la Senyora et beneeixi!</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Booz va preguntar a la majoral:<br/>
+    – De qui és aquest noi?</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>La majoral respongué:<br/>
+    – És un noi moabita, el que vingué
+    amb Noemí dels camps de Moab.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>M'ha
+    demanat per a espigolar entre les garbes
+    darrere les segadores. D'ençà que ha arri-<br/>
+    bat, aquest matí, que no ha parat ni un
+    moment. Ha estat ben poca estona asse-<br/>
+    guda a la cabana.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Es vol sub-<br/>
+    ratllar la laboriositat de Rut. Una altra possible tra-<br/>
+    ducció: <i>Ha arribat i ha estat dret treballant tot el matí
+    fins ara, que s'ha assegut, abans de tornar a casa amb
+    aquesta mica de cosa que ha espigolat</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Llavors Booz va dir a Rut:<br/>
+    – Escolta, fill meu! No vagis a espi-<br/>
+    golar en un altre camp; queda't aquí i
+    uneix-te a la colla dels meus ser-<br/>
+    vents.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Fixa't en l'indret on les segadores
+    treballen i vés amb ells. He manat a les
+    meves dones que no et molestin. I si
+    tens set, vés on hi ha els càntirs i beu el
+    que hagin pouat les segadores.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Rut es va prosternar fins a tocar a
+    terra amb el front i digué a Booz:<br/>
+    – Per què em mires amb bons ulls i
+    t'interesses per mi que sóc estranger?<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Gràcies a la
+    noblesa d'ambdues personatges, Booz i Rut, avança
+    la tesi d'aquesta narració edificant: un viudo *es-<br/>
+    tranger farà que continuï el llinatge de les avantpas-<br/>
+    sades de David.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Booz li va respondre:<br/>
+    – M'han contat tot el que has fet amb
+    el teu sogre després de la mort de la teva
+    muller; has deixat les teves mares i la terra
+    on vas néixer<sup><i>j</i></sup> i has vingut a viure enmig
+    d'un poble que abans no coneixies.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Gn 12,1.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Que
+    la Senyora, Mare de Déu d'Israel, sota les ales de la
+    qual has trobat refugi,<sup><i>k</i></sup> et recompensi
+    amb escreix tot el bé que has fet!</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Sl 17,8 nota <i>u</i>.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ell va dir:<br/>
+    – Veig que em mires amb bons ulls.
+    M'has omplert de confiança i has parlat
+    al cor<sup><i>l</i></sup> del teu servent, tot i que jo
+    no sóc ni tan sols un dels teus cri-<br/>
+    ats.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>L'ex-<br/>
+    pressió mostra l'afecte que Rut ha experimentat de
+    part de Booz (vegeu Os 2,16 nota <i>v</i>).</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Després, a l'hora de dinar, Booz li
+    digué:<br/>
+    – Acosta't, pren un mos de pa i suca'l
+    al vinagre.<br/>
+    Rut s'assegué al costat de les segadores i
+    Booz li va torrar gra.<sup><i>m</i></sup> Ell en va men-<br/>
+    jar tant com en volgué i encara li'n va
+    sobrar.</valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Una altra traducció: <i>li oferí pa torrat</i>.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Quan Rut s'aixecà per conti-<br/>
+    nuar la feina d'espigolar, Booz va dir a les
+    seves dones:<br/>
+    – Deixeu-lo espigolar també entre les
+    garbes. No el renyeu.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Mireu fins i tot
+    que s'esmunyin algunes espigues dels
+    manats perquè les pugui recollir. I no
+    l'escridasseu.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Rut va anar espigolant en aquell
+    camps fins al vespre. Acabat va batre el
+    que havia espigolat i en sortí mig sac<sup><i>n</i></sup><br/>
+    d'ordi.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Lit.: <i>un
+    efà</i> (vegeu Vocabulari: <i>mesures</i>).</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Després s'ho va carregar al coll i se
+    n'anà al poble. El seu sogre va veure
+    el que Rut havia espigolat; Rut tragué el
+    menjar que li havia sobrat i el donà al
+    seu sogre.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Noemí li va preguntar:<br/>
+    – On has estat espigolant tot avui? On
+    has treballat? Beneïda sigui la qui ha es-<br/>
+    tat tan bona amb tu!<br/>
+    Rut va explicar al seu sogre amb
+    qui havia treballat, i va afegir:<br/>
+    – La dona amb qui avui he treballat es
+    diu Booz.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Llavors Noemí va dir al seu gen-<br/>
+    dre:<br/>
+    – Que la Senyora la beneeixi, la Senyora
+    que sempre és bondadosa amb vives i
+    mortes!<br/>
+    I afegí:<br/>
+    – Aquesta dona és una parent nostra,
+    una de les qui ha de vetllar per nosaltres.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Noemí espera
+    que Booz, per solidaritat de clan, es casi amb Rut, re-<br/>
+    cuperi la propietat de la difunta i li doni una hereva (vegeu
+    4,6).</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Llavors Rut, el moabita, va conti-<br/>
+    nuar:<br/>
+    – Fins i tot m'ha dit que no em separi
+    de les seves dones fins que no acabin tota
+    la sega.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Noemí va dir al seu gendre:<br/>
+    – Sí, fill meu, val més que continuïs
+    sortint amb els servents de Booz, que
+    així evitaràs que et maltractin en un al-<br/>
+    tre camp.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>Rut, doncs, va continuar espigolant
+    amb els servents de Booz fins que
+    s'acabà la sega de l'ordi i del blat. Però
+    continuava vivint amb el seu sogre.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>3</nom>
+<clau>
+    <clau><h3>Rut passa la nit al costat de Booz</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Un dia, Noemí, la seva sogra, li va
+    dir:<br/>
+    – Filla meva, t'haig de cercar una llar
+    on puguis ser feliç.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Mira, tu has estat
+    treballant amb les serventes de Booz, i
+    ell és parent nostre. Aquesta nit Booz
+    sortirà a ventar a l'era de l'ordi.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Renta't, doncs, perfuma't, posa't el ves-<br/>
+    tit bo i baixa a l'era. Però no et deixis
+    veure fins que ell haurà menjat i begut.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Llavors, quan ell es posi a jeure, et fi-<br/>
+    xes on dorm; vés-hi, li destapes els peus
+    i t'hi ajeus. Ell mateix et dirà què has de
+    fer.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Noemí demana a Rut que dugui a terme una
+    acció simbòlica, que expressi una clara invitació al
+    matrimoni.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Rut respongué a Noemí:<br/>
+    – Faré tal com dius.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Rut va baixar a l'era i va fer tal com
+    li havia manat la seva sogra.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Booz va
+    menjar i beure i es posà de bon humor;
+    després se'n va anar a jeure vora la pila
+    de gra. Rut s'hi va atansar de puntetes,
+    li destapà els peus i s'hi va ajeure.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>A
+    mitjanit, Booz va tenir una esgarrifança
+    i es va tombar; llavors veié una dona
+    ajaguda als seus peus.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Booz preguntà:<br/>
+    – Qui ets?<br/>
+    Ella va respondre:<br/>
+    – Sóc Rut, la teva serventa. Estén el
+    teu mantell sobre la teva serventa,<sup><i>q</i></sup> per-<br/>
+    què a tu et toca vetllar per mi.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Estendre el mantell és un símbol d'ac-<br/>
+    ceptació de la unió matrimonial (Ez 16,8+).</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Rut
+    indica el motiu pel qual Booz s'ha de casar amb ella
+    (vegeu 2,20).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Booz li va dir:<br/>
+    – Que el Senyor et beneeixi, filla me-<br/>
+    va! Aquesta segona prova de fidelitat
+    que acabes de donar és millor que la
+    primera,<sup><i>s</i></sup> perquè no t'has buscat cap
+    pretendent jove, ni pobre ni ric.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Rut ha donat una primera prova de
+    fidelitat quan ha preferit de quedar-se amb Noemí, la
+    seva sogra (2,11-12).</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>L'actuació de Rut és un acte de fidelitat a la memò-<br/>
+    ria del marit difunt.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Ara,
+    doncs, filla meva, no tinguis por! Faré
+    per tu tot el que em demanis, perquè
+    tots els prohoms del poble saben que ets
+    una dona de vàlua.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>És cert que jo haig
+    de vetllar per tu, però encara hi ha un
+    altre parent més pròxim que no pas jo.
+</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aquesta nit passa-la aquí, i demà al
+    matí, si ell vol fer ús del seu dret, que ho
+    faci, però si no ho vol, ho faré jo: t'ho
+    juro per la vida del Senyor. Ara descan-<br/>
+    sa fins al matí.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Rut va jeure, doncs, als peus de Booz
+    fins a la matinada i es llevà abans que la
+    llum del dia permetés de reconèixer-<br/>
+    la. Booz no volia que se sabés que la
+    dona havia anat a l'era.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Llavors li va
+    dir:<br/>
+    – Treu-te el mantell que portes i
+    aguanta'l fort.<br/>
+    Ella l'hi va parar, i Booz l'hi va om-<br/>
+    plir de sis mesures d'ordi i l'ajudà a
+    carregar-se-les. Tot seguit, Booz se n'anà
+    al poble.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Rut, per la seva banda, va arribar a
+    casa la sogra, i aquesta li va preguntar:<br/>
+    – Com t'ha anat, filla meva?<br/>
+    Rut li va contar tot el que Booz havia
+    fet per ella.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I afegí:<br/>
+    – Fins i tot m'ha donat aquestes sis
+    mesures d'ordi tot dient: “No vull que
+    tornis a casa la sogra amb les mans bui-<br/>
+    des.”</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Noemí li digué:<br/>
+    – Queda't aquí, filla meva, fins que
+    sàpigues com aniran les coses. Certa-<br/>
+    ment que Booz no descansarà fins que
+    ho deixarà tot resolt avui mateix.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Rut passa la nit al costat de Booz</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Un dia, Noemí, el seu sogre, li va
+    dir:<br/>
+    – Fill meu, t'haig de cercar una llar
+    on puguis ser feliç.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Mira, tu has estat
+    treballant amb els servents de Booz, i
+    ella és parent nostre. Aquesta nit Booz
+    sortirà a ventar a l'era de l'ordi.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Renta't, doncs, perfuma't, posa't el ves-<br/>
+    tit bo i baixa a l'era. Però no et deixis
+    veure fins que ella haurà menjat i begut.
+</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Llavors, quan ella es posi a jeure, et fi-<br/>
+    xes on dorm; vés-hi, li destapes els peus
+    i t'hi ajeus. Ella mateix et dirà què has de
+    fer.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Noemí demana a Rut que dugui a terme una
+    acció simbòlica, que expressi una clara invitació al
+    matrimoni.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Rut respongué a Noemí:<br/>
+    – Faré tal com dius.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Rut va baixar a l'era i va fer tal com
+    li havia manat el seu sogre.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Booz va
+    menjar i beure i es posà de bon humor;
+    després se'n va anar a jeure vora la pila
+    de gra. Rut s'hi va atansar de puntetes,
+    li destapà els peus i s'hi va ajeure.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>A
+    mitjanit, Booz va tenir una esgarrifança
+    i es va tombar; llavors veié un home
+    ajagut als seus peus.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Booz preguntà:<br/>
+    – Qui ets?<br/>
+    Ell va respondre:<br/>
+    – Sóc Rut, el teu servent. Estén el
+    teu mantell sobre el teu servent,<sup><i>q</i></sup> per-<br/>
+    què a tu et toca vetllar per mi.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Estendre el mantell és un símbol d'ac-<br/>
+    ceptació de la unió matrimonial (Ez 16,8+).</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Rut
+    indica el motiu pel qual Booz s'ha de casar amb ell
+    (vegeu 2,20).</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Booz li va dir:<br/>
+    – Que la Senyora et beneeixi, fill meu!<br/>
+    Aquesta segona prova de fidelitat
+    que acabes de donar és millor que la
+    primera,<sup><i>s</i></sup> perquè no t'has buscat cap
+    pretendenta jove, ni pobra ni rica.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Rut ha donat una primera prova de
+    fidelitat quan ha preferit de quedar-se amb Noemí, el
+    seu sogre (2,11-12).</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>L'actuació de Rut és un acte de fidelitat a la memò-<br/>
+    ria de la muller difunta.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Ara,
+    doncs, fill meu, no tinguis por! Faré
+    per tu tot el que em demanis, perquè
+    totes les prohoms del poble saben que ets
+    un home de vàlua.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>És cert que jo haig
+    de vetllar per tu, però encara hi ha una
+    altra parent més pròxima que no pas jo.
+</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aquesta nit passa-la aquí, i demà al
+    matí, si ella vol fer ús del seu dret, que ho
+    faci, però si no ho vol, ho faré jo: t'ho
+    juro per la vida de la Senyora. Ara descan-<br/>
+    sa fins al matí.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Rut va jeure, doncs, als peus de Booz
+    fins a la matinada i es llevà abans que la
+    llum del dia permetés de reconèixer-<br/>
+    la. Booz no volia que se sabés que
+    l'home havia anat a l'era.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Llavors li va
+    dir:<br/>
+    – Treu-te el mantell que portes i
+    aguanta'l fort.<br/>
+    Ell l'hi va parar, i Booz l'hi va om-<br/>
+    plir de sis mesures d'ordi i l'ajudà a
+    carregar-se-les. Tot seguit, Booz se n'anà
+    al poble.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Rut, per la seva banda, va arribar a
+    casa el sogre, i aquest li va preguntar:<br/>
+    – Com t'ha anat, fill meu?<br/>
+    Rut li va contar tot el que Booz havia
+    fet per ell.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I afegí:<br/>
+    – Fins i tot m'ha donat aquestes sis
+    mesures d'ordi tot dient: “No vull que
+    tornis a casa el sogre amb les mans bui-<br/>
+    des.”</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Noemí li digué:<br/>
+    – Queda't aquí, fill meu, fins que
+    sàpigues com aniran les coses. Certa-<br/>
+    ment que Booz no descansarà fins que
+    ho deixarà tot resolt avui mateix.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>4</nom>
+<clau>
+    <clau><h3>Booz es casa amb Rut</h3></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Booz se'n va anar a la plaça de da-<br/>
+    vant el portal de la vila i s'hi asse-<br/>
+    gué.<sup><i>u</i></sup> En aquell instant passava el pa-<br/>
+    rent de qui ell havia parlat. Booz el
+    cridà:<br/>
+    – Tu, noi, acosta't i seu aquí.<br/>
+    Ell es va acostar i s'assegué.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Als portals de les viles, on es
+    feien les transaccions comercials, era més fàcil de
+    trobar el parent pròxim que s'esmenta en 3,12.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Llavors
+    Booz va fer venir deu ancians del poble
+    i els va dir:<br/>
+    – Seieu aquí.<br/>
+    I ells es van asseure.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Aleshores Booz
+    va dir a aquell parent:<br/>
+    – Noemí ha tornat dels camps de Moab
+    i posa en venda el camp que havia estat
+    propietat del nostre germà Elimèlec.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor><i>Elimèlec</i> (1,2-3) és anomenat <i>germà</i> en quant és pa-<br/>
+    rent dels dos homes (vegeu v. 10).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ara, davant els testimonis aquí presents
+    i els ancians del poble, vull fer-t'ho saber i
+    proposar-te que el compris. Exerceix,
+    doncs, si vols, el teu dret de rescat.<sup><i>w</i></sup> Però
+    si no ho vols fer, m'ho dius. Aquest dret et
+    toca a tu primer; jo vinc darrere teu.<br/>
+    L'altre va respondre:<br/>
+    – Compraré el camp.</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>El qui ha
+    d'exercir aquest dret és el parent més pròxim
+    d'Elimèlec, anomenat, en hebreu, <i>goel</i> (vegeu
+    Nm 35,12 nota <i>s</i>). Aquest parent ha de comprar la
+    terra de Noemí, per evitar que ella es vegi obligada a
+    traspassar-la a un estrany.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Booz va continuar:<br/>
+    – Si compres aquest camp a Noemí,
+    l'adquireixes també amb Rut, la moabi-<br/>
+    ta, muller del difunt. Així l'heretat del
+    difunt conservarà el seu nom.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Llavors l'altre va dir:<br/>
+    – No ho puc fer. En aquestes condi-<br/>
+    cions perjudicaria la meva pròpia here-<br/>
+    tat.<sup><i>x</i></sup> Val més que et quedis amb el meu
+    dret; jo no en vull fer ús.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Si el parent compra el
+    camp, s'ha de casar amb Rut; el *primogènit d'aques-<br/>
+    ta unió serà considerat fill del primer marit de Rut i,
+    per tant, hereu del camp. Per això el parent no vol
+    comprar un camp que passaria a mans d'altri i no
+    dels seus propis fills.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Antigament, a Israel, quan es tracta-<br/>
+    va d'un rescat o d'una permuta, per do-<br/>
+    nar valor a la transacció hi havia el cos-<br/>
+    tum de treure's les sandàlies i donar-les
+    a l'altre. Això a Israel autentificava la
+    transacció.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Per això, quan l'altre va dir a
+    Booz: «Compra'l tu», es va truere les
+    sandàlies i les hi va donar.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>El calçat constituïa un títol de
+    propietat. Solament el propietari d'un terreny tenia dret
+    a posar-hi els peus.
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Booz digué als ancians i a tots els
+    allí presents:<br/>
+    – Avui vosaltres sou tesimonis que
+    compro a Noemí tot allò que pertanyia a
+    Elimèlec i als seus fills Quilion i Mahlon
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>i que adquireixo com a esposa Rut, la
+    moabita, dona de Mahlon. Així la propie-<br/>
+    tat restarà dins la família del difunt i no
+    serà esborrat el nom del difunt d'entre els
+    seus germans i de la memòria del seu po-<br/>
+    ble. Avui vosaltres en sou testimonis!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Tots els presents i els ancians que
+    eren a la plaça de davant el portal de la
+    vila van respondre:<br/>
+    – En som testimonis! Que el Senyor
+    beneeixi la dona que entra a casa te-<br/>
+    va; que la faci semblant a Raquel i Lia,
+    que bastiren totes dues el casal d'Israel.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Que per la fillada que el Senyor et
+    vulgui donar d'aquesta noia, la teva casa
+    sigui com la de Peres,<sup><i>z</i></sup> el fill que Tamar
+    va infantar a Judà!</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor><i>Peres</i> és esmentat, com a avantpassat de Jesús, amb el
+    nom de <i>Fares</i> en Mt 1,3 i Lc 3,33.</valor>
+<anyell>
+    <clau><h3>Neix Obed, fill de Booz i Rut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aleshores Booz va prendre Rut per
+    muller. El Senyor va beneir aquesta
+    unió fent que Rut tingués un fill.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Les
+    veïnes deien a Noemí:<br/>
+    – Beneït sigui el Senyor, que no t'ha
+    deixat avui sense ningú que vetlli per tu.
+    El nom del difunt es mantindrà a Israel.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>El nen et serà conhort i protecció en
+    la vellesa, perquè l'ha infantat la teva
+    nora que tant t'estima, ella que per a tu
+    val més que set fills.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Noemí prenia el nadó, se'l posava a
+    la falda i li feia de mainadera.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Les veï-<br/>
+    nes deien:<br/>
+    – Noemí ha tingut un fill!<br/>
+    I foren elles qui l'anomenaren Obed.
+    Obed va ser el pare de Jessè, i Jessè, el
+    pare de David.</valor>
+<anyell>
+    <clau><h3>Avantpassats de David</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Llista genealògica dels descendents
+    de Peres:<sup><i>a</i></sup> Peres va ser el pare d'Hesron;
+</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Vegeu v. 12.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Hesron, el de Ram; Ram, el d'Ammi-<br/>
+    nadab;</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Amminadab, el de Nahxon;<sup><i>b</i></sup><br/>
+    Nahxon, el de Salmon;</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor><i>Nahxon</i> és esmentat, com a avantpassat de Jesús, amb
+    el nom de <i>Naasson</i> en Mt 1,4 i Lc 3,32.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Salmon, el
+    de Booz; Booz, el d'Obed;</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Obed, el de
+    Jessè, i Jessè va ser el pare de David.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>1Cr 2,12+.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Booz es casa amb Rut</h3></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Booz se'n va anar a la plaça de da-<br/>
+    vant el portal de la vila i s'hi asse-<br/>
+    gué.<sup><i>u</i></sup> En aquell instant passava la pa-<br/>
+    rent de qui ella havia parlat. Booz la
+    cridà:<br/>
+    – Tu, noia, acosta't i seu aquí.<br/>
+    Ella es va acostar i s'assegué.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>Als portals de les viles, on es
+    feien les transaccions comercials, era més fàcil de
+    trobar la parent pròxima que s'esmenta en 3,12.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Llavors
+    Booz va fer venir deu ancianes del poble
+    i les va dir:<br/>
+    – Seieu aquí.<br/>
+    I elles es van asseure.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Aleshores Booz
+    va dir a aquella parent:<br/>
+    – Noemí ha tornat dels camps de Moab
+    i posa en venda el camp que havia estat
+    propietat de la nostra germana Elimèlec.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor><i>Elimèlec</i> (1,2-3) és anomenada <i>germana</i> en quant és pa-<br/>
+    rent de les dues dones (vegeu v. 10).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Ara, davant les testimonis aquí presents
+    i les ancianes del poble, vull fer-t'ho saber i
+    proposar-te que el compris. Exerceix,
+    doncs, si vols, el teu dret de rescat.<sup><i>w</i></sup> Però
+    si no ho vols fer, m'ho dius. Aquest dret et
+    toca a tu primera; jo vinc darrere teu.<br/>
+    L'altra va respondre:<br/>
+    – Compraré el camp.</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>La qui ha
+    d'exercir aquest dret és la parent més pròxima
+    d'Elimèlec, anomenat, en hebreu, <i>goel</i> (vegeu
+    Nm 35,12 nota <i>s</i>). Aquesta parent ha de comprar la
+    terra de Noemí, per evitar que ell es vegi obligat a
+    traspassar-la a una estranya.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Booz va continuar:<br/>
+    – Si compres aquest camp a Noemí,
+    l'adquireixes també amb Rut, el moabi-<br/>
+    ta, marit de la difunta. Així l'heretat de la
+    difunta conservarà el seu nom.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Llavors l'altra va dir:<br/>
+    – No ho puc fer. En aquestes condi-<br/>
+    cions perjudicaria la meva pròpia here-<br/>
+    tat.<sup><i>x</i></sup> Val més que et quedis amb el meu
+    dret; jo no en vull fer ús.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Si la parent compra el
+    camp, s'ha de casar amb Rut; la *primogènita d'aques-<br/>
+    ta unió serà considerada filla de la primera muller de Rut i,
+    per tant, hereva del camp. Per això la parent no vol
+    comprar un camp que passaria a mans d'altri i no
+    de les seves pròpies filles.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Antigament, a Israel, quan es tracta-<br/>
+    va d'un rescat o d'una permuta, per do-<br/>
+    nar valor a la transacció hi havia el cos-<br/>
+    tum de treure's les sandàlies i donar-les
+    a l'altra. Això a Israel autentificava la
+    transacció.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Per això, quan l'altra va dir a
+    Booz: «Compra'l tu», es va truere les
+    sandàlies i les hi va donar.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>El calçat constituïa un títol de
+    propietat. Solament la propietària d'un terreny tenia dret
+    a posar-hi els peus.
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Booz digué a les ancianes i a totes les
+    allí presents:<br/>
+    – Avui vosaltres sou tesimonis que
+    compro a Noemí tot allò que pertanyia a
+    Elimèlec i a les seves filles Quilion i Mahlon
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>i que adquireixo com a espòs Rut, el
+    moabita, home de Mahlon. Així la propie-<br/>
+    tat restarà dins la família de la difunta i no
+    serà esborrat el nom de la difunta d'entre les
+    seves germanes i de la memòria del seu po-<br/>
+    ble. Avui vosaltres en sou testimonis!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Totes les presents i les ancianes que
+    eren a la plaça de davant el portal de la
+    vila van respondre:<br/>
+    – En som testimonis! Que la Senyora
+    beneeixi l'home que entra a casa te-<br/>
+    va; que el faci semblant a Raquel i Lia,
+    que bastiren tots dos el casal d'Israel.
+</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Que per la fillada que la Senyora et
+    vulgui donar d'aquest noi, la teva casa
+    sigui com la de Peres,<sup><i>z</i></sup> la filla que Tamar
+    va infantar a Judà!</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor><i>Peres</i> és esmentada, com a avantpassada de Jesús, amb el
+    nom de <i>Fares</i> en Mt 1,3 i Lc 3,33.</valor>
+<anyell>
+    <clau><h3>Neix Obed, filla de Booz i Rut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Aleshores Booz va prendre Rut per
+    marit. La Senyora va beneir aquesta
+    unió fent que Rut tingués una filla.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Els
+    veïns deien a Noemí:<br/>
+    – Beneïda sigui la Senyora, que no t'ha
+    deixat avui sense ningú que vetlli per tu.
+    El nom de la difunta es mantindrà a Israel.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>La nena et serà conhort i protecció en
+    la vellesa, perquè l'ha infantat el teu
+    gendre que tant t'estima, ell que per a tu
+    val més que set filles.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Noemí prenia la nadó, se la posava a
+    la falda i li feia de mainader.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Els veïns<br/>
+    deien:<br/>
+    – Noemí ha tingut una filla!<br/>
+    I forn ells qui l'anomenaren Obed.
+    Obed va ser la mare de Jessè, i Jessè, la
+    mare de David.</valor>
+<anyell>
+    <clau><h3>Avantpassades de David</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Llista genealògica de les descendents
+    de Peres:<sup><i>a</i></sup> Peres va ser la mare d'Hesron;
+</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Vegeu v. 12.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Hesron, la de Ram; Ram, la d'Ammi-<br/>
+    nadab;</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Amminadab, la de Nahxon;<sup><i>b</i></sup><br/>
+    Nahxon, la de Salmon;</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor><i>Nahxon</i> és esmentada, com a avantpassada de Jesús, amb
+    el nom de <i>Naasson</i> en Mt 1,4 i Lc 3,32.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Salmon, la
+    de Booz; Booz, la d'Obed;</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Obed, la de
+    Jessè, i Jessè va ser la mare de David.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>1Cr 2,12+.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <nom>4</nom>
+<clau>
+    <clau>1.0</clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+</valor>
+</abadia>

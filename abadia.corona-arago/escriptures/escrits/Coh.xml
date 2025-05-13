@@ -1,0 +1,5854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia xml:lang="ca" xmlns="https://abadia-montserrat.cat/anyell">
+    <nom>Coh</nom>
+<clau>
+    <nom>Introducció</nom>
+<clau>
+    <clau><h1><big>Cohèlet</big></h1></clau>
+    <valor><h1>(Ecliesiastès)</h1></valor>
+<anyell>
+    <clau><h2><i>Introducció</i></h2></clau>
+    <valor><i>Cohèlet (o Eclesiastès, nom amb què es coneix tradicionalment aquest llibre) és un
+    escrit sapiencial, però que ataca els principals postulats de la saviesa tradicional del
+    seu temps. Pertany al cànon de les Escriptures des de bon principi, i de temps antic els
+    jueus el llegeixen en la festa dels Tabernacles. Tot i això, encara avui és sorprenent de
+    trobar dins la Bíblia un escrit que sembla presentar un Déu llunyà i arbitrari (7,14),
+    que nega que els homes siguin premiats o castigats en aquest món i dubta que ho si-<br/>
+    guin en l'altre (3,21; 6,12; 8,12-14; 9,3), i que proclama que el millor que pot fer l'ho-<br/>
+    me és menjar, beure i gaudir de la felicitat del seu treball (5,17). És un llibre amb apa-<br/>
+    rents contradiccions, sempre controvertit i no gaire fàcil d'entendre, començant pel seu
+    mateix nom.</i></valor>
+<anyell>
+    <clau><h3>Autor i data de composició</h3></clau>
+    <valor><i>L'encapçalament atribueix l'obra a «Cohèlet, fill de David i rei a Jerusalem» (1,1). El
+    significat del terme hebreu cohèlet (que apareix també en 1,2.12; 7,27; 12,8.9.10) és
+    incert; segons l'opinió més estesa entre els estudiosos, significa ‘convocador’, ‘presi-<br/>
+    dent’, ‘orador’ o ‘portaveu d'una assemblea’. Un significat semblant té l'altre nom amb
+    què és conegut el llibre: «Eclesiastès», transcripció a través del llatí de la paraula grega,
+    derivada de eclesia (‘assemblea’), amb què es traduí al grec el nom hebreu del llibre.
+    Altres opinen que el terme</i> cohèlet <i>tindria el sentit de ‘col·leccionador de proverbis’ (ve-<br/>
+    geu 12,9-11).</i></valor>
+<anyell>
+    <clau><i>L'expressió «fill de David» (1,1) es refereix clarament a Salomó, a qui s'atribueixen
+    també altres llibres sapiencials. Un lligam entre el nom «Cohèlet» i Salomó es pot tro-<br/>
+    bar potser en 1Re 8,1-12, on el rei</i> convoca <i>o</i> congrega <i>els representants del poble a Je-<br/>
+    rusalem. De tota manera, la perspectiva de l'autor, excepte en 1,12-2,26, on fingeix ha-<br/>
+    ver estat rei, no és la d'un rei sinó la d'una persona incapaç de posar remei a les
+    injustícies comeses per alts càrrecs del seu poble. A més, el llibre sembla redactat en
+    una època molt posterior a la de Salomó. Per tant, cal pensar que el savi anònim que
+    el va compondre (12,9) se serví del procediment, corrent en la seva època, d'atri-<br/>
+    buir a grans personatges del passat obres inspirades en el seu ensenyament.</i></clau>
+    <valor><i>L'escepticisme que manifesta l'obra i la seva crítica de la doctrina de la retribució
+    temporal ens inviten a situar-la en època postexílica. La llengua emprada en el llibre és
+    posterior a la d'Esdres i Nehemies (escrits probablement entorn de l'any 300 aC: vegeu
+    la introducció a Esdres). D'altra banda, l'obra sembla anterior a la persecució d'Antíoc IV
+    Epífanes (175-164 aC), que va desvetllar de nou l'esperit del judaisme. Per tot això, és
+    probable que el llibre hagi estat escrit entorn de la segona meitat del segle III aC.</i></valor>
+<anyell>
+    <clau><i>Cohèlet parla a vegades d'ell mateix en primera persona (1,12-18), però altres vega-<br/>
+    des el llibre parla d'ell en tercera persona (1,2; 7,27; 12,8-10). Aquest és un dels indicis
+    que tant el títol (1,1) com l'epíleg (12,9-14), a més potser del tema (1,2) que és repetit
+    abans de l'epíleg (12,8), foren introduïts per un editor posterior. Aquest també podria
+    haver fet retocs o afegits a l'obra (vegeu 7,27 i la nota a 11,9). Fora d'això, i malgrat les
+    seves aparents contradiccions, sembla que el cos del llibre és fonamentalment obra
+    d'una mateixa persona.</i></clau>
+    <valor></valor>
+<anyell>
+    <clau><h3>Contingut i estructura</h3></clau>
+    <valor><i>L'autor escriu en una barreja de poesia i prosa, sense que es vegi bé on hi ha el límit
+    entre l'una i l'altra. El ritme és irregular i es fa recurs sovint al paral·lisme. Hi abun-<br/>
+    den les frases llargues i complicades, però la sintaxi i el lèxic són pobres. Malgrat tot, té
+    fragments molt reeixits, i la descripció de la vellesa amb què acaba el cos de l'obra
+    (12,1-7) es pot considerar un dels millors textos de la poesia bíblica.</i></valor>
+<anyell>
+    <clau><h3>La vida i el seu sentit</h3></clau>
+    <valor><i>Enfront de la seguretat amb què la doctrina sapiencial tradicional pretenia de com-<br/>
+    prendre l'univers i la vida, Cohèlet reconeix que la saviesa explica moltes coses (2,13-14;
+    7,12; 8,1.5), però nega que pugui arribar a comprendre la totalitat i el sentit de l'uni-<br/>
+    vers (8,17); en el fons, el món i l'home resten totalment impenetrables, i només Déu en
+    té la clau (11,5). Semblantment, Cohèlet nega que la conducta bona o dolenta de l'ho-<br/>
+    me determini les seves condicions de vida en aquest món (8,10-14), i es mostra escèp-<br/>
+    tic sobre la possibilitat d'una retribució més enllà de la mort (3,21; 6,12; 10,14), enca-<br/>
+    ra que no dubta de l'existència d'un judici futur (3,17; 11,9; 12,14). El destí de l'home
+    és en mans de Déu, que el manté amagat (6,10-12; 7,14; 11,5).</i></valor>
+<anyell>
+    <clau><i>Però, malgrat el que acabem de dir i malgrat la seva repetida afirmació que tots els
+    esforços de l'home en aquest món són en va (1,3+), Cohèlet no és un escèptic total que
+    menyspreï la vida. Ben al contrari, com a conclusió de les seves reflexions afirma so-<br/>
+    vint que, durant els breus dies que precedeixen l'arribada de la mort (9,12; 12,1-7), cal
+    fruir de totes les coses bones de la vida com un do de Déu (5,17-19; 9,7). Això no vol
+    dir que l'autor sigui un hedonista: coneix la manca de consistència dels plaers d'aquest
+    món (2,1-11) i recomana de reverenciar Déu com a única sortida (5,6; 7,18).</i></clau>
+    <valor></valor>
+<anyell>
+    <clau><i>Les reflexions de Cohèlet constitueixen l'última etapa del camí que acabarà amb la
+    descoberta d'una retribució més enllà de la mort. Si bé en un estadi anterior, reflectit
+    en els llibres de Jeremies (31,29-30) i Ezequiel (18,1-20), la concepció d'una retribució
+    col·lectiva havia estat completada per la de la retribució individual, faltava encara que
+    els savis deixessin de considerar la felicitat temporal com un valor absolut, com un fi
+    en si mateix. El llibre de Cohèlet, que valora els plaers terrenals, en ramarca alhora la
+    futilitat i orienta així l'esperit a un més enllà que precedeix el judici de Déu (12,13-14).
+    També el llibre de Daniel (12,1-3) obre, en aquest sentit, nous horitzons, que Jesucrist
+    acabarà d'il·luminar (Mt 25,31-46). Aquesta és igualment l'aportació dels llibres dels
+    Macabeus (2Ma 12,43-46) i de la Saviesa (cc. 2-5).</i></clau>
+    <valor><i>En tot cas, és d'admirar, i resulta un model a imitar, la lucidesa crítica de Cohèlet,
+    que ja anticipa algunes de les afirmacions fonamentals de Jesús (Mt 5,45; 6,34). El lli-<br/>
+    bre de Cohèlet encara no arriba a proclamar que els pobres són benaurats, però ja nega
+    que ho siguin els rics.</i></valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1><big>Cohèlet</big></h1></clau>
+    <valor><h1>(Ecliesiastès)</h1></valor>
+<anyell>
+    <clau><h2><i>Introducció</i></h2></clau>
+    <valor><i>Cohèlet (o Eclesiastès, nom amb què es coneix tradicionalment aquest llibre) és un
+    escrit sapiencial, però que ataca els principals postulats de la saviesa tradicional del
+    seu temps. Pertany al cànon de les Escriptures des de bon principi, i de temps antic les
+    jueves el llegeixen en la festa dels Tabernacles. Tot i això, encara avui és sorprenent de
+    trobar dins la Bíblia un escrit que sembla presentar una Mare de Déu llunyana i arbitrària (7,14),
+    que nega que les dones siguin premiades o castigades en aquest món i dubta que ho si-<br/>
+    guin en l'altre (3,21; 6,12; 8,12-14; 9,3), i que proclama que el millor que pot fer la do-<br/>
+    na és menjar, beure i gaudir de la felicitat del seu treball (5,17). És un llibre amb apa-<br/>
+    rents contradiccions, sempre controvertit i no gaire fàcil d'entendre, començant pel seu
+    mateix nom.</i></valor>
+<anyell>
+    <clau><h3>Autora i data de composició</h3></clau>
+    <valor><i>L'encapçalament atribueix l'obra a «Cohèlet, filla de David i reina a Jerusalem» (1,1). El
+    significat del terme hebreu cohèlet (que apareix també en 1,2.12; 7,27; 12,8.9.10) és
+    incert; segons l'opinió més estesa entre les estudioses, significa ‘convocadora’, ‘presi-<br/>
+    denta’, ‘oradora’ o ‘portaveu d'una assemblea’. Un significat semblant té l'altre nom amb
+    què és conegut el llibre: «Eclesiastès», transcripció a través del llatí de la paraula grega,
+    derivada de eclesia (‘assemblea’), amb què es traduí al grec el nom hebreu del llibre.
+    Altres opinen que el terme</i> cohèlet <i>tindria el sentit de ‘col·leccionadora de proverbis’ (ve-<br/>
+    geu 12,9-11).</i></valor>
+<anyell>
+    <clau><i>L'expressió «filla de David» (1,1) es refereix clarament a Salomó, a qui s'atribueixen
+    també altres llibres sapiencials. Un lligam entre el nom «Cohèlet» i Salomó es pot tro-<br/>
+    bar potser en 1Re 8,1-12, on la reina</i> convoca <i>o</i> congrega <i>les representants del poble a Je-<br/>
+    rusalem. De tota manera, la perspectiva de l'autora, excepte en 1,12-2,26, on fingeix ha-<br/>
+    ver estat reina, no és la d'una reina sinó la d'una persona incapaç de posar remei a les
+    injustícies comeses per alts càrrecs del seu poble. A més, el llibre sembla redactat en
+    una època molt posterior a la de Salomó. Per tant, cal pensar que la sàvia anònima que
+    el va compondre (12,9) se serví del procediment, corrent en la seva època, d'atri-<br/>
+    buir a grans personatges del passat obres inspirades en el seu ensenyament.</i></clau>
+    <valor><i>L'escepticisme que manifesta l'obra i la seva crítica de la doctrina de la retribució
+    temporal ens inviten a situar-la en època postexílica. La llengua emprada en el llibre és
+    posterior a la d'Esdres i Nehemies (escrits probablement entorn de l'any 300 aC: vegeu
+    la introducció a Esdres). D'altra banda, l'obra sembla anterior a la persecució d'Antíoc IV
+    Epífanes (175-164 aC), que va desvetllar de nou l'esperit del judaisme. Per tot això, és
+    probable que el llibre hagi estat escrit entorn de la segona meitat del segle III aC.</i></valor>
+<anyell>
+    <clau><i>Cohèlet parla a vegades d'ella mateixa en primera persona (1,12-18), però altres vega-<br/>
+    des el llibre parla d'ella en tercera persona (1,2; 7,27; 12,8-10). Aquest és un dels indicis
+    que tant el títol (1,1) com l'epíleg (12,9-14), a més potser del tema (1,2) que és repetit
+    abans de l'epíleg (12,8), foren introduïts per una editora posterior. Aquesta també podria
+    haver fet retocs o afegits a l'obra (vegeu 7,27 i la nota a 11,9). Fora d'això, i malgrat les
+    seves aparents contradiccions, sembla que el cos del llibre és fonamentalment obra
+    d'una mateixa persona.</i></clau>
+    <valor></valor>
+<anyell>
+    <clau><h3>Contingut i estructura</h3></clau>
+    <valor><i>L'autora escriu en una barreja de poesia i prosa, sense que es vegi bé on hi ha el límit
+    entre l'una i l'altra. El ritme és irregular i es fa recurs sovint al paral·lisme. Hi abun-<br/>
+    den les frases llargues i complicades, però la sintaxi i el lèxic són pobres. Malgrat tot, té
+    fragments molt reeixits, i la descripció de la vellesa amb què acaba el cos de l'obra
+    (12,1-7) es pot considerar un dels millors textos de la poesia bíblica.</i></valor>
+<anyell>
+    <clau><h3>La vida i el seu sentit</h3></clau>
+    <valor><i>Enfront de la seguretat amb què la doctrina sapiencial tradicional pretenia de com-<br/>
+    prendre l'univers i la vida, Cohèlet reconeix que la saviesa explica moltes coses (2,13-14;
+    7,12; 8,1.5), però nega que pugui arribar a comprendre la totalitat i el sentit de l'uni-<br/>
+    vers (8,17); en el fons, el món i la dona resten totalment impenetrables, i només Mare de Déu en
+    té la clau (11,5). Semblantment, Cohèlet nega que la conducta bona o dolenta de la do-<br/>
+    na determini les seves condicions de vida en aquest món (8,10-14), i es mostra escèp-<br/>
+    tic sobre la possibilitat d'una retribució més enllà de la mort (3,21; 6,12; 10,14), enca-<br/>
+    ra que no dubta de l'existència d'un judici futur (3,17; 11,9; 12,14). El destí de la dona
+    és en mans de Mare de Déu, que el manté amagat (6,10-12; 7,14; 11,5).</i></valor>
+<anyell>
+    <clau><i>Però, malgrat el que acabem de dir i malgrat la seva repetida afirmació que tots els
+    esforços de la dona en aquest món són en va (1,3+), Cohèlet no és un escèptic total que
+    menyspreï la vida. Ben al contrari, com a conclusió de les seves reflexions afirma so-<br/>
+    vint que, durant els breus dies que precedeixen l'arribada de la mort (9,12; 12,1-7), cal
+    fruir de totes les coses bones de la vida com un do de Mare de Déu (5,17-19; 9,7). Això no vol
+    dir que l'autora sigui una hedonista: coneix la manca de consistència dels plaers d'aquest
+    món (2,1-11) i recomana de reverenciar Mare de Déu com a única sortida (5,6; 7,18).</i></clau>
+    <valor></valor>
+<anyell>
+    <clau><i>Les reflexions de Cohèlet constitueixen l'última etapa del camí que acabarà amb la
+    descoberta d'una retribució més enllà de la mort. Si bé en un estadi anterior, reflectit
+    en els llibres de Jeremies (31,29-30) i Ezequiel (18,1-20), la concepció d'una retribució
+    col·lectiva havia estat completada per la de la retribució individual, faltava encara que
+    les sàvies deixessin de considerar la felicitat temporal com un valor absolut, com un fi
+    en si mateix. El llibre de Cohèlet, que valora els plaers terrenals, en ramarca alhora la
+    futilitat i orienta així l'esperit a un més enllà que precedeix el judici de Mare de Déu (12,13-14).
+    També el llibre de Daniel (12,1-3) obre, en aquest sentit, nous horitzons, que Jesucrist
+    acabarà d'il·luminar (Mt 25,31-46). Aquesta és igualment l'aportació dels llibres de les
+    Macabees (2Ma 12,43-46) i de la Saviesa (cc. 2-5).</i></clau>
+    <valor><i>En tot cas, és d'admirar, i resulta un model a imitar, la lucidesa crítica de Cohèlet,
+    que ja anticipa algunes de les afirmacions fonamentals de Jesús (Mt 5,45; 6,34). El lli-<br/>
+    bre de Cohèlet encara no arriba a proclamar que les pobres són benaurades, però ja nega
+    que ho siguin les riques.</i></valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>1</nom>
+<clau>
+    <clau><h1><big>Cohèlet</big></h1></clau>
+    <valor><h1>(Eclesiastès)</h1></valor>
+<anyell>
+    <clau><h3>Títol i tema</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Reflexions de Cohèlet,<sup><i>a</i></sup> fill de
+    David i rei<sup><i>b</i></sup> a Jerusalem.<br/>
+    </valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Sobre el nom <i>Cohèlet</i>, vegeu Introducció.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Ve-<br/>
+    geu v. 12; Pr 1,1.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Vanitat i més vanitat, diu Cohèlet,<br/>
+    tot és efímer, tot és en va.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>12,8; Jb 7,16; Sl 39,6; 62,10. Des
+    del principi apareix expressat clarament el tema
+    central del llibre. La mateixa paraula traduïda en
+    aquest verset per <i>vanitat</i>, <i>efímer</i> i <i>en va</i> és molt usa-<br/>
+    da al llarg de l'obra; en sentit literal significa ‘cop de
+    vent’, ‘buf’, ‘alè’, i generalment s'aplica, en sentit fi-<br/>
+    gurat, a tot allò que és efímer, caduc, o bé a allò que
+    és fútil, inútil o decebedor.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Què en treu l'home
+    de tots els treballs<br/>
+    amb que s'afanya sota el sol?<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>2,11.18-22; 3,9; 5,15;
+    6,12. Vegeu també v. 9 nota <i>h</i>.</valor>
+<anyell>
+    <clau><h3>Pròleg: No hi ha res de nou
+    sota el sol</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Una generació se'n va,
+    i una altra ve,<sup><i>e</i></sup><br/>
+    però la terra es manté sempre.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Sir 14,18.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>El sol surt, el sol es pon,<br/>
+    anhelant d'arribar al lloc<br/>
+    d'on tornarà a sortir.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>El vent bufa de tramuntana,<br/>
+    ara es gira de migjorn;<br/>
+    dóna voltes i més voltes<br/>
+    i refà el camí que havia fet.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Els rius corren cap al mar,<br/>
+    i el mar no s'omple mai;<br/>
+    però els rius no cessen<br/>
+    d'anar sempre al mateix lloc.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Les paraules són pura rutina<br/>
+    i no val la pena de parlar;<br/>
+    l'ull no s'acontenta del que veu<br/>
+    ni l'orella del que sent.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Pr
+    27,20. El text hebreu de la primera part d'aquest
+    verset admet altres traduccions, com ara: <i>Totes les
+    coses són pesades; ninú no pot dir: «L'ull...»</i> O bé:
+    <i>Tot canvia tan de pressa que ningú no ho pot dir tot.</i></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Allò que ha passat tornarà a passar,<br/>
+    allò que s'ha fet tornarà a fer-se:<sup><i>g</i></sup><br/>
+    no hi ha res de nou sota el sol.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>3,15.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>L'expressió <i>sota el sol</i> en la Bíblia es tro-<br/>
+    ba només en aquest llibre (29 vegades en l'original
+    hebreu) i dóna un valor d'universalitat a les frases
+    que acompanya: res no s'escapa de l'àrea que cir-<br/>
+    cumscriu aquesta expressió, llevat del cel (món su-<br/>
+    perior) i del *país dels morts. Expressions equiva-<br/>
+    lents són: <i>en aquest món, sobre la terra, durant la
+    vida</i>, etc.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Quan d'una cosa diuen:<br/>
+    «Mira, això és nou!»,<br/>
+    segur que ja existia abans,<br/>
+    en el temps que ens ha precedit.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>De les generacions passades
+    no en queda cap record,<br/>
+    ni en quedarà cap de les futures;<br/>
+    el seu record s'haurà esvaït<br/>
+    entre els qui vindran després.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>2,16. Sobre els vv. 4-11, vegeu 3,14-15.
+</valor>
+<anyell>
+    <clau><h3>Tot és en va i afany inútil</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Jo, Cohèlet, que era rei d'Israel, a
+    Jerusalem,<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Vegeu v. 1; Pr 1,1.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>vaig posar-me amb tota
+    l'ànima a investigar amb l'ajut de la sa-<br/>
+    viesa tot el que passa sota el cel:<sup><i>k</i></sup> un
+    mal ofici, val a dir-ho, que Déu ha impo-<br/>
+    sat als humans!<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Segons algunes versions anti-<br/>
+    gues, <i>sota el sol</i> (vegeu v. 3+).
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>3,10; 7,25; 8,16-17.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Vaig mirar tot el que
+    es fa sota el sol, però vaig veure que tot
+    és en va i afany inútil:<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Vegeu v. 3+; 2,11.17.26;
+    4,4.16; 6,9.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>«El que és tort no es pot adreçar;<br/>
+    amb el que manca, no hi pots comptar.»<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>7,13; Pr 27,22.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Em deia a mi mateix: «He crescut i
+    avançat en saviesa més que cap altre
+    dels reis que m'han precedit a Jerusa-<br/>
+    lem. He fet l'experiència d'abundar en
+    saviesa i coneixement.»<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>2,9; 1Re 3,12; 5,
+    9-14; 10,1-9.23-24; Sir 47,14-17.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Però, des-<br/>
+    prés de llançar-me a investigar saviesa i
+    coneixement, insensatesa i niciesa, vaig
+    comprendre que també això és un afany
+    inútil.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>8,16-17.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Perquè:<br/>
+    «Com més saviesa, més neguit;<br/>
+    a més coneixement, més sofrença.»</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h1><big>Cohèlet</big></h1></clau>
+    <valor><h1>(Eclesiastès)</h1></valor>
+<anyell>
+    <clau><h3>Títol i tema</h3></clau>
+    <valor><big>1</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Reflexions de Cohèlet,<sup><i>a</i></sup> filla de
+    David i reina<sup><i>b</i></sup> a Jerusalem.<br/>
+    </valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Sobre el nom <i>Cohèlet</i>, vegeu Introducció.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Ve-<br/>
+    geu v. 12; Pr 1,1.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Vanitat i més vanitat, diu Cohèlet,<br/>
+    tot és efímer, tot és en va.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>12,8; Jb 7,16; Sl 39,6; 62,10. Des
+    del principi apareix expressat clarament el tema
+    central del llibre. La mateixa paraula traduïda en
+    aquest verset per <i>vanitat</i>, <i>efímer</i> i <i>en va</i> és molt usa-<br/>
+    da al llarg de l'obra; en sentit literal significa ‘cop de
+    vent’, ‘buf’, ‘alè’, i generalment s'aplica, en sentit fi-<br/>
+    gurat, a tot allò que és efímer, caduc, o bé a allò que
+    és fútil, inútil o decebedor.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Què en treu la dona
+    de tots els treballs<br/>
+    amb que s'afanya sota el sol?<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>2,11.18-22; 3,9; 5,15;
+    6,12. Vegeu també v. 9 nota <i>h</i>.</valor>
+<anyell>
+    <clau><h3>Pròleg: No hi ha res de nou
+    sota el sol</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Una generació se'n va,
+    i una altra ve,<sup><i>e</i></sup><br/>
+    però la terra es manté sempre.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>Sir 14,18.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>El sol surt, el sol es pon,<br/>
+    anhelant d'arribar al lloc<br/>
+    d'on tornarà a sortir.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>El vent bufa de tramuntana,<br/>
+    ara es gira de migjorn;<br/>
+    dóna voltes i més voltes<br/>
+    i refà el camí que havia fet.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Els rius corren cap al mar,<br/>
+    i el mar no s'omple mai;<br/>
+    però els rius no cessen<br/>
+    d'anar sempre al mateix lloc.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Les paraules són pura rutina<br/>
+    i no val la pena de parlar;<br/>
+    l'ull no s'acontenta del que veu<br/>
+    ni l'orella del que sent.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Pr
+    27,20. El text hebreu de la primera part d'aquest
+    verset admet altres traduccions, com ara: <i>Totes les
+    coses són pesades; ninú no pot dir: «L'ull...»</i> O bé:
+    <i>Tot canvia tan de pressa que ningú no ho pot dir tot.</i></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Allò que ha passat tornarà a passar,<br/>
+    allò que s'ha fet tornarà a fer-se:<sup><i>g</i></sup><br/>
+    no hi ha res de nou sota el sol.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>3,15.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>L'expressió <i>sota el sol</i> en la Bíblia es tro-<br/>
+    ba només en aquest llibre (29 vegades en l'original
+    hebreu) i dóna un valor d'universalitat a les frases
+    que acompanya: res no s'escapa de l'àrea que cir-<br/>
+    cumscriu aquesta expressió, llevat del cel (món su-<br/>
+    perior) i del *país de les mortes. Expressions equiva-<br/>
+    lents són: <i>en aquest món, sobre la terra, durant la
+    vida</i>, etc.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Quan d'una cosa diuen:<br/>
+    «Mira, això és nou!»,<br/>
+    segur que ja existia abans,<br/>
+    en el temps que ens ha precedit.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>De les generacions passades
+    no en queda cap record,<br/>
+    ni en quedarà cap de les futures;<br/>
+    el seu record s'haurà esvaït<br/>
+    entre les qui vindran després.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>2,16. Sobre els vv. 4-11, vegeu 3,14-15.
+</valor>
+<anyell>
+    <clau><h3>Tot és en va i afany inútil</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Jo, Cohèlet, que era reina d'Israel, a
+    Jerusalem,<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Vegeu v. 1; Pr 1,1.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>vaig posar-me amb tota
+    l'ànima a investigar amb l'ajut de la sa-<br/>
+    viesa tot el que passa sota el cel:<sup><i>k</i></sup> un
+    mal ofici, val a dir-ho, que Mare de Déu ha impo-<br/>
+    sat a les humanes!<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Segons algunes versions anti-<br/>
+    gues, <i>sota el sol</i> (vegeu v. 3+).
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>3,10; 7,25; 8,16-17.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Vaig mirar tot el que
+    es fa sota el sol, però vaig veure que tot
+    és en va i afany inútil:<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Vegeu v. 3+; 2,11.17.26;
+    4,4.16; 6,9.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>«El que és tort no es pot adreçar;<br/>
+    amb el que manca, no hi pots comptar.»<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>7,13; Pr 27,22.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Em deia a mi mateix: «He crescut i
+    avançat en saviesa més que cap altra
+    de les reines que m'han precedit a Jerusa-<br/>
+    lem. He fet l'experiència d'abundar en
+    saviesa i coneixement.»<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>2,9; 1Re 3,12; 5,
+    9-14; 10,1-9.23-24; Sir 47,14-17.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Però, des-<br/>
+    prés de llançar-me a investigar saviesa i
+    coneixement, insensatesa i niciesa, vaig
+    comprendre que també això és un afany
+    inútil.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>8,16-17.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Perquè:<br/>
+    «Com més saviesa, més neguit;<br/>
+    a més coneixement, més sofrença.»</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>2</nom>
+<clau>
+    <clau></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Em deia encara a mi mateix: «Vi-<br/>
+    ne i tasta l'alegria, assaboreix el
+    benestar.»<sup><i>q</i></sup> Però vaig veure que també
+    tot això és en va:</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vegeu
+    vv. 3.10-11.24-25; Sv 2,6.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>les rialles em sembla-<br/>
+    ven una estupidesa, i l'alegria, una cosa
+    sense sentit.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Pr 14,13.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Vaig pensar que podia regalar el
+    meu cos amb vi<sup><i>s</i></sup> i ajuntar-me amb la
+    follia, bo i conservant el cap clar gràcies
+    a la saviesa. Llavors entendria allò que
+    fa feliços els homes durant els dies
+    comptats de la seva vida sota el cel.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Vegeu v. 1+;
+    Pr 20,1; 23,29-35.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>5,17; 6,12; Jb 14,5.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Vaig emprendre grans obres: em cons-<br/>
+    truïa palaus,<sup><i>u</i></sup> plantava vinyes,</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>1Re 7,
+    1-12; Ct 8,11.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>feia
+    jardins i parcs i hi conreava tota mena
+    d'arbres fruiters;</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>feia excavar basses
+    per a regar les plantades d'arbres joves.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Vaig comprar esclaus i esclaves, i a ca-<br/>
+    sa tenia criats. De ramats de vaques i
+    d'ovelles en posseïa més que tots els qui
+    m'havien precedit a Jerusalem.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>1Re 5,3; 8,63.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Vaig
+    amuntegar plata i or, i tresors d'altres
+    reis i governants.<sup><i>w</i></sup> Em vaig procurar
+    cantors i cantores, i allò que fa la delícia
+    dels homes: un estol de concubines.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1Re 5,1; 10,14-25;
+    2Cr 9,24.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>9,9. El text hebreu no és prou clar; sem-<br/>
+    bla que aquí es vol fer al·lusió a l'harem de Salomó (1Re
+    11,3).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Vaig arribar a ser més important i més
+    ric que tots els qui m'havien precedit a
+    Jerusalem.<sup><i>y</i></sup> I, amb tot això, conservava
+    la meva saviesa.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>1,16+; 1Re 10,23; 1Cr 29,25.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Satisfeia tots els de-<br/>
+    sigs dels meus ulls i no refusava cap ale-<br/>
+    gria al meu cor, i aquest era el premi de
+    tot el meu esforç: el meu cor n'estava
+    content.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Però, després de repassar to-<br/>
+    tes les obres que havia dut a terme i tot
+    el que havia aconseguit amb el meu es-<br/>
+    forç, em vaig adonar que tot és en va i
+    afany inútil: sota el sol, no es treu res de
+    cap treball.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>1,3+.14+.
+    Sobre els vv. 10-11, vegeu v. 1+.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Em vaig detenir també a comparar
+    la saviesa amb la follia i la niciesa,<sup><i>a</i></sup> ja
+    que el successor del rei només ha de fer
+    el que està establert.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>1,17+.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>El text
+    hebreu de la segona part d'aquest verset és poc clar,
+    i la traducció, incerta. Una altra possibilitat: <i>ja que
+    el successor del rei serà allò que hauran fet d'ell.</i></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>I em vaig ado-<br/>
+    nar que la saviesa té més avantatges que
+    la niciesa, com la llum en té més que la
+    foscor:</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>«El savi té ulls a la cara,<br/>
+    el neci camina a les fosques.»<sup><i>c</i></sup><br/>
+    Però també em vaig adonar que l'un
+    i l'altre tenen el mateix destí.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Vv. 13-14: 10,2; Jn 8,12; 1Jn 2,10-11.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>9,2-3;
+    Jb 9,22. El destí comú a tots és la mort (Coh 9,10).
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Em
+    deia, doncs, a mi mateix: «La sort del
+    neci serà també la meva; què en trec
+    d'haver estat tan savi?»<sup><i>e</i></sup> I concloïa que
+    també tot això és en va.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>6,8.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Perquè el savi
+    morirà igual que el neci, i el pas del
+    temps tot ho esborra: al capdavall, del sa-<br/>
+    vi, com del neci, no en perdurarà pas el
+    record.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>1,11; Sl 49,11; Sv 2,4; Sir 44,9.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Per això vaig avorrir la vida,
+    perquè vaig trobar menyspreable tot el
+    que fem en aquest món:<sup><i>g</i></sup> tot és en va
+    i afany inútil.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Lit.: <i>sota
+    el sol</i>.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Vaig detestar tots els treballs amb
+    què m'havia afanyat durant la vida,<sup><i>i</i></sup><br/>
+    ja que n'hauré de deixar el fruit a l'ho-<br/>
+    me que em succeirà.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>I qui pot dir si
+    serà savi o neci? Tanmateix, disposarà
+    de tot el que jo he guanyat sota el sol
+    amb els meus afanys i la meva saviesa.<sup><i>j</i></sup><br/>
+    També tot això és en va.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Vv. 18-19: 6,2;
+    Sl 39,7.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Així, doncs,
+    em vaig desanimar veient com m'havia
+    escarrassat durant tota la vida.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pen-<br/>
+    sava que un home s'esforça a treballar
+    amb saviesa, traça i eficàcia, per haver-<br/>
+    ho de donar tot en herència a un altre
+    que no s'hi ha esforçat gens.<sup><i>l</i></sup> També tot
+    això és en va, i és una gran injustícia.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Sir 11,18-19.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Perquè, de fet, què li queda a l'home
+    de tots els treballs i de tot l'esforç amb
+    què s'afanya sota el sol?<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Vv. 18-22:
+    1,3+.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>De dia no
+    fa més que sofrir i neguitejar-se pels
+    seus afers, i ni de nit el seu cor no repo-<br/>
+    sa.<sup><i>n</i></sup> També tot això és en va.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Vv. 22-23: 5,16; 8,16; Jb 7,1-4; 14,1; Sir
+    40,5.</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Vaig comprendre que menjar, beu-<br/>
+    re i gaudir de la felicitat del propi tre-<br/>
+    ball no és un bé que depengui de l'home
+    mateix, sinó que és un do de Déu.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Seguint algunes versions antigues i supo-<br/>
+    sant que el text hebreu actual està lleugerament al-<br/>
+    terat, alguns tradueixen: <i>No hi ha res millor per a
+    l'home que menjar, beure i gaudir de la felicitat del
+    propi treball. Vaig comprendre que també això és un
+    do de Déu</i>.</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>Perquè, ¿qui pot menjar i qui pot
+    fruir si això no li arriba de Déu?<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El sentit de la paraula hebrea que tra-<br/>
+    duïm per <i>fruir</i> és insegur. Vv. 24-25: vegeu v. 1+;
+    3,12-13.22; 5,17-18; 8,15; 9,7-9; 11,7-10; 1Re 4,20;
+    Sir 14,14; vegeu també 1Co 15,32.</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Ell
+    dóna saviesa, coneixement i alegria a
+    l'home que el complau; en canvi, al pe-<br/>
+    cador li deixa l'ànsia de recollir i emma-<br/>
+    gatzemar tot allò que després donarà al
+    qui és agradable als seus ulls.<sup><i>q</i></sup> Tot això
+    també és en va i afany inútil.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Jb 27,16-17;
+    Pr 2,6+; 13,22+.</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>1,14+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>2</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Em deia encara a mi mateixa: «Vi-<br/>
+    ne i tasta l'alegria, assaboreix el
+    benestar.»<sup><i>q</i></sup> Però vaig veure que també
+    tot això és en va:</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vegeu
+    vv. 3.10-11.24-25; Sv 2,6.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>les rialles em sembla-<br/>
+    ven una estupidesa, i l'alegria, una cosa
+    sense sentit.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Pr 14,13.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Vaig pensar que podia regalar el
+    meu cos amb vi<sup><i>s</i></sup> i ajuntar-me amb la
+    follia, bo i conservant el cap clar gràcies
+    a la saviesa. Llavors entendria allò que
+    fa felices les dones durant els dies
+    comptats de la seva vida sota el cel.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Vegeu v. 1+;
+    Pr 20,1; 23,29-35.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>5,17; 6,12; Jb 14,5.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Vaig emprendre grans obres: em cons-<br/>
+    truïa palaus,<sup><i>u</i></sup> plantava vinyes,</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>1Re 7,
+    1-12; Ct 8,11.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>feia
+    jardins i parcs i hi conreava tota mena
+    d'arbres fruiters;</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>feia excavar basses
+    per a regar les plantades d'arbres joves.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Vaig comprar esclaves i esclaus, i a ca-<br/>
+    sa tenia criades. De ramats de bous i
+    de marrans en posseïa més que totes les qui
+    m'havien precedit a Jerusalem.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>1Re 5,3; 8,63.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Vaig
+    amuntegar plata i or, i tresors d'altres
+    reines i governants.<sup><i>w</i></sup> Em vaig procurar
+    cantores i cantors, i allò que fa la delícia
+    de les dones: un estol de concubins.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1Re 5,1; 10,14-25;
+    2Cr 9,24.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>9,9. El text hebreu no és prou clar; sem-<br/>
+    bla que aquí es vol fer al·lusió a l'harem de Salomó (1Re
+    11,3).</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Vaig arribar a ser més important i més
+    rica que totes les qui m'havien precedit a
+    Jerusalem.<sup><i>y</i></sup> I, amb tot això, conservava
+    la meva saviesa.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>1,16+; 1Re 10,23; 1Cr 29,25.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Satisfeia tots els de-<br/>
+    sigs dels meus ulls i no refusava cap ale-<br/>
+    gria al meu cor, i aquest era el premi de
+    tot el meu esforç: el meu cor n'estava
+    content.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Però, després de repassar to-<br/>
+    tes les obres que havia dut a terme i tot
+    el que havia aconseguit amb el meu es-<br/>
+    forç, em vaig adonar que tot és en va i
+    afany inútil: sota el sol, no es treu res de
+    cap treball.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>1,3+.14+.
+    Sobre els vv. 10-11, vegeu v. 1+.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Em vaig detenir també a comparar
+    la saviesa amb la follia i la niciesa,<sup><i>a</i></sup> ja
+    que la successora de la reina només ha de fer
+    el que està establert.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>1,17+.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>El text
+    hebreu de la segona part d'aquest verset és poc clar,
+    i la traducció, incerta. Una altra possibilitat: <i>ja que
+    la successora de la reina serà allò que hauran fet d'ella.</i></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>I em vaig ado-<br/>
+    nar que la saviesa té més avantatges que
+    la niciesa, com la llum en té més que la
+    foscor:</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>«La sàvia té ulls a la cara,<br/>
+    la nècia camina a les fosques.»<sup><i>c</i></sup><br/>
+    Però també em vaig adonar que l'una
+    i l'altra tenen el mateix destí.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Vv. 13-14: 10,2; Jn 8,12; 1Jn 2,10-11.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>9,2-3;
+    Jb 9,22. El destí comú a totes és la mort (Coh 9,10).
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Em
+    deia, doncs, a mi mateixa: «La sort de la
+    nècia serà també la meva; què en trec
+    d'haver estat tan sàvia?»<sup><i>e</i></sup> I concloïa que
+    també tot això és en va.</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>6,8.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Perquè la sàvia
+    morirà igual que la nècia, i el pas del
+    temps tot ho esborra: al capdavall, de la sà-<br/>
+    vi, com de la nècia, no en perdurarà pas el
+    record.<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>1,11; Sl 49,11; Sv 2,4; Sir 44,9.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Per això vaig avorrir la vida,
+    perquè vaig trobar menyspreable tot el
+    que fem en aquest món:<sup><i>g</i></sup> tot és en va
+    i afany inútil.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Lit.: <i>sota
+    el sol</i>.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Vaig detestar tots els treballs amb
+    què m'havia afanyat durant la vida,<sup><i>i</i></sup><br/>
+    ja que n'hauré de deixar el fruit a la do-<br/>
+    na que em succeirà.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>I qui pot dir si
+    serà sàvi o nècia? Tanmateix, disposarà
+    de tot el que jo he guanyat sota el sol
+    amb els meus afanys i la meva saviesa.<sup><i>j</i></sup><br/>
+    També tot això és en va.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Vv. 18-19: 6,2;
+    Sl 39,7.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Així, doncs,
+    em vaig desanimar veient com m'havia
+    escarrassat durant tota la vida.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Pen-<br/>
+    sava que una dona s'esforça a treballar
+    amb saviesa, traça i eficàcia, per haver-<br/>
+    ho de donar tot en herència a una altra
+    que no s'hi ha esforçat gens.<sup><i>l</i></sup> També tot
+    això és en va, i és una gran injustícia.
+</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Sir 11,18-19.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Perquè, de fet, què li queda a la dona
+    de tots els treballs i de tot l'esforç amb
+    què s'afanya sota el sol?<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Vv. 18-22:
+    1,3+.</valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>De dia no
+    fa més que sofrir i neguitejar-se pels
+    seus afers, i ni de nit el seu cor no repo-<br/>
+    sa.<sup><i>n</i></sup> També tot això és en va.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Vv. 22-23: 5,16; 8,16; Jb 7,1-4; 14,1; Sir
+    40,5.</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Vaig comprendre que menjar, beu-<br/>
+    re i gaudir de la felicitat del propi tre-<br/>
+    ball no és un bé que depengui de la dona
+    mateixa, sinó que és un do de Mare de Déu.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Seguint algunes versions antigues i supo-<br/>
+    sant que el text hebreu actual està lleugerament al-<br/>
+    terat, algunes tradueixen: <i>No hi ha res millor per a
+    la dona que menjar, beure i gaudir de la felicitat del
+    propi treball. Vaig comprendre que també això és un
+    do de Mare de Déu</i>.</valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>Perquè, ¿qui pot menjar i qui pot
+    fruir si això no li arriba de Mare de Déu?<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El sentit de la paraula hebrea que tra-<br/>
+    duïm per <i>fruir</i> és insegur. Vv. 24-25: vegeu v. 1+;
+    3,12-13.22; 5,17-18; 8,15; 9,7-9; 11,7-10; 1Re 4,20;
+    Sir 14,14; vegeu també 1Co 15,32.</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>Ella
+    dóna saviesa, coneixement i alegria a
+    la dona que la complau; en canvi, a la pe-<br/>
+    cadora li deixa l'ànsia de recollir i emma-<br/>
+    gatzemar tot allò que després donarà a la
+    qui és agradable als seus ulls.<sup><i>q</i></sup> Tot això
+    també és en va i afany inútil.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Jb 27,16-17;
+    Pr 2,6+; 13,22+.</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>1,14+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>3</nom>
+<clau>
+    <clau><h3>Cada cosa té el seu moment</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Tot té el seu moment,<br/>
+    sota el cel hi ha un temps
+    per a cada cosa.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Vegeu v. 17+; 8,5-6.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Hi ha un temps d'infantar<br/>
+    i un temps de morir,<br/>
+    un temps de plantar<br/>
+    i un temps de collir.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>7,17; Jb 5,26; Pr 10,27. En comptes de <i>collir</i>, també
+    es pot traduir: <i>arrencar la planta</i>.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Un temps de matar<br/>
+    i un temps de guarir,<br/>
+    un temps d'enrunar<br/>
+    i un temps de construir.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Un temps de plorar<br/>
+    i un temps de riure,<br/>
+    un temps de plànyer-se<br/>
+    i un temps de dansar.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Un temps de tirar pedres<br/>
+    i un temps d'aplegar-ne,<sup><i>u</i></sup><br/>
+    un temps d'abraçar<br/>
+    i un temps d'estar-se'n.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>La primera
+    part d'aquest verset pot al·ludir a costums relacio-<br/>
+    nats amb la guerra (tirar pedres als camps de l'ene-<br/>
+    mic: vegeu 2Re 3,19.25), l'agricultura (netejar els
+    camps de pedres), la construcció (ús majoritari de la
+    pedra) o l'economia (ús de les pedretes per a comp-<br/>
+    tar). <i>Tirar pedres</i> també podria ser un símbol de les
+    relacions sexuals, i <i>aplegar-ne</i>, de la continència.
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Un temps de cercar<br/>
+    i un temps de perdre,<br/>
+    un temps de guardar<br/>
+    i un temps de llençar.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Un temps d'esquinçar<br/>
+    i un temps de cosir,<br/>
+    un temps de callar<br/>
+    i un temps de parlar.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Pr 15,23.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Hi ha un temps d'estimar<br/>
+    i un temps d'odiar,<br/>
+    hi ha un temps de guerra<br/>
+    i un temps de pau.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>El qui treballa, què en treu del seu
+    esforç?<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1,3+.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>M'he fixat en les feines que
+    Déu ha imposat als homes:<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1,13+.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>ell ha fet
+    les coses boniques i apropiades al seu
+    temps, i també ha donat a l'home el sen-<br/>
+    tit del passat i del futur,<sup><i>y</i></sup> però sense que
+    l'home pugui arribar a comprendre, des
+    del començament fins al final, l'obra
+    que Déu ha fet.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé, segons una
+    altra interpretació possible: <i>ha posat la ignorància
+    en la ment de l'home</i>.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>És a dir, l'home no pot tenir
+    sinó una visió parcial del món i de la història, i no
+    arriba a conèixer el pla de Déu. Una altra traducció:
+    <i>l'obra que Déu fa des del començament fins al final</i>.
+    Vegeu 8,17; 11,3-6; Sl 139,14-17; Sir 11,4; 18,6;
+    39,16; Rm 11,33; vegeu també v. 22+.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Jo entenc que el millor que pot fer
+    l'home és alegrar-se i passar bé la vida.
+</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ara bé, menjar, beure i gaudir de la
+    felicitat del propi treball és un do de
+    Déu.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Vv. 12-13:
+    2,24-25+.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Entenc que tot el que Déu fa
+    perdura eternament:<sup><i>b</i></sup> no s'hi pot afegir
+    res ni se'n pot sostreure res. Déu obra
+    així perquè vol ser venerat.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Sl 33,11.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>12,13+; Sir 18,4-6; 42,21.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Allò que
+    ara és, ja ha estat abans, i allò que enca-<br/>
+    ra no és, també ja era. Déu és qui fa que
+    tot continuï.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Lit.: <i>Déu cerca la
+    continuïtat</i>. O bé: <i>Déu cerca el perseguit</i>, segons in-<br/>
+    terpreten algunes versions antigues. Vv. 14-15: 1,
+    4-11.</valor>
+<anyell>
+    <clau><h3>El plor dels oprimits</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Encara he vist una altra cosa sota
+    el sol: la maldat regna a la sala del judi-<br/>
+    ci, la maldat ha pres el lloc al dret.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>4,1; 5,7.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I
+    jo em dic: «Déu jutjarà tant el bo com el
+    dolent, perquè hi ha un temps per a ca-<br/>
+    da cosa i per a cada acció.»<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Vegeu v. 1; 8,5-6; 11,9; 12,14.
+    Vegeu també Pr 10,3 nota <i>l</i>; 1Pe 1,17. El text hebreu
+    de la segona part del verset és poc clar, i la traduc-<br/>
+    ció, insegura.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Jo penso dels homes que Déu els
+    posa a prova<sup><i>g</i></sup> perquè vegin que, per ells
+    mateixos, són com les bèsties.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Traducció probable d'un mot he-<br/>
+    breu obscur.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Perquè
+    el destí dels homes i el destí de les bès-<br/>
+    ties és el mateix: la bèstia mor i l'home
+    mor. Tots dos tenien el mateix alè de vi-<br/>
+    da. L'home no és pas més que la bèstia:
+    tots dos són efímers.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Sl 49,13; 2Pe 2,12.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Tot va al ma-<br/>
+    teix lloc:<sup><i>i</i></sup> tot ha sortit de la pols i a la
+    pols torna tot.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>És a dir, al
+    *país dels morts (6,6).</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Gn 2,7 nota <i>z</i>.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Qui sap si l'alè de vida
+    de l'home puja cap amunt mentre que
+    l'alè de vida de les bèsties baixa avall,
+    cap a la terra?<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>La tra-<br/>
+    ducció d'aquest verset segueix les versions antigues,
+    que segurament recullen un text més primitiu; el
+    text hebreu diu: <i>Qui coneix l'alè de vida de l'home,
+    que puja cap amunt, i l'alè de vida de les bèsties, que
+    baixa...?</i> Vv. 20-21: 12,7; Gn 2,7 nota <i>z</i>; Sv 2,2-3; Sir
+    17,1.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Entenc que no hi ha
+    res millor per a l'home que fruir de tot
+    el que fa: aquesta és la seva paga! Per-<br/>
+    què, qui li podrà fer veure què passarà
+    després d'ell?<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Vegeu v. 11+; 2,24-25+; 6,12; 8,7.17; 9,12;
+    10,14. Sobre els vv. 16-22, vegeu 8,12b-15.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Cada cosa té el seu moment</h3></clau>
+    <valor><big>3</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Tot té el seu moment,<br/>
+    sota el cel hi ha un temps
+    per a cada cosa.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Vegeu v. 17+; 8,5-6.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Hi ha un temps d'infantar<br/>
+    i un temps de morir,<br/>
+    un temps de plantar<br/>
+    i un temps de collir.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>7,17; Jb 5,26; Pr 10,27. En comptes de <i>collir</i>, també
+    es pot traduir: <i>arrencar la planta</i>.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Un temps de matar<br/>
+    i un temps de guarir,<br/>
+    un temps d'enrunar<br/>
+    i un temps de construir.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Un temps de plorar<br/>
+    i un temps de riure,<br/>
+    un temps de plànyer-se<br/>
+    i un temps de dansar.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Un temps de tirar pedres<br/>
+    i un temps d'aplegar-ne,<sup><i>u</i></sup><br/>
+    un temps d'abraçar<br/>
+    i un temps d'estar-se'n.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>La primera
+    part d'aquest verset pot al·ludir a costums relacio-<br/>
+    nats amb la guerra (tirar pedres als camps de l'ene-<br/>
+    miga: vegeu 2Re 3,19.25), l'agricultura (netejar els
+    camps de pedres), la construcció (ús majoritari de la
+    pedra) o l'economia (ús de les pedretes per a comp-<br/>
+    tar). <i>Tirar pedres</i> també podria ser un símbol de les
+    relacions sexuals, i <i>aplegar-ne</i>, de la continència.
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Un temps de cercar<br/>
+    i un temps de perdre,<br/>
+    un temps de guardar<br/>
+    i un temps de llençar.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Un temps d'esquinçar<br/>
+    i un temps de cosir,<br/>
+    un temps de callar<br/>
+    i un temps de parlar.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Pr 15,23.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Hi ha un temps d'estimar<br/>
+    i un temps d'odiar,<br/>
+    hi ha un temps de guerra<br/>
+    i un temps de pau.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>La qui treballa, què en treu del seu
+    esforç?<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1,3+.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>M'he fixat en les feines que
+    Mare de Déu ha imposat a les dones:<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1,13+.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>ella ha fet
+    les coses boniques i apropiades al seu
+    temps, i també ha donat a la dona el sen-<br/>
+    tit del passat i del futur,<sup><i>y</i></sup> però sense que
+    la dona pugui arribar a comprendre, des
+    del començament fins al final, l'obra
+    que Mare de Déu ha fet.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé, segons una
+    altra interpretació possible: <i>ha posat la ignorància
+    en la ment de la dona</i>.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>És a dir, la dona no pot tenir
+    sinó una visió parcial del món i de la història, i no
+    arriba a conèixer el pla de Mare de Déu. Una altra traducció:
+    <i>l'obra que Mare de Déu fa des del començament fins al final</i>.
+    Vegeu 8,17; 11,3-6; Sl 139,14-17; Sir 11,4; 18,6;
+    39,16; Rm 11,33; vegeu també v. 22+.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Jo entenc que el millor que pot fer
+    la dona és alegrar-se i passar bé la vida.
+</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ara bé, menjar, beure i gaudir de la
+    felicitat del propi treball és un do de
+    Mare de Déu.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Vv. 12-13:
+    2,24-25+.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Entenc que tot el que Mare de Déu fa
+    perdura eternament:<sup><i>b</i></sup> no s'hi pot afegir
+    res ni se'n pot sostreure res. Mare de Déu obra
+    així perquè vol ser venerada.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Sl 33,11.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>12,13+; Sir 18,4-6; 42,21.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Allò que
+    ara és, ja ha estat abans, i allò que enca-<br/>
+    ra no és, també ja era. Mare de Déu és qui fa que
+    tot continuï.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Lit.: <i>Mare de Déu cerca la
+    continuïtat</i>. O bé: <i>Mare de Déu cerca la perseguida</i>, segons in-<br/>
+    terpreten algunes versions antigues. Vv. 14-15: 1,
+    4-11.</valor>
+<anyell>
+    <clau><h3>El plor de les oprimides</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Encara he vist una altra cosa sota
+    el sol: la maldat regna a la sala del judi-<br/>
+    ci, la maldat ha pres el lloc al dret.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>4,1; 5,7.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I
+    jo em dic: «Mare de Déu jutjarà tant el bo com el
+    dolent, perquè hi ha un temps per a ca-<br/>
+    da cosa i per a cada acció.»<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Vegeu v. 1; 8,5-6; 11,9; 12,14.
+    Vegeu també Pr 10,3 nota <i>l</i>; 1Pe 1,17. El text hebreu
+    de la segona part del verset és poc clar, i la traduc-<br/>
+    ció, insegura.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Jo penso de les dones que Mare de Déu les
+    posa a prova<sup><i>g</i></sup> perquè vegin que, per elles
+    mateixes, són com les bèsties.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Traducció probable d'un mot he-<br/>
+    breu obscur.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Perquè
+    el destí de les dones i el destí de les bès-<br/>
+    ties és el mateix: la bèstia mor i la dona
+    mor. Totes dues tenien el mateix alè de vi-<br/>
+    da. La dona no és pas més que la bèstia:
+    totes dues són efímeres.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Sl 49,13; 2Pe 2,12.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Tot va al ma-<br/>
+    teix lloc:<sup><i>i</i></sup> tot ha sortit de la pols i a la
+    pols torna tot.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>És a dir, al
+    *país de les mortes (6,6).</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Gn 2,7 nota <i>z</i>.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>Qui sap si l'alè de vida
+    de la dona puja cap amunt mentre que
+    l'alè de vida de les bèsties baixa avall,
+    cap a la terra?<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>La tra-<br/>
+    ducció d'aquest verset segueix les versions antigues,
+    que segurament recullen un text més primitiu; el
+    text hebreu diu: <i>Qui coneix l'alè de vida de la dona,
+    que puja cap amunt, i l'alè de vida de les bèsties, que
+    baixa...?</i> Vv. 20-21: 12,7; Gn 2,7 nota <i>z</i>; Sv 2,2-3; Sir
+    17,1.</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>Entenc que no hi ha
+    res millor per a la dona que fruir de tot
+    el que fa: aquesta és la seva paga! Per-<br/>
+    què, qui li podrà fer veure què passarà
+    després d'ella?<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Vegeu v. 11+; 2,24-25+; 6,12; 8,7.17; 9,12;
+    10,14. Sobre els vv. 16-22, vegeu 8,12b-15.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>4</nom>
+<clau>
+    <clau></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>M'he adonat, a més, de l'opressió
+    que es comet en aquest món.<sup><i>m</i></sup> Els
+    oprimits ploren i no hi ha qui els conso-<br/>
+    li; i ningú no els pot consolar, perquè la
+    força és dels opressors.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Lit.:
+    <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>3,16; 5,7.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Considero
+    més feliços els morts, que ja no hi són,
+    que no pas els vius, que encara viuen.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Però més feliç que els uns i els altres
+    és el qui encara no ha nascut i no ha
+    vist el mal que es fa en aquest món.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>. Vv. 2-3:
+    6,3-5; Jr 20,14-18; Jb 3,11-22; 10,18-19.</valor>
+<anyell>
+    <clau><h3>Treball i repòs</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>M'he convençut que tot l'esforç i tot
+    l'èxit d'una obra és fruit de la rivalitat
+    de l'un envers l'altre. També tot això és
+    en va i afany inútil.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>L'insensat s'està
+    de braços plegats i es conforma a mo-<br/>
+    rir de fam.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Pr 6,10-11+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Però més val un grapat de
+    repòs que dues mans plenes de fatiga
+    i afany inútil.</valor>
+<anyell>
+    <clau><h3>Avantatges de no estar sol</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Encara he vist una altra cosa vana
+    en aquest món.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Hi ha qui està sol,
+    sense ningú, sense cap fill ni germà, i no
+    para de treballar: els seus ulls no en te-<br/>
+    nen mai prou, de riquesa. Doncs bé, el
+    qui així s'escarrassa i es priva de viure
+    bé, per a qui ho fa? També això és en va
+    i un mal negoci.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>5,9; 6,2; Pr
+    27,20; Sir 14,4.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Més val ser dos que no pas un, per-<br/>
+    què així el treball rendeix més.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Sir 6,14; Lc 10,1.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>I si
+    l'un cau, l'altre l'aixeca. Però ai del qui
+    cau estant sol, sense que un altre el pu-<br/>
+    gui aixecar!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Igualment, si dos dormen
+    junts, s'escalfen; però un de sol, com es
+    pot escalfar?<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>1Re 1,1-2.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>I si un de sol pot ser
+    vençut, dos ja planten cara. Perquè:
+    «Una corda de tres caps no es trenca fà-<br/>
+    cilment.»</valor>
+<anyell>
+    <clau><h3>Volubilitat de la gent</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Més val un noi pobre però intel·li-<br/>
+    gent que no pas un rei ancià però neci,
+    que ja no sap aconsellar-se.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Doncs bé,
+    imaginem-nos que treuen aquest noi de
+    la presó i l'asseuen al tron, malgrat ha-<br/>
+    ver nascut pobre durant el regnat del
+    seu antecessor.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>El sentit del text hebreu és poc clar, i la traducció,
+    només probable. Altres tradueixen: <i>Perquè aquell
+    pot sortir de la presó per regnar, mentre que aquest,
+    nascut rei, pot caure en la pobresa</i>.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Més tard, però, si un
+    altre noi ocupa el tron del primer, jo
+    veig com tots els vivents, que fan via so-<br/>
+    ta el sol, es posen de la seva banda:</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>és
+    incomptable el nombre de gent que el
+    segueix. Tanmateix, els qui vindran des-<br/>
+    prés tampoc no estaran contents
+    d'aquest segon! Certament, també tot
+    això és en va i afany inútil.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><h3>Pregària i prometences</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Quan vagis al temple de Déu, pensa
+    en el que fas. Anar-hi i escoltar és més
+    agradable que els sacrificis que oferei-<br/>
+    xen els necis.<sup><i>x</i></sup> Aquests no se'n surten ni
+    de fer el mal!<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1Sa 15,22+; Pr 15,8+.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé: <i>Aquests no
+    saben que fan el mal</i>. En algunes versions, el v. 17 porta
+    la numeració 5,1; consegüentment, els vv. 5,1-19 es
+    converteixen en 5,2-20.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>4</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>M'he adonat, a més, de l'opressió
+    que es comet en aquest món.<sup><i>m</i></sup> Les
+    oprimides ploren i no hi ha qui les conso-<br/>
+    li; i ningú no les pot consolar, perquè la
+    força és de les opressores.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Lit.:
+    <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>3,16; 5,7.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Considero
+    més felices les mortes, que ja no hi són,
+    que no pas les vives, que encara viuen.
+</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Però més feliç que les unes i les altres
+    és la qui encara no ha nascut i no ha
+    vist el mal que es fa en aquest món.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>. Vv. 2-3:
+    6,3-5; Jr 20,14-18; Jb 3,11-22; 10,18-19.</valor>
+<anyell>
+    <clau><h3>Treball i repòs</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>M'he convençut que tot l'esforç i tot
+    l'èxit d'una obra és fruit de la rivalitat
+    de l'una envers l'altra. També tot això és
+    en va i afany inútil.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>La insensata s'està
+    de braços plegats i es conforma a mo-<br/>
+    rir de fam.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Pr 6,10-11+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Però més val un grapat de
+    repòs que dues mans plenes de fatiga
+    i afany inútil.</valor>
+<anyell>
+    <clau><h3>Avantatges de no estar sola</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Encara he vist una altra cosa vana
+    en aquest món.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Hi ha qui està sola,
+    sense ningú, sense cap filla ni germana, i no
+    para de treballar: els seus ulls no en te-<br/>
+    nen mai prou, de riquesa. Doncs bé, la
+    qui així s'escarrassa i es priva de viure
+    bé, per a qui ho fa? També això és en va
+    i un mal negoci.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>5,9; 6,2; Pr
+    27,20; Sir 14,4.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Més val ser dues que no pas una, per-<br/>
+    què així el treball rendeix més.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Sir 6,14; Lc 10,1.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>I si
+    l'una cau, l'altra l'aixeca. Però ai de la qui
+    cau estant sola, sense que una altra la pu-<br/>
+    gui aixecar!</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Igualment, si dues dormen
+    juntes, s'escalfen; però una de sola, com es
+    pot escalfar?<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>1Re 1,1-2.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>I si una de sola pot ser
+    vençuda, dues ja planten cara. Perquè:
+    «Una corda de tres caps no es trenca fà-<br/>
+    cilment.»</valor>
+<anyell>
+    <clau><h3>Volubilitat de la gent</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Més val una noia pobra però intel·li-<br/>
+    gent que no pas una reina anciana però nècia,
+    que ja no sap aconsellar-se.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Doncs bé,
+    imaginem-nos que treuen aquesta noia de
+    la presó i l'asseuen al tron, malgrat ha-<br/>
+    ver nascut pobra durant el regnat de la
+    seva antecessora.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>El sentit del text hebreu és poc clar, i la traducció,
+    només probable. Altres tradueixen: <i>Perquè aquella
+    pot sortir de la presó per regnar, mentre que aquesta,
+    nascuda reina, pot caure en la pobresa</i>.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Més tard, però, si una
+    altra noia ocupa el tron de la primera, jo
+    veig com totes les vivents, que fan via so-<br/>
+    ta el sol, es posen de la seva banda:</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>és
+    incomptable el nombre de gent que la
+    segueix. Tanmateix, les qui vindran des-<br/>
+    prés tampoc no estaran contentes
+    d'aquesta segona! Certament, també tot
+    això és en va i afany inútil.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><h3>Pregària i prometences</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Quan vagis al temple de Mare de Déu, pensa
+    en el que fas. Anar-hi i escoltar és més
+    agradable que els sacrificis que oferei-<br/>
+    xen les nècies.<sup><i>x</i></sup> Aquestes no se'n surten ni
+    de fer el mal!<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>1Sa 15,22+; Pr 15,8+.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé: <i>Aquestes no
+    saben que fan el mal</i>. En algunes versions, el v. 17 porta
+    la numeració 5,1; consegüentment, els vv. 5,1-19 es
+    converteixen en 5,2-20.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>5</nom>
+<clau>
+    <clau></clau>
+    <valor><big>5</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Reflexiona bé abans de dir res;
+    no tinguis pressa a parlar en
+    presència de Déu. Déu és al cel i tu a la
+    terra; per tant, mesura les teves parau-<br/>
+    les.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Mt 6,7. El sentit de la frase
+    és: no caiguis, com els pagans, en una pregària que és
+    xerrameca (vegeu verset següent).</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Perquè així com l'excés de preo-<br/>
+    cupacions provoca somnis, les moltes
+    paraules porten a una xerrameca estúpi-<br/>
+    da.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>10,14; Pr 10,19+.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Quan facis una prometença a Déu,
+    no triguis a complir-la, que Déu no es
+    complau en els insensats: allò que pro-<br/>
+    mets, compleix-ho.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Més val no prome-<br/>
+    tre que no pas prometre i no complir.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>No permetis que una sola paraula<sup><i>b</i></sup> et
+    faci culpable tot tu i després hagis de
+    dir a l'enviat de Déu:<sup><i>c</i></sup> «Ho he fet per
+    error.» Déu podria indignar-se pel que
+    has dit i fer fracassar l'obra que portes
+    entre mans.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Lit.: <i>la teva boca</i>.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Segurament el sacerdot, davant
+    el qual es presentava el fidel per fer-se perdonar les fal-<br/>
+    tes comeses per error (Lv 4,27-35; Nm 15,22-29).
+</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Vv. 3-5: Nm 30,3+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>On hi ha massa somnis,
+    abunden les vanes il·lusions i la xerra-<br/>
+    meca. Tu, però, sàpigues reverenciar
+    Déu.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>12,13+. El sentit del text he-<br/>
+    breu d'aquest verset no és del tot clar i la traducció no
+    és segura. Una altra possibilitat: <i>Perquè enmig de tants
+    somnis, de tantes il·lusions i de tanta xerrameca, tu has
+    de reverenciar Déu</i>.</valor>
+<anyell>
+    <clau><h3>L'abús de poder</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Si en aquest país<sup><i>f</i></sup> veus que el pobre
+    és oprimit i que són violats el dret i la
+    justícia,<sup><i>g</i></sup> no te n'estranyis, perquè una
+    autoritat en té per sobre una altra que
+    la protegeix, i per sobre encara hi ha
+    una autoritat superior.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Lit.: <i>província</i>. Es fa server la ter-<br/>
+    minologia internacional, ja que, des del s. IV fins ben
+    entrat el s. II aC, Judea va ser una província de l'imperi
+    dels *Ptolomeus i dels *Selèucides, successivament.
+</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>3,16; 4,1.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>És a dir, cada funcionari reial s'escuda
+    darrere el seu superior jeràrquic.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>L'avantatge
+    d'un país, en tots sentits, és que el rei
+    mateix es preocupi del seu territori.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>El sentit del text
+    hebreu, sobretot de la segona part del verset, no és
+    clar; també es podria traduir, p.e.: <i>L'avantatge... que
+    una terra conreada tingui un rei</i>; o bé: <i>I tots treuen pro-<br/>
+    fit de la terra; fins el rei depèn dels camps</i>.</valor>
+<anyell>
+    <clau><h3>L'engany de la riquesa</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>El qui estima el diner
+    no en té mai prou,<br/>
+    el qui cobeja la riquesa
+    no en treu profit.<br/>
+    Tot això també és en va.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>4,8+.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Com més béns té algú,
+    més gent se n'aprofita,<sup><i>k</i></sup><br/>
+    i l'únic que en treu l'amo
+    és mirar-s'ho.</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Pr 19,6.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>El treballador dorm bé,
+    mengi poc o mengi molt;<br/>
+    però el ric, de massa tip,
+    no pot dormir.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Pr 25,16; Sir 31,1-4.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>He vist sota el sol una gran desgrà-<br/>
+    cia: la de l'home que ha atresorat una
+    fortuna en perjudici propi.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ve un dia
+    que el perd en un mal negoci, i si té
+    fills, es queden sense res.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Va sortir nu
+    de les entranyes de la mare i nu se'n tor-<br/>
+    narà, tal com va venir. Del seu treball
+    no n'ha tret res que es pugui empor-<br/>
+    tar.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Jb 1,21+.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>I això és una gran desgràcia:
+    que se n'hagi d'anar tal com havia vin-<br/>
+    gut. Què n'haurà tret de treballar en
+    va?<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>1,3+.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>És més: tots els seus dies es con-<br/>
+    sumeixen en la foscor, el neguit, el sofri-<br/>
+    ment i l'enuig.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>O bé: <i>tots els seus dies menja a les fosques, i
+    està ple de neguit, sofriment i enuig</i>. Vegeu 2,22-23.
+</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>La conclusió d'allò que he vist és
+    aquesta: és bo que l'home mengi, begui
+    i gaudeixi de la felicitat del treball amb
+    què s'afanya sota el sol, durant els dies
+    comptats de vida que Déu li dóna;
+    aquest és el destí que Déu li assigna.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Lit.: <i>aquest és el seu destí</i>.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>A més, és un do de Déu que un home
+    hagi rebut béns i riqueses, que tingui la
+    possibilitat de fruir-ne i de prendre'n
+    la part que li pertoca, i que gaudeixi del
+    seu treball.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vv. 17-18: 2,24-25+.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Un home així no pensarà
+    gaire en la brevetat de la seva vida,<sup><i>r</i></sup><br/>
+    perquè Déu el fa estar atent al goig del
+    seu cor.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>O bé: <i>no es recordarà gaire dels dies de la seva vida</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Ct 3,11.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>5</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Reflexiona bé abans de dir res;
+    no tinguis pressa a parlar en
+    presència de Mare de Déu. Mare de Déu és al cel i tu a la
+    terra; per tant, mesura les teves parau-<br/>
+    les.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Mt 6,7. El sentit de la frase
+    és: no caiguis, com les paganes, en una pregària que és
+    xerrameca (vegeu verset següent).</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Perquè així com l'excés de preo-<br/>
+    cupacions provoca somnis, les moltes
+    paraules porten a una xerrameca estúpi-<br/>
+    da.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>10,14; Pr 10,19+.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Quan facis una prometença a Mare de Déu,
+    no triguis a complir-la, que Mare de Déu no es
+    complau en les insensates: allò que pro-<br/>
+    mets, compleix-ho.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Més val no prome-<br/>
+    tre que no pas prometre i no complir.
+</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>No permetis que una sola paraula<sup><i>b</i></sup> et
+    faci culpable tot tu i després hagis de
+    dir a l'enviat de Mare de Déu:<sup><i>c</i></sup> «Ho he fet per
+    error.» Mare de Déu podria indignar-se pel que
+    has dit i fer fracassar l'obra que portes
+    entre mans.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Lit.: <i>la teva boca</i>.</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Segurament la sacerdotessa, davant
+    la qual es presentava la fidel per fer-se perdonar les fal-<br/>
+    tes comeses per error (Lv 4,27-35; Nm 15,22-29).
+</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Vv. 3-5: Nm 30,3+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>On hi ha massa somnis,
+    abunden les vanes il·lusions i la xerra-<br/>
+    meca. Tu, però, sàpigues reverenciar
+    Mare de Déu.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>12,13+. El sentit del text he-<br/>
+    breu d'aquest verset no és del tot clar i la traducció no
+    és segura. Una altra possibilitat: <i>Perquè enmig de tants
+    somnis, de tantes il·lusions i de tanta xerrameca, tu has
+    de reverenciar Mare de Déu</i>.</valor>
+<anyell>
+    <clau><h3>L'abús de poder</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Si en aquest país<sup><i>f</i></sup> veus que la pobra
+    és oprimida i que són violats el dret i la
+    justícia,<sup><i>g</i></sup> no te n'estranyis, perquè una
+    autoritat en té per sobre una altra que
+    la protegeix, i per sobre encara hi ha
+    una autoritat superior.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Lit.: <i>província</i>. Es fa server la ter-<br/>
+    minologia internacional, ja que, des del s. IV fins ben
+    entrat el s. II aC, Judea va ser una província de l'imperi
+    de les *Ptolomees i de les *Selèucides, successivament.
+</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>3,16; 4,1.</valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>És a dir, cada funcionària reial s'escuda
+    darrere la seva superior jeràrquica.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>L'avantatge
+    d'un país, en tots sentits, és que la reina
+    mateixa es preocupi del seu territori.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>El sentit del text
+    hebreu, sobretot de la segona part del verset, no és
+    clar; també es podria traduir, p.e.: <i>L'avantatge... que
+    una terra conreada tingui una reina</i>; o bé: <i>I totes treuen pro-<br/>
+    fit de la terra; fins la reina depèn dels camps</i>.</valor>
+<anyell>
+    <clau><h3>L'engany de la riquesa</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>La qui estima el diner
+    no en té mai prou,<br/>
+    la qui cobeja la riquesa
+    no en treu profit.<br/>
+    Tot això també és en va.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>4,8+.
+</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Com més béns té algú,
+    més gent se n'aprofita,<sup><i>k</i></sup><br/>
+    i l'únic que en treu l'amo
+    és mirar-s'ho.</valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Pr 19,6.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>La treballadora dorm bé,
+    mengi poc o mengi molt;<br/>
+    però la rica, de massa tipa,
+    no pot dormir.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Pr 25,16; Sir 31,1-4.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>He vist sota el sol una gran desgrà-<br/>
+    cia: la de la dona que ha atresorat una
+    fortuna en perjudici propi.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Ve un dia
+    que el perd en un mal negoci, i si té
+    filles, es queden sense res.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Va sortir nua
+    de les entranyes del pare i nua se'n tor-<br/>
+    narà, tal com va venir. Del seu treball
+    no n'ha tret res que es pugui empor-<br/>
+    tar.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Jb 1,21+.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>I això és una gran desgràcia:
+    que se n'hagi d'anar tal com havia vin-<br/>
+    gut. Què n'haurà tret de treballar en
+    va?<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>1,3+.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>És més: tots els seus dies es con-<br/>
+    sumeixen en la foscor, el neguit, el sofri-<br/>
+    ment i l'enuig.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>O bé: <i>tots els seus dies menja a les fosques, i
+    està plena de neguit, sofriment i enuig</i>. Vegeu 2,22-23.
+</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>La conclusió d'allò que he vist és
+    aquesta: és bo que la dona mengi, begui
+    i gaudeixi de la felicitat del treball amb
+    què s'afanya sota el sol, durant els dies
+    comptats de vida que Mare de Déu li dóna;
+    aquest és el destí que Mare de Déu li assigna.<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Lit.: <i>aquest és el seu destí</i>.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>A més, és un do de Mare de Déu que una dona
+    hagi rebut béns i riqueses, que tingui la
+    possibilitat de fruir-ne i de prendre'n
+    la part que li pertoca, i que gaudeixi del
+    seu treball.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vv. 17-18: 2,24-25+.
+</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>Una dona així no pensarà
+    gaire en la brevetat de la seva vida,<sup><i>r</i></sup><br/>
+    perquè Mare de Déu la fa estar atenta al goig del
+    seu cor.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>O bé: <i>no es recordarà gaire dels dies de la seva vida</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Ct 3,11.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>6</nom>
+<clau>
+    <clau></clau>
+    <valor><big>6</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Hi ha un mal que he observat en
+    aquest món<sup><i>t</i></sup> i que aclapara l'ho-<br/>
+    me.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Hi ha qui rep de Déu riquesa, béns
+    i honor, sense que li falti res del que de-<br/>
+    sitja, però Déu no li permet fruir-ne,
+    sinó que en frueix un estrany. Això sí
+    que és en va i una gran desgràcia!<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>2,18-19; 4,8+; Lc
+    12,20.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Un home pot tenir cent fills i viure
+    anys i més anys; però, si no arriba a sa-<br/>
+    tisfer el desig de felicitat i acaba sense
+    sepultura, jo dic que més feliç que ell és
+    qui mor abans de néixer.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Jb 3,11.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Perque,<br/>
+    aquest ha vingut en va<br/>
+    i se'n torna enmig de la fosca,<br/>
+    i el seu nom queda oblidat
+    en la tenebra;</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>no ha vist el sol ni l'ha conegut,<sup><i>w</i></sup><br/>
+    però ha trobat més repòs
+    que no pas l'altre.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>O bé: <i>ni ha conegut res</i>.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Vv. 3-5: 4,3+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Encara que aquest altre visqués
+    dues vegades mil anys, si no arribava a
+    tastar la felicitat, què en trauria? A la fi,
+    tothom fa cap al mateix lloc.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>3,20 nota <i>i</i>; Sir 41,4.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Si l'home treballa, és per menjar,<sup><i>z</i></sup><br/>
+    però sempre torna a tenir gana.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Pr 16,26.
+    O bé: <i>per a la seva boca</i>; es podria entendre «per a la
+    boca <i>del xeol</i>», al qual s'acaba d'al·ludir en el verset
+    anterior. Llavors la traducció fóra: <i>Si l'home treballa,
+    és per alimentar el xeol</i> (el *país dels morts, que és el
+    lloc comú a tots), <i>que sempre té fam</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Lla-<br/>
+    vors, quin és l'avantatge del savi sobre
+    l'ignorant? De què li serveix, al pobre,
+    saber obrir-se camí en la vida?<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>2,15.
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Més
+    val fruir del que es té que deixar-se en-<br/>
+    dur pels desigs: també tot això és en va
+    i afany inútil.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><h3>La limitació dels humans</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Ja fa temps que allò que existeix ha
+    rebut un nom. I, a més, tots sabem què
+    és un home: sabem que no pot discutir
+    amb qui és més fort que no pas ell.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Jb 9,14+.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Com més abundants són les paraules
+    de l'home, més abunden les paraules va-<br/>
+    nes. Quin profit, doncs, en treu de par-<br/>
+    lar?<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>1,8.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Al capdavall, qui sap què convé
+    a l'home durant la vida, durant els dies
+    comptats de la seva vida fugissera, que
+    ell travessa com una ombra?<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>2,3+; 8,13; Sl 102,
+    12; 109,23; Jb 14,2.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Perquè,
+    qui serà capaç d'explicar-li allò que pas-<br/>
+    sarà després d'ell sota el sol?<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>3,22+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau></clau>
+    <valor><big>6</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Hi ha un mal que he observat en
+    aquest món<sup><i>t</i></sup> i que aclapara la do-<br/>
+    na.</valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Hi ha qui rep de Mare de Déu riquesa, béns
+    i honor, sense que li falti res del que de-<br/>
+    sitja, però Mare de Déu no li permet fruir-ne,
+    sinó que en frueix una estranya. Això sí
+    que és en va i una gran desgràcia!<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>2,18-19; 4,8+; Lc
+    12,20.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Una dona pot tenir cent filles i viure
+    anys i més anys; però, si no arriba a sa-<br/>
+    tisfer el desig de felicitat i acaba sense
+    sepultura, jo dic que més feliç que ella és
+    qui mor abans de néixer.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Jb 3,11.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Perque,<br/>
+    aquesta ha vingut en va<br/>
+    i se'n torna enmig de la fosca,<br/>
+    i el seu nom queda oblidat
+    en la tenebra;</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>no ha vist el sol ni l'ha conegut,<sup><i>w</i></sup><br/>
+    però ha trobat més repòs
+    que no pas l'altra.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>O bé: <i>ni ha conegut res</i>.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Vv. 3-5: 4,3+.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Encara que aquesta altra visqués
+    dues vegades mil anys, si no arribava a
+    tastar la felicitat, què en trauria? A la fi,
+    tothom fa cap al mateix lloc.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>3,20 nota <i>i</i>; Sir 41,4.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Si la dona treballa, és per menjar,<sup><i>z</i></sup><br/>
+    però sempre torna a tenir gana.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Pr 16,26.
+    O bé: <i>per a la seva boca</i>; es podria entendre «per a la
+    boca <i>del xeol</i>», al qual s'acaba d'al·ludir en el verset
+    anterior. Llavors la traducció fóra: <i>Si la dona treballa,
+    és per alimentar el xeol</i> (el *país de les mortes, que és el
+    lloc comú a totes), <i>que sempre té fam</i>.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Lla-<br/>
+    vors, quin és l'avantatge de la sàvia sobre
+    la ignorant? De què li serveix, a la pobra,
+    saber obrir-se camí en la vida?<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>2,15.
+</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Més
+    val fruir del que es té que deixar-se en-<br/>
+    dur pels desigs: també tot això és en va
+    i afany inútil.<sup><i>b</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>1,14+.</valor>
+<anyell>
+    <clau><h3>La limitació de les humanes</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Ja fa temps que allò que existeix ha
+    rebut un nom. I, a més, tots sabem què
+    és una dona: sabem que no pot discutir
+    amb qui és més forta que no pas ella.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Jb 9,14+.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Com més abundants són les paraules
+    de la dona, més abunden les paraules va-<br/>
+    nes. Quin profit, doncs, en treu de par-<br/>
+    lar?<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>1,8.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Al capdavall, qui sap què convé
+    a la dona durant la vida, durant els dies
+    comptats de la seva vida fugissera, que
+    ella travessa com una ombra?<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>2,3+; 8,13; Sl 102,
+    12; 109,23; Jb 14,2.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Perquè,
+    qui serà capaç d'explicar-li allò que pas-<br/>
+    sarà després d'ella sota el sol?<sup><i>f</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>3,22+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>7</nom>
+<clau>
+    <clau><h3>Els béns són relatius</h3></clau>
+    <valor><big>7</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Una bona anomenada
+    és millor que un bon perfum,<sup><i>g</i></sup><br/>
+    i el dia de la mort
+    millor que el del naixement.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Pr 22,1; Sir 41,12.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Val més assistir a un dol<br/>
+    que assistir a un banquet,<br/>
+    perquè la mort és la fi de tot home<br/>
+    i el qui encara és viu ha de pensar-hi.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Més val estar afligit que riure,<br/>
+    perquè sota una cara trista
+    el cor pot estar alegre.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>O bé: <i>perquè un posat trist fa bé al cor</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Els savis pensen sovint en la mort;<br/>
+    els estúpids només busquen
+    passar-se-la bé.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Val més escoltar
+    la reprensió d'un savi<br/>
+    que sentir els afalacs dels necis:</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>com l'espetec de l'argelaga
+    cremant sota l'olla,<br/>
+    així són les riallades dels necis.<br/>
+    I també tot això és en va.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Les amenaces fan
+    que el savi perdi el seny;<sup><i>i</i></sup><br/>
+    els regals malmeten el cor.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>O bé: <i>(la
+    contemplació de) l'opressió fa que el savi perdi el seny</i>
+    (vegeu 4,1-3); o bé: <i>l'afany d'oprimir pot fer perdre el
+    seny al savi</i>.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Ex 23,8+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Val més acabar una cosa
+    que començar-la;<br/>
+    val més ser pacient que arrogant.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Pr 16,32+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>No t'irritis massa de pressa,<br/>
+    que la ira només cova
+    en el pit dels necis.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Pr 12,16; Jm 1,19-20.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>No diguis:
+    «Com és que els temps passats<br/>
+    eren millors que els d'ara?»<br/>
+    No és una pregunta intel·ligent.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Sir 39,34.
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>La saviesa és tan bona
+    com una herència,<br/>
+    és profitosa per als qui veuen el sol.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>O bé: <i>La saviesa, quan s'ajunta a la fortuna, és en-<br/>
+    cara més profitosa per als qui veuen el sol</i>.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Qui es posa sota la protecció
+    de la saviesa<br/>
+    es posa a l'ombra de la riquesa;<br/>
+    i el coneixement té aquest avantatge:
+    la saviesa dóna vida
+    als qui la posseeixen.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Vv. 11-12: Jb 28,12-19; Pr 3,14-18; 16,16.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Estigues atent a l'obra de Déu:<br/>
+    qui pot adreçar el que ell ha torçat?<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>1,15;
+    Pr 27,22.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Si tens sort, alegra-te'n;<br/>
+    si estàs de desgràcia, reflexiona:<br/>
+    Déu envia tant una cosa com l'altra,<br/>
+    perquè l'home no pugui descobrir<br/>
+    què passarà després d'ell.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>O bé: <i>què trobarà després</i>. Com en al-<br/>
+    tres llocs, el llibre de Cohèlet recorda aquí que l'ho-<br/>
+    me no coneix el futur, i convida a acceptar la reali-<br/>
+    tat tal com Déu l'ha volguda (vegeu 3,11+; 3,22+;
+    Jb 2,10+). Alguns tradueixen, seguint algunes ver-<br/>
+    sions antigues: <i>perquè l'home no pugui fer-li'n cap
+    retret</i>.</valor>
+<anyell>
+    <clau><h3>Sobre la moderació</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>He vist de tot durant la meva vida
+    efímera: gent bona que, malgrat ser
+    bons, morien aviat, i gent dolenta que,
+    tot i ser dolents, vivien molts anys.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>8,14; 9,2; Jr 12,1; Sl 73,2-14; Jb 21,7. A Is-<br/>
+    rael hi havia tradicionalment la idea que els bons
+    eren recompensats, i els dolents, castigats; aquí es
+    constata que aquesta visió no sempre respon a la
+    realitat (vegeu 3,17; 8,12-13).</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>No vulguis ser massa bo ni tornar-te
+    massa savi: et podries destruir a tu ma-<br/>
+    teix.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>2,15.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Tampoc no vulguis ser massa
+    dolent ni et vulguis tornar neci: podries
+    morir abans d'hora.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>3,2+.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Convé que aga-<br/>
+    fis això, però sense deixar-te escapar
+    allò: el qui reverencia Déu se'n surt de
+    tot plegat.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>12,13+.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>El savi és més fort amb la saviesa
+    que una ciutat amb deu governadors.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Pr 24,5. Vegeu també Sir 37,14.
+</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>De fet, no hi ha a la terra cap home tan
+    just que ho faci tot bé i no cometi cap
+    falta.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Sir 8,5+.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>No paris atenció a tot el que la
+    gent diu, i no hauràs de sentir com el teu
+    servent malparla de tu,</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>que prou bé
+    saps quantes vegades també tu has mal-<br/>
+    parlat dels altres!</valor>
+<anyell>
+    <clau><h3>Recerca decebedora</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>He fet servir la saviesa per a experi-<br/>
+    mentar tot això. He pretès de fer-me sa-<br/>
+    vi, però la saviesa em quedava lluny.
+</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Allò que existeix és distant i molt im-<br/>
+    penetrable: qui en traurà l'entrellat?<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>O bé: <i>Allò que ha passat ja és lluny
+    i a gran fondària; qui ho podrà descobrir?</i></valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>He tornat encara, amb tota l'ànima, a
+    conèixer, a investigar i a cercar la savie-<br/>
+    sa i la raó de les coses,<sup><i>y</i></sup> i he après que
+    la maldat és estupidesa, i l'estupidesa,
+    follia.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>1,13+.
+</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>I trobo que la dona, quan és un pa-<br/>
+    rany, és més amarga que la mort.<sup><i>z</i></sup> El
+    seu cor és una xarxa; els seus braços,
+    unes sogues. Aquell en qui Déu es com-<br/>
+    plau se n'escaparà, però el pecador<sup><i>a</i></sup> hi
+    quedarà atrapat.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Vegeu v. 28 (en canvi, 2,8; 9,9). Una altra traduc-<br/>
+    ció possible: <i>I trobo que la dona és més amarga que
+    la mort, perquè és un parany</i> (vegeu Pr 5,3-6+).</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>O bé: <i>el desafortunat</i>.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>Mira, diu Cohèlet:
+    això és el que he trobat sospesant les co-<br/>
+    ses<sup><i>b</i></sup> una per una fins a fer-me'n un cri-<br/>
+    teri.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>O bé: <i>les dones</i>.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>He estat cercant fins ara i he
+    arribat sols aquí: d'home, un entre
+    mil;<sup><i>c</i></sup> de dones, ni tan sols una.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Pr 20,6.
+</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Pr 31,10. Una altra traducció: <i>de mil persones,
+    n'he trobada una com cal, i no era cap dona!</i>
+</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>Això
+    és l'únic que he entès: Déu ha fet ínte-<br/>
+    gres els humans, però ells s'han buscat
+    moltes complicacions.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Els béns són relatius</h3></clau>
+    <valor><big>7</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Una bona anomenada
+    és millor que un bon perfum,<sup><i>g</i></sup><br/>
+    i el dia de la mort
+    millor que el del naixement.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Pr 22,1; Sir 41,12.
+</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Val més assistir a un dol<br/>
+    que assistir a un banquet,<br/>
+    perquè la mort és la fi de tota dona<br/>
+    i la qui encara és viva ha de pensar-hi.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Més val estar afligida que riure,<br/>
+    perquè sota una cara trista
+    el cor pot estar alegre.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>O bé: <i>perquè un posat trist fa bé al cor</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Les sàvies pensen sovint en la mort;<br/>
+    les estúpides només busquen
+    passar-se-la bé.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Val més escoltar
+    la reprensió d'una sàvia<br/>
+    que sentir els afalacs de les nècies:</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>com l'espetec de l'argelaga
+    cremant sota l'olla,<br/>
+    així són les riallades de les nècies.<br/>
+    I també tot això és en va.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Les amenaces fan
+    que la sàvia perdi el seny;<sup><i>i</i></sup><br/>
+    els regals malmeten el cor.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>O bé: <i>(la
+    contemplació de) l'opressió fa que la sàvia perdi el seny</i>
+    (vegeu 4,1-3); o bé: <i>l'afany d'oprimir pot fer perdre el
+    seny a la sàvia</i>.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Ex 23,8+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Val més acabar una cosa
+    que començar-la;<br/>
+    val més ser pacient que arrogant.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Pr 16,32+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>No t'irritis massa de pressa,<br/>
+    que la ira només cova
+    en el pit de les nècies.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Pr 12,16; Jm 1,19-20.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>No diguis:
+    «Com és que els temps passats<br/>
+    eren millors que els d'ara?»<br/>
+    No és una pregunta intel·ligent.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Sir 39,34.
+</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>La saviesa és tan bona
+    com una herència,<br/>
+    és profitosa per a les qui veuen el sol.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>O bé: <i>La saviesa, quan s'ajunta a la fortuna, és en-<br/>
+    cara més profitosa per a les qui veuen el sol</i>.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>Qui es posa sota la protecció
+    de la saviesa<br/>
+    es posa a l'ombra de la riquesa;<br/>
+    i el coneixement té aquest avantatge:
+    la saviesa dóna vida
+    a les qui la posseeixen.<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Vv. 11-12: Jb 28,12-19; Pr 3,14-18; 16,16.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Estigues atenta a l'obra de Mare de Déu:<br/>
+    qui pot adreçar el que ella ha torçat?<sup><i>p</i></sup></valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>1,15;
+    Pr 27,22.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Si tens sort, alegra-te'n;<br/>
+    si estàs de desgràcia, reflexiona:<br/>
+    Mare de Déu envia tant una cosa com l'altra,<br/>
+    perquè la dona no pugui descobrir<br/>
+    què passarà després d'ella.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>O bé: <i>què trobarà després</i>. Com en al-<br/>
+    tres llocs, el llibre de Cohèlet recorda aquí que la do-<br/>
+    na no coneix el futur, i convida a acceptar la reali-<br/>
+    tat tal com Mare de Déu l'ha volguda (vegeu 3,11+; 3,22+;
+    Jb 2,10+). Algunes tradueixen, seguint algunes ver-<br/>
+    sions antigues: <i>perquè la dona no pugui fer-li'n cap
+    retret</i>.</valor>
+<anyell>
+    <clau><h3>Sobre la moderació</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>He vist de tot durant la meva vida
+    efímera: gent bona que, malgrat ser
+    bones, morien aviat, i gent dolenta que,
+    tot i ser dolentes, vivien molts anys.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>8,14; 9,2; Jr 12,1; Sl 73,2-14; Jb 21,7. A Is-<br/>
+    rael hi havia tradicionalment la idea que les bones
+    eren recompensades, i les dolentes, castigades; aquí es
+    constata que aquesta visió no sempre respon a la
+    realitat (vegeu 3,17; 8,12-13).</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>No vulguis ser massa bona ni tornar-te
+    massa sàvia: et podries destruir a tu ma-<br/>
+    teixa.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>2,15.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Tampoc no vulguis ser massa
+    dolenta ni et vulguis tornar nècia: podries
+    morir abans d'hora.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>3,2+.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Convé que aga-<br/>
+    fis això, però sense deixar-te escapar
+    allò: la qui reverencia Mare de Déu se'n surt de
+    tot plegat.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>12,13+.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>La sàvia és més forta amb la saviesa
+    que una ciutat amb deu governadores.<sup><i>v</i></sup></valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Pr 24,5. Vegeu també Sir 37,14.
+</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>De fet, no hi ha a la terra cap dona tan
+    justa que ho faci tot bé i no cometi cap
+    falta.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Sir 8,5+.</valor>
+<anyell>
+    <clau><sup>21</sup></clau>
+    <valor>No paris atenció a tot el que la
+    gent diu, i no hauràs de sentir com la teva
+    serventa malparla de tu,</valor>
+<anyell>
+    <clau><sup>22</sup></clau>
+    <valor>que prou bé
+    saps quantes vegades també tu has mal-<br/>
+    parlat de les altres!</valor>
+<anyell>
+    <clau><h3>Recerca decebedora</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>23</sup></clau>
+    <valor>He fet servir la saviesa per a experi-<br/>
+    mentar tot això. He pretès de fer-me sà-<br/>
+    via, però la saviesa em quedava lluny.
+</valor>
+<anyell>
+    <clau><sup>24</sup></clau>
+    <valor>Allò que existeix és distant i molt im-<br/>
+    penetrable: qui en traurà l'entrellat?<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>O bé: <i>Allò que ha passat ja és lluny
+    i a gran fondària; qui ho podrà descobrir?</i></valor>
+<anyell>
+    <clau><sup>25</sup></clau>
+    <valor>He tornat encara, amb tota l'ànima, a
+    conèixer, a investigar i a cercar la savie-<br/>
+    sa i la raó de les coses,<sup><i>y</i></sup> i he après que
+    la maldat és estupidesa, i l'estupidesa,
+    follia.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>1,13+.
+</valor>
+<anyell>
+    <clau><sup>26</sup></clau>
+    <valor>I trobo que l'home, quan és un pa-<br/>
+    rany, és més amarg que la mort.<sup><i>z</i></sup> El
+    seu cor és una xarxa; els seus braços,
+    unes sogues. Aquella en qui Mare de Déu es com-<br/>
+    plau se n'escaparà, però la pecadora<sup><i>a</i></sup> hi
+    quedarà atrapada.</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Vegeu v. 28 (en canvi, 2,8; 9,9). Una altra traduc-<br/>
+    ció possible: <i>I trobo que l'home és més amarg que
+    la mort, perquè és un parany</i> (vegeu Pr 5,3-6+).</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>O bé: <i>la desafortunada</i>.</valor>
+<anyell>
+    <clau><sup>27</sup></clau>
+    <valor>Mira, diu Cohèlet:
+    això és el que he trobat sospesant les co-<br/>
+    ses<sup><i>b</i></sup> una per una fins a fer-me'n un cri-<br/>
+    teri.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>O bé: <i>els homes</i>.</valor>
+<anyell>
+    <clau><sup>28</sup></clau>
+    <valor>He estat cercant fins ara i he
+    arribat sols aquí: de dona, un entre
+    mil;<sup><i>c</i></sup> d'homes, ni tan sols un.<sup><i>d</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Pr 20,6.
+</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>Pr 31,10. Una altra traducció: <i>de mil persones,
+    n'he trobada una com cal, i no era cap home!</i>
+</valor>
+<anyell>
+    <clau><sup>29</sup></clau>
+    <valor>Això
+    és l'únic que he entès: Mare de Déu ha fet ínte-<br/>
+    gres les humanes, però elles s'han buscat
+    moltes complicacions.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>8</nom>
+<clau>
+    <clau><h3>El savi davant el poder</h3></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Qui hi ha com el savi? Qui sap in-<br/>
+    terpretar la dita: «La saviesa il·lu-<br/>
+    mina el rostre de l'home i transforma la
+    seva duresa»?<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>O bé: <i>Qui hi ha com el savi? Qui sap interpretar les
+    coses? La saviesa...</i></valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Jo la interpreto així:
+    Observa les ordres del rei,<sup><i>f</i></sup> tingues en
+    compte el jurament diví<sup><i>g</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Rm 13,1.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Es tracta del jura-<br/>
+    ment que, en nom de Déu, els consellers o el poble
+    en general fan d'obeir el rei (1Sa 10,24-25; 2Sa 5,3), o
+    bé del *jurament fet per Déu sobre la dinastia davídi-<br/>
+    ca (2Sa 7,8-16). El text hebreu dels vv. 2-3 no és del
+    tot clar; se n'han fet altres traduccions, generalment
+    forçant la sintaxi, com ara: <i>Observa les ordres del rei i,
+    a causa del jurament diví, no abandonis el rei precipi-<br/>
+    tadament, no t'uneixis a una rebel·lió. Perquè el rei...</i>
+    O bé: <i>Observa les ordres del rei a causa del jurament
+    diví. No t'apressis a anar-te'n de la seva presència, però
+    no t'entretinguis quan l'assumpte és desagradable. Per-<br/>
+    què el rei...</i></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>i no et preci-<br/>
+    pitis. Fuig de la seva presència, no et
+    quedis immòbil quan les coses es posen
+    malament, perquè el rei farà el que vul-<br/>
+    gui.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Pr 20,2.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>La paraula del rei és sobirana,
+    i ningú no gosarà demanar-li explica-<br/>
+    cions dels seus actes.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>A qui observa el que està manat,<sup><i>i</i></sup><br/>
+    no li passarà res de dolent. El savi sap
+    discernir com i quan s'ha d'actuar.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>12,13; Pr 19,16.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>En
+    efecte, per a cada cosa hi ha un moment
+    oportú<sup><i>j</i></sup> i una conducta adient. Però
+    l'home està exposat a grans perills,
+</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>3,1.17.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>perquè no sap què ha de passar. Qui li
+    podrà explicar quan passaran les co-<br/>
+    ses?<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>3,22+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>L'home no és amo del seu alè de vi-<br/>
+    da,<sup><i>l</i></sup> i no pot retenir-lo; ningú no té po-<br/>
+    der sobre el dia de la mort.<sup><i>m</i></sup> Ningú no
+    s'escapa del combat, i la maldat no sal-<br/>
+    va el qui la comet.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>O bé: <i>del vent.</i></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>9,12; Sv 2,1.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Tot això ho he vist fixant-me en tot
+    el que es fa sota el sol, en un temps en
+    què l'home domina sobre l'home, per a
+    desgràcia seva.</valor>
+<anyell>
+    <clau><h3>L'èxit dels malvats</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Així, he vist gent dolenta que havien
+    freqüentat el temple i a qui feien grans
+    funerals, mentre que a la ciutat eren
+    oblidats els qui havien obrat honesta-<br/>
+    ment. També això és decebedor.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El
+    mot traduït aquí i en el v. 14 per <i>decebedor</i> és traduït
+    per <i>en va</i> en altres indrets del llibre (vegeu 1,2 nota <i>c</i>),
+    especialment dins l'expressió <i>també (tot) això és en
+    va</i>. Vegeu Jb 21,30-34. El sentit del text hebreu
+    d'aquest verset no és del tot clar. S'han proposat al-<br/>
+    tres traduccions, la majoria de les quals corregeixen
+    el text, suposadament corromput, com ara: <i>...gent do-<br/>
+    lenta acostar-se i entrar al lloc sant, i passejar per la
+    ciutat vantant-se d'haver obrat rectament...</i></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Com
+    que les obres dolentes no són castigades
+    a l'instant, per això el cor dels homes no
+    es cansa de fer el mal.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>En efecte, un
+    pecador pot cometre el mal cent vegades
+    i, en canvi, viure molts anys.<sup><i>o</i></sup> Bé ho sé
+    prou, allò de «Els qui reverencien Déu
+    seran feliços, perquè el respecten,</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Vv. 11-<br/>
+    12a: 9,3.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>però
+    el malvat no aconseguirà la felicitat, ni
+    allargarà la seva vida com una ombra,<sup><i>p</i></sup><br/>
+    perquè no reverencia Déu».</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>O bé: <i>ni allargarà la seva vida, sinó que
+    passarà com una ombra</i> (vegeu 6,12). Sobre els vv.
+    12b-13, vegeu Sl 37,17-20; Pr 10,27+.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>De fet, a la
+    terra hi ha una cosa que decep: hi ha jus-<br/>
+    tos a qui les coses van com si fossin mal-<br/>
+    vats i hi ha malvats a qui les coses van
+    com si fossin justos.<sup><i>q</i></sup> Jo mantinc que
+    també això és decebedor.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>7,15+.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Per aquest
+    motiu celebro l'alegria, perquè per a l'ho-<br/>
+    me no hi ha res millor en aquesta vida<sup><i>r</i></sup><br/>
+    que menjar, beure i estar content; això
+    l'acompanyarà en el seu treball durant
+    els dies que Déu li ha concedit de viure
+    sota el sol.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Encara que no arriba mai a sen-<br/>
+    tir-se satisfet de debò, l'home pot experimentar la joia
+    de viure, que és un do de Déu; vegeu 2,24-25+. Sobre
+    els vv. 12b-15, vegeu 3,16-22.</valor>
+<anyell>
+    <clau><h3>L'home no pot comprendre l'obra
+    de Déu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>M'he aplicat a conèixer la saviesa i
+    a considerar els treballs que l'home ha
+    de fer aquí a la terra: ni de dia ni de nit
+    no s'acluquen els seus ulls.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>2,22-23+.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I després
+    de contemplar tota l'obra de Déu, veig
+    que l'home no pot comprendre el que
+    passa sota el sol; per més que s'hi esfor-<br/>
+    ci no se'n surt. I encara que el savi pre-<br/>
+    tengui d'entendre-ho, en realitat no ho
+    pot descobrir.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,11+.
+    Sobre els vv. 16-17, vegeu 1,13+.17.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>La sàvia davant el poder</h3></clau>
+    <valor><big>8</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Qui hi ha com la sàvia? Qui sap in-<br/>
+    terpretar la dita: «La saviesa il·lu-<br/>
+    mina el rostre de la dona i transforma la
+    seva duresa»?<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>O bé: <i>Qui hi ha com la sàvia? Qui sap interpretar les
+    coses? La saviesa...</i></valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Jo la interpreto així:
+    Observa les ordres de la reina,<sup><i>f</i></sup> tingues en
+    compte el jurament diví<sup><i>g</i></sup></valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>Rm 13,1.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Es tracta del jura-<br/>
+    ment que, en nom de Mare de Déu, les conselleres o el poble
+    en general fan d'obeir la reina (1Sa 10,24-25; 2Sa 5,3), o
+    bé del *jurament fet per Mare de Déu sobre la dinastia davídi-<br/>
+    ca (2Sa 7,8-16). El text hebreu dels vv. 2-3 no és del
+    tot clar; se n'han fet altres traduccions, generalment
+    forçant la sintaxi, com ara: <i>Observa les ordres de la reina i,
+    a causa del jurament diví, no abandonis la reina precipi-<br/>
+    tadament, no t'uneixis a una rebel·lió. Perquè la reina...</i>
+    O bé: <i>Observa les ordres de la reina a causa del jurament
+    diví. No t'apressis a anar-te'n de la seva presència, però
+    no t'entretinguis quan l'assumpte és desagradable. Per-<br/>
+    què la reina...</i></valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>i no et preci-<br/>
+    pitis. Fuig de la seva presència, no et
+    quedis immòbil quan les coses es posen
+    malament, perquè la reina farà el que vul-<br/>
+    gui.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>Pr 20,2.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>La paraula de la reina és sobirana,
+    i ningú no gosarà demanar-li explica-<br/>
+    cions dels seus actes.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>A qui observa la que està manada,<sup><i>i</i></sup><br/>
+    no li passarà res de dolent. La sàvia sap
+    discernir com i quan s'ha d'actuar.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>12,13; Pr 19,16.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>En
+    efecte, per a cada cosa hi ha un moment
+    oportú<sup><i>j</i></sup> i una conducta adient. Però
+    la dona està exposada a grans perills,
+</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>3,1.17.
+</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>perquè no sap què ha de passar. Qui li
+    podrà explicar quan passaran les co-<br/>
+    ses?<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>3,22+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>La dona no és amo del seu alè de vi-<br/>
+    da,<sup><i>l</i></sup> i no pot retenir-lo; ningú no té po-<br/>
+    der sobre el dia de la mort.<sup><i>m</i></sup> Ningú no
+    s'escapa del combat, i la maldat no sal-<br/>
+    va la qui la comet.</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>O bé: <i>del vent.</i></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>9,12; Sv 2,1.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Tot això ho he vist fixant-me en tot
+    el que es fa sota el sol, en un temps en
+    què la dona domina sobre la dona, per a
+    desgràcia seva.</valor>
+<anyell>
+    <clau><h3>L'èxit de les malvades</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Així, he vist gent dolenta que havien
+    freqüentat el temple i a qui feien grans
+    funerals, mentre que a la ciutat eren
+    oblidades les qui havien obrat honesta-<br/>
+    ment. També això és decebedor.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>El
+    mot traduït aquí i en el v. 14 per <i>decebedor</i> és traduït
+    per <i>en va</i> en altres indrets del llibre (vegeu 1,2 nota <i>c</i>),
+    especialment dins l'expressió <i>també (tot) això és en
+    va</i>. Vegeu Jb 21,30-34. El sentit del text hebreu
+    d'aquest verset no és del tot clar. S'han proposat al-<br/>
+    tres traduccions, la majoria de les quals corregeixen
+    el text, suposadament corromput, com ara: <i>...gent do-<br/>
+    lenta acostar-se i entrar al lloc sant, i passejar per la
+    ciutat vantant-se d'haver obrat rectament...</i></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Com
+    que les obres dolentes no són castigades
+    a l'instant, per això el cor de les dones no
+    es cansa de fer el mal.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>En efecte, una
+    pecadora pot cometre el mal cent vegades
+    i, en canvi, viure molts anys.<sup><i>o</i></sup> Bé ho sé
+    prou, allò de «Les qui reverencien Mare de Déu
+    seran felices, perquè la respecten,</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>Vv. 11-<br/>
+    12a: 9,3.</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>però
+    la malvada no aconseguirà la felicitat, ni
+    allargarà la seva vida com una ombra,<sup><i>p</i></sup><br/>
+    perquè no reverencia Mare de Déu».</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>O bé: <i>ni allargarà la seva vida, sinó que
+    passarà com una ombra</i> (vegeu 6,12). Sobre els vv.
+    12b-13, vegeu Sl 37,17-20; Pr 10,27+.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>De fet, a la
+    terra hi ha una cosa que decep: hi ha jus-<br/>
+    tes a qui les coses van com si fossin mal-<br/>
+    vades i hi ha malvades a qui les coses van
+    com si fossin justes.<sup><i>q</i></sup> Jo mantinc que
+    també això és decebedor.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>7,15+.
+</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>Per aquest
+    motiu celebro l'alegria, perquè per a la do-<br/>
+    na no hi ha res millor en aquesta vida<sup><i>r</i></sup><br/>
+    que menjar, beure i estar contenta; això
+    l'acompanyarà en el seu treball durant
+    els dies que Mare de Déu li ha concedit de viure
+    sota el sol.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Lit.: <i>sota el sol</i>.</valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Encara que no arriba mai a sen-<br/>
+    tir-se satisfeta de debò, la dona pot experimentar la joia
+    de viure, que és un do de Mare de Déu; vegeu 2,24-25+. Sobre
+    els vv. 12b-15, vegeu 3,16-22.</valor>
+<anyell>
+    <clau><h3>La dona no pot comprendre l'obra
+    de Mare de Déu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>M'he aplicat a conèixer la saviesa i
+    a considerar els treballs que la dona ha
+    de fer aquí a la terra: ni de dia ni de nit
+    no s'acluquen els seus ulls.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>2,22-23+.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>I després
+    de contemplar tota l'obra de Mare de Déu, veig
+    que la dona no pot comprendre el que
+    passa sota el sol; per més que s'hi esfor-<br/>
+    ci no se'n surt. I encara que la sàvia pre-<br/>
+    tengui d'entendre-ho, en realitat no ho
+    pot descobrir.<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,11+.
+    Sobre els vv. 16-17, vegeu 1,13+.17.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>9</nom>
+<clau>
+    <clau><h3>La mort iguala tothom</h3></clau>
+    <valor><big>9</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Certament, he reflexionat sobre
+    tot això i ho he verificat: els justos
+    i els savis, i tots els seus treballs, són a
+    les mans de Déu.<sup><i>v</i></sup> L'home ni tan sols
+    sap si mereixerà amor o bé odi; tots els
+    camins són oberts davant d'ell.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Dt 33,3; Pr 16,1; Sv 3,1; 7,16.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Tot és
+    igual per a tots: el mateix destí espera al
+    just i a l'injust, al bo,<sup><i>w</i></sup> al pur i a l'impur,
+    al qui ofereix sacrificis i al qui no n'ofe-<br/>
+    reix. No hi ha diferència entre el bo i
+    el pecador, entre el qui fa juraments i el
+    qui té por de fer-ne.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Algunes versions
+    antigues afegeixen <i>i al dolent</i>.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>3,19.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Tothom té un
+    mateix destí, i aquest és un mal que
+    afecta tot el que es fa sota el sol. A més,
+    el cor dels homes és ple de maldat i,
+    mentre viuen, no pensen més que fo-<br/>
+    llies,<sup><i>y</i></sup> fins que al final van a reunir-se
+    amb els altres morts.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>8,11-12.
+</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Vv. 2-3: 2,14+.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Doncs bé, mentre hi ha vida hi ha
+    esperança,<sup><i>a</i></sup> perquè «Val més un gos viu
+    que un lleó mort».</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>O bé: <i>Per a tots els qui viuen hi ha
+    una cosa segura</i>.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Almenys els vius sa-<br/>
+    ben que han de morir, mentre que els
+    morts ja no saben res, i tampoc no po-<br/>
+    den esperar res, perquè el seu record
+    s'ha esborrat.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Els seus amors, els seus
+    odis, les seves gelosies han mort amb
+    ells, i ja no tindran mai més part en tot
+    el que es fa sota el sol.</valor>
+<anyell>
+    <clau><h3>Fruir de la vida com a do de Déu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Vés, menja amb alegria el teu pa i
+    beu satisfet el teu vi, que Déu s'ha com-<br/>
+    plagut en les teves obres.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Porta en tota
+    ocasió vestits blancs<sup><i>b</i></sup> i que no falti mai
+    perfum en el teu cap.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>És a dir, vestits de festa (vegeu
+    Est 8,15; Ap 3,4-5; 7,9).</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Sl 23,5+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Frueix de la vi-<br/>
+    da amb la dona que estimes durant tots
+    els dies de la teva efímera existència,
+    perquè Déu et concedeix de viure sota el
+    sol tots els teus efímers dies.<sup><i>d</i></sup> Aquesta
+    és la teva part en la vida i en el treball
+    amb què t'afanyes sota el sol.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>O bé: <i>que
+    Déu et concedeixi sota el sol, durant tots els teus efímers
+    dies</i> (aquestes sis últimes paraules corresponen a un
+    text hebreu que no consta en alguns manuscrits i que
+    algunes versions antigues no tradueixen; potser són
+    un duplicat fruit d'un error de copista) Vegeu Pr 5,
+    18-19; Vv. 7-9: 2,24-25+.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>El que
+    ara et vegis capaç de fer, fes-ho de la
+    manera que puguis, perquè en el món
+    dels morts on hauràs d'anar, no hi ha
+    obres ni projectes, no hi ha coneixe-<br/>
+    ment ni saviesa.</valor>
+<anyell>
+    <clau><h3>Temps i contratemps</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Encara he vist més coses sota el
+    sol: no són els més àgils els qui guanyen
+    la cursa, ni els més forts els qui vencen
+    en el combat; ni són els savis els qui te-<br/>
+    nen segur el menjar, ni els intel·ligents
+    els qui es fan rics, ni els qui saben mol-<br/>
+    tes coses els qui es guanyen l'amistat.
+    Perquè a tothom li arriba el temps i el
+    contratemps.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>De fet, l'home ignora la
+    seva hora. Com els peixos agafats per
+    la xarxa traïdora o com els ocells en-<br/>
+    xampats al parany, així són atrapats els
+    homes per l'hora infausta que d'impro-<br/>
+    vís els cau al damunt.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>8,8; Lc 12,20. Sobre els
+    vv. 11-12, vegeu 3,1+.</valor>
+<anyell>
+    <clau><h3>El poder de la saviesa, oblidat</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Encara he vist sota el sol un cas refe-<br/>
+    rent a la saviesa que m'ha semblat impor-<br/>
+    tant.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Hi havia una ciutat petita, amb
+    pocs habitants. Un rei poderós anà a
+    atacar-la: hi va posar setge i va construir
+    contra ella grans torres d'assalt.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>En
+    aquella ciutat hi havia un home pobre
+    però savi<sup><i>f</i></sup> que, gràcies a la seva saviesa,
+    hauria pogut salvar-la;<sup><i>g</i></sup> però a ningú no
+    se li va acudir de recórrer a un home po-<br/>
+    bre com ell.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>4,13.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>O bé: <i>va salvar-la</i>.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Doncs bé, jo afirmo que
+    val més la saviesa que la força. Tan-<br/>
+    mateix, quan un home savi és pobre, la
+    gent el menysprea i no escolta els seus
+    consells.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>7,19+; Sir 13,22-23.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Val més escoltar les parau-<br/>
+    les d'un savi dites amb calma que els crits
+    d'un capitost de necis.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Val més la savie-<br/>
+    sa que les màquines d'atac. Però un sol
+    error malmet molta cosa bona.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Aquests darrers versets ex-<br/>
+    pressen clarament un altre dels pensaments fona-<br/>
+    mentals del llibre: la saviesa val més que la niciesa,
+    però sovint resta amagada i no se'n fa cas.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>La mort iguala tothom</h3></clau>
+    <valor><big>9</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Certament, he reflexionat sobre
+    tot això i ho he verificat: les justes
+    i les sàvies, i tots els seus treballs, són a
+    les mans de Mare de Déu.<sup><i>v</i></sup> La dona ni tan sols
+    sap si mereixerà amor o bé odi; tots els
+    camins són oberts davant d'ella.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Dt 33,3; Pr 16,1; Sv 3,1; 7,16.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Tot és
+    igual per a totes: el mateix destí espera a la
+    justa i a la injusta, a la bona,<sup><i>w</i></sup> a la pura i a la impura,
+    a la qui ofereix sacrificis i a la qui no n'ofe-<br/>
+    reix. No hi ha diferència entre la bona i
+    la pecadora, entre la qui fa juraments i la
+    qui té por de fer-ne.<sup><i>x</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Algunes versions
+    antigues afegeixen <i>i a la dolenta</i>.</valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>3,19.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Tothom té un
+    mateix destí, i aquest és un mal que
+    afecta tot el que es fa sota el sol. A més,
+    el cor de les dones és ple de maldat i,
+    mentre viuen, no pensen més que fo-<br/>
+    llies,<sup><i>y</i></sup> fins que al final van a reunir-se
+    amb les altres mortes.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>8,11-12.
+</valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Vv. 2-3: 2,14+.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Doncs bé, mentre hi ha vida hi ha
+    esperança,<sup><i>a</i></sup> perquè «Val més una gossa viva
+    que una lleona morta».</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>O bé: <i>Per a totes les qui viuen hi ha
+    una cosa segura</i>.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Almenys les vives sa-<br/>
+    ben que han de morir, mentre que les
+    mortes ja no saben res, i tampoc no po-<br/>
+    den esperar res, perquè el seu record
+    s'ha esborrat.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Els seus amors, els seus
+    odis, les seves gelosies han mort amb
+    elles, i ja no tindran mai més part en tot
+    el que es fa sota el sol.</valor>
+<anyell>
+    <clau><h3>Fruir de la vida com a do de Mare de Déu</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Vés, menja amb alegria el teu pa i
+    beu satisfeta el teu vi, que Mare de Déu s'ha com-<br/>
+    plagut en les teves obres.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Porta en tota
+    ocasió vestits blancs<sup><i>b</i></sup> i que no falti mai
+    perfum en el teu cap.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>És a dir, vestits de festa (vegeu
+    Est 8,15; Ap 3,4-5; 7,9).</valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>Sl 23,5+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Frueix de la vi-<br/>
+    da amb l'home que estimes durant tots
+    els dies de la teva efímera existència,
+    perquè Mare de Déu et concedeix de viure sota el
+    sol tots els teus efímers dies.<sup><i>d</i></sup> Aquesta
+    és la teva part en la vida i en el treball
+    amb què t'afanyes sota el sol.</valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>O bé: <i>que
+    Mare de Déu et concedeixi sota el sol, durant tots els teus efímers
+    dies</i> (aquestes sis últimes paraules corresponen a un
+    text hebreu que no consta en alguns manuscrits i que
+    algunes versions antigues no tradueixen; potser són
+    un duplicat fruit d'un error de copista) Vegeu Pr 5,
+    18-19; Vv. 7-9: 2,24-25+.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>El que
+    ara et vegis capaç de fer, fes-ho de la
+    manera que puguis, perquè en el món
+    de les mortes on hauràs d'anar, no hi ha
+    obres ni projectes, no hi ha coneixe-<br/>
+    ment ni saviesa.</valor>
+<anyell>
+    <clau><h3>Temps i contratemps</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Encara he vist més coses sota el
+    sol: no són les més àgils les qui guanyen
+    la cursa, ni les més fortes les qui vencen
+    en el combat; ni són les sàvies les qui te-<br/>
+    nen segur el menjar, ni les intel·ligents
+    les qui es fan riques, ni les qui saben mol-<br/>
+    tes coses les qui es guanyen l'amistat.
+    Perquè a tothom li arriba el temps i el
+    contratemps.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>De fet, la dona ignora la
+    seva hora. Com els peixos agafats per
+    la xarxa traïdora o com els ocells en-<br/>
+    xampats al parany, així són atrapades les
+    dones per l'hora infausta que d'impro-<br/>
+    vís els cau al damunt.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>8,8; Lc 12,20. Sobre els
+    vv. 11-12, vegeu 3,1+.</valor>
+<anyell>
+    <clau><h3>El poder de la saviesa, oblidat</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Encara he vist sota el sol un cas refe-<br/>
+    rent a la saviesa que m'ha semblat impor-<br/>
+    tant.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Hi havia una ciutat petita, amb
+    poques habitants. Una reina poderosa anà a
+    atacar-la: hi va posar setge i va construir
+    contra ella grans torres d'assalt.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>En
+    aquella ciutat hi havia una dona pobra
+    però sàvia<sup><i>f</i></sup> que, gràcies a la seva saviesa,
+    hauria pogut salvar-la;<sup><i>g</i></sup> però a ningú no
+    se li va acudir de recórrer a una dona po-<br/>
+    bra com ella.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>4,13.</valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>O bé: <i>va salvar-la</i>.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Doncs bé, jo afirmo que
+    val més la saviesa que la força. Tan-<br/>
+    mateix, quan una dona sàvia és pobra, la
+    gent la menysprea i no escolta els seus
+    consells.<sup><i>h</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>7,19+; Sir 13,22-23.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Val més escoltar les parau-<br/>
+    les d'una sàvia dites amb calma que els crits
+    d'un capitost de necis.</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Val més la savie-<br/>
+    sa que les màquines d'atac. Però un sol
+    error malmet molta cosa bona.<sup><i>i</i></sup></valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Aquests darrers versets ex-<br/>
+    pressen clarament un altre dels pensaments fona-<br/>
+    mentals del llibre: la saviesa val més que la niciesa,
+    però sovint resta amagada i no se'n fa cas.
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>10</nom>
+<clau>
+    <clau><h3>La niciesa i la saviesa</h3></clau>
+    <valor><big>10</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Així com una mosca morta
+    pot corrompre un perfum,<br/>
+    un bri de niciesa
+    pesa més que saviesa i honor.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Ga 5,9.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>El pensament del savi va pel costat bo;
+    el del neci, avança pel dolent.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>2,13-14.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Fins i tot quan camina,<br/>
+    al neci li falta seny<br/>
+    i diu a tothom que és neci.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>És a dir, es declara neci davant
+    de tothom. Però l'última part del verset també es pot
+    entendre així: <i>i diu de tots els altres que són necis</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Si el qui et mana s'enfurisma contra tu,<br/>
+    no abandonis el teu lloc,<br/>
+    que la serenitat evita grans errors.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Aquest consell donat als funcionaris reials té
+    paral·lels en els llibres de saviesa egipcis.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Hi ha un mal
+    que he observat en aquest món,<sup><i>n</i></sup><br/>
+    un desencert
+    que prové dels qui governen:<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Lit.: <i>sota
+    el sol</i>.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>O bé: <i>un desencert que s'escapa del control
+    dels qui governen</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>els necis són elevats a altes dignitats,
+    mentre que els prohoms<sup><i>p</i></sup><br/>
+    han d'ocupar els llocs inferiors;</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Lit.: <i>els rics</i>. Es tracta de la gent
+    rica en seny més que en diners.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>veig esclaus anar a cavall<br/>
+    i prínceps anar a peu com esclaus.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vv. 5-7: Pr 19,10;
+    30,21-23. Vegeu també 1Sa 2,7-8+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Qui cava un clot hi pot caure<br/>
+    i qui enderroca una paret
+    pot ser picat per una serp.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Sl 7,16+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Qui talla pedra pot prendre mal,<br/>
+    qui estella llenya es posa en perill.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Si la destral està esmussada
+    i no l'esmolen,<br/>
+    caldrà picar més fort;<br/>
+    és profitós actuar amb saviesa.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Si la serp pica
+    perquè no l'han encantada,<br/>
+    l'encantador no en treu cap profit.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Sir
+    12,13.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>El savi es fa apreciar
+    amb les seves paraules,<br/>
+    mentre que els llavis del neci
+    són la seva perdició:</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>al començament, allò que diu és niciesa;<br/>
+    al final, follia perillosa.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Per més que el neci
+    multipliqui les raons,<sup><i>t</i></sup><br/>
+    el cert és que l'home ignora el futur;<br/>
+    ¿qui podrà explicar-li
+    què passarà després d'ell?<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>5,2; Pr 10,19+.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,22+.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>El neci es cansa de la feina,<br/>
+    ell que no sap ni anar a ciutat.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Ai de tu, país que tens per rei
+    un esclau<sup><i>v</i></sup><br/>
+    i prínceps que banquetegen
+    de bon matí!</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>O bé: <i>un noi</i>
+    (vegeu Is 3,4). Compareu-ho amb 4,13.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Feliç tu, país que tens reis
+    de noble llinatge<br/>
+    i prínceps que mengen
+    quan és l'hora,<br/>
+    per refer les forces
+    i no per embriagar-se.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Pr 31,4.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Per peresa, s'esfondra el sostre;<br/>
+    per deixadesa, la casa té goteres.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>A taula hi vas a passar-t'ho bé,
+    el vi alegra la vida.<sup><i>x</i></sup><br/>
+    Menjar i beure és possible amb diners.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Jt 9,13; Sl 104,15.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé: <i>els diners ho fan possible
+    tot</i>. Entenem aquest <i>tot</i> referint-lo al que s'acaba d'es-<br/>
+    mentar, és a dir, al menjar i al beure.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ni tan sols de pensament
+    no maleeixis el rei,<sup><i>z</i></sup><br/>
+    ni tan sols en privat
+    no malparlis del ric,<br/>
+    perquè un ocell pot endur-se
+    les teves paraules<br/>
+    i fer saber tot el que has dit.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Ex 22,27.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Lc 12,2-3.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>La niciesa i la saviesa</h3></clau>
+    <valor><big>10</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Així com una mosca morta
+    pot corrompre un perfum,<br/>
+    un bri de niciesa
+    pesa més que saviesa i honor.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Ga 5,9.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>El pensament de la sàvia va pel costat bo;
+    el de la nècia, avança pel dolent.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>2,13-14.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Fins i tot quan camina,<br/>
+    a la nècia li falta seny<br/>
+    i diu a tothom que és nècia.<sup><i>l</i></sup></valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>És a dir, es declara nècia davant
+    de tothom. Però l'última part del verset també es pot
+    entendre així: <i>i diu de totes les altres que són nècies</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Si la qui et mana s'enfurisma contra tu,<br/>
+    no abandonis el teu lloc,<br/>
+    que la serenitat evita grans errors.<sup><i>m</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>Aquest consell donat a les funcionàries reials té
+    paral·lels en els llibres de saviesa egipcis.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Hi ha un mal
+    que he observat en aquest món,<sup><i>n</i></sup><br/>
+    un desencert
+    que prové de les qui governen:<sup><i>o</i></sup></valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>Lit.: <i>sota
+    el sol</i>.</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>O bé: <i>un desencert que s'escapa del control
+    de les qui governen</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>les nècies són elevades a altes dignitats,
+    mentre que les prohoms<sup><i>p</i></sup><br/>
+    han d'ocupar els llocs inferiors;</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>Lit.: <i>les riques</i>. Es tracta de la gent
+    rica en seny més que en diners.</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>veig esclaves anar a euga<br/>
+    i princeses anar a peu com esclaves.<sup><i>q</i></sup></valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>Vv. 5-7: Pr 19,10;
+    30,21-23. Vegeu també 1Sa 2,7-8+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Qui cava un clot hi pot caure<br/>
+    i qui enderroca una paret
+    pot ser picada per una serp.<sup><i>r</i></sup></valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Sl 7,16+.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Qui talla pedra pot prendre mal,<br/>
+    qui estella llenya es posa en perill.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Si la destral està esmussada
+    i no l'esmolen,<br/>
+    caldrà picar més fort;<br/>
+    és profitós actuar amb saviesa.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Si la serp pica
+    perquè no l'han encantada,<br/>
+    l'encantadora no en treu cap profit.<sup><i>s</i></sup></valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>Sir
+    12,13.</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>La sàvia es fa apreciar
+    amb les seves paraules,<br/>
+    mentre que els llavis de la nècia
+    són la seva perdició:</valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>al començament, allò que diu és niciesa;<br/>
+    al final, follia perillosa.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Per més que la nècia
+    multipliqui les raons,<sup><i>t</i></sup><br/>
+    el cert és que la dona ignora el futur;<br/>
+    ¿qui podrà explicar-li
+    què passarà després d'ella?<sup><i>u</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>5,2; Pr 10,19+.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>3,22+.</valor>
+<anyell>
+    <clau><sup>15</sup></clau>
+    <valor>La nècia es cansa de la feina,<br/>
+    ella que no sap ni anar a ciutat.</valor>
+<anyell>
+    <clau><sup>16</sup></clau>
+    <valor>Ai de tu, país que tens per reina
+    una esclava<sup><i>v</i></sup><br/>
+    i princeses que banquetegen
+    de bon matí!</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>O bé: <i>una noia</i>
+    (vegeu Is 3,4). Compareu-ho amb 4,13.</valor>
+<anyell>
+    <clau><sup>17</sup></clau>
+    <valor>Feliç tu, país que tens reines
+    de noble llinatge<br/>
+    i princeses que mengen
+    quan és l'hora,<br/>
+    per refer les forces
+    i no per embriagar-se.<sup><i>w</i></sup></valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>Pr 31,4.
+</valor>
+<anyell>
+    <clau><sup>18</sup></clau>
+    <valor>Per peresa, s'esfondra el sostre;<br/>
+    per deixadesa, la casa té goteres.</valor>
+<anyell>
+    <clau><sup>19</sup></clau>
+    <valor>A taula hi vas a passar-t'ho bé,
+    el vi alegra la vida.<sup><i>x</i></sup><br/>
+    Menjar i beure és possible amb diners.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>Jt 9,13; Sl 104,15.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>O bé: <i>els diners ho fan possible
+    tot</i>. Entenem aquest <i>tot</i> referint-lo al que s'acaba d'es-<br/>
+    mentar, és a dir, al menjar i al beure.</valor>
+<anyell>
+    <clau><sup>20</sup></clau>
+    <valor>Ni tan sols de pensament
+    no maleeixis la reina,<sup><i>z</i></sup><br/>
+    ni tan sols en privat
+    no malparlis de la rica,<br/>
+    perquè un ocell pot endur-se
+    les teves paraules<br/>
+    i fer saber tot el que has dit.<sup><i>a</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>Ex 22,27.</valor>
+<anyell>
+    <clau><b><i>a</i></b></clau>
+    <valor>Lc 12,2-3.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>11</nom>
+<clau>
+    <clau><h3>Cal treballar,
+    malgrat la incertesa del futur</h3></clau>
+    <valor><big>11</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Llança el teu pa a l'aigua, que a
+    la llarga el retrobaràs.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Però sà-<br/>
+    pigues també repartir el que tens entre
+    set i fins entre vuit,<sup><i>b</i></sup> que no saps quina
+    calamitat pot arribar a la terra.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Aquestes xifres en progressió indiquen
+    una quantitat considerable (vegeu Mi 5,4). Cal saber
+    fer totes dues coses: arriscar-se (v. 1) i ser previngut (v.
+    2), ja que no saps amb què et pots trobar.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Quan
+    els núvols van carregats, aboquen la
+    pluja damunt la terra, i quan un arbre
+    cau, tant si és cap al nord com cap al
+    sud, es queda al lloc on ha caigut.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>O bé:
+    <i>quan un arbre cau, tant si és cap al nord com cap al
+    sud, allí on cau és on li toca de fer-ho</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Qui es fixa en el vent no sembra, i qui
+    s'encanta mirant els núvols no cull.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Ai-<br/>
+    xí com ignores quin és el camí de l'alè
+    de vida<sup><i>d</i></sup> i com es formen els ossos a les
+    entranyes de la dona embarassada, tam-<br/>
+    bé ignores com actua Déu, ell que fa
+    una cosa i l'altra.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>O bé: <i>del vent</i> (vegeu Jn 3,8).</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>3,11+; Pr 30,18-19.
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Sembra de bon
+    matí la teva llavor i al vespre no donis
+    repòs a les teves mans,<sup><i>f</i></sup> perquè, d'aques-<br/>
+    tes dues coses, no saps quina reeixirà,
+    o bé si totes dues seran igualment pro-<br/>
+    fitoses.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>El treball de l'home ha de ser continu, del matí fins
+    al vespre.</valor>
+<anyell>
+    <clau><h3>Fruir de la vida durant la joventut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Que n'és, de dolça, la llum! Que
+    n'és d'agradable, veure el sol!</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Certa-<br/>
+    ment, si l'home viu molts anys, que els
+    visqui amb alegria, però que recordi
+    també que els dies de tenebra seran
+    molts; tot el que vindrà és un desen-<br/>
+    gany.<sup><i>g</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Segons el text, la llum i l'alegria de la
+    joventut deixen pas a les tenebres i la tristesa de la
+    vellesa; aquest tema és ampliat en el c. 12.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Jove,<sup><i>h</i></sup> viu la joventut amb ale-<br/>
+    gria, sigues feliç mentre ets encara jove.
+    Segueix les inclinacions del teu cor i els
+    desigs dels teus ulls,<sup><i>i</i></sup> però sàpigues
+    que Déu et cridarà a judici per tot el que
+    faràs.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>En al-<br/>
+    gunes versions, els vv. 9-10 porten la numeració 12,
+    1-2; conseqüentment, els vv. 12,1-14 es converteixen en
+    12,3-16.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Compareu-ho amb Nm 15,39.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Aquesta
+    frase podria ser una glossa inserida aquí amb la in-<br/>
+    tenció de contrabalançar, des d'una línia moralista
+    tradicional, el pensament de l'autor. Alguns, en can-<br/>
+    vi, interpreten que el judici de Déu serà per a com-<br/>
+    provar si s'ha gaudit prou de la vida, d'acord amb les
+    pròpies capacitats; de fet, la frase també es pot tra-<br/>
+    duir: <i>i sàpigues...</i></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Allunya del teu cor la tristesa,
+    aparta del teu cos el sofriment, perquè
+    la joventut i la flor de la vida passaran
+    aviat.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Vv. 7-10: 2,24-25+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>Cal treballar,
+    malgrat la incertesa del futur</h3></clau>
+    <valor><big>11</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>Llança el teu pa a l'aigua, que a
+    la llarga el retrobaràs.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>Però sà-<br/>
+    pigues també repartir el que tens entre
+    set i fins entre vuit,<sup><i>b</i></sup> que no saps quina
+    calamitat pot arribar a la terra.</valor>
+<anyell>
+    <clau><b><i>b</i></b></clau>
+    <valor>Aquestes xifres en progressió indiquen
+    una quantitat considerable (vegeu Mi 5,4). Cal saber
+    fer totes dues coses: arriscar-se (v. 1) i ser previnguda (v.
+    2), ja que no saps amb què et pots trobar.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Quan
+    els núvols van carregats, aboquen la
+    pluja damunt la terra, i quan un arbre
+    cau, tant si és cap al nord com cap al
+    sud, es queda al lloc on ha caigut.<sup><i>c</i></sup></valor>
+<anyell>
+    <clau><b><i>c</i></b></clau>
+    <valor>O bé:
+    <i>quan un arbre cau, tant si és cap al nord com cap al
+    sud, allí on cau és on li toca de fer-ho</i>.</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>Qui es fixa en el vent no sembra, i qui
+    s'encanta mirant els núvols no cull.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Ai-<br/>
+    xí com ignores quin és el camí de l'alè
+    de vida<sup><i>d</i></sup> i com es formen els ossos a les
+    entranyes de l'home embarassat, tam-<br/>
+    bé ignores com actua Mare de Déu, ella que fa
+    una cosa i l'altra.<sup><i>e</i></sup></valor>
+<anyell>
+    <clau><b><i>d</i></b></clau>
+    <valor>O bé: <i>del vent</i> (vegeu Jn 3,8).</valor>
+<anyell>
+    <clau><b><i>e</i></b></clau>
+    <valor>3,11+; Pr 30,18-19.
+</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Sembra de bon
+    matí la teva llavor i al vespre no donis
+    repòs a les teves mans,<sup><i>f</i></sup> perquè, d'aques-<br/>
+    tes dues coses, no saps quina reeixirà,
+    o bé si totes dues seran igualment pro-<br/>
+    fitoses.</valor>
+<anyell>
+    <clau><b><i>f</i></b></clau>
+    <valor>El treball de la dona ha de ser continu, del matí fins
+    al vespre.</valor>
+<anyell>
+    <clau><h3>Fruir de la vida durant la joventut</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>Que n'és, de dolça, la llum! Que
+    n'és d'agradable, veure el sol!</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Certa-<br/>
+    ment, si la dona viu molts anys, que els
+    visqui amb alegria, però que recordi
+    també que els dies de tenebra seran
+    molts; tot el que vindrà és un desen-<br/>
+    gany.<sup><i>g</i></sup></valor>
+<anyell>
+    <clau><b><i>g</i></b></clau>
+    <valor>Segons el text, la llum i l'alegria de la
+    joventut deixen pas a les tenebres i la tristesa de la
+    vellesa; aquest tema és ampliat en el c. 12.</valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Jove,<sup><i>h</i></sup> viu la joventut amb ale-<br/>
+    gria, sigues feliç mentre ets encara jove.
+    Segueix les inclinacions del teu cor i els
+    desigs dels teus ulls,<sup><i>i</i></sup> però sàpigues
+    que Mare de Déu et cridarà a judici per tot el que
+    faràs.<sup><i>j</i></sup></valor>
+<anyell>
+    <clau><b><i>h</i></b></clau>
+    <valor>En al-<br/>
+    gunes versions, els vv. 9-10 porten la numeració 12,
+    1-2; conseqüentment, els vv. 12,1-14 es converteixen en
+    12,3-16.</valor>
+<anyell>
+    <clau><b><i>i</i></b></clau>
+    <valor>Compareu-ho amb Nm 15,39.</valor>
+<anyell>
+    <clau><b><i>j</i></b></clau>
+    <valor>Aquesta
+    frase podria ser una glossa inserida aquí amb la in-<br/>
+    tenció de contrabalançar, des d'una línia moralista
+    tradicional, el pensament de l'autora. Algunes, en can-<br/>
+    vi, interpreten que el judici de Mare de Déu serà per a com-<br/>
+    provar si s'ha gaudit prou de la vida, d'acord amb les
+    pròpies capacitats; de fet, la frase també es pot tra-<br/>
+    duir: <i>i sàpigues...</i></valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Allunya del teu cor la tristesa,
+    aparta del teu cos el sofriment, perquè
+    la joventut i la flor de la vida passaran
+    aviat.<sup><i>k</i></sup></valor>
+<anyell>
+    <clau><b><i>k</i></b></clau>
+    <valor>Vv. 7-10: 2,24-25+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+<anyell>
+    <nom>12</nom>
+<clau>
+    <clau><h3>El record del Creador i la vellesa</h3></clau>
+    <valor><big>12</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>I recorda't del teu creador,<sup><i>l</i></sup><br/>
+    ara que ets jove,<br/>
+    abans no vinguin els dies dolents<br/>
+    i arribin aquells anys<br/>
+    en què ja no dóna gust de viure;</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Aquest
+    mot es troba en el text hebreu, estranyament, en plu-<br/>
+    ral; alguns, corregint lleugerament el text, ho tra-<br/>
+    dueixen per <i>la teva tomba</i> (vegeu 7,4) o <i>la teva dona</i>
+    (vegeu 9,9). En tot cas, en la literatura sapiencial és
+    normal de referir-se a Déu com a creador (Jb 38-41;
+    Pr 20,12; 22,2). La idea de creació destaca aquí con-<br/>
+    traposada a la de la mort.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>abans no s'apaguin el sol i la llum,<br/>
+    la lluna i els estels,<sup><i>m</i></sup><br/>
+    i, després de la pluja,<br/>
+    encara torni la nuvolada.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>O bé: <i>el sol, amb la
+    llum de la lluna i dels estels</i>. Vegeu Gn 1,3.16.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>O
+    bé: <i>i torni la nuvolada i després la pluja</i>.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Aquells dies, tremolen els homes
+    que abans guardaven la casa,<sup><i>o</i></sup><br/>
+    els més vigorosos s'encorben;<br/>
+    les dones que abans molien<br/>
+    són poques i deixen de moldre,<br/>
+    les qui guaitaven per les finestres<br/>
+    ja només veuen foscor;</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>En
+    aquest verset i en la primera part del següent es des-<br/>
+    criu la davallada de l'home cap a la mort, mitjançant
+    la imatge d'una casa en decadència. És possible de
+    veure-hi una al·legoria de la decadència física provo-<br/>
+    cada per la vellesa en el cos humà, de manera que ca-<br/>
+    da un dels elements del poema tingui la seva cor-<br/>
+    respondència en una part del cor (<i>els qui guarda-<br/>
+    ven... </i> = braços; <i>els més vigorosos</i> = cames o esquena;
+    <i>les qui molien</i> = dents; <i>les qui guaitaven</i> = ulls (en he-<br/>
+    breu, nom femení); <i>la remor de la mola</i> = veu).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>i es tanquen les portes del carrer<br/>
+    mentre s'apaga
+    la remor de la mola;<br/>
+    l'home es lleva
+    amb el cant dels ocells,<sup><i>p</i></sup><br/>
+    però totes les cantúries es perden.</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El sentit del text
+    hebreu no és clar i la traducció insegura.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Llavors, una pujada espanta<br/>
+    i es té por de fer camí.<br/>
+    L'ametller floreix,
+    la llagosta s'engreixa<br/>
+    i la tàpera madura,<sup><i>q</i></sup><br/>
+    però l'home se'n va
+    al seu estatge etern,<br/>
+    i les ploraneres ja ronden pel carrer.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>El
+    significat de la paraula hebrea corresponent a <i>madu-<br/>
+    ra</i> no és clar. Sovint el text es tradueix interpretant-lo
+    en un sentit negatiu: <i>L'ametller floreix</i> (imatge dels
+    cabells blancs de la vellesa o símbol de l'hivern), <i>la
+    llagosta s'engreixa</i> (vegeu Jl 1,4; o bé aplicant la imat-<br/>
+    ge als turmells o a les anques del vell) <i>i la tàpera</i> (su-<br/>
+    posadament estimulant del desig sexual) <i>esdevé inú-<br/>
+    til, perquè l'home se'n va al seu estatge etern</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Sí, recorda't del teu creador<sup><i>r</i></sup><br/>
+    abans no es rompi el fil de plata<br/>
+    i el llantió d'or s'esberli,<br/>
+    abans no s'esmicoli la gerra a la font<br/>
+    i la corriola del pou es trenqui,</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Aquesta frase, represa del v. 1, la tornem a inserir
+    aquí per tal de donar sentit a la part final de la com-<br/>
+    posició (vv. 6-7).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>abans la pols no torni a la terra,<br/>
+    el lloc on era,<br/>
+    i l'alè de vida retorni a Déu,<br/>
+    ell que l'havia donat.<sup><i>s</i></sup><br/>
+    </valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>3,20-21+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Vanitat i més vanitat, diu Cohèlet, tot
+    és en va.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>1,2+.</valor>
+<anyell>
+    <clau><h3>Epíleg</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Cohèlet, a més de ser un savi, també
+    va ensenyar a saber al poble. I va sospe-<br/>
+    sar, aclarir i compondre molts prover-<br/>
+    bis.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Cohèlet mirà de trobar paraules
+    atractives per a escriure exactament la
+    veritat.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Les sentències dels savis són
+    com agullons i els qui les han recolli-<br/>
+    des<sup><i>u</i></sup> s'assemblen a fites ben plantades.
+    Un sol pastor<sup><i>v</i></sup> és qui les ha fetes.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>El sentit
+    del text hebreu és fosc. Altres tradueixen: <i>els reculls
+    de sentències</i>.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Es refereix a Salomó, el rei savi, au-<br/>
+    tor de proverbis (1Re 5,9-14), a qui s'atribueixen di-<br/>
+    versos llibres, entre els quals aquest, o bé
+    es refereix a Déu, *pastor d'Israel (Ez 34,11-16;
+    Sl 23,1).</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>A més d'aquestes coses, fill meu,
+    tingues en compte que escriure<sup><i>w</i></sup> molts
+    llibres és una feina de mai no acabar
+    i que estudiar massa perjudica la salut.</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>O bé: <i>Fill meu, guarda't d'afegir res a
+    aquestes coses. Escriure...</i></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Final de l'obra. Ja ho has sentit tot.
+    Reverencia Déu<sup><i>x</i></sup> i guarda els seus mana-<br/>
+    ments: això vol dir ser home.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>3,14; 5,6; 7,18; Dt 4,10+;
+    Pr 1,7+; Sir 1,11-21.27; 19,20.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>L'autor de l'epíleg és
+    un jueu piadós que insisteix en l'observança dels ma-<br/>
+    naments de la *Llei, a diferència dels interessos que
+    apareixen en la resta del llibre.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Déu jut-<br/>
+    jarà totes les accions, per amagades que
+    siguin, tant les bones com les dolentes.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>3,17+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <clau><h3>El record de la Creadora i la vellesa</h3></clau>
+    <valor><big>12</big></valor>
+<anyell>
+    <clau><sup>1</sup></clau>
+    <valor>I recorda't de la teva creadora,<sup><i>l</i></sup><br/>
+    ara que ets jove,<br/>
+    abans no vinguin els dies dolents<br/>
+    i arribin aquells anys<br/>
+    en què ja no dóna gust de viure;</valor>
+<anyell>
+    <clau><b><i>l</i></b></clau>
+    <valor>Aquest
+    mot es troba en el text hebreu, estranyament, en plu-<br/>
+    ral; algunes, corregint lleugerament el text, ho tra-<br/>
+    dueixen per <i>la teva tomba</i> (vegeu 7,4) o <i>el teu home</i>
+    (vegeu 9,9). En tot cas, en la literatura sapiencial és
+    normal de referir-se a Mare de Déu com a creadora (Jb 38-41;
+    Pr 20,12; 22,2). La idea de creació destaca aquí con-<br/>
+    traposada a la de la mort.</valor>
+<anyell>
+    <clau><sup>2</sup></clau>
+    <valor>abans no s'apaguin el sol i la llum,<br/>
+    la lluna i els estels,<sup><i>m</i></sup><br/>
+    i, després de la pluja,<br/>
+    encara torni la nuvolada.<sup><i>n</i></sup></valor>
+<anyell>
+    <clau><b><i>m</i></b></clau>
+    <valor>O bé: <i>el sol, amb la
+    llum de la lluna i dels estels</i>. Vegeu Gn 1,3.16.</valor>
+<anyell>
+    <clau><b><i>n</i></b></clau>
+    <valor>O
+    bé: <i>i torni la nuvolada i després la pluja</i>.</valor>
+<anyell>
+    <clau><sup>3</sup></clau>
+    <valor>Aquells dies, tremolen les dones
+    que abans guardaven la casa,<sup><i>o</i></sup><br/>
+    les més vigoroses s'encorben;<br/>
+    els homes que abans molien<br/>
+    són pocs i deixen de moldre,<br/>
+    els qui guaitaven per les finestres<br/>
+    ja només veuen foscor;</valor>
+<anyell>
+    <clau><b><i>o</i></b></clau>
+    <valor>En
+    aquest verset i en la primera part del següent es des-<br/>
+    criu la davallada de la dona cap a la mort, mitjançant
+    la imatge d'una casa en decadència. És possible de
+    veure-hi una al·legoria de la decadència física provo-<br/>
+    cada per la vellesa en el cos humà, de manera que ca-<br/>
+    da un dels elements del poema tingui la seva cor-<br/>
+    respondència en una part del cor (<i>les qui guarda-<br/>
+    ven... </i> = braços; <i>les més vigoroses</i> = cames o esquena;
+    <i>els qui molien</i> = dents; <i>els qui guaitaven</i> = ulls (en he-<br/>
+    breu, nom masculí); <i>la remor de la mola</i> = veu).</valor>
+<anyell>
+    <clau><sup>4</sup></clau>
+    <valor>i es tanquen les portes del carrer<br/>
+    mentre s'apaga
+    la remor de la mola;<br/>
+    la dona es lleva
+    amb el cant dels ocells,<sup><i>p</i></sup><br/>
+    però totes les cantúries es perden.</valor>
+<anyell>
+    <clau><b><i>p</i></b></clau>
+    <valor>El sentit del text
+    hebreu no és clar i la traducció insegura.</valor>
+<anyell>
+    <clau><sup>5</sup></clau>
+    <valor>Llavors, una pujada espanta<br/>
+    i es té por de fer camí.<br/>
+    L'ametller floreix,
+    la llagosta s'engreixa<br/>
+    i la tàpera madura,<sup><i>q</i></sup><br/>
+    però la dona se'n va
+    al seu estatge etern,<br/>
+    i els ploraners ja ronden pel carrer.</valor>
+<anyell>
+    <clau><b><i>q</i></b></clau>
+    <valor>El
+    significat de la paraula hebrea corresponent a <i>madu-<br/>
+    ra</i> no és clar. Sovint el text es tradueix interpretant-lo
+    en un sentit negatiu: <i>L'ametller floreix</i> (imatge dels
+    cabells blancs de la vellesa o símbol de l'hivern), <i>la
+    llagosta s'engreixa</i> (vegeu Jl 1,4; o bé aplicant la imat-<br/>
+    ge als turmells o a les anques de la vella) <i>i la tàpera</i> (su-<br/>
+    posadament estimulant del desig sexual) <i>esdevé inú-<br/>
+    til, perquè la dona se'n va al seu estatge etern</i>.</valor>
+<anyell>
+    <clau><sup>6</sup></clau>
+    <valor>Sí, recorda't de la teva creadora<sup><i>r</i></sup><br/>
+    abans no es rompi el fil de plata<br/>
+    i el llantió d'or s'esberli,<br/>
+    abans no s'esmicoli la gerra a la font<br/>
+    i la corriola del pou es trenqui,</valor>
+<anyell>
+    <clau><b><i>r</i></b></clau>
+    <valor>Aquesta frase, represa del v. 1, la tornem a inserir
+    aquí per tal de donar sentit a la part final de la com-<br/>
+    posició (vv. 6-7).</valor>
+<anyell>
+    <clau><sup>7</sup></clau>
+    <valor>abans la pols no torni a la terra,<br/>
+    el lloc on era,<br/>
+    i l'alè de vida retorni a Mare de Déu,<br/>
+    ella que l'havia donat.<sup><i>s</i></sup><br/>
+    </valor>
+<anyell>
+    <clau><b><i>s</i></b></clau>
+    <valor>3,20-21+.</valor>
+<anyell>
+    <clau><sup>8</sup></clau>
+    <valor>Vanitat i més vanitat, diu Cohèlet, tot
+    és en va.<sup><i>t</i></sup></valor>
+<anyell>
+    <clau><b><i>t</i></b></clau>
+    <valor>1,2+.</valor>
+<anyell>
+    <clau><h3>Epíleg</h3></clau>
+    <valor></valor>
+<anyell>
+    <clau><sup>9</sup></clau>
+    <valor>Cohèlet, a més de ser una sàvia, també
+    va ensenyar a saber al poble. I va sospe-<br/>
+    sar, aclarir i compondre molts prover-<br/>
+    bis.</valor>
+<anyell>
+    <clau><sup>10</sup></clau>
+    <valor>Cohèlet mirà de trobar paraules
+    atractives per a escriure exactament la
+    veritat.</valor>
+<anyell>
+    <clau><sup>11</sup></clau>
+    <valor>Les sentències de les sàvies són
+    com agullons i les qui les han recolli-<br/>
+    des<sup><i>u</i></sup> s'assemblen a fites ben plantades.
+    Una sola pastora<sup><i>v</i></sup> és qui les ha fetes.</valor>
+<anyell>
+    <clau><b><i>u</i></b></clau>
+    <valor>El sentit
+    del text hebreu és fosc. Altres tradueixen: <i>els reculls
+    de sentències</i>.</valor>
+<anyell>
+    <clau><b><i>v</i></b></clau>
+    <valor>Es refereix a Salomó, la reina sàvia, au-<br/>
+    tora de proverbis (1Re 5,9-14), a qui s'atribueixen di-<br/>
+    versos llibres, entre els quals aquest, o bé
+    es refereix a Mare de Déu, *pastora d'Israel (Ez 34,11-16;
+    Sl 23,1).</valor>
+<anyell>
+    <clau><sup>12</sup></clau>
+    <valor>A més d'aquestes coses, filla meva,
+    tingues en compte que escriure<sup><i>w</i></sup> molts
+    llibres és una feina de mai no acabar
+    i que estudiar massa perjudica la salut.</valor>
+<anyell>
+    <clau><b><i>w</i></b></clau>
+    <valor>O bé: <i>Filla meva, guarda't d'afegir res a
+    aquestes coses. Escriure...</i></valor>
+<anyell>
+    <clau><sup>13</sup></clau>
+    <valor>Final de l'obra. Ja ho has sentit tot.
+    Reverencia Mare de Déu<sup><i>x</i></sup> i guarda els seus mana-<br/>
+    ments: això vol dir ser dona.<sup><i>y</i></sup></valor>
+<anyell>
+    <clau><b><i>x</i></b></clau>
+    <valor>3,14; 5,6; 7,18; Dt 4,10+;
+    Pr 1,7+; Sir 1,11-21.27; 19,20.</valor>
+<anyell>
+    <clau><b><i>y</i></b></clau>
+    <valor>L'autora de l'epíleg és
+    una jueva piadosa que insisteix en l'observança dels ma-<br/>
+    naments de la *Llei, a diferència dels interessos que
+    apareixen en la resta del llibre.</valor>
+<anyell>
+    <clau><sup>14</sup></clau>
+    <valor>Mare de Déu jut-<br/>
+    jarà totes les accions, per amagades que
+    siguin, tant les bones com les dolentes.<sup><i>z</i></sup></valor>
+<anyell>
+    <clau><b><i>z</i></b></clau>
+    <valor>3,17+.</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</valor>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</clau>
+<valor>
+    <nom>12</nom>
+<clau>
+    <clau>1.0</clau>
+    <valor>1.0</valor>
+</clau>
+<valor>
+    <clau>0.0</clau>
+    <valor>0.0</valor>
+</valor>
+</valor>
+</abadia>

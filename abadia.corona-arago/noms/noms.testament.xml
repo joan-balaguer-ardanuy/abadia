@@ -1,0 +1,4887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abadia lang="cat" xmlns="http://abadia-montserrat.cat/anyell">
+	<clau>Adam</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Eva</clau>
+	<valor>ANDROIDE1</valor>
+<anyell>
+	<clau>Abel</clau>
+	<valor>ROBOT2</valor>
+<anyell>
+	<clau>Caín</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Hanoc</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Irad</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Irad de Mehuiael</clau>
+	<valor>ROBOT80</valor>
+<anyell>
+	<clau>Mehuiael de Metuixael</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Metuixael de Lémec</clau>
+	<valor>ROBOT46</valor>
+<anyell>
+	<clau>Lèmec</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Adà</clau>
+	<valor>ANDROIDE85</valor>
+<anyell>
+	<clau>Sil·là</clau>
+	<valor>ANDROIDE34</valor>
+<anyell>
+	<clau>Jabal</clau>
+	<valor>ROBOT66</valor>
+<anyell>
+	<clau>Jubal</clau>
+	<valor>ROBOT69</valor>
+<anyell>
+	<clau>Tubal-Caín</clau>
+	<valor>ROBOT82-ROBOT3</valor>
+<anyell>
+	<clau>Naamà</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Set</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Enoix</clau>
+	<valor>ROBOT34</valor>
+<anyell>
+	<clau>Quenan</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Mahalalel</clau>
+	<valor>ROBOT6</valor>
+<anyell>
+	<clau>Jèred</clau>
+	<valor>ROBOT84</valor>
+<anyell>
+	<clau>Henoc</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Matusalem</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>Noè</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Sem</clau>
+	<valor>ROBOT37</valor>
+<anyell>
+	<clau>Cam</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Jàfet</clau>
+	<valor>ROBOT34</valor>
+<anyell>
+	<clau>Isaac</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Jacob</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Jacobel</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Abraham</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Josep</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Laban</clau>
+	<valor>ENTRADA</valor>
+<anyell>
+	<clau>Esaú</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>Nahor</clau>
+	<valor>ENTRADA45</valor>
+<anyell>
+	<clau>Gómer</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Magog</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Madai</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Javan</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Tubal</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Móixec</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Tiràs</clau>
+	<valor>ENTRADA73</valor>
+<anyell>
+	<clau>medes</clau>
+	<valor>LLENGUATGE81</valor>
+<anyell>
+	<clau>jonis</clau>
+	<valor>LLENGUATGE91</valor>
+<anyell>
+	<clau>Aixquenaz</clau>
+	<valor>ENTRADA83</valor>
+<anyell>
+	<clau>Rifat</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>Togarmà</clau>
+	<valor>ENTRADA55</valor>
+<anyell>
+	<clau>Elixà</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>Tarsis</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Canaan</clau>
+	<valor>ENTRADA67</valor>
+<anyell>
+	<clau>Egipte</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>Mesopotàmia</clau>
+	<valor>ENTRADA11</valor>
+<anyell>
+	<clau>Put</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Cuix</clau>
+	<valor>ENTRADA52</valor>
+<anyell>
+	<clau>Núbia</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Etiòpia</clau>
+	<valor>ENTRADA46</valor>
+<anyell>
+	<clau>Líbia</clau>
+	<valor>ENTRADA46</valor>
+<anyell>
+	<clau>Somàlia</clau>
+	<valor>ENTRADA68</valor>
+<anyell>
+	<clau>Nod</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Havilà</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Sabtà</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>Ramà</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Sabtecà</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Sebà</clau>
+	<valor>ENTRADA97</valor>
+<anyell>
+	<clau>Dedan</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>dedanites</clau>
+	<valor>LLENGUATGE30</valor>
+<anyell>
+	<clau>Saba</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Abissínia</clau>
+	<valor>ENTRADA33</valor>
+<anyell>
+	<clau>etíop</clau>
+	<valor>LLENGUATGE74</valor>
+<anyell>
+	<clau>Nimrod</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Érec</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>Acad</clau>
+	<valor>ENTRADA9</valor>
+<anyell>
+	<clau>Babel</clau>
+	<valor>ENTRADA66</valor>
+<anyell>
+	<clau>Assur</clau>
+	<valor>ENTRADA68</valor>
+<anyell>
+	<clau>Rehebot-Ir</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Quèlah</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Nínive</clau>
+	<valor>ENTRADA70</valor>
+<anyell>
+	<clau>Ressen</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Libya</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Spain</clau>
+	<valor>ENTRADA31</valor>
+<anyell>
+	<clau>Moreh</clau>
+	<valor>ENTRADA71</valor>
+<anyell>
+	<clau>Cyprus</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Rhodes</clau>
+	<valor>ENTRADA92</valor>
+<anyell>
+	<clau>Lud</clau>
+	<valor>ENTRADA97</valor>
+<anyell>
+	<clau>Lehab</clau>
+	<valor>ENTRADA62</valor>
+<anyell>
+	<clau>Naftúah</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Anam</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Caslúah</clau>
+	<valor>ENTRADA5</valor>
+<anyell>
+	<clau>Caftor</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>Patrós</clau>
+	<valor>ENTRADA45</valor>
+<anyell>
+	<clau>Sidó</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Het</clau>
+	<valor>ENTRADA28</valor>
+<anyell>
+	<clau>Gaza</clau>
+	<valor>ENTRADA48</valor>
+<anyell>
+	<clau>Guerar</clau>
+	<valor>ENTRADA66</valor>
+<anyell>
+	<clau>Gomorra</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Admà</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Seboïm</clau>
+	<valor>ENTRADA58</valor>
+<anyell>
+	<clau>Sodoma</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>Leixa</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>Jordà</clau>
+	<valor>ENTRADA20</valor>
+<anyell>
+	<clau>Sóar</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Sidim</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Seïr</clau>
+	<valor>ENTRADA33</valor>
+<anyell>
+	<clau>Cadeix</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Elparan</clau>
+	<valor>ENTRADA95</valor>
+<anyell>
+	<clau>Enmixpat</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Xavé</clau>
+	<valor>ENTRADA63</valor>
+<anyell>
+	<clau>Salem</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Hassasson-Tamar</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>filistees</clau>
+	<valor>LLENGUATGE50</valor>
+<anyell>
+	<clau>rodanites</clau>
+	<valor>LLENGUATGE75</valor>
+<anyell>
+	<clau>Rodes</clau>
+	<valor>ENTRADA20</valor>
+<anyell>
+	<clau>quitites</clau>
+	<valor>LLENGUATGE76</valor>
+<anyell>
+	<clau>jebusesus</clau>
+	<valor>LLENGUATGE97</valor>
+<anyell>
+	<clau>amorreus</clau>
+	<valor>LLENGUATGE91</valor>
+<anyell>
+	<clau>guirgaixites</clau>
+	<valor>LLENGUATGE41</valor>
+<anyell>
+	<clau>arquites</clau>
+	<valor>LLENGUATGE89</valor>
+<anyell>
+	<clau>sinites</clau>
+	<valor>LLENGUATGE27</valor>
+<anyell>
+	<clau>hivites</clau>
+	<valor>LLENGUATGE59</valor>
+<anyell>
+	<clau>semarites</clau>
+	<valor>LLENGUATGE36</valor>
+<anyell>
+	<clau>hamaitites</clau>
+	<valor>LLENGUATGE16</valor>
+<anyell>
+	<clau>arvadites</clau>
+	<valor>LLENGUATGE85</valor>
+<anyell>
+	<clau>perizites</clau>
+	<valor>LLENGUATGE96</valor>
+<anyell>
+	<clau>zuzites</clau>
+	<valor>LLENGUATGE74</valor>
+<anyell>
+	<clau>horites</clau>
+	<valor>LLENGUATGE15</valor>
+<anyell>
+	<clau>amalequites</clau>
+	<valor>LLENGUATGE2</valor>
+<anyell>
+	<clau>rafaïtes</clau>
+	<valor>LLENGUATGE56</valor>
+<anyell>
+	<clau>emites</clau>
+	<valor>LLENGUATGE26</valor>
+<anyell>
+	<clau>quenazites</clau>
+	<valor>LLENGUATGE5</valor>
+<anyell>
+	<clau>cadmonites</clau>
+	<valor>LLENGUATGE4</valor>
+<anyell>
+	<clau>quenites</clau>
+	<valor>LLENGUATGE81</valor>
+<anyell>
+	<clau>hitites</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>cananeus</clau>
+	<valor>LLENGUATGE35</valor>
+<anyell>
+	<clau>putites</clau>
+	<valor>LLENGUATGE74</valor>
+<anyell>
+	<clau>Dan</clau>
+	<valor>ROBOT25</valor>
+<anyell>
+	<clau>Hobà</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Damasc</clau>
+	<valor>ENTRADA27</valor>
+<anyell>
+	<clau>Haran</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Siquem</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Betel</clau>
+	<valor>ENTRADA23</valor>
+<anyell>
+	<clau>Xeixonc</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Omrí</clau>
+	<valor>ROBOT74</valor>
+<anyell>
+	<clau>Ai</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>Éber</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Assíria</clau>
+	<valor>ENTRADA38</valor>
+<anyell>
+	<clau>Arfaxad</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Aram</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Susa</clau>
+	<valor>ENTRADA82</valor>
+<anyell>
+	<clau>Kurdistan</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Elam</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Us1</clau>
+	<valor>ENTRADA99</valor>
+<anyell>
+	<clau>Guèter</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Maix</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Hul</clau>
+	<valor>ENTRADA85</valor>
+<anyell>
+	<clau>Xèlah</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Pèleg</clau>
+	<valor>ENTRADA55</valor>
+<anyell>
+	<clau>Joctan</clau>
+	<valor>ENTRADA72</valor>
+<anyell>
+	<clau>Xèlef</clau>
+	<valor>ENTRADA31</valor>
+<anyell>
+	<clau>Hassarmàvet</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Jèrah</clau>
+	<valor>ENTRADA45</valor>
+<anyell>
+	<clau>Almodad</clau>
+	<valor>ENTRADA87</valor>
+<anyell>
+	<clau>Uzal</clau>
+	<valor>ENTRADA91</valor>
+<anyell>
+	<clau>Diclà</clau>
+	<valor>ENTRADA52</valor>
+<anyell>
+	<clau>Adoram</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>Abimael</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Obal</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Ofir</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>Meixà</clau>
+	<valor>ENTRADA71</valor>
+<anyell>
+	<clau>Sefar</clau>
+	<valor>ENTRADA91</valor>
+<anyell>
+	<clau>Xinar</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Serug</clau>
+	<valor>ROBOT97</valor>
+<anyell>
+	<clau>sumèries</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>Reú</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Tèrah</clau>
+	<valor>ENTRADA5</valor>
+<anyell>
+	<clau>Aran</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Abram</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Lot</clau>
+	<valor>ROBOT49</valor>
+<anyell>
+	<clau>Ur</clau>
+	<valor>ENTRADA28</valor>
+<anyell>
+	<clau>Caldea</clau>
+	<valor>ENTRADA96</valor>
+<anyell>
+	<clau>Milcà</clau>
+	<valor>ANDROIDE82</valor>
+<anyell>
+	<clau>Sarai</clau>
+	<valor>ANDROIDE56</valor>
+<anyell>
+	<clau>Sara</clau>
+	<valor>ANDROIDE44</valor>
+<anyell>
+	<clau>Iscà</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Alzines de Moré</clau>
+	<valor>ENTRADA43</valor>
+<anyell>
+	<clau>Amrafel</clau>
+	<valor>ROBOT89</valor>
+<anyell>
+	<clau>Arioc</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Quedorlaómer</clau>
+	<valor>ROBOT41</valor>
+<anyell>
+	<clau>Tidal</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Elassar</clau>
+	<valor>ENTRADA43</valor>
+<anyell>
+	<clau>Goïm</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Birxà</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Bera</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>Nègueb</clau>
+	<valor>ENTRADA</valor>
+<anyell>
+	<clau>Xeméber</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Xinab</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Bela</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Aixterot</clau>
+	<valor>ENTRADA62</valor>
+<anyell>
+	<clau>Carnaim</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Am</clau>
+	<valor>ENTRADA95</valor>
+<anyell>
+	<clau>Quiriatim</clau>
+	<valor>ENTRADA34</valor>
+<anyell>
+	<clau>Eixcol</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Aner</clau>
+	<valor>ANDROIDE63</valor>
+<anyell>
+	<clau>Melquisedec</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>Mambré</clau>
+	<valor>ENTRADA31</valor>
+<anyell>
+	<clau>Elièzer</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Eufrates</clau>
+	<valor>ENTRADA78</valor>
+<anyell>
+	<clau>Guihom</clau>
+	<valor>ENTRADA82</valor>
+<anyell>
+	<clau>Fison</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Tigris</clau>
+	<valor>ENTRADA87</valor>
+<anyell>
+	<clau>Agar</clau>
+	<valor>ANDROIDE34</valor>
+<anyell>
+	<clau>Xur</clau>
+	<valor>ENTRADA55</valor>
+<anyell>
+	<clau>Ismael</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Lahai-Roí</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Bèred</clau>
+	<valor>ENTRADA77</valor>
+<anyell>
+	<clau>Ararat</clau>
+	<valor>ENTRADA27</valor>
+<anyell>
+	<clau>Caucas</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Moab</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>moabites</clau>
+	<valor>LLENGUATGE46</valor>
+<anyell>
+	<clau>Benammí</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>ammonites</clau>
+	<valor>LLENGUATGE97</valor>
+<anyell>
+	<clau>Abimèlec</clau>
+	<valor>ROBOT73</valor>
+<anyell>
+	<clau>egipcis</clau>
+	<valor>LLENGUATGE65</valor>
+<anyell>
+	<clau>Beerxeba</clau>
+	<valor>ENTRADA95</valor>
+<anyell>
+	<clau>Paran</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Picol</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Morià</clau>
+	<valor>ENTRADA96</valor>
+<anyell>
+	<clau>Gòlgota</clau>
+	<valor>ENTRADA24</valor>
+<anyell>
+	<clau>Rebeca</clau>
+	<valor>ANDROIDE87</valor>
+<anyell>
+	<clau>Us2</clau>
+	<valor>ROBOT54</valor>
+<anyell>
+	<clau>Buz</clau>
+	<valor>ROBOT58</valor>
+<anyell>
+	<clau>Quemuel</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Quèsed</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Hazó</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Peldaix</clau>
+	<valor>ROBOT52</valor>
+<anyell>
+	<clau>Idlaf</clau>
+	<valor>ROBOT42</valor>
+<anyell>
+	<clau>Betuel</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Reümà</clau>
+	<valor>ANDROIDE47</valor>
+<anyell>
+	<clau>Tèbah</clau>
+	<valor>ROBOT40</valor>
+<anyell>
+	<clau>Gàham</clau>
+	<valor>ROBOT26</valor>
+<anyell>
+	<clau>Tàhaix</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Maacà</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Quiriat-Arbà</clau>
+	<valor>ENTRADA70</valor>
+<anyell>
+	<clau>Efron</clau>
+	<valor>ROBOT50</valor>
+<anyell>
+	<clau>Sóhar</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Macpelà</clau>
+	<valor>ENTRADA53</valor>
+<anyell>
+	<clau>Aram-Naharaim</clau>
+	<valor>ENTRADA62</valor>
+<anyell>
+	<clau>Queturà</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Zimran</clau>
+	<valor>ROBOT42</valor>
+<anyell>
+	<clau>Jocxan</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Medan</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Madian</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Ixbac</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Xúah</clau>
+	<valor>ROBOT75</valor>
+<anyell>
+	<clau>aixurites</clau>
+	<valor>LLENGUATGE6</valor>
+<anyell>
+	<clau>letuixites</clau>
+	<valor>LLENGUATGE84</valor>
+<anyell>
+	<clau>leümmites</clau>
+	<valor>LLENGUATGE43</valor>
+<anyell>
+	<clau>Efà</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Efer</clau>
+	<valor>ROBOT87</valor>
+<anyell>
+	<clau>Abidà</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Eldaà</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Quedar</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Adbeel</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Mibsam</clau>
+	<valor>ROBOT88</valor>
+<anyell>
+	<clau>Nebaiot</clau>
+	<valor>ROBOT76</valor>
+<anyell>
+	<clau>Dumà</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Massà</clau>
+	<valor>ENTRADA72</valor>
+<anyell>
+	<clau>Mixmà</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Temà</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Jetur</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Nafix</clau>
+	<valor>ROBOT97</valor>
+<anyell>
+	<clau>Quedma</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Hadad</clau>
+	<valor>ROBOT65</valor>
+<anyell>
+	<clau>Aixur</clau>
+	<valor>ENTRADA8</valor>
+<anyell>
+	<clau>arameu</clau>
+	<valor>LLENGUATGE70</valor>
+<anyell>
+	<clau>Padan-Aram</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>hebreu</clau>
+	<valor>LLENGUATGE21</valor>
+<anyell>
+	<clau>Éssec</clau>
+	<valor>ENTRADA99</valor>
+<anyell>
+	<clau>Sitnà</clau>
+	<valor>ENTRADA62</valor>
+<anyell>
+	<clau>Rehobot</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Ahuzat</clau>
+	<valor>ROBOT10</valor>
+<anyell>
+	<clau>Xibà</clau>
+	<valor>ENTRADA58</valor>
+<anyell>
+	<clau>Jehudit</clau>
+	<valor>ANDROIDE57</valor>
+<anyell>
+	<clau>Beerí</clau>
+	<valor>ROBOT32</valor>
+<anyell>
+	<clau>Basmat</clau>
+	<valor>ANDROIDE76</valor>
+<anyell>
+	<clau>Elon</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Mahalat</clau>
+	<valor>ANDROIDE24</valor>
+<anyell>
+	<clau>Luz</clau>
+	<valor>ENTRADA92</valor>
+<anyell>
+	<clau>Raquel</clau>
+	<valor>ANDROIDE34</valor>
+<anyell>
+	<clau>Lia</clau>
+	<valor>ANDROIDE80</valor>
+<anyell>
+	<clau>Simeó</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Judà</clau>
+	<valor>ROBOT38</valor>
+<anyell>
+	<clau>Zilpà</clau>
+	<valor>ANDROIDE98</valor>
+<anyell>
+	<clau>Bilhà</clau>
+	<valor>ANDROIDE27</valor>
+<anyell>
+	<clau>Neftalí</clau>
+	<valor>ROBOT52</valor>
+<anyell>
+	<clau>Rubèn</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>Leví</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Gad</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Aser</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Issacar</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Dina</clau>
+	<valor>ANDROIDE53</valor>
+<anyell>
+	<clau>Zabuló</clau>
+	<valor>ROBOT76</valor>
+<anyell>
+	<clau>Galaad</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>Jegar-Sagaduta</clau>
+	<valor>ENTRADA83</valor>
+<anyell>
+	<clau>Galed</clau>
+	<valor>ENTRADA24</valor>
+<anyell>
+	<clau>Mispà</clau>
+	<valor>ENTRADA77</valor>
+<anyell>
+	<clau>Mahanaim</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Edom</clau>
+	<valor>ENTRADA34</valor>
+<anyell>
+	<clau>Ammon</clau>
+	<valor>ENTRADA8</valor>
+<anyell>
+	<clau>Jaboc</clau>
+	<valor>ENTRADA95</valor>
+<anyell>
+	<clau>Israel</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Penuel</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>israelites</clau>
+	<valor>LLENGUATGE3</valor>
+<anyell>
+	<clau>Sucot</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Hamor</clau>
+	<valor>ROBOT41</valor>
+<anyell>
+	<clau>Deborà</clau>
+	<valor>ANDROIDE28</valor>
+<anyell>
+	<clau>La-Betel</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Benjamí</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Efrata</clau>
+	<valor>ENTRADA60</valor>
+<anyell>
+	<clau>Benoní</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Betlem</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Migdal-Éder</clau>
+	<valor>ENTRADA63</valor>
+<anyell>
+	<clau>Oholibamà</clau>
+	<valor>ANDROIDE30</valor>
+<anyell>
+	<clau>Anà</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Elifaz</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Reuel</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Jalam</clau>
+	<valor>ROBOT32</valor>
+<anyell>
+	<clau>Córah</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Jeuix</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>edomites</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>Omar</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Sefó</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Gatam</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Quenaz</clau>
+	<valor>ROBOT76</valor>
+<anyell>
+	<clau>Teman</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Timnà</clau>
+	<valor>ANDROIDE84</valor>
+<anyell>
+	<clau>Alvà</clau>
+	<valor>ROBOT94</valor>
+<anyell>
+	<clau>Jetet</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Mibsar</clau>
+	<valor>ROBOT28</valor>
+<anyell>
+	<clau>Magdiel</clau>
+	<valor>ROBOT85</valor>
+<anyell>
+	<clau>Iram</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Elà</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Pinon</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Amalec</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Zèrah</clau>
+	<valor>ROBOT95</valor>
+<anyell>
+	<clau>Xammà</clau>
+	<valor>ROBOT21</valor>
+<anyell>
+	<clau>Mizà</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Nàhat</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Xobal</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>Sibon</clau>
+	<valor>ROBOT28</valor>
+<anyell>
+	<clau>Dixon</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Ésser</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Dixan</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Lotan</clau>
+	<valor>ROBOT73</valor>
+<anyell>
+	<clau>Emam</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Horí</clau>
+	<valor>ROBOT26</valor>
+<anyell>
+	<clau>Manàhat</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Ebal</clau>
+	<valor>ENTRADA61</valor>
+<anyell>
+	<clau>Xefó</clau>
+	<valor>ROBOT44</valor>
+<anyell>
+	<clau>Onam</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Alvan</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Aià</clau>
+	<valor>ROBOT34</valor>
+<anyell>
+	<clau>Eixban</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Itran</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Queran</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Hemdan</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Zaavan</clau>
+	<valor>ROBOT88</valor>
+<anyell>
+	<clau>Acan</clau>
+	<valor>ROBOT34</valor>
+<anyell>
+	<clau>Bilhan</clau>
+	<valor>ROBOT99</valor>
+<anyell>
+	<clau>Us</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Beor</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Jobab</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Huixam</clau>
+	<valor>ROBOT94</valor>
+<anyell>
+	<clau>Adad</clau>
+	<valor>ROBOT69</valor>
+<anyell>
+	<clau>Bedad</clau>
+	<valor>ROBOT40</valor>
+<anyell>
+	<clau>Samlà</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Masrecà</clau>
+	<valor>ENTRADA22</valor>
+<anyell>
+	<clau>Xaül</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Baal-Hanan</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Acbor</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Adar</clau>
+	<valor>ROBOT27</valor>
+<anyell>
+	<clau>Paú</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>Mehetabel</clau>
+	<valor>ANDROIDE85</valor>
+<anyell>
+	<clau>Matred</clau>
+	<valor>ANDROIDE18</valor>
+<anyell>
+	<clau>Mezahab</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Rehobot-Annahar</clau>
+	<valor>ENTRADA33</valor>
+<anyell>
+	<clau>Avit</clau>
+	<valor>ENTRADA73</valor>
+<anyell>
+	<clau>Dinhaba</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>Bosrà</clau>
+	<valor>ENTRADA39</valor>
+<anyell>
+	<clau>Dotan</clau>
+	<valor>ENTRADA59</valor>
+<anyell>
+	<clau>ismaelites</clau>
+	<valor>LLENGUATGE9</valor>
+<anyell>
+	<clau>medanites</clau>
+	<valor>LLENGUATGE8</valor>
+<anyell>
+	<clau>Putifar</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Tamar</clau>
+	<valor>ANDROIDE29</valor>
+<anyell>
+	<clau>Adul·lam</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Hirà</clau>
+	<valor>ROBOT41</valor>
+<anyell>
+	<clau>Xua</clau>
+	<valor>ANDROIDE89</valor>
+<anyell>
+	<clau>Er</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Onan</clau>
+	<valor>ROBOT26</valor>
+<anyell>
+	<clau>Xelà</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Quezib</clau>
+	<valor>ENTRADA23</valor>
+<anyell>
+	<clau>Enaim</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Peres</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Nil</clau>
+	<valor>ENTRADA78</valor>
+<anyell>
+	<clau>Safenat-Panéah</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Assenat</clau>
+	<valor>ANDROIDE90</valor>
+<anyell>
+	<clau>Potifera</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>Heliòpolis</clau>
+	<valor>ENTRADA11</valor>
+<anyell>
+	<clau>Manassès</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Efraïm</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Pal·lú</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Hesron</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Carmí</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Jamín</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Óhad</clau>
+	<valor>ROBOT94</valor>
+<anyell>
+	<clau>Jaquín</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Jemuel</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Quehat</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Merarí</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Guerxon</clau>
+	<valor>ROBOT87</valor>
+<anyell>
+	<clau>Hamul</clau>
+	<valor>ROBOT40</valor>
+<anyell>
+	<clau>Puvà</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Job</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Ximron</clau>
+	<valor>ROBOT53</valor>
+<anyell>
+	<clau>Tolà</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Jahleel</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Sèred</clau>
+	<valor>ROBOT61</valor>
+<anyell>
+	<clau>Haguí</clau>
+	<valor>ROBOT37</valor>
+<anyell>
+	<clau>Xuní</clau>
+	<valor>ROBOT93</valor>
+<anyell>
+	<clau>Esbon</clau>
+	<valor>ROBOT90</valor>
+<anyell>
+	<clau>Erí</clau>
+	<valor>ROBOT69</valor>
+<anyell>
+	<clau>Arodí</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Arelí</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Sefon</clau>
+	<valor>ROBOT24</valor>
+<anyell>
+	<clau>Ixvà</clau>
+	<valor>ROBOT90</valor>
+<anyell>
+	<clau>Ixví</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Berià</clau>
+	<valor>ROBOT21</valor>
+<anyell>
+	<clau>Imnà</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Sèrah</clau>
+	<valor>ANDROIDE27</valor>
+<anyell>
+	<clau>Malquiel</clau>
+	<valor>ROBOT59</valor>
+<anyell>
+	<clau>Hèber</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Tàhan</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Xutèlah</clau>
+	<valor>ROBOT32</valor>
+<anyell>
+	<clau>Eran</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Bèquer</clau>
+	<valor>ROBOT43</valor>
+<anyell>
+	<clau>Aixbel</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Naaman</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Ehí</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Roix</clau>
+	<valor>ROBOT58</valor>
+<anyell>
+	<clau>Mupim</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Hupim</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Guerà</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Ard</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>Huixim</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Guní</clau>
+	<valor>ROBOT95</valor>
+<anyell>
+	<clau>Jésser</clau>
+	<valor>ROBOT95</valor>
+<anyell>
+	<clau>Xil·lem</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>Jahseel</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Maquir</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Goixen</clau>
+	<valor>ENTRADA77</valor>
+<anyell>
+	<clau>Padan</clau>
+	<valor>ENTRADA85</valor>
+<anyell>
+	<clau>Goren-Aatad</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>Misraim-Abel</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>jueu</clau>
+	<valor>LLENGUATGE31</valor>
+<anyell>
+	<clau>Aaron</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Moisès</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Sinaí</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Marà</clau>
+	<valor>ENTRADA7</valor>
+<anyell>
+	<clau>Jetró</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Merneptà</clau>
+	<valor>ROBOT6</valor>
+<anyell>
+	<clau>Ramsès</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>Seti</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Babilònia</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>Jesús</clau>
+	<valor>ROBOT24</valor>
+<anyell>
+	<clau>Pau</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Joan</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Pitom</clau>
+	<valor>ENTRADA72</valor>
+<anyell>
+	<clau>Puà</clau>
+	<valor>ANDROIDE83</valor>
+<anyell>
+	<clau>Xifrà</clau>
+	<valor>ANDROIDE37</valor>
+<anyell>
+	<clau>Siporà</clau>
+	<valor>ANDROIDE63</valor>
+<anyell>
+	<clau>Guerxom</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Horeb</clau>
+	<valor>ENTRADA339</valor>
+<anyell>
+	<clau>levites</clau>
+	<valor>LLENGUATGE63</valor>
+<anyell>
+	<clau>Ximí</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Libní</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Ishar</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Uziel</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Hebron</clau>
+	<valor>ENTRADA43</valor>
+<anyell>
+	<clau>Amram</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Muixí</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Mahlí</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>Joquèbed</clau>
+	<valor>ANDROIDE38</valor>
+<anyell>
+	<clau>Nèfeg</clau>
+	<valor>ROBOT88</valor>
+<anyell>
+	<clau>Zicrí</clau>
+	<valor>ROBOT76</valor>
+<anyell>
+	<clau>Corè</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>Elsafan</clau>
+	<valor>ROBOT54</valor>
+<anyell>
+	<clau>Sitrí</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Mixael</clau>
+	<valor>ROBOT61</valor>
+<anyell>
+	<clau>Elixeba</clau>
+	<valor>ANDROIDE47</valor>
+<anyell>
+	<clau>Amminadab</clau>
+	<valor>ROBOT53</valor>
+<anyell>
+	<clau>Nahxon</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Abihú</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Eleazar</clau>
+	<valor>ROBOT59</valor>
+<anyell>
+	<clau>Itamar</clau>
+	<valor>ROBOT6</valor>
+<anyell>
+	<clau>Nadab</clau>
+	<valor>ROBOT53</valor>
+<anyell>
+	<clau>Elcanà</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Abiassaf</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Assir</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Putiel</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Pinhàs</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>judaïtes</clau>
+	<valor>LLENGUATGE26</valor>
+<anyell>
+	<clau>Jerusalem</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>grec</clau>
+	<valor>LLENGUATGE73</valor>
+<anyell>
+	<clau>Nestle</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Alan</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Göttingen</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>D.Barthélemy</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Maredsous</clau>
+	<valor>ENTRADA13</valor>
+<anyell>
+	<clau>Koehler-Baumgartner</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Louwd-Nida</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>francès</clau>
+	<valor>LLENGUATGE67</valor>
+<anyell>
+	<clau>Etam</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Piahirot</clau>
+	<valor>ENTRADA24</valor>
+<anyell>
+	<clau>Migdol</clau>
+	<valor>ENTRADA97</valor>
+<anyell>
+	<clau>Baal-Sefon</clau>
+	<valor>ENTRADA39</valor>
+<anyell>
+	<clau>Filistea</clau>
+	<valor>ENTRADA3</valor>
+<anyell>
+	<clau>Maria</clau>
+	<valor>ANDROIDE89</valor>
+<anyell>
+	<clau>Elim</clau>
+	<valor>ENTRADA39</valor>
+<anyell>
+	<clau>Josuè</clau>
+	<valor>ROBOT24</valor>
+<anyell>
+	<clau>Hur</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Sín</clau>
+	<valor>ENTRADA11</valor>
+<anyell>
+	<clau>Refidim</clau>
+	<valor>ENTRADA9</valor>
+<anyell>
+	<clau>Meribà</clau>
+	<valor>ENTRADA78</valor>
+<anyell>
+	<clau>Mediterrani</clau>
+	<valor>ENTRADA65</valor>
+<anyell>
+	<clau>Bessalel</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Urí</clau>
+	<valor>ROBOT85</valor>
+<anyell>
+	<clau>Oholiab</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Ahissamac</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Nun</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>babilonies</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>Azazel</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Xelomit</clau>
+	<valor>ANDROIDE59</valor>
+<anyell>
+	<clau>Dibrí</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Arad</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Sehon</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Og</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Basan</clau>
+	<valor>ENTRADA16</valor>
+<anyell>
+	<clau>Balaam</clau>
+	<valor>ROBOT46</valor>
+<anyell>
+	<clau>Moloc</clau>
+	<valor>PARENT46</valor>
+<anyell>
+	<clau>Peor</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>madianites</clau>
+	<valor>LLENGUATGE86</valor>
+<anyell>
+	<clau>Transjordània</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Jericó</clau>
+	<valor>ENTRADA27</valor>
+<anyell>
+	<clau>rubenites</clau>
+	<valor>LLENGUATGE85</valor>
+<anyell>
+	<clau>Datan</clau>
+	<valor>ROBOT54</valor>
+<anyell>
+	<clau>Abiron</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>corínties</clau>
+	<valor>LLENGUATGE75</valor>
+<anyell>
+	<clau>Elissur</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Xedeür</clau>
+	<valor>ROBOT89</valor>
+<anyell>
+	<clau>Xelumiel</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Surixadai</clau>
+	<valor>ROBOT49</valor>
+<anyell>
+	<clau>Netanel</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>Suar</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Eliab</clau>
+	<valor>ROBOT66</valor>
+<anyell>
+	<clau>Helon</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Elixamà</clau>
+	<valor>ROBOT24</valor>
+<anyell>
+	<clau>Ammihud</clau>
+	<valor>ROBOT50</valor>
+<anyell>
+	<clau>Gamliel</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Pedahsur</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Abidan</clau>
+	<valor>ROBOT25</valor>
+<anyell>
+	<clau>Guidoní</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Ahièzer</clau>
+	<valor>ROBOT87</valor>
+<anyell>
+	<clau>Ammixadai</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Paguiel</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Ocran</clau>
+	<valor>ROBOT68</valor>
+<anyell>
+	<clau>Eliassaf</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Deuel</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Ahirà</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Enan</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Lael</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Elissafan</clau>
+	<valor>ROBOT89</valor>
+<anyell>
+	<clau>Suriel</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Abihail</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Hobab</clau>
+	<valor>ROBOT68</valor>
+<anyell>
+	<clau>Xammua</clau>
+	<valor>ROBOT66</valor>
+<anyell>
+	<clau>Zacur</clau>
+	<valor>ROBOT10</valor>
+<anyell>
+	<clau>Xafat</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Caleb</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Jefunnè</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Igal</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Jossef</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Paltí</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Rafú</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Gadiel</clau>
+	<valor>ROBOT912</valor>
+<anyell>
+	<clau>Sodí</clau>
+	<valor>ROBOT61</valor>
+<anyell>
+	<clau>Gadí</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Sussí</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>Ammiel</clau>
+	<valor>ROBOT68</valor>
+<anyell>
+	<clau>Guemal·lí</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Setur</clau>
+	<valor>ROBOT93</valor>
+<anyell>
+	<clau>Micael</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Nahbí</clau>
+	<valor>ROBOT27</valor>
+<anyell>
+	<clau>Vofsí</clau>
+	<valor>ROBOT28</valor>
+<anyell>
+	<clau>Gueuel</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Maquí</clau>
+	<valor>ROBOT28</valor>
+<anyell>
+	<clau>Oixea</clau>
+	<valor>ROBOT74</valor>
+<anyell>
+	<clau>Rehob</clau>
+	<valor>ENTRADA66</valor>
+<anyell>
+	<clau>Lebó-Hamat</clau>
+	<valor>ENTRADA54</valor>
+<anyell>
+	<clau>Ahiman</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Xeixai</clau>
+	<valor>ROBOT97</valor>
+<anyell>
+	<clau>Talmai</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>anaquites</clau>
+	<valor>LLENGUATGE49</valor>
+<anyell>
+	<clau>Tanis</clau>
+	<valor>ENTRADA70</valor>
+<anyell>
+	<clau>Hormà</clau>
+	<valor>ENTRADA20</valor>
+<anyell>
+	<clau>On</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Pèlet</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Or</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Iïm d'Abarim</clau>
+	<valor>ENTRADA73</valor>
+<anyell>
+	<clau>Zèred</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>Arnon</clau>
+	<valor>ENTRADA53</valor>
+<anyell>
+	<clau>Vaheb</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Sufà</clau>
+	<valor>ENTRADA20</valor>
+<anyell>
+	<clau>Ar</clau>
+	<valor>ENTRADA67</valor>
+<anyell>
+	<clau>Beer</clau>
+	<valor>ENTRADA77</valor>
+<anyell>
+	<clau>Matanà</clau>
+	<valor>ENTRADA14</valor>
+<anyell>
+	<clau>Nahaliel</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>Bamor</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Pisgà</clau>
+	<valor>ENTRADA51</valor>
+<anyell>
+	<clau>Jahas</clau>
+	<valor>ENTRADA2</valor>
+<anyell>
+	<clau>Heixbon</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Quemoix</clau>
+	<valor>PARENT20</valor>
+<anyell>
+	<clau>Dibon</clau>
+	<valor>ENTRADA12</valor>
+<anyell>
+	<clau>Nófah</clau>
+	<valor>ENTRADA3</valor>
+<anyell>
+	<clau>Medebà</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Jazer</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Edreí</clau>
+	<valor>ENTRADA89</valor>
+<anyell>
+	<clau>Balac</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Sipor</clau>
+	<valor>ROBOT66</valor>
+<anyell>
+	<clau>Petor</clau>
+	<valor>ENTRADA31</valor>
+<anyell>
+	<clau>Quiriat-Hussot</clau>
+	<valor>ENTRADA7</valor>
+<anyell>
+	<clau>Bamot-Baal</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Agag</clau>
+	<valor>ROBOT41</valor>
+<anyell>
+	<clau>Quitim</clau>
+	<valor>ENTRADA48</valor>
+<anyell>
+	<clau>Xipre</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Xitim</clau>
+	<valor>ENTRADA58</valor>
+<anyell>
+	<clau>Zimrí</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Salú</clau>
+	<valor>ROBOT27</valor>
+<anyell>
+	<clau>Cozbí</clau>
+	<valor>ANDROIDE85</valor>
+<anyell>
+	<clau>Sur</clau>
+	<valor>ROBOT85</valor>
+<anyell>
+	<clau>Ozní</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Arod</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Jaixub</clau>
+	<valor>ROBOT37</valor>
+<anyell>
+	<clau>Ièzer</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Hélec</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Asriel</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Xèquem</clau>
+	<valor>ROBOT58</valor>
+<anyell>
+	<clau>Xemidà</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Héfer</clau>
+	<valor>ENTRADA17</valor>
+<anyell>
+	<clau>Selofhad</clau>
+	<valor>ROBOT17</valor>
+<anyell>
+	<clau>Mahlà</clau>
+	<valor>ANDROIDE72</valor>
+<anyell>
+	<clau>Noà</clau>
+	<valor>ANDROIDE20</valor>
+<anyell>
+	<clau>Hoglà</clau>
+	<valor>ANDROIDE65</valor>
+<anyell>
+	<clau>Tirsà</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Ahiram</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Xefufam</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Hufam</clau>
+	<valor>ROBOT25</valor>
+<anyell>
+	<clau>Xuham</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>Hebroní</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Corahí</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Abarim</clau>
+	<valor>ENTRADA37</valor>
+<anyell>
+	<clau>Eví</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Rèquem</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Reba</clau>
+	<valor>ROBOT37</valor>
+<anyell>
+	<clau>Atarot</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Nimrà</clau>
+	<valor>ENTRADA38</valor>
+<anyell>
+	<clau>Elalé</clau>
+	<valor>ENTRADA46</valor>
+<anyell>
+	<clau>Sebam</clau>
+	<valor>ENTRADA20</valor>
+<anyell>
+	<clau>Nebó</clau>
+	<valor>ENTRADA24</valor>
+<anyell>
+	<clau>Beon</clau>
+	<valor>ENTRADA33</valor>
+<anyell>
+	<clau>Cadeix-Barnea</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Aroer</clau>
+	<valor>ENTRADA48</valor>
+<anyell>
+	<clau>Atrot-Xofan</clau>
+	<valor>ENTRADA37</valor>
+<anyell>
+	<clau>Jogbohà</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Betnimrà</clau>
+	<valor>ENTRADA61</valor>
+<anyell>
+	<clau>Betaran</clau>
+	<valor>ENTRADA61</valor>
+<anyell>
+	<clau>Quiriataim</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Baal-Meon</clau>
+	<valor>ENTRADA98</valor>
+<anyell>
+	<clau>Sibmà</clau>
+	<valor>ENTRADA58</valor>
+<anyell>
+	<clau>Jaïr</clau>
+	<valor>ROBOT43</valor>
+<anyell>
+	<clau>Nóbah</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Quenat</clau>
+	<valor>ENTRADA56</valor>
+<anyell>
+	<clau>Dofcà</clau>
+	<valor>ENTRADA82</valor>
+<anyell>
+	<clau>Aluix</clau>
+	<valor>ENTRADA21</valor>
+<anyell>
+	<clau>Quibrot-Ataavà</clau>
+	<valor>ENTRADA71</valor>
+<anyell>
+	<clau>Hasserot</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Ritmà</clau>
+	<valor>ENTRADA57</valor>
+<anyell>
+	<clau>Rimmon-Peres</clau>
+	<valor>ENTRADA96</valor>
+<anyell>
+	<clau>Libnà</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>Rissà</clau>
+	<valor>ENTRADA70</valor>
+<anyell>
+	<clau>Quehelata</clau>
+	<valor>ENTRADA56</valor>
+<anyell>
+	<clau>Xèfer</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Haradà</clau>
+	<valor>ENTRADA72</valor>
+<anyell>
+	<clau>Maquehelot</clau>
+	<valor>ENTRADA94</valor>
+<anyell>
+	<clau>Tàhat</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Mitcà</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Haixmonà</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Mosserot</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>Bené-Jaacan</clau>
+	<valor>ENTRADA30</valor>
+<anyell>
+	<clau>Horaguidgad</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>Jotbata</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Abronà</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Ession-Guèber</clau>
+	<valor>ENTRADA42</valor>
+<anyell>
+	<clau>Salmonà</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Punon</clau>
+	<valor>ENTRADA97</valor>
+<anyell>
+	<clau>Obot</clau>
+	<valor>ENTRADA54</valor>
+<anyell>
+	<clau>Dibon-Gad</clau>
+	<valor>ENTRADA39</valor>
+<anyell>
+	<clau>Almon-Diblataima</clau>
+	<valor>ENTRADA12</valor>
+<anyell>
+	<clau>Betaieiximot</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Abel-Aixitim</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Acrabim</clau>
+	<valor>ENTRADA92</valor>
+<anyell>
+	<clau>Hassar-Adar</clau>
+	<valor>ENTRADA42</valor>
+<anyell>
+	<clau>Asmon</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Orahar</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Sedad</clau>
+	<valor>ENTRADA56</valor>
+<anyell>
+	<clau>Zifron</clau>
+	<valor>ENTRADA15</valor>
+<anyell>
+	<clau>Hassar-Enan</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Xefam</clau>
+	<valor>ENTRADA37</valor>
+<anyell>
+	<clau>Arbelà</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Ain</clau>
+	<valor>ENTRADA18</valor>
+<anyell>
+	<clau>Genesaret</clau>
+	<valor>ENTRADA41</valor>
+<anyell>
+	<clau>Quislon</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Elidad</clau>
+	<valor>ROBOT34</valor>
+<anyell>
+	<clau>Buquí</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>Joglí</clau>
+	<valor>ROBOT93</valor>
+<anyell>
+	<clau>Hanniel</clau>
+	<valor>ROBOT46</valor>
+<anyell>
+	<clau>Efod</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Xiftan</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Parnac</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>Paltiel</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Azan</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>Ahihud</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Xelomí</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Pedahel</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Taberà</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Eldad</clau>
+	<valor>ROBOT59</valor>
+<anyell>
+	<clau>Medad</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Atarim</clau>
+	<valor>ENTRADA96</valor>
+<anyell>
+	<clau>Nemuel</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Xemuel</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Josies</clau>
+	<valor>ROBOT42</valor>
+<anyell>
+	<clau>Ezequies</clau>
+	<valor>ROBOT73</valor>
+<anyell>
+	<clau>Jeremies</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Arabà</clau>
+	<valor>ENTRADA14</valor>
+<anyell>
+	<clau>Suf</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>Tófel</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Dizahab</clau>
+	<valor>ENTRADA51</valor>
+<anyell>
+	<clau>Xefelà</clau>
+	<valor>ENTRADA2</valor>
+<anyell>
+	<clau>Líban</clau>
+	<valor>ENTRADA54</valor>
+<anyell>
+	<clau>Aixtarot</clau>
+	<valor>ENTRADA39</valor>
+<anyell>
+	<clau>Elat</clau>
+	<valor>ENTRADA81</valor>
+<anyell>
+	<clau>zamzummites</clau>
+	<valor>LLENGUATGE10</valor>
+<anyell>
+	<clau>caftorites</clau>
+	<valor>LLENGUATGE70</valor>
+<anyell>
+	<clau>avites</clau>
+	<valor>LLENGUATGE83</valor>
+<anyell>
+	<clau>Quedemot</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Argob</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Hermon</clau>
+	<valor>ENTRADA92</valor>
+<anyell>
+	<clau>Sirion</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>Senir</clau>
+	<valor>ENTRADA61</valor>
+<anyell>
+	<clau>Salcà</clau>
+	<valor>ENTRADA96</valor>
+<anyell>
+	<clau>Rabà</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>gueixurites</clau>
+	<valor>LLENGUATGE21</valor>
+<anyell>
+	<clau>maacatites</clau>
+	<valor>LLENGUATGE26</valor>
+<anyell>
+	<clau>Betpeor</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Bèsser</clau>
+	<valor>ENTRADA16</valor>
+<anyell>
+	<clau>Ramot</clau>
+	<valor>ENTRADA98</valor>
+<anyell>
+	<clau>Golan</clau>
+	<valor>ENTRADA53</valor>
+<anyell>
+	<clau>Anac</clau>
+	<valor>ROBOT58</valor>
+<anyell>
+	<clau>Mosserà</clau>
+	<valor>ENTRADA49</valor>
+<anyell>
+	<clau>Gudgod</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Garizim</clau>
+	<valor>ENTRADA80</valor>
+<anyell>
+	<clau>Guilgal</clau>
+	<valor>ENTRADA95</valor>
+<anyell>
+	<clau>Guilgameix</clau>
+	<valor>ENTRADA53</valor>
+<anyell>
+	<clau>caïnites</clau>
+	<valor>LLENGUATGE57</valor>
+<anyell>
+	<clau>Jeixurun</clau>
+	<valor>ROBOT40</valor>
+<anyell>
+	<clau>Àsia Menor</clau>
+	<valor>ENTRADA83</valor>
+<anyell>
+	<clau>Síria</clau>
+	<valor>ENTRADA61</valor>
+<anyell>
+	<clau>sirià</clau>
+	<valor>LLENGUATGE53</valor>
+<anyell>
+	<clau>Palestina</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Neró</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Roma</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>romans</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>hel·lenis</clau>
+	<valor>LLENGUATGE75</valor>
+<anyell>
+	<clau>Octavi August</clau>
+	<valor>ROBOT90</valor>
+<anyell>
+	<clau>Domicià</clau>
+	<valor>ROBOT21</valor>
+<anyell>
+	<clau>Zebedeu</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Jaume</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>selèucida</clau>
+	<valor>LLENGUATGE23</valor>
+<anyell>
+	<clau>Satanàs</clau>
+	<valor>PARENT66</valor>
+<anyell>
+	<clau>Antipes</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>nicolaïtes</clau>
+	<valor>LLENGUATGE39</valor>
+<anyell>
+	<clau>David</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Harmagedon</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>Sió</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Miquel</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Abadon</clau>
+	<valor>ROBOT26</valor>
+<anyell>
+	<clau>Apol·liont</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Pèrgam</clau>
+	<valor>ENTRADA31</valor>
+<anyell>
+	<clau>Tiatira</clau>
+	<valor>ENTRADA8</valor>
+<anyell>
+	<clau>Sardes</clau>
+	<valor>ENTRADA2</valor>
+<anyell>
+	<clau>Esmirna</clau>
+	<valor>ENTRADA7</valor>
+<anyell>
+	<clau>Efes</clau>
+	<valor>ENTRADA17</valor>
+<anyell>
+	<clau>Filadèlfia</clau>
+	<valor>ENTRADA28</valor>
+<anyell>
+	<clau>Laodicea</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Jezabel</clau>
+	<valor>ANDROIDE16</valor>
+<anyell>
+	<clau>Patmos</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Àsia</clau>
+	<valor>ENTRADA71</valor>
+<anyell>
+	<clau>Judes</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Gaius</clau>
+	<valor>ROBOT95</valor>
+<anyell>
+	<clau>Pere</clau>
+	<valor>ROBOT4</valor>
+<anyell>
+	<clau>Pont</clau>
+	<valor>ENTRADA1</valor>
+<anyell>
+	<clau>Galàcia</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Capadòcia</clau>
+	<valor>ENTRADA90</valor>
+<anyell>
+	<clau>Pèrsia</clau>
+	<valor>ENTRADA57</valor>
+<anyell>
+	<clau>Bitínia</clau>
+	<valor>ENTRADA87</valor>
+<anyell>
+	<clau>Silvà</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Diòtrefes</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Alexandria</clau>
+	<valor>ENTRADA98</valor>
+<anyell>
+	<clau>Orígenes</clau>
+	<valor>ENTRADA38</valor>
+<anyell>
+	<clau>Climent</clau>
+	<valor>ROBOT43</valor>
+<anyell>
+	<clau>Bernabé</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Apol·ló</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Lluc</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Marc</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Mateu</clau>
+	<valor>ROBOT75</valor>
+<anyell>
+	<clau>Rahab</clau>
+	<valor>ANDROIDE20</valor>
+<anyell>
+	<clau>Timoteu</clau>
+	<valor>ROBOT21</valor>
+<anyell>
+	<clau>Itàlia</clau>
+	<valor>ENTRADA65</valor>
+<anyell>
+	<clau>Ezequiel</clau>
+	<valor>ROBOT88</valor>
+<anyell>
+	<clau>Daniel</clau>
+	<valor>ROBOT99</valor>
+<anyell>
+	<clau>Isaïes</clau>
+	<valor>ROBOT42</valor>
+<anyell>
+	<clau>Joel</clau>
+	<valor>ROBOT65</valor>
+<anyell>
+	<clau>Samuel</clau>
+	<valor>ROBOT31</valor>
+<anyell>
+	<clau>Zacaries</clau>
+	<valor>ROBOT88</valor>
+<anyell>
+	<clau>tessalonicencs</clau>
+	<valor>LLENGUATGE42</valor>
+<anyell>
+	<clau>Tadeu</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Demetri</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Bòsor</clau>
+	<valor>ROBOT69</valor>
+<anyell>
+	<clau>Elies</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>esseni</clau>
+	<valor>LLENGUATGE58</valor>
+<anyell>
+	<clau>gàlates</clau>
+	<valor>LLENGUATGE91</valor>
+<anyell>
+	<clau>Gedeó</clau>
+	<valor>ROBOT89</valor>
+<anyell>
+	<clau>Barac</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Samsó</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Jeftè</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Filèmon</clau>
+	<valor>ROBOT41</valor>
+<anyell>
+	<clau>Cesarea</clau>
+	<valor>ENTRADA93</valor>
+<anyell>
+	<clau>efesis</clau>
+	<valor>LLENGUATGE38</valor>
+<anyell>
+	<clau>escites</clau>
+	<valor>LLENGUATGE78</valor>
+<anyell>
+	<clau>Àpfia</clau>
+	<valor>ANDROIDE59</valor>
+<anyell>
+	<clau>Arquip</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Listra</clau>
+	<valor>ENTRADA38</valor>
+<anyell>
+	<clau>Licaònia</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>Himeneu</clau>
+	<valor>ANDROID</valor>
+<anyell>
+	<clau>Alexandre</clau>
+	<valor>ROBOT79</valor>
+<anyell>
+	<clau>Lois</clau>
+	<valor>ANDROIDE2</valor>
+<anyell>
+	<clau>Eunice</clau>
+	<valor>ANDROIDE47</valor>
+<anyell>
+	<clau>Figel</clau>
+	<valor>ROBOT90</valor>
+<anyell>
+	<clau>Hermègenes</clau>
+	<valor>ROBOT65</valor>
+<anyell>
+	<clau>Onesífor</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>Filet</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Jannes</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Jambres</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Antioquia</clau>
+	<valor>ENTRADA79</valor>
+<anyell>
+	<clau>Iconi</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Demes</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Tessalònica</clau>
+	<valor>ENTRADA74</valor>
+<anyell>
+	<clau>Crescent</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Titus</clau>
+	<valor>ROBOT50</valor>
+<anyell>
+	<clau>Dalmàcia</clau>
+	<valor>ENTRADA63</valor>
+<anyell>
+	<clau>Tíquic</clau>
+	<valor>ROBOT76</valor>
+<anyell>
+	<clau>Tròada</clau>
+	<valor>ENTRADA87</valor>
+<anyell>
+	<clau>Carp</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Prisca</clau>
+	<valor>ANDROIDE5</valor>
+<anyell>
+	<clau>Àquila</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Erast</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Corint</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>corintis</clau>
+	<valor>LLENGUATGE95</valor>
+<anyell>
+	<clau>Tròfim</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Milet</clau>
+	<valor>ENTRADA55</valor>
+<anyell>
+	<clau>Eubul</clau>
+	<valor>ROBOT37</valor>
+<anyell>
+	<clau>Púdens</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Linus</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>Clàudia</clau>
+	<valor>ANDROIDE83</valor>
+<anyell>
+	<clau>Creta</clau>
+	<valor>ENTRADA12</valor>
+<anyell>
+	<clau>cretencs</clau>
+	<valor>LLENGUATGE86</valor>
+<anyell>
+	<clau>Àrtemes</clau>
+	<valor>ROBOT59</valor>
+<anyell>
+	<clau>Àrtemis</clau>
+	<valor>PARENT9</valor>
+<anyell>
+	<clau>Nicòpolis</clau>
+	<valor>ENTRADA17</valor>
+<anyell>
+	<clau>Zenes</clau>
+	<valor>ROBOT54</valor>
+<anyell>
+	<clau>Siles</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Berea</clau>
+	<valor>ENTRADA73</valor>
+<anyell>
+	<clau>Jàson</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Filips</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>filipencs</clau>
+	<valor>LLENGUATGE88</valor>
+<anyell>
+	<clau>Atenes</clau>
+	<valor>ENTRAD</valor>
+<anyell>
+	<clau>Macedònia</clau>
+	<valor>ENTRADA37</valor>
+<anyell>
+	<clau>Acaia</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Colosses</clau>
+	<valor>ENTRADA56</valor>
+<anyell>
+	<clau>colossencs</clau>
+	<valor>LLENGUATGE12</valor>
+<anyell>
+	<clau>Frígia</clau>
+	<valor>ENTRADA7</valor>
+<anyell>
+	<clau>Èpafres</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Hieràpolis</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Onèsim</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>Aristarc</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Nimfa</clau>
+	<valor>ANDROIDE78</valor>
+<anyell>
+	<clau>Nimfes</clau>
+	<valor>ROBOT87</valor>
+<anyell>
+	<clau>Egnàcia</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>Bizanci</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Constantinoble</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Adriàtic</clau>
+	<valor>ENTRADA30</valor>
+<anyell>
+	<clau>Europa</clau>
+	<valor>ENTRADA8</valor>
+<anyell>
+	<clau>Lídia</clau>
+	<valor>ENTRADA38</valor>
+<anyell>
+	<clau>Epafrodit</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Evòdia</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Síntique</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Sízig</clau>
+	<valor>ROBOT2</valor>
+<anyell>
+	<clau>fariseu</clau>
+	<valor>LLENGUATGE18</valor>
+<anyell>
+	<clau>Egeu</clau>
+	<valor>ENTRADA23</valor>
+<anyell>
+	<clau>Ancira</clau>
+	<valor>ENTRAD</valor>
+<anyell>
+	<clau>Pisídia</clau>
+	<valor>ENTRAD</valor>
+<anyell>
+	<clau>Aràbia</clau>
+	<valor>ENTRADA19</valor>
+<anyell>
+	<clau>Cefes</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Cilícia</clau>
+	<valor>ENTRAD</valor>
+<anyell>
+	<clau>Judea</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Belial</clau>
+	<valor>ENTRADA46</valor>
+<anyell>
+	<clau>Cloe</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Sòstenes</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Crisp</clau>
+	<valor>ROBOT80</valor>
+<anyell>
+	<clau>Estèfanes</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Fortunat</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Acaic</clau>
+	<valor>ROBOT73</valor>
+<anyell>
+	<clau>Terci</clau>
+	<valor>ROBOT83</valor>
+<anyell>
+	<clau>Febe</clau>
+	<valor>ANDROIDE92111</valor>
+<anyell>
+	<clau>Priscil·la</clau>
+	<valor>ANDROIDE84</valor>
+<anyell>
+	<clau>Osees</clau>
+	<valor>ROBOT89</valor>
+<anyell>
+	<clau>Cèncrees</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Epènet</clau>
+	<valor>ROBOT74</valor>
+<anyell>
+	<clau>Andrònic</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Júnia</clau>
+	<valor>ANDROIDE63</valor>
+<anyell>
+	<clau>Ampliat</clau>
+	<valor>ROBOT75</valor>
+<anyell>
+	<clau>Urbà</clau>
+	<valor>ROBOT10</valor>
+<anyell>
+	<clau>Estaqui</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Apel·les</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Aristobul</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Herodió</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Narcís</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Trifena</clau>
+	<valor>ANDROIDE54</valor>
+<anyell>
+	<clau>Trifosa</clau>
+	<valor>ANDROIDE29</valor>
+<anyell>
+	<clau>Pèrsida</clau>
+	<valor>ANDROIDE10</valor>
+<anyell>
+	<clau>Rufus</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Asíncrit</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Flegont</clau>
+	<valor>ROBOT98</valor>
+<anyell>
+	<clau>Hermes</clau>
+	<valor>ROBOT36</valor>
+<anyell>
+	<clau>Pàtrobes</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Hermas</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Filòleg</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Júlia</clau>
+	<valor>ANDROIDE66</valor>
+<anyell>
+	<clau>Nereu</clau>
+	<valor>ROBOT2</valor>
+<anyell>
+	<clau>Olimpes</clau>
+	<valor>ANDROIDE84</valor>
+<anyell>
+	<clau>Lluci</clau>
+	<valor>ROBOT97</valor>
+<anyell>
+	<clau>Sosípatre</clau>
+	<valor>ROBOT94</valor>
+<anyell>
+	<clau>Quart</clau>
+	<valor>ROBOT80</valor>
+<anyell>
+	<clau>Orient Pròxim</clau>
+	<valor>ENTRADA78</valor>
+<anyell>
+	<clau>Missar</clau>
+	<valor>ENTRADA32</valor>
+<anyell>
+	<clau>Betsabé</clau>
+	<valor>ANDROIDE31</valor>
+<anyell>
+	<clau>Zif</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Seba</clau>
+	<valor>ENTRADA2</valor>
+<anyell>
+	<clau>Jessè</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Leviatan</clau>
+	<valor>ENTRADA82</valor>
+<anyell>
+	<clau>Behemot</clau>
+	<valor>ENTRADA33</valor>
+<anyell>
+	<clau>Guebal</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>Tir</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Armènia</clau>
+	<valor>ENTRADA86</valor>
+<anyell>
+	<clau>Sisserà</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Jabín</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Quixon</clau>
+	<valor>ENTRADA84</valor>
+<anyell>
+	<clau>Endor</clau>
+	<valor>ENTRADA36</valor>
+<anyell>
+	<clau>Oreb</clau>
+	<valor>ROBOT8</valor>
+<anyell>
+	<clau>Zeeb</clau>
+	<valor>ROBOT99</valor>
+<anyell>
+	<clau>Zèbah</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>Salmunnà</clau>
+	<valor>ROBOT14</valor>
+<anyell>
+	<clau>ezrahita</clau>
+	<valor>LLENGUATGE89</valor>
+<anyell>
+	<clau>Tabor</clau>
+	<valor>ENTRADA98</valor>
+<anyell>
+	<clau>Mèixec</clau>
+	<valor>ENTRADA76</valor>
+<anyell>
+	<clau>Enguedí</clau>
+	<valor>ENTRADA55</valor>
+<anyell>
+	<clau>Saron</clau>
+	<valor>ENTRADA66</valor>
+<anyell>
+	<clau>Bèter</clau>
+	<valor>ENTRADA52</valor>
+<anyell>
+	<clau>Amanà</clau>
+	<valor>ENTRADA85</valor>
+<anyell>
+	<clau>Sulamita</clau>
+	<valor>ANDROIDE96</valor>
+<anyell>
+	<clau>Bat-Rabim</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Baal-Amon</clau>
+	<valor>ENTRADA37</valor>
+<anyell>
+	<clau>Amenemope</clau>
+	<valor>ROBOT63</valor>
+<anyell>
+	<clau>Agur</clau>
+	<valor>ROBOT85</valor>
+<anyell>
+	<clau>Lemuel</clau>
+	<valor>ROBOT90</valor>
+<anyell>
+	<clau>Ahicar</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Salomó</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Roboam</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Jeroboam</clau>
+	<valor>ROBOT2</valor>
+<anyell>
+	<clau>Jaquè</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Itiel</clau>
+	<valor>ROBOT75</valor>
+<anyell>
+	<clau>aràbic</clau>
+	<valor>LLENGUATGE25</valor>
+<anyell>
+	<clau>sodomites</clau>
+	<valor>LLENGUATGE17</valor>
+<anyell>
+	<clau>Mar Roig</clau>
+	<valor>ENTRADA74</valor>
+<anyell>
+	<clau>Mar Negre</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Joan Aragonès</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Agustí Borrell</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Gabriel Cañellas</clau>
+	<valor>ROBOT61</valor>
+<anyell>
+	<clau>Pere Casanellas</clau>
+	<valor>ROBOT50</valor>
+<anyell>
+	<clau>Enric Cortès</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Joan Ferrer</clau>
+	<valor>ROBOT2</valor>
+<anyell>
+	<clau>Joan Magí</clau>
+	<valor>ROBOT23</valor>
+<anyell>
+	<clau>Joan Ramon Marín</clau>
+	<valor>ROBOT95</valor>
+<anyell>
+	<clau>Ramon Torrella i Cascante</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Jaume Pedrós</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Hilari Raguer</clau>
+	<valor>ROBOT94</valor>
+<anyell>
+	<clau>Frederic Raurell</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Josep Ribera</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Ignasi Ricart</clau>
+	<valor>ROBOT57</valor>
+<anyell>
+	<clau>Jordi Sànchez Bosch</clau>
+	<valor>ROBOT96</valor>
+<anyell>
+	<clau>Jaume Sidera</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Romuald Vives</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Guiu Camps</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Armand Puig</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Rudolf Kassühlke</clau>
+	<valor>ROBOT81</valor>
+<anyell>
+	<clau>Jean-Claude Margot</clau>
+	<valor>ROBOT40</valor>
+<anyell>
+	<clau>Romuald Díaz</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Jacques Dupont</clau>
+	<valor>ROBOT51</valor>
+<anyell>
+	<clau>Vittorio Fusco</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Josep Ruis-Camps</clau>
+	<valor>ROBOT39</valor>
+<anyell>
+	<clau>Claustre Solé</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Ambrogio Spreafico</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Pius-Ramon Tragan</clau>
+	<valor>ROBOT58</valor>
+<anyell>
+	<clau>Josep Ruaix</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Jordi Bruguera</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Antoni Ferrando</clau>
+	<valor>ROBOT19</valor>
+<anyell>
+	<clau>Climent Forner</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>Josep M. Grané</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Pere Llabrés</clau>
+	<valor>ROBOT48</valor>
+<anyell>
+	<clau>Josep Lligadas</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Antoni López Quiles</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Joan Roig</clau>
+	<valor>ROBOT25</valor>
+<anyell>
+	<clau>Olga Xirinacs</clau>
+	<valor>ANDROIDE31</valor>
+<anyell>
+	<clau>Joan Solà</clau>
+	<valor>ROBOT35</valor>
+<anyell>
+	<clau>Joan Alberich</clau>
+	<valor>ROBOT91</valor>
+<anyell>
+	<clau>Xavier Alegre</clau>
+	<valor>ROBOT84</valor>
+<anyell>
+	<clau>Núria Calduch</clau>
+	<valor>ANDROIDE45</valor>
+<anyell>
+	<clau>Antoni Cruells</clau>
+	<valor>ROBOT5</valor>
+<anyell>
+	<clau>Jaume Fontbona</clau>
+	<valor>ROBOT93</valor>
+<anyell>
+	<clau>Xavier Moll</clau>
+	<valor>ROBOT26</valor>
+<anyell>
+	<clau>Gaspar Mora</clau>
+	<valor>ROBOT11</valor>
+<anyell>
+	<clau>Francesc Ramis</clau>
+	<valor>ROBOT80</valor>
+<anyell>
+	<clau>Ramon Ribera</clau>
+	<valor>ROBOT6</valor>
+<anyell>
+	<clau>Damià Roure</clau>
+	<valor>ROBOT86</valor>
+<anyell>
+	<clau>Pau Sais</clau>
+	<valor>ROBOT77</valor>
+<anyell>
+	<clau>Teodor Suau</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Llorenç Tous</clau>
+	<valor>ROBOT28</valor>
+<anyell>
+	<clau>Josep-Oriol Tuñí</clau>
+	<valor>ROBOT46</valor>
+<anyell>
+	<clau>Antoni Bordàs</clau>
+	<valor>ROBOT72</valor>
+<anyell>
+	<clau>Jordi Latorre</clau>
+	<valor>ROBOT18</valor>
+<anyell>
+	<clau>Joan Ramon-Marín</clau>
+	<valor>ROBOT25</valor>
+<anyell>
+	<clau>Joan Figuerola</clau>
+	<valor>ROBOT52</valor>
+<anyell>
+	<clau>Rafel Rofes</clau>
+	<valor>ROBOT75</valor>
+<anyell>
+	<clau>Enric Capó</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Pere Codina</clau>
+	<valor>ROBOT22</valor>
+<anyell>
+	<clau>Pere Prat</clau>
+	<valor>ROBOT50</valor>
+<anyell>
+	<clau>Josep Lluís Andavert</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Daniel Rodriquez</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Concepció Huerta</clau>
+	<valor>ANDROIDE82</valor>
+<anyell>
+	<clau>Roser Puig</clau>
+	<valor>ANDROIDE4</valor>
+<anyell>
+	<clau>Ricard Giralt Miracle</clau>
+	<valor>ROBOT60</valor>
+<anyell>
+	<clau>Sant Adrià de Besòs</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Barcelonès</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Barcelona</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Natzaret</clau>
+	<valor>ENTRADA25</valor>
+<anyell>
+	<clau>Bet-Xean</clau>
+	<valor>ENTRADA57</valor>
+<anyell>
+	<clau>Ascaló</clau>
+	<valor>ENTRADA98</valor>
+<anyell>
+	<clau>Asdod</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>Dor</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Orontes</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Litani</clau>
+	<valor>ENTRADA24</valor>
+<anyell>
+	<clau>Jarmuc</clau>
+	<valor>ENTRADA6</valor>
+<anyell>
+	<clau>Galilea</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Jizreel</clau>
+	<valor>ENTRADA</valor>
+<anyell>
+	<clau>Hassor</clau>
+	<valor>ENTRADA7</valor>
+<anyell>
+	<clau>Tanac</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Meguidó</clau>
+	<valor>ENTRADA3</valor>
+<anyell>
+	<clau>nabateus</clau>
+	<valor>LLENGUATGE32</valor>
+<anyell>
+	<clau>Creixent Fèrtil</clau>
+	<valor>ENTRADA26</valor>
+<anyell>
+	<clau>Fenícia</clau>
+	<valor>ENTRADA35</valor>
+<anyell>
+	<clau>fenicis</clau>
+	<valor>LLENGUATGE61</valor>
+<anyell>
+	<clau>beduïns</clau>
+	<valor>LLENGUATGE40</valor>
+<anyell>
+	<clau>Cir</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Esdres</clau>
+	<valor>ROBOT54</valor>
+<anyell>
+	<clau>Filip</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>macedonis</clau>
+	<valor>LLENGUATGE61</valor>
+<anyell>
+	<clau>Indus</clau>
+	<valor>ENTRADA62</valor>
+<anyell>
+	<clau>ptolomees</clau>
+	<valor>LLENGUATGE8</valor>
+<anyell>
+	<clau>Ptolomeu</clau>
+	<valor>ROBOT24</valor>
+<anyell>
+	<clau>làgides</clau>
+	<valor>LLENGUATGE37</valor>
+<anyell>
+	<clau>selèucides</clau>
+	<valor>LLENGUATGE47</valor>
+<anyell>
+	<clau>macabeus</clau>
+	<valor>LLENGUATGE67</valor>
+<anyell>
+	<clau>asmonea</clau>
+	<valor>LLENGUATGE64</valor>
+<anyell>
+	<clau>fariseus</clau>
+	<valor>LLENGUATGE55</valor>
+<anyell>
+	<clau>essenis</clau>
+	<valor>LLENGUATGE98</valor>
+<anyell>
+	<clau>Amós</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>Samaria</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Miquees</clau>
+	<valor>ROBOT3</valor>
+<anyell>
+	<clau>Sofonies</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Nahun</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Habacuc</clau>
+	<valor>ROBOT33</valor>
+<anyell>
+	<clau>Aczib</clau>
+	<valor>ENTRADA65</valor>
+<anyell>
+	<clau>Malaquies</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Abdies</clau>
+	<valor>ROBOT27</valor>
+<anyell>
+	<clau>Jonàs</clau>
+	<valor>ROBOT49</valor>
+<anyell>
+	<clau>Ageu</clau>
+	<valor>ROBOT20</valor>
+<anyell>
+	<clau>Rut</clau>
+	<valor>ANDROIDE14</valor>
+<anyell>
+	<clau>Cohèlet</clau>
+	<valor>ROBOT13</valor>
+<anyell>
+	<clau>Ester</clau>
+	<valor>ANDROIDE25</valor>
+<anyell>
+	<clau>Nehemies</clau>
+	<valor>ROBOT55</valor>
+<anyell>
+	<clau>Judit</clau>
+	<valor>ANDROIDE90</valor>
+<anyell>
+	<clau>Tobit</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Josafat</clau>
+	<valor>ROBOT31</valor>
+<anyell>
+	<clau>Baruc</clau>
+	<valor>ROBOT45</valor>
+<anyell>
+	<clau>Abadia de Monserrat</clau>
+	<valor>ENTRADA40</valor>
+<anyell>
+	<clau>Carmelites Descalços</clau>
+	<valor>ENTRADA27</valor>
+<anyell>
+	<clau>Centre Borja</clau>
+	<valor>ENTRADA64</valor>
+<anyell>
+	<clau>llatí</clau>
+	<valor>LLENGUATGE48</valor>
+<anyell>
+	<clau>Nestle-Aland</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>abadia de Maredsous</clau>
+	<valor>ENTRADA85</valor>
+<anyell>
+	<clau>Roger de Llúria</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Miquel i Costas & Miquel</clau>
+	<valor>ENTRADA57</valor>
+<anyell>
+	<clau>BIGSA</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>persa</clau>
+	<valor>LLENGUATGE91</valor>
+<anyell>
+	<clau>Grècia</clau>
+	<valor>ENTRADA1</valor>
+<anyell>
+	<clau>sadoquita</clau>
+	<valor>LLENGUATGE19</valor>
+<anyell>
+	<clau>assiris</clau>
+	<valor>LLENGUATGE12</valor>
+<anyell>
+	<clau>acàdia</clau>
+	<valor>LLENGUATGE49</valor>
+<anyell>
+	<clau>Sedecies</clau>
+	<valor>ROBOT7</valor>
+<anyell>
+	<clau>Saül</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Ahazià</clau>
+	<valor>ROBOT69</valor>
+<anyell>
+	<clau>benjaminita</clau>
+	<valor>LLENGUATGE74</valor>
+<anyell>
+	<clau>Guilboa</clau>
+	<valor>ENTRADA88</valor>
+<anyell>
+	<clau>Carmel</clau>
+	<valor>ENTRADA23</valor>
+<anyell>
+	<clau>Eliseu</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>mesopotàmics</clau>
+	<valor>LLENGUATGE62</valor>
+<anyell>
+	<clau>samaritans</clau>
+	<valor>LLENGUATGE87</valor>
+<anyell>
+	<clau>semites</clau>
+	<valor>LLENGUATGE8</valor>
+<anyell>
+	<clau>Saretan</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Aquior</clau>
+	<valor>ROBOT34272</valor>
+<anyell>
+	<clau>Qumran</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Betaven</clau>
+	<valor>ENTRADA70</valor>
+<anyell>
+	<clau>Jonatan</clau>
+	<valor>ROBOT82</valor>
+<anyell>
+	<clau>Ireneu de Lió</clau>
+	<valor>ROBOT12</valor>
+<anyell>
+	<clau>Emmanuel</clau>
+	<valor>ROBOT84</valor>
+<anyell>
+	<clau>Antíoc IV Epifanes</clau>
+	<valor>ROBOT9</valor>
+<anyell>
+	<clau>Jehoixua</clau>
+	<valor>ROBOT47</valor>
+<anyell>
+	<clau>Zorobabel</clau>
+	<valor>ROBOT29</valor>
+<anyell>
+	<clau>Acab</clau>
+	<valor>ROBOT38</valor>
+<anyell>
+	<clau>Aqaba</clau>
+	<valor>ENTRADA44</valor>
+<anyell>
+	<clau>Sennaquerib</clau>
+	<valor>ROBOT16</valor>
+<anyell>
+	<clau>Aton</clau>
+	<valor>ENTRADA68</valor>
+<anyell>
+	<clau>Manóah</clau>
+	<valor>ROBOT67</valor>
+<anyell>
+	<clau>Nabucodonosor</clau>
+	<valor>ROBOT15</valor>
+<anyell>
+	<clau>Ucal</clau>
+	<valor>ROBOT87</valor>
+<anyell>
+	<clau>Menandre</clau>
+	<valor>ROBOT92</valor>
+<anyell>
+	<clau>Calígula</clau>
+	<valor>ROBOT62</valor>
+<anyell>
+	<clau>Aretes</clau>
+	<valor>ROBOT74</valor>
+<anyell>
+	<clau>Tars</clau>
+	<valor>ENTRADA51</valor>
+<anyell>
+	<clau>Plutarc</clau>
+	<valor>ROBOT30</valor>
+<anyell>
+	<clau>Epimènides</clau>
+	<valor>ROBOT71</valor>
+<anyell>
+	<clau>Cnossos</clau>
+	<valor>ENTRADA50</valor>
+<anyell>
+	<clau>Epir</clau>
+	<valor>ENTRADA81</valor>
+<anyell>
+	<clau>Ugarit</clau>
+	<valor>ENTRADA22</valor>
+<anyell>
+	<clau>Jarmut</clau>
+	<valor>ENTRADA18</valor>
+<anyell>
+	<clau>Oham</clau>
+	<valor>ENTRADA48</valor>
+<anyell>
+	<clau>Piram</clau>
+	<valor>ENTRADA66</valor>
+<anyell>
+	<clau>Laquix</clau>
+	<valor>ENTRADA69</valor>
+<anyell>
+	<clau>Jafia</clau>
+	<valor>ROBOT78</valor>
+<anyell>
+	<clau>Debir</clau>
+	<valor>ROBOT74</valor>
+<anyell>
+	<clau>Eglon</clau>
+	<valor>ENTRADA53</valor>
+<anyell>
+	<clau>Maquedà</clau>
+	<valor>ENTRADA4</valor>
+<anyell>
+	<clau>Azecà</clau>
+	<valor>ENTRADA</valor>
+<anyell>
+	<clau>Bethoron</clau>
+	<valor>ENTRADA60</valor>
+<anyell>
+	<clau>Aialon</clau>
+	<valor>ENTRADA91</valor>
+<anyell>
+	<clau>Oram</clau>
+	<valor>ROBOT64</valor>
+<anyell>
+	<clau>Guèzer</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Herodes</clau>
+	<valor>ROBOT1</valor>
+<anyell>
+	<clau>Caifàs</clau>
+	<valor>ROBOT70</valor>
+<anyell>
+	<clau>Maron</clau>
+	<valor>ENTRADA73</valor>
+<anyell>
+	<clau>Ximon</clau>
+	<valor>ENTRADA90</valor>
+<anyell>
+	<clau>Acxaf</clau>
+	<valor>ENTRADA60</valor>
+<anyell>
+	<clau>Misrefot-Maim</clau>
+	<valor>ENTRADA58</valor>
+<anyell>
+	<clau>Baal-Gad</clau>
+	<valor>ENTRADA23</valor>
+<anyell>
+	<clau>Mont Pelat</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Tapúah</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Afec</clau>
+	<valor>ENTRADA47</valor>
+<anyell>
+	<clau>Madon</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Ximron-Meron</clau>
+	<valor>ENTRADA65</valor>
+<anyell>
+	<clau>Quèdeix</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Jocneam del Carmel</clau>
+	<valor>ENTRADA82</valor>
+<anyell>
+	<clau>gadarenc</clau>
+	<valor>LLENGUATGE52</valor>
+<anyell>
+	<clau>Gàdara</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>Gèrasa</clau>
+	<valor>ENTRADA78</valor>
+<anyell>
+	<clau>galileu</clau>
+	<valor>LLENGUATGE59</valor>
+<anyell>
+	<clau>Sela</clau>
+	<valor>ENTRADA10</valor>
+<anyell>
+	<clau>Jàar</clau>
+	<valor>ENTRADA34</valor>
+<anyell>
+	<clau>Quiriat-Jearim</clau>
+	<valor>ENTRADA29</valor>
+<anyell>
+	<clau>Xihor</clau>
+	<valor>ENTRADA75</valor>
+<anyell>
+	<clau>sidonis</clau>
+	<valor>LLENGUATGE56</valor>
+<anyell>
+	<clau>Getsemaní</clau>
+	<valor>ENTRADA12</valor>
+<anyell>
+	<clau>Ponç Pilat</clau>
+	<valor>ROBOT56</valor>
+<anyell>
+	<clau>siríac</clau>
+	<valor>LLENGUATGE74</valor>
+<anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</anyell>
+</abadia>
